@@ -1,0 +1,59 @@
+name: "🏟️ Multi-Sport Odds Analyzer"
+
+on:
+  schedule:
+    # Budget-aware: con ~18 leghe e 500 req/mese,
+    # possiamo permetterci ~1 ciclo/giorno (18 call × 30 gg = 540)
+    # Con piano Starter ($20/mese, 10k req): 4+ cicli/giorno
+    - cron: '0 10,18 * * *'  # 2 cicli/giorno = ~1080 call/mese
+  workflow_dispatch:
+    inputs:
+      budget_override:
+        description: 'Monthly API budget (default from secrets)'
+        default: ''
+        type: string
+
+env:
+  ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+  API_MONTHLY_BUDGET: ${{ github.event.inputs.budget_override || secrets.API_MONTHLY_BUDGET || '500' }}
+  BANKROLL: ${{ secrets.BANKROLL || '1000' }}
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🔍 Scrape odds (multi-sport)
+        run: cd src && python scraper.py
+
+      - name: 📊 Analyze (arbitrage + value + portfolio)
+        run: cd src && python analyzer.py
+
+      - name: 📬 Notify via Telegram
+        if: env.TELEGRAM_BOT_TOKEN != ''
+        run: cd src && python notifier.py
+
+      - name: 💾 Commit results
+        run: |
+          git config user.name "Betting Bot"
+          git config user.email "bot@github-actions"
+          git add -A reports/
+          timestamp=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git diff --cached --quiet || git commit -m "🏟️ Multi-sport analysis: $timestamp"
+          git push
