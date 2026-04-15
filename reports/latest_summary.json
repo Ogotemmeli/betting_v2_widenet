@@ -1,0 +1,414 @@
+{
+  "timestamp": "2026-04-15 21:45 UTC",
+  "arbitrages_found": 20,
+  "value_bets_found": 15,
+  "by_sport": {
+    "soccer": {
+      "arbs": 19,
+      "vbs": 2
+    },
+    "tennis": {
+      "arbs": 0,
+      "vbs": 0
+    },
+    "basketball": {
+      "arbs": 1,
+      "vbs": 2
+    },
+    "hockey": {
+      "arbs": 0,
+      "vbs": 11
+    }
+  },
+  "best_arb_margin": 2.606,
+  "best_value_edge": 16.11,
+  "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "3c0a6c55120809a87abc49406bb86657",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Inter Milan vs Cagliari",
+      "commence": "2026-04-17T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 2.606,
+      "implied_probability_sum": 0.97394,
+      "guaranteed_profit": 26.06,
+      "stakes": {
+        "Cagliari": {
+          "bookmaker": "Coolbet",
+          "odds": 16.25,
+          "stake_pct": 6.32,
+          "stake_amount": 63.19
+        },
+        "Draw": {
+          "bookmaker": "Matchbook",
+          "odds": 8.0,
+          "stake_pct": 12.83,
+          "stake_amount": 128.34
+        },
+        "Inter Milan": {
+          "bookmaker": "1xBet",
+          "odds": 1.27,
+          "stake_pct": 80.85,
+          "stake_amount": 808.47
+        }
+      },
+      "num_bookmakers_checked": 40,
+      "fresh_bookmakers": 40,
+      "found_at": "2026-04-15T21:45:33.365577+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "1e99ca015e59dafe2d397a0be198650e",
+      "sport": "soccer",
+      "league": "UEFA Europa League",
+      "match": "Aston Villa vs Bologna",
+      "commence": "2026-04-16T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.874,
+      "implied_probability_sum": 0.98126,
+      "guaranteed_profit": 18.74,
+      "stakes": {
+        "Aston Villa": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 1.67,
+          "stake_pct": 61.02,
+          "stake_amount": 610.24
+        },
+        "Bologna": {
+          "bookmaker": "Smarkets",
+          "odds": 6.6,
+          "stake_pct": 15.44,
+          "stake_amount": 154.41
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 4.33,
+          "stake_pct": 23.54,
+          "stake_amount": 235.36
+        }
+      },
+      "num_bookmakers_checked": 36,
+      "fresh_bookmakers": 36,
+      "found_at": "2026-04-15T21:45:33.394907+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "b104ec3a106ddc5715a4da26d894567f",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "VfB Stuttgart vs Werder Bremen",
+      "commence": "2026-04-26T13:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.418,
+      "implied_probability_sum": 0.98582,
+      "guaranteed_profit": 14.18,
+      "stakes": {
+        "Werder Bremen": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 6.5,
+          "stake_pct": 15.61,
+          "stake_amount": 156.06
+        },
+        "VfB Stuttgart": {
+          "bookmaker": "1xBet",
+          "odds": 1.64,
+          "stake_pct": 61.85,
+          "stake_amount": 618.52
+        },
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.5,
+          "stake_pct": 22.54,
+          "stake_amount": 225.42
+        }
+      },
+      "num_bookmakers_checked": 30,
+      "fresh_bookmakers": 30,
+      "found_at": "2026-04-15T21:45:33.386290+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "445c97066158652824e10b05bc53c6ae",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Celta Vigo",
+      "commence": "2026-04-22T19:30:00Z",
+      "market": "h2h",
+      "margin_pct": 1.385,
+      "implied_probability_sum": 0.98615,
+      "guaranteed_profit": 13.85,
+      "stakes": {
+        "Celta Vigo": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 10.5,
+          "stake_pct": 9.66,
+          "stake_amount": 96.58
+        },
+        "Barcelona": {
+          "bookmaker": "1xBet",
+          "odds": 1.32,
+          "stake_pct": 76.82,
+          "stake_amount": 768.22
+        },
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 7.5,
+          "stake_pct": 13.52,
+          "stake_amount": 135.21
+        }
+      },
+      "num_bookmakers_checked": 36,
+      "fresh_bookmakers": 36,
+      "found_at": "2026-04-15T21:45:33.375591+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "ea28653ebcd7743146869e2aa7851275",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Crystal Palace vs West Ham United",
+      "commence": "2026-04-20T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.065,
+      "implied_probability_sum": 0.98935,
+      "guaranteed_profit": 10.65,
+      "stakes": {
+        "West Ham United": {
+          "bookmaker": "1xBet",
+          "odds": 3.58,
+          "stake_pct": 28.23,
+          "stake_amount": 282.34
+        },
+        "Crystal Palace": {
+          "bookmaker": "Nordic Bet",
+          "odds": 2.38,
+          "stake_pct": 42.47,
+          "stake_amount": 424.69
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 3.45,
+          "stake_pct": 29.3,
+          "stake_amount": 292.97
+        }
+      },
+      "num_bookmakers_checked": 38,
+      "fresh_bookmakers": 38,
+      "found_at": "2026-04-15T21:45:33.361126+00:00"
+    }
+  ],
+  "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "161f9baeab748dcfa4d2df893f14b25b",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Fiorentina vs Sassuolo",
+      "commence": "2026-04-26T10:30:00Z",
+      "market": "h2h",
+      "outcome": "Sassuolo",
+      "bookmaker": "BetOnline.ag",
+      "odds": 4.7,
+      "fair_odds": 4.048,
+      "true_prob_pct": 24.71,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 16.11,
+      "kelly_stake_pct": 1.09,
+      "suggested_stake": 10.89,
+      "expected_value": 16.11,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.371194+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "ecf6c5f973a42e5dcd559cd2ac2e0d3a",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Ottawa Senators vs Toronto Maple Leafs",
+      "commence": "2026-04-15T23:30:00Z",
+      "market": "h2h",
+      "outcome": "Toronto Maple Leafs",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.7,
+      "fair_odds": 3.222,
+      "true_prob_pct": 31.03,
+      "implied_prob_pct": 27.03,
+      "edge_pct": 14.83,
+      "kelly_stake_pct": 1.37,
+      "suggested_stake": 13.73,
+      "expected_value": 14.83,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.404581+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "ecf6c5f973a42e5dcd559cd2ac2e0d3a",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Ottawa Senators vs Toronto Maple Leafs",
+      "commence": "2026-04-15T23:30:00Z",
+      "market": "h2h",
+      "outcome": "Toronto Maple Leafs",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.7,
+      "fair_odds": 3.222,
+      "true_prob_pct": 31.03,
+      "implied_prob_pct": 27.03,
+      "edge_pct": 14.83,
+      "kelly_stake_pct": 1.37,
+      "suggested_stake": 13.73,
+      "expected_value": 14.83,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.404595+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c36f011df8ff2ff994bb46373c5831ea",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Dallas Stars",
+      "commence": "2026-04-15T23:10:00Z",
+      "market": "h2h",
+      "outcome": "Buffalo Sabres",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.05,
+      "fair_odds": 2.664,
+      "true_prob_pct": 37.54,
+      "implied_prob_pct": 32.79,
+      "edge_pct": 14.5,
+      "kelly_stake_pct": 1.77,
+      "suggested_stake": 17.68,
+      "expected_value": 14.5,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.402510+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c36f011df8ff2ff994bb46373c5831ea",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Dallas Stars",
+      "commence": "2026-04-15T23:10:00Z",
+      "market": "h2h",
+      "outcome": "Buffalo Sabres",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.05,
+      "fair_odds": 2.664,
+      "true_prob_pct": 37.54,
+      "implied_prob_pct": 32.79,
+      "edge_pct": 14.5,
+      "kelly_stake_pct": 1.77,
+      "suggested_stake": 17.68,
+      "expected_value": 14.5,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.402554+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "cedecc7ade1b8a4bc9d6c3c442426001",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Žalgiris vs Paris Basketball",
+      "commence": "2026-04-17T17:00:00Z",
+      "market": "h2h",
+      "outcome": "Paris Basketball",
+      "bookmaker": "Betsson",
+      "odds": 4.3,
+      "fair_odds": 3.788,
+      "true_prob_pct": 26.4,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 13.53,
+      "kelly_stake_pct": 1.02,
+      "suggested_stake": 10.25,
+      "expected_value": 13.53,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.400978+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "cedecc7ade1b8a4bc9d6c3c442426001",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Žalgiris vs Paris Basketball",
+      "commence": "2026-04-17T17:00:00Z",
+      "market": "h2h",
+      "outcome": "Paris Basketball",
+      "bookmaker": "Nordic Bet",
+      "odds": 4.3,
+      "fair_odds": 3.788,
+      "true_prob_pct": 26.4,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 13.53,
+      "kelly_stake_pct": 1.02,
+      "suggested_stake": 10.25,
+      "expected_value": 13.53,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.400985+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "aab12987f6385f068a9b1c6feb785ecc",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Florida Panthers vs Detroit Red Wings",
+      "commence": "2026-04-15T23:10:00Z",
+      "market": "totals",
+      "outcome": "Over 6.5",
+      "bookmaker": "Coolbet",
+      "odds": 2.43,
+      "fair_odds": 2.142,
+      "true_prob_pct": 46.68,
+      "implied_prob_pct": 41.15,
+      "edge_pct": 13.43,
+      "kelly_stake_pct": 2.35,
+      "suggested_stake": 23.48,
+      "expected_value": 13.43,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.403523+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "aab12987f6385f068a9b1c6feb785ecc",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Florida Panthers vs Detroit Red Wings",
+      "commence": "2026-04-15T23:10:00Z",
+      "market": "h2h",
+      "outcome": "Florida Panthers",
+      "bookmaker": "1xBet",
+      "odds": 3.12,
+      "fair_odds": 2.76,
+      "true_prob_pct": 36.24,
+      "implied_prob_pct": 32.05,
+      "edge_pct": 13.06,
+      "kelly_stake_pct": 1.54,
+      "suggested_stake": 15.4,
+      "expected_value": 13.06,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.403111+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c36f011df8ff2ff994bb46373c5831ea",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Dallas Stars",
+      "commence": "2026-04-15T23:10:00Z",
+      "market": "h2h",
+      "outcome": "Buffalo Sabres",
+      "bookmaker": "Unibet (NL)",
+      "odds": 3.0,
+      "fair_odds": 2.664,
+      "true_prob_pct": 37.54,
+      "implied_prob_pct": 33.33,
+      "edge_pct": 12.62,
+      "kelly_stake_pct": 1.58,
+      "suggested_stake": 15.77,
+      "expected_value": 12.62,
+      "confidence": "ALTA",
+      "found_at": "2026-04-15T21:45:33.402517+00:00"
+    }
+  ]
+}
