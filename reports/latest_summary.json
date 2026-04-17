@@ -1,114 +1,62 @@
 {
-  "timestamp": "2026-04-16 19:21 UTC",
-  "arbitrages_found": 27,
+  "timestamp": "2026-04-17 11:00 UTC",
+  "arbitrages_found": 28,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 20,
-      "vbs": 4
+      "arbs": 27,
+      "vbs": 7
     },
     "tennis": {
       "arbs": 0,
       "vbs": 0
     },
     "basketball": {
-      "arbs": 6,
-      "vbs": 4
+      "arbs": 0,
+      "vbs": 0
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 7
+      "vbs": 8
     }
   },
-  "best_arb_margin": 7.588,
+  "best_arb_margin": 4.723,
   "best_value_edge": 16.05,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "a412b07445d8f58212ada64691b541ce",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "ASVEL Lyon Villeurbanne vs Fenerbahce SK",
-      "commence": "2026-04-16T18:03:00Z",
+      "event_id": "36ffdc7f877a0da88068dfe5343c629b",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Getafe vs Barcelona",
+      "commence": "2026-04-25T14:15:00Z",
       "market": "h2h",
-      "margin_pct": 7.588,
-      "implied_probability_sum": 0.92412,
-      "guaranteed_profit": 75.88,
+      "margin_pct": 4.723,
+      "implied_probability_sum": 0.95277,
+      "guaranteed_profit": 47.23,
       "stakes": {
-        "Fenerbahce SK": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.23,
-          "stake_pct": 87.98,
-          "stake_amount": 879.77
+        "Getafe": {
+          "bookmaker": "1xBet",
+          "odds": 6.55,
+          "stake_pct": 16.02,
+          "stake_amount": 160.24
         },
-        "ASVEL Lyon Villeurbanne": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 9.0,
-          "stake_pct": 12.02,
-          "stake_amount": 120.23
+        "Barcelona": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.7,
+          "stake_pct": 61.74,
+          "stake_amount": 617.39
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 4.72,
+          "stake_pct": 22.24,
+          "stake_amount": 222.37
         }
       },
-      "num_bookmakers_checked": 20,
-      "fresh_bookmakers": 20,
-      "found_at": "2026-04-16T19:21:25.645627+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "6c1f2808313e3cdccfa945bdc823a38c",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Olympiacos vs Pallacanestro Olimpia Milano",
-      "commence": "2026-04-16T18:16:00Z",
-      "market": "h2h",
-      "margin_pct": 6.398,
-      "implied_probability_sum": 0.93602,
-      "guaranteed_profit": 63.98,
-      "stakes": {
-        "Pallacanestro Olimpia Milano": {
-          "bookmaker": "Betway",
-          "odds": 17.0,
-          "stake_pct": 6.28,
-          "stake_amount": 62.84
-        },
-        "Olympiacos": {
-          "bookmaker": "MyBookie.ag",
-          "odds": 1.14,
-          "stake_pct": 93.72,
-          "stake_amount": 937.16
-        }
-      },
-      "num_bookmakers_checked": 15,
-      "fresh_bookmakers": 15,
-      "found_at": "2026-04-16T19:21:25.646163+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "9083a48c26d16cf888cb030fd9dca638",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Real Madrid vs KK Crvena zvezda",
-      "commence": "2026-04-16T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 3.256,
-      "implied_probability_sum": 0.96744,
-      "guaranteed_profit": 32.56,
-      "stakes": {
-        "KK Crvena zvezda": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.9,
-          "stake_pct": 21.1,
-          "stake_amount": 210.95
-        },
-        "Real Madrid": {
-          "bookmaker": "William Hill",
-          "odds": 1.31,
-          "stake_pct": 78.9,
-          "stake_amount": 789.05
-        }
-      },
-      "num_bookmakers_checked": 21,
-      "fresh_bookmakers": 21,
-      "found_at": "2026-04-16T19:21:25.646623+00:00"
+      "num_bookmakers_checked": 27,
+      "fresh_bookmakers": 27,
+      "found_at": "2026-04-17T11:00:51.580584+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -128,57 +76,121 @@
           "stake_pct": 61.42,
           "stake_amount": 614.24
         },
-        "Werder Bremen": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 6.5,
-          "stake_pct": 15.78,
-          "stake_amount": 157.81
-        },
         "Draw": {
           "bookmaker": "Unibet (NL)",
           "odds": 4.5,
           "stake_pct": 22.8,
           "stake_amount": 227.95
+        },
+        "Werder Bremen": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 6.5,
+          "stake_pct": 15.78,
+          "stake_amount": 157.81
         }
       },
       "num_bookmakers_checked": 30,
       "fresh_bookmakers": 30,
-      "found_at": "2026-04-16T19:21:25.632334+00:00"
+      "found_at": "2026-04-17T11:00:51.590199+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "d137c5f062243e857803fcebfdda2953",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Leeds United vs Wolverhampton Wanderers",
-      "commence": "2026-04-18T14:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.948,
-      "implied_probability_sum": 0.98052,
-      "guaranteed_profit": 19.48,
+      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Edmonton Oilers vs Anaheim Ducks",
+      "commence": "2026-04-21T02:10:00Z",
+      "market": "totals",
+      "margin_pct": 2.315,
+      "implied_probability_sum": 0.97685,
+      "guaranteed_profit": 23.15,
       "stakes": {
-        "Leeds United": {
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.93,
+          "stake_pct": 53.04,
+          "stake_amount": 530.41
+        },
+        "Over 6.5": {
           "bookmaker": "1xBet",
-          "odds": 1.69,
-          "stake_pct": 60.35,
-          "stake_amount": 603.47
-        },
-        "Wolverhampton Wanderers": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 6.4,
-          "stake_pct": 15.94,
-          "stake_amount": 159.35
-        },
-        "Draw": {
-          "bookmaker": "Unibet (FR)",
-          "odds": 4.3,
-          "stake_pct": 23.72,
-          "stake_amount": 237.18
+          "odds": 2.18,
+          "stake_pct": 46.96,
+          "stake_amount": 469.59
         }
       },
-      "num_bookmakers_checked": 40,
-      "fresh_bookmakers": 40,
-      "found_at": "2026-04-16T19:21:25.601730+00:00"
+      "num_bookmakers_checked": 6,
+      "fresh_bookmakers": 6,
+      "found_at": "2026-04-17T11:00:51.615182+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "c208f9c1d251de9006fd23a7e9cfa948",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Rayo Vallecano vs Espanyol",
+      "commence": "2026-04-23T18:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.673,
+      "implied_probability_sum": 0.98327,
+      "guaranteed_profit": 16.73,
+      "stakes": {
+        "Espanyol": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.35,
+          "stake_pct": 23.38,
+          "stake_amount": 233.8
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.55,
+          "stake_pct": 28.65,
+          "stake_amount": 286.48
+        },
+        "Rayo Vallecano": {
+          "bookmaker": "1xBet",
+          "odds": 2.12,
+          "stake_pct": 47.97,
+          "stake_amount": 479.72
+        }
+      },
+      "num_bookmakers_checked": 35,
+      "fresh_bookmakers": 35,
+      "found_at": "2026-04-17T11:00:51.579103+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "ea38471acf4d5944929f9025e151376d",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Manchester United vs Brentford",
+      "commence": "2026-04-27T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.612,
+      "implied_probability_sum": 0.98388,
+      "guaranteed_profit": 16.12,
+      "stakes": {
+        "Manchester United": {
+          "bookmaker": "Betfair",
+          "odds": 1.91,
+          "stake_pct": 53.21,
+          "stake_amount": 532.14
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.2,
+          "stake_pct": 24.2,
+          "stake_amount": 242.0
+        },
+        "Brentford": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.5,
+          "stake_pct": 22.59,
+          "stake_amount": 225.86
+        }
+      },
+      "num_bookmakers_checked": 30,
+      "fresh_bookmakers": 30,
+      "found_at": "2026-04-17T11:00:51.566687+00:00"
     }
   ],
   "value_bets": [
@@ -201,133 +213,7 @@
       "suggested_stake": 10.84,
       "expected_value": 16.05,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.615965+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "7bd6146745b2765c8c6207daacff37db",
-      "sport": "soccer",
-      "league": "UEFA Europa League",
-      "match": "Nottingham Forest vs Porto",
-      "commence": "2026-04-16T19:01:00Z",
-      "market": "h2h",
-      "outcome": "Nottingham Forest",
-      "bookmaker": "Betclic (FR)",
-      "odds": 1.37,
-      "fair_odds": 1.186,
-      "true_prob_pct": 84.31,
-      "implied_prob_pct": 72.99,
-      "edge_pct": 15.5,
-      "kelly_stake_pct": 5.0,
-      "suggested_stake": 50.0,
-      "expected_value": 15.5,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.641699+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "76d3bd29c4c5d001c2404fb6d3010c36",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Ottawa Senators",
-      "commence": "2026-04-18T19:00:47Z",
-      "market": "h2h",
-      "outcome": "Ottawa Senators",
-      "bookmaker": "Nordic Bet",
-      "odds": 3.4,
-      "fair_odds": 2.948,
-      "true_prob_pct": 33.92,
-      "implied_prob_pct": 29.41,
-      "edge_pct": 15.34,
-      "kelly_stake_pct": 1.6,
-      "suggested_stake": 15.98,
-      "expected_value": 15.34,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.652515+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "76d3bd29c4c5d001c2404fb6d3010c36",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Ottawa Senators",
-      "commence": "2026-04-18T19:00:47Z",
-      "market": "h2h",
-      "outcome": "Ottawa Senators",
-      "bookmaker": "Betsson",
-      "odds": 3.4,
-      "fair_odds": 2.948,
-      "true_prob_pct": 33.92,
-      "implied_prob_pct": 29.41,
-      "edge_pct": 15.34,
-      "kelly_stake_pct": 1.6,
-      "suggested_stake": 15.98,
-      "expected_value": 15.34,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.652523+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "2aa3249b78d693529c951547a82f134f",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Utah Mammoth vs St Louis Blues",
-      "commence": "2026-04-16T23:30:00Z",
-      "market": "h2h",
-      "outcome": "Utah Mammoth",
-      "bookmaker": "1xBet",
-      "odds": 2.8,
-      "fair_odds": 2.452,
-      "true_prob_pct": 40.78,
-      "implied_prob_pct": 35.71,
-      "edge_pct": 14.18,
-      "kelly_stake_pct": 1.97,
-      "suggested_stake": 19.69,
-      "expected_value": 14.18,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.648785+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "df6bfdc20f2551d40f463329f7333c6f",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Maccabi Tel Aviv vs Virtus Segafredo Bologna",
-      "commence": "2026-04-16T18:06:00Z",
-      "market": "h2h",
-      "outcome": "Virtus Segafredo Bologna",
-      "bookmaker": "MyBookie.ag",
-      "odds": 1.65,
-      "fair_odds": 1.466,
-      "true_prob_pct": 68.2,
-      "implied_prob_pct": 60.61,
-      "edge_pct": 12.54,
-      "kelly_stake_pct": 4.82,
-      "suggested_stake": 48.22,
-      "expected_value": 12.54,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.645879+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "2aa3249b78d693529c951547a82f134f",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Utah Mammoth vs St Louis Blues",
-      "commence": "2026-04-16T23:30:00Z",
-      "market": "h2h",
-      "outcome": "Utah Mammoth",
-      "bookmaker": "Marathon Bet",
-      "odds": 2.76,
-      "fair_odds": 2.452,
-      "true_prob_pct": 40.78,
-      "implied_prob_pct": 36.23,
-      "edge_pct": 12.54,
-      "kelly_stake_pct": 1.78,
-      "suggested_stake": 17.82,
-      "expected_value": 12.54,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.648828+00:00"
+      "found_at": "2026-04-17T11:00:51.573694+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -348,28 +234,7 @@
       "suggested_stake": 8.54,
       "expected_value": 12.1,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.615925+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "76d3bd29c4c5d001c2404fb6d3010c36",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Ottawa Senators",
-      "commence": "2026-04-18T19:00:47Z",
-      "market": "h2h",
-      "outcome": "Ottawa Senators",
-      "bookmaker": "1xBet",
-      "odds": 3.29,
-      "fair_odds": 2.948,
-      "true_prob_pct": 33.92,
-      "implied_prob_pct": 30.4,
-      "edge_pct": 11.61,
-      "kelly_stake_pct": 1.27,
-      "suggested_stake": 12.67,
-      "expected_value": 11.61,
-      "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.652530+00:00"
+      "found_at": "2026-04-17T11:00:51.573652+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -390,7 +255,154 @@
       "suggested_stake": 8.24,
       "expected_value": 11.6,
       "confidence": "ALTA",
-      "found_at": "2026-04-16T19:21:25.615955+00:00"
+      "found_at": "2026-04-17T11:00:51.573687+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Edmonton Oilers vs Anaheim Ducks",
+      "commence": "2026-04-21T02:10:00Z",
+      "market": "h2h",
+      "outcome": "Anaheim Ducks",
+      "bookmaker": "Betclic (FR)",
+      "odds": 2.95,
+      "fair_odds": 2.643,
+      "true_prob_pct": 37.83,
+      "implied_prob_pct": 33.9,
+      "edge_pct": 11.6,
+      "kelly_stake_pct": 1.49,
+      "suggested_stake": 14.87,
+      "expected_value": 11.6,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.615085+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bedd26005f98ad01c4994501ba28ddf3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Tampa Bay Lightning vs Montréal Canadiens",
+      "commence": "2026-04-19T21:45:00Z",
+      "market": "h2h",
+      "outcome": "Montréal Canadiens",
+      "bookmaker": "Betclic (FR)",
+      "odds": 3.22,
+      "fair_odds": 2.894,
+      "true_prob_pct": 34.55,
+      "implied_prob_pct": 31.06,
+      "edge_pct": 11.25,
+      "kelly_stake_pct": 1.27,
+      "suggested_stake": 12.67,
+      "expected_value": 11.25,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.613743+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "e9eba9dd49f3a5847fe4689a6014e1c0",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Boston Bruins",
+      "commence": "2026-04-19T23:30:03Z",
+      "market": "h2h",
+      "outcome": "Boston Bruins",
+      "bookmaker": "Marathon Bet",
+      "odds": 2.99,
+      "fair_odds": 2.69,
+      "true_prob_pct": 37.17,
+      "implied_prob_pct": 33.44,
+      "edge_pct": 11.14,
+      "kelly_stake_pct": 1.4,
+      "suggested_stake": 13.99,
+      "expected_value": 11.14,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.614270+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "548f901ac0c811c39953f7e3769040cb",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Villarreal vs Celta Vigo",
+      "commence": "2026-04-26T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Celta Vigo",
+      "bookmaker": "Unibet (SE)",
+      "odds": 4.6,
+      "fair_odds": 4.155,
+      "true_prob_pct": 24.07,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 10.7,
+      "kelly_stake_pct": 0.74,
+      "suggested_stake": 7.43,
+      "expected_value": 10.7,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.582673+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "548f901ac0c811c39953f7e3769040cb",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Villarreal vs Celta Vigo",
+      "commence": "2026-04-26T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Celta Vigo",
+      "bookmaker": "Unibet (NL)",
+      "odds": 4.6,
+      "fair_odds": 4.155,
+      "true_prob_pct": 24.07,
+      "implied_prob_pct": 21.74,
+      "edge_pct": 10.7,
+      "kelly_stake_pct": 0.74,
+      "suggested_stake": 7.43,
+      "expected_value": 10.7,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.582705+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "161f9baeab748dcfa4d2df893f14b25b",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Fiorentina vs Sassuolo",
+      "commence": "2026-04-26T10:30:00Z",
+      "market": "h2h",
+      "outcome": "Sassuolo",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.45,
+      "fair_odds": 4.05,
+      "true_prob_pct": 24.69,
+      "implied_prob_pct": 22.47,
+      "edge_pct": 9.88,
+      "kelly_stake_pct": 0.72,
+      "suggested_stake": 7.16,
+      "expected_value": 9.88,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.573661+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "76d3bd29c4c5d001c2404fb6d3010c36",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Carolina Hurricanes vs Ottawa Senators",
+      "commence": "2026-04-18T19:00:47Z",
+      "market": "h2h",
+      "outcome": "Carolina Hurricanes",
+      "bookmaker": "Marathon Bet",
+      "odds": 2.11,
+      "fair_odds": 1.921,
+      "true_prob_pct": 52.07,
+      "implied_prob_pct": 47.39,
+      "edge_pct": 9.86,
+      "kelly_stake_pct": 2.22,
+      "suggested_stake": 22.21,
+      "expected_value": 9.86,
+      "confidence": "ALTA",
+      "found_at": "2026-04-17T11:00:51.610518+00:00"
     }
   ]
 }
