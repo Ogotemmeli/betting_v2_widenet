@@ -1,127 +1,28 @@
 {
-  "timestamp": "2026-04-17 19:05 UTC",
-  "arbitrages_found": 29,
+  "timestamp": "2026-04-18 10:45 UTC",
+  "arbitrages_found": 18,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 26,
-      "vbs": 5
+      "arbs": 18,
+      "vbs": 2
     },
     "tennis": {
       "arbs": 0,
       "vbs": 0
     },
     "basketball": {
-      "arbs": 3,
-      "vbs": 0
+      "arbs": 0,
+      "vbs": 8
     },
     "hockey": {
       "arbs": 0,
-      "vbs": 10
+      "vbs": 5
     }
   },
-  "best_arb_margin": 7.368,
-  "best_value_edge": 16.45,
+  "best_arb_margin": 2.513,
+  "best_value_edge": 29.5,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "0aa632171aafec604f97c7c8f3857ee9",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Dubai Basketball vs Valencia Basket",
-      "commence": "2026-04-17T18:02:00Z",
-      "market": "h2h",
-      "margin_pct": 7.368,
-      "implied_probability_sum": 0.92632,
-      "guaranteed_profit": 73.68,
-      "stakes": {
-        "Valencia Basket": {
-          "bookmaker": "888sport",
-          "odds": 2.5,
-          "stake_pct": 43.18,
-          "stake_amount": 431.82
-        },
-        "Dubai Basketball": {
-          "bookmaker": "Matchbook",
-          "odds": 1.9,
-          "stake_pct": 56.82,
-          "stake_amount": 568.18
-        }
-      },
-      "num_bookmakers_checked": 21,
-      "fresh_bookmakers": 21,
-      "found_at": "2026-04-17T19:05:58.763718+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "36ffdc7f877a0da88068dfe5343c629b",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Barcelona",
-      "commence": "2026-04-25T14:15:00Z",
-      "market": "h2h",
-      "margin_pct": 3.896,
-      "implied_probability_sum": 0.96104,
-      "guaranteed_profit": 38.96,
-      "stakes": {
-        "Getafe": {
-          "bookmaker": "1xBet",
-          "odds": 6.86,
-          "stake_pct": 15.17,
-          "stake_amount": 151.68
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 4.78,
-          "stake_pct": 21.77,
-          "stake_amount": 217.69
-        },
-        "Barcelona": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 1.65,
-          "stake_pct": 63.06,
-          "stake_amount": 630.63
-        }
-      },
-      "num_bookmakers_checked": 27,
-      "fresh_bookmakers": 27,
-      "found_at": "2026-04-17T19:05:58.741255+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "6856b3123aaf14ce6c63669005568ba1",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "RC Lens vs Toulouse",
-      "commence": "2026-04-17T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 3.539,
-      "implied_probability_sum": 0.96461,
-      "guaranteed_profit": 35.39,
-      "stakes": {
-        "RC Lens": {
-          "bookmaker": "Coolbet",
-          "odds": 2.5,
-          "stake_pct": 41.47,
-          "stake_amount": 414.67
-        },
-        "Toulouse": {
-          "bookmaker": "Betfair",
-          "odds": 2.88,
-          "stake_pct": 36.0,
-          "stake_amount": 359.96
-        },
-        "Draw": {
-          "bookmaker": "Ladbrokes",
-          "odds": 4.6,
-          "stake_pct": 22.54,
-          "stake_amount": 225.37
-        }
-      },
-      "num_bookmakers_checked": 28,
-      "fresh_bookmakers": 28,
-      "found_at": "2026-04-17T19:05:58.750967+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "b104ec3a106ddc5715a4da26d894567f",
@@ -140,60 +41,333 @@
           "stake_pct": 15.78,
           "stake_amount": 157.81
         },
-        "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.5,
-          "stake_pct": 22.8,
-          "stake_amount": 227.95
-        },
         "VfB Stuttgart": {
           "bookmaker": "1xBet",
           "odds": 1.67,
           "stake_pct": 61.42,
           "stake_amount": 614.24
+        },
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.5,
+          "stake_pct": 22.8,
+          "stake_amount": 227.95
+        }
+      },
+      "num_bookmakers_checked": 31,
+      "fresh_bookmakers": 31,
+      "found_at": "2026-04-18T10:45:11.274634+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "36ffdc7f877a0da88068dfe5343c629b",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Getafe vs Barcelona",
+      "commence": "2026-04-25T14:15:00Z",
+      "market": "h2h",
+      "margin_pct": 2.344,
+      "implied_probability_sum": 0.97656,
+      "guaranteed_profit": 23.44,
+      "stakes": {
+        "Barcelona": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 1.65,
+          "stake_pct": 62.06,
+          "stake_amount": 620.61
+        },
+        "Getafe": {
+          "bookmaker": "Betfair",
+          "odds": 6.2,
+          "stake_pct": 16.52,
+          "stake_amount": 165.16
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 4.78,
+          "stake_pct": 21.42,
+          "stake_amount": 214.23
+        }
+      },
+      "num_bookmakers_checked": 27,
+      "fresh_bookmakers": 27,
+      "found_at": "2026-04-18T10:45:11.265280+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "ea38471acf4d5944929f9025e151376d",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Manchester United vs Brentford",
+      "commence": "2026-04-27T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.885,
+      "implied_probability_sum": 0.98115,
+      "guaranteed_profit": 18.85,
+      "stakes": {
+        "Brentford": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.5,
+          "stake_pct": 22.65,
+          "stake_amount": 226.49
+        },
+        "Manchester United": {
+          "bookmaker": "Betfair",
+          "odds": 1.92,
+          "stake_pct": 53.08,
+          "stake_amount": 530.84
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.2,
+          "stake_pct": 24.27,
+          "stake_amount": 242.67
         }
       },
       "num_bookmakers_checked": 30,
       "fresh_bookmakers": 30,
-      "found_at": "2026-04-17T19:05:58.750380+00:00"
+      "found_at": "2026-04-18T10:45:11.251888+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "3c0a6c55120809a87abc49406bb86657",
+      "event_id": "95d68f9006aa718d447c759366118c31",
       "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Inter Milan vs Cagliari",
-      "commence": "2026-04-17T18:47:00Z",
+      "league": "EPL",
+      "match": "Nottingham Forest vs Burnley",
+      "commence": "2026-04-19T13:00:00Z",
       "market": "h2h",
-      "margin_pct": 2.234,
-      "implied_probability_sum": 0.97766,
-      "guaranteed_profit": 22.34,
+      "margin_pct": 1.387,
+      "implied_probability_sum": 0.98613,
+      "guaranteed_profit": 13.87,
       "stakes": {
-        "Inter Milan": {
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.7,
+          "stake_pct": 21.58,
+          "stake_amount": 215.76
+        },
+        "Nottingham Forest": {
+          "bookmaker": "GTbets",
+          "odds": 1.55,
+          "stake_pct": 65.42,
+          "stake_amount": 654.23
+        },
+        "Burnley": {
+          "bookmaker": "Betfair",
+          "odds": 7.8,
+          "stake_pct": 13.0,
+          "stake_amount": 130.01
+        }
+      },
+      "num_bookmakers_checked": 40,
+      "fresh_bookmakers": 40,
+      "found_at": "2026-04-18T10:45:11.246486+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "c208f9c1d251de9006fd23a7e9cfa948",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Rayo Vallecano vs Espanyol",
+      "commence": "2026-04-23T18:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.34,
+      "implied_probability_sum": 0.9866,
+      "guaranteed_profit": 13.4,
+      "stakes": {
+        "Espanyol": {
           "bookmaker": "Coolbet",
-          "odds": 1.44,
-          "stake_pct": 71.03,
-          "stake_amount": 710.31
+          "odds": 4.0,
+          "stake_pct": 25.34,
+          "stake_amount": 253.4
         },
         "Draw": {
           "bookmaker": "Betfair",
-          "odds": 5.2,
-          "stake_pct": 19.67,
-          "stake_amount": 196.7
+          "odds": 3.4,
+          "stake_pct": 29.81,
+          "stake_amount": 298.11
         },
-        "Cagliari": {
-          "bookmaker": "Betfair",
-          "odds": 11.0,
-          "stake_pct": 9.3,
-          "stake_amount": 92.99
+        "Rayo Vallecano": {
+          "bookmaker": "1xBet",
+          "odds": 2.26,
+          "stake_pct": 44.85,
+          "stake_amount": 448.49
         }
       },
-      "num_bookmakers_checked": 29,
-      "fresh_bookmakers": 29,
-      "found_at": "2026-04-17T19:05:58.728362+00:00"
+      "num_bookmakers_checked": 36,
+      "fresh_bookmakers": 36,
+      "found_at": "2026-04-18T10:45:11.263784+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "Paddy Power",
+      "odds": 4.5,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 29.5,
+      "kelly_stake_pct": 2.11,
+      "suggested_stake": 21.07,
+      "expected_value": 29.5,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288025+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "Coolbet",
+      "odds": 4.5,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 29.5,
+      "kelly_stake_pct": 2.11,
+      "suggested_stake": 21.07,
+      "expected_value": 29.5,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288042+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "Betway",
+      "odds": 4.5,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 29.5,
+      "kelly_stake_pct": 2.11,
+      "suggested_stake": 21.07,
+      "expected_value": 29.5,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288049+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "1xBet",
+      "odds": 4.36,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 22.94,
+      "edge_pct": 25.47,
+      "kelly_stake_pct": 1.9,
+      "suggested_stake": 18.95,
+      "expected_value": 25.47,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288009+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "BoyleSports",
+      "odds": 4.33,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 23.09,
+      "edge_pct": 24.61,
+      "kelly_stake_pct": 1.85,
+      "suggested_stake": 18.47,
+      "expected_value": 24.61,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288017+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.33,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 23.09,
+      "edge_pct": 24.61,
+      "kelly_stake_pct": 1.85,
+      "suggested_stake": 18.47,
+      "expected_value": 24.61,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288056+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "MyBookie.ag",
+      "odds": 4.3,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 23.74,
+      "kelly_stake_pct": 1.8,
+      "suggested_stake": 17.99,
+      "expected_value": 23.74,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288035+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "a7d2409ca771b00b93bfe05544a9dd4e",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Panathinaikos vs AS Monaco",
+      "commence": "2026-04-21T18:00:00Z",
+      "market": "h2h",
+      "outcome": "AS Monaco",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.3,
+      "fair_odds": 3.475,
+      "true_prob_pct": 28.78,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 23.74,
+      "kelly_stake_pct": 1.8,
+      "suggested_stake": 17.99,
+      "expected_value": 23.74,
+      "confidence": "ALTA",
+      "found_at": "2026-04-18T10:45:11.288064+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "161f9baeab748dcfa4d2df893f14b25b",
@@ -213,196 +387,28 @@
       "suggested_stake": 11.12,
       "expected_value": 16.45,
       "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.734289+00:00"
+      "found_at": "2026-04-18T10:45:11.258094+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Unibet (SE)",
-      "odds": 3.2,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.25,
-      "edge_pct": 14.14,
-      "kelly_stake_pct": 1.61,
-      "suggested_stake": 16.07,
-      "expected_value": 14.14,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.768058+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 3.2,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.25,
-      "edge_pct": 14.14,
-      "kelly_stake_pct": 1.61,
-      "suggested_stake": 16.07,
-      "expected_value": 14.14,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.768065+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "1xBet",
-      "odds": 3.19,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.35,
-      "edge_pct": 13.78,
-      "kelly_stake_pct": 1.57,
-      "suggested_stake": 15.73,
-      "expected_value": 13.78,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.767981+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "161f9baeab748dcfa4d2df893f14b25b",
+      "event_id": "8b2db66328633438dcd0b0cb30f8f3df",
       "sport": "soccer",
       "league": "Serie A - Italy",
-      "match": "Fiorentina vs Sassuolo",
-      "commence": "2026-04-26T10:30:00Z",
+      "match": "Torino vs Inter Milan",
+      "commence": "2026-04-26T16:00:00Z",
       "market": "h2h",
-      "outcome": "Sassuolo",
-      "bookmaker": "1xBet",
-      "odds": 4.54,
-      "fair_odds": 4.036,
-      "true_prob_pct": 24.78,
-      "implied_prob_pct": 22.03,
-      "edge_pct": 12.49,
-      "kelly_stake_pct": 0.88,
-      "suggested_stake": 8.82,
-      "expected_value": 12.49,
+      "outcome": "Draw",
+      "bookmaker": "Tipico",
+      "odds": 5.0,
+      "fair_odds": 4.36,
+      "true_prob_pct": 22.93,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 14.67,
+      "kelly_stake_pct": 0.92,
+      "suggested_stake": 9.17,
+      "expected_value": 14.67,
       "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.734247+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Unibet (NL)",
-      "odds": 3.15,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.75,
-      "edge_pct": 12.35,
-      "kelly_stake_pct": 1.44,
-      "suggested_stake": 14.37,
-      "expected_value": 12.35,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.768036+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Casumo",
-      "odds": 3.15,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.75,
-      "edge_pct": 12.35,
-      "kelly_stake_pct": 1.44,
-      "suggested_stake": 14.37,
-      "expected_value": 12.35,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.768043+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Grosvenor",
-      "odds": 3.15,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.75,
-      "edge_pct": 12.35,
-      "kelly_stake_pct": 1.44,
-      "suggested_stake": 14.37,
-      "expected_value": 12.35,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.768050+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.14,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.67,
-      "implied_prob_pct": 31.85,
-      "edge_pct": 12.0,
-      "kelly_stake_pct": 1.4,
-      "suggested_stake": 14.02,
-      "expected_value": 12.0,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.768016+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "161f9baeab748dcfa4d2df893f14b25b",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Fiorentina vs Sassuolo",
-      "commence": "2026-04-26T10:30:00Z",
-      "market": "h2h",
-      "outcome": "Sassuolo",
-      "bookmaker": "Pinnacle",
-      "odds": 4.52,
-      "fair_odds": 4.036,
-      "true_prob_pct": 24.78,
-      "implied_prob_pct": 22.12,
-      "edge_pct": 11.99,
-      "kelly_stake_pct": 0.85,
-      "suggested_stake": 8.52,
-      "expected_value": 11.99,
-      "confidence": "ALTA",
-      "found_at": "2026-04-17T19:05:58.734279+00:00"
+      "found_at": "2026-04-18T10:45:11.258802+00:00"
     }
   ]
 }
