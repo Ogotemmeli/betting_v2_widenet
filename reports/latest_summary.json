@@ -1,92 +1,28 @@
 {
-  "timestamp": "2026-04-18 18:56 UTC",
-  "arbitrages_found": 21,
+  "timestamp": "2026-04-19 10:42 UTC",
+  "arbitrages_found": 17,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 20,
-      "vbs": 5
+      "arbs": 17,
+      "vbs": 4
     },
     "tennis": {
       "arbs": 0,
       "vbs": 0
     },
     "basketball": {
-      "arbs": 1,
-      "vbs": 3
+      "arbs": 0,
+      "vbs": 0
     },
     "hockey": {
       "arbs": 0,
-      "vbs": 7
+      "vbs": 11
     }
   },
-  "best_arb_margin": 11.556,
-  "best_value_edge": 22.85,
+  "best_arb_margin": 3.459,
+  "best_value_edge": 18.97,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "e76b1c707308d3a64f6d7e5591ec9414",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Angers vs Le Havre",
-      "commence": "2026-04-18T17:00:00Z",
-      "market": "h2h",
-      "margin_pct": 11.556,
-      "implied_probability_sum": 0.88444,
-      "guaranteed_profit": 115.56,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Suprabets",
-          "odds": 1.23,
-          "stake_pct": 91.92,
-          "stake_amount": 919.24
-        },
-        "Le Havre": {
-          "bookmaker": "Matchbook",
-          "odds": 42.0,
-          "stake_pct": 2.69,
-          "stake_amount": 26.92
-        },
-        "Angers": {
-          "bookmaker": "LiveScore Bet",
-          "odds": 21.0,
-          "stake_pct": 5.38,
-          "stake_amount": 53.84
-        }
-      },
-      "num_bookmakers_checked": 29,
-      "fresh_bookmakers": 29,
-      "found_at": "2026-04-18T18:56:21.530905+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "e76b1c707308d3a64f6d7e5591ec9414",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Angers vs Le Havre",
-      "commence": "2026-04-18T17:00:00Z",
-      "market": "totals",
-      "margin_pct": 9.948,
-      "implied_probability_sum": 0.90052,
-      "guaranteed_profit": 99.48,
-      "stakes": {
-        "Under 2.5": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.21,
-          "stake_pct": 91.77,
-          "stake_amount": 917.74
-        },
-        "Over 2.5": {
-          "bookmaker": "Betsson",
-          "odds": 13.5,
-          "stake_pct": 8.23,
-          "stake_amount": 82.26
-        }
-      },
-      "num_bookmakers_checked": 9,
-      "fresh_bookmakers": 9,
-      "found_at": "2026-04-18T18:56:21.530978+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "b104ec3a106ddc5715a4da26d894567f",
@@ -95,32 +31,67 @@
       "match": "VfB Stuttgart vs Werder Bremen",
       "commence": "2026-04-26T13:30:00Z",
       "market": "h2h",
-      "margin_pct": 2.513,
-      "implied_probability_sum": 0.97487,
-      "guaranteed_profit": 25.13,
+      "margin_pct": 3.459,
+      "implied_probability_sum": 0.96541,
+      "guaranteed_profit": 34.59,
       "stakes": {
         "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.5,
-          "stake_pct": 22.8,
-          "stake_amount": 227.95
-        },
-        "VfB Stuttgart": {
-          "bookmaker": "1xBet",
-          "odds": 1.67,
-          "stake_pct": 61.42,
-          "stake_amount": 614.24
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.7,
+          "stake_pct": 22.04,
+          "stake_amount": 220.39
         },
         "Werder Bremen": {
           "bookmaker": "BetOnline.ag",
           "odds": 6.5,
-          "stake_pct": 15.78,
-          "stake_amount": 157.81
+          "stake_pct": 15.94,
+          "stake_amount": 159.36
+        },
+        "VfB Stuttgart": {
+          "bookmaker": "1xBet",
+          "odds": 1.67,
+          "stake_pct": 62.03,
+          "stake_amount": 620.25
         }
       },
-      "num_bookmakers_checked": 30,
-      "fresh_bookmakers": 30,
-      "found_at": "2026-04-18T18:56:21.530309+00:00"
+      "num_bookmakers_checked": 35,
+      "fresh_bookmakers": 35,
+      "found_at": "2026-04-19T10:42:54.604737+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "ea38471acf4d5944929f9025e151376d",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Manchester United vs Brentford",
+      "commence": "2026-04-27T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.593,
+      "implied_probability_sum": 0.98407,
+      "guaranteed_profit": 15.93,
+      "stakes": {
+        "Brentford": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.3,
+          "stake_pct": 23.63,
+          "stake_amount": 236.32
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.1,
+          "stake_pct": 24.78,
+          "stake_amount": 247.85
+        },
+        "Manchester United": {
+          "bookmaker": "Betfair",
+          "odds": 1.97,
+          "stake_pct": 51.58,
+          "stake_amount": 515.83
+        }
+      },
+      "num_bookmakers_checked": 31,
+      "fresh_bookmakers": 31,
+      "found_at": "2026-04-19T10:42:54.583600+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -130,90 +101,188 @@
       "match": "Getafe vs Barcelona",
       "commence": "2026-04-25T14:15:00Z",
       "market": "h2h",
-      "margin_pct": 2.344,
-      "implied_probability_sum": 0.97656,
-      "guaranteed_profit": 23.44,
+      "margin_pct": 1.541,
+      "implied_probability_sum": 0.98459,
+      "guaranteed_profit": 15.41,
       "stakes": {
+        "Getafe": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 6.0,
+          "stake_pct": 16.93,
+          "stake_amount": 169.27
+        },
         "Draw": {
           "bookmaker": "1xBet",
-          "odds": 4.78,
-          "stake_pct": 21.42,
-          "stake_amount": 214.23
-        },
-        "Getafe": {
-          "bookmaker": "Betfair",
-          "odds": 6.2,
-          "stake_pct": 16.52,
-          "stake_amount": 165.16
+          "odds": 4.72,
+          "stake_pct": 21.52,
+          "stake_amount": 215.18
         },
         "Barcelona": {
           "bookmaker": "Unibet (NL)",
           "odds": 1.65,
-          "stake_pct": 62.06,
-          "stake_amount": 620.61
+          "stake_pct": 61.55,
+          "stake_amount": 615.55
         }
       },
-      "num_bookmakers_checked": 27,
-      "fresh_bookmakers": 27,
-      "found_at": "2026-04-18T18:56:21.523745+00:00"
+      "num_bookmakers_checked": 29,
+      "fresh_bookmakers": 29,
+      "found_at": "2026-04-19T10:42:54.597575+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "c9967d75c8f01ef52b52d7c6a2680408",
+      "event_id": "9439cff81cd6fd6de1e7046a3b49d8a8",
       "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "Hamburger SV vs TSG Hoffenheim",
-      "commence": "2026-04-25T16:30:00Z",
+      "league": "Serie A - Italy",
+      "match": "Lecce vs Fiorentina",
+      "commence": "2026-04-20T18:45:00Z",
       "market": "h2h",
-      "margin_pct": 1.866,
-      "implied_probability_sum": 0.98134,
-      "guaranteed_profit": 18.66,
+      "margin_pct": 1.502,
+      "implied_probability_sum": 0.98498,
+      "guaranteed_profit": 15.02,
       "stakes": {
+        "Fiorentina": {
+          "bookmaker": "Betfair",
+          "odds": 2.34,
+          "stake_pct": 43.39,
+          "stake_amount": 433.87
+        },
         "Draw": {
           "bookmaker": "1xBet",
-          "odds": 4.21,
-          "stake_pct": 24.2,
-          "stake_amount": 242.05
+          "odds": 3.48,
+          "stake_pct": 29.17,
+          "stake_amount": 291.74
         },
-        "Hamburger SV": {
-          "bookmaker": "1xBet",
-          "odds": 4.02,
-          "stake_pct": 25.35,
-          "stake_amount": 253.49
-        },
-        "TSG Hoffenheim": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 2.02,
-          "stake_pct": 50.45,
-          "stake_amount": 504.47
+        "Lecce": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.7,
+          "stake_pct": 27.44,
+          "stake_amount": 274.39
         }
       },
-      "num_bookmakers_checked": 32,
-      "fresh_bookmakers": 32,
-      "found_at": "2026-04-18T18:56:21.529861+00:00"
+      "num_bookmakers_checked": 40,
+      "fresh_bookmakers": 40,
+      "found_at": "2026-04-19T10:42:54.587987+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "5744a34d60a47f720af59a055dab12c5",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Hellas Verona vs Lecce",
+      "commence": "2026-04-25T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 1.375,
+      "implied_probability_sum": 0.98625,
+      "guaranteed_profit": 13.75,
+      "stakes": {
+        "Hellas Verona": {
+          "bookmaker": "Betfair",
+          "odds": 2.36,
+          "stake_pct": 42.96,
+          "stake_amount": 429.63
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.38,
+          "stake_pct": 30.0,
+          "stake_amount": 299.98
+        },
+        "Lecce": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 3.75,
+          "stake_pct": 27.04,
+          "stake_amount": 270.38
+        }
+      },
+      "num_bookmakers_checked": 36,
+      "fresh_bookmakers": 36,
+      "found_at": "2026-04-19T10:42:54.589752+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "76d3bd29c4c5d001c2404fb6d3010c36",
+      "event_id": "56ea1b51afea8960ca60b6d48714a1a3",
       "sport": "hockey",
       "league": "NHL",
-      "match": "Carolina Hurricanes vs Ottawa Senators",
-      "commence": "2026-04-18T19:20:47Z",
+      "match": "Colorado Avalanche vs Los Angeles Kings",
+      "commence": "2026-04-19T19:10:00Z",
       "market": "h2h",
-      "outcome": "Ottawa Senators",
+      "outcome": "Los Angeles Kings",
       "bookmaker": "1xBet",
-      "odds": 3.27,
-      "fair_odds": 2.662,
-      "true_prob_pct": 37.57,
-      "implied_prob_pct": 30.58,
-      "edge_pct": 22.85,
-      "kelly_stake_pct": 2.52,
-      "suggested_stake": 25.16,
-      "expected_value": 22.85,
+      "odds": 4.72,
+      "fair_odds": 3.967,
+      "true_prob_pct": 25.21,
+      "implied_prob_pct": 21.19,
+      "edge_pct": 18.97,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.75,
+      "expected_value": 18.97,
       "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.542676+00:00"
+      "found_at": "2026-04-19T10:42:54.617083+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "56ea1b51afea8960ca60b6d48714a1a3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Los Angeles Kings",
+      "commence": "2026-04-19T19:10:00Z",
+      "market": "h2h",
+      "outcome": "Los Angeles Kings",
+      "bookmaker": "Unibet (SE)",
+      "odds": 4.7,
+      "fair_odds": 3.967,
+      "true_prob_pct": 25.21,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 18.47,
+      "kelly_stake_pct": 1.25,
+      "suggested_stake": 12.48,
+      "expected_value": 18.47,
+      "confidence": "ALTA",
+      "found_at": "2026-04-19T10:42:54.617137+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "56ea1b51afea8960ca60b6d48714a1a3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Los Angeles Kings",
+      "commence": "2026-04-19T19:10:00Z",
+      "market": "h2h",
+      "outcome": "Los Angeles Kings",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 4.7,
+      "fair_odds": 3.967,
+      "true_prob_pct": 25.21,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 18.47,
+      "kelly_stake_pct": 1.25,
+      "suggested_stake": 12.48,
+      "expected_value": 18.47,
+      "confidence": "ALTA",
+      "found_at": "2026-04-19T10:42:54.617144+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6273cdde58224d3b30e4d2a0a74b72df",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Manchester United vs Liverpool",
+      "commence": "2026-05-03T14:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 3.94,
+      "fair_odds": 3.343,
+      "true_prob_pct": 29.92,
+      "implied_prob_pct": 25.38,
+      "edge_pct": 17.87,
+      "kelly_stake_pct": 1.52,
+      "suggested_stake": 15.19,
+      "expected_value": 17.87,
+      "confidence": "ALTA",
+      "found_at": "2026-04-19T10:42:54.585268+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -226,15 +295,15 @@
       "outcome": "Anaheim Ducks",
       "bookmaker": "Unibet (SE)",
       "odds": 3.5,
-      "fair_odds": 2.899,
-      "true_prob_pct": 34.5,
+      "fair_odds": 2.984,
+      "true_prob_pct": 33.51,
       "implied_prob_pct": 28.57,
-      "edge_pct": 20.74,
-      "kelly_stake_pct": 2.07,
-      "suggested_stake": 20.74,
-      "expected_value": 20.74,
+      "edge_pct": 17.3,
+      "kelly_stake_pct": 1.73,
+      "suggested_stake": 17.3,
+      "expected_value": 17.3,
       "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.547105+00:00"
+      "found_at": "2026-04-19T10:42:54.621184+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,162 +316,99 @@
       "outcome": "Anaheim Ducks",
       "bookmaker": "LeoVegas (SE)",
       "odds": 3.5,
-      "fair_odds": 2.899,
-      "true_prob_pct": 34.5,
+      "fair_odds": 2.984,
+      "true_prob_pct": 33.51,
       "implied_prob_pct": 28.57,
-      "edge_pct": 20.74,
-      "kelly_stake_pct": 2.07,
-      "suggested_stake": 20.74,
-      "expected_value": 20.74,
+      "edge_pct": 17.3,
+      "kelly_stake_pct": 1.73,
+      "suggested_stake": 17.3,
+      "expected_value": 17.3,
       "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.547112+00:00"
+      "found_at": "2026-04-19T10:42:54.621191+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "ac1ca15f14b17edc746f8c6e994b0155",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Bournemouth vs Crystal Palace",
-      "commence": "2026-05-03T13:00:00Z",
+      "event_id": "56ea1b51afea8960ca60b6d48714a1a3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Los Angeles Kings",
+      "commence": "2026-04-19T19:10:00Z",
       "market": "h2h",
-      "outcome": "Crystal Palace",
-      "bookmaker": "1xBet",
-      "odds": 4.87,
-      "fair_odds": 4.115,
-      "true_prob_pct": 24.3,
-      "implied_prob_pct": 20.53,
-      "edge_pct": 18.34,
+      "outcome": "Los Angeles Kings",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.65,
+      "fair_odds": 3.967,
+      "true_prob_pct": 25.21,
+      "implied_prob_pct": 21.51,
+      "edge_pct": 17.21,
       "kelly_stake_pct": 1.18,
-      "suggested_stake": 11.85,
-      "expected_value": 18.34,
+      "suggested_stake": 11.79,
+      "expected_value": 17.21,
       "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.511602+00:00"
+      "found_at": "2026-04-19T10:42:54.617091+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Unibet (NL)",
-      "odds": 3.4,
-      "fair_odds": 2.899,
-      "true_prob_pct": 34.5,
-      "implied_prob_pct": 29.41,
-      "edge_pct": 17.29,
-      "kelly_stake_pct": 1.8,
-      "suggested_stake": 18.01,
-      "expected_value": 17.29,
-      "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.547084+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Casumo",
-      "odds": 3.4,
-      "fair_odds": 2.899,
-      "true_prob_pct": 34.5,
-      "implied_prob_pct": 29.41,
-      "edge_pct": 17.29,
-      "kelly_stake_pct": 1.8,
-      "suggested_stake": 18.01,
-      "expected_value": 17.29,
-      "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.547091+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "dae0fa13fc78fd0dde5c02e1626ff783",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-04-21T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Grosvenor",
-      "odds": 3.4,
-      "fair_odds": 2.899,
-      "true_prob_pct": 34.5,
-      "implied_prob_pct": 29.41,
-      "edge_pct": 17.29,
-      "kelly_stake_pct": 1.8,
-      "suggested_stake": 18.01,
-      "expected_value": 17.29,
-      "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.547098+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "ac1ca15f14b17edc746f8c6e994b0155",
+      "event_id": "6273cdde58224d3b30e4d2a0a74b72df",
       "sport": "soccer",
       "league": "EPL",
-      "match": "Bournemouth vs Crystal Palace",
-      "commence": "2026-05-03T13:00:00Z",
-      "market": "h2h",
-      "outcome": "Crystal Palace",
-      "bookmaker": "Codere (IT)",
-      "odds": 4.8,
-      "fair_odds": 4.115,
-      "true_prob_pct": 24.3,
-      "implied_prob_pct": 20.83,
-      "edge_pct": 16.64,
-      "kelly_stake_pct": 1.09,
-      "suggested_stake": 10.95,
-      "expected_value": 16.64,
-      "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.511573+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "161f9baeab748dcfa4d2df893f14b25b",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Fiorentina vs Sassuolo",
-      "commence": "2026-04-26T10:30:00Z",
-      "market": "h2h",
-      "outcome": "Sassuolo",
-      "bookmaker": "BetOnline.ag",
-      "odds": 4.7,
-      "fair_odds": 4.036,
-      "true_prob_pct": 24.78,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 16.45,
-      "kelly_stake_pct": 1.11,
-      "suggested_stake": 11.12,
-      "expected_value": 16.45,
-      "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.517099+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "d20966bfff788c76678b8df12b984866",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Arsenal vs Fulham",
-      "commence": "2026-05-02T16:30:00Z",
+      "match": "Manchester United vs Liverpool",
+      "commence": "2026-05-03T14:30:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.72,
-      "fair_odds": 4.077,
-      "true_prob_pct": 24.53,
-      "implied_prob_pct": 21.19,
-      "edge_pct": 15.78,
-      "kelly_stake_pct": 1.06,
-      "suggested_stake": 10.61,
-      "expected_value": 15.78,
+      "bookmaker": "Marathon Bet",
+      "odds": 3.88,
+      "fair_odds": 3.343,
+      "true_prob_pct": 29.92,
+      "implied_prob_pct": 25.77,
+      "edge_pct": 16.07,
+      "kelly_stake_pct": 1.4,
+      "suggested_stake": 13.95,
+      "expected_value": 16.07,
       "confidence": "ALTA",
-      "found_at": "2026-04-18T18:56:21.511405+00:00"
+      "found_at": "2026-04-19T10:42:54.585299+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bd7a28ff5a090949dde37ef2292ead64",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Vegas Golden Knights vs Utah Mammoth",
+      "commence": "2026-04-20T02:00:00Z",
+      "market": "h2h",
+      "outcome": "Utah Mammoth",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.2,
+      "fair_odds": 2.758,
+      "true_prob_pct": 36.26,
+      "implied_prob_pct": 31.25,
+      "edge_pct": 16.04,
+      "kelly_stake_pct": 1.82,
+      "suggested_stake": 18.22,
+      "expected_value": 16.04,
+      "confidence": "ALTA",
+      "found_at": "2026-04-19T10:42:54.618894+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bd7a28ff5a090949dde37ef2292ead64",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Vegas Golden Knights vs Utah Mammoth",
+      "commence": "2026-04-20T02:00:00Z",
+      "market": "h2h",
+      "outcome": "Utah Mammoth",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.2,
+      "fair_odds": 2.758,
+      "true_prob_pct": 36.26,
+      "implied_prob_pct": 31.25,
+      "edge_pct": 16.04,
+      "kelly_stake_pct": 1.82,
+      "suggested_stake": 18.22,
+      "expected_value": 16.04,
+      "confidence": "ALTA",
+      "found_at": "2026-04-19T10:42:54.618911+00:00"
     }
   ]
 }
