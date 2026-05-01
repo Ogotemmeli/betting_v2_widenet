@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-01 11:09 UTC",
-  "arbitrages_found": 12,
+  "timestamp": "2026-05-01 19:16 UTC",
+  "arbitrages_found": 13,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
@@ -12,7 +12,7 @@
       "vbs": 0
     },
     "basketball": {
-      "arbs": 1,
+      "arbs": 2,
       "vbs": 0
     },
     "hockey": {
@@ -20,9 +20,102 @@
       "vbs": 11
     }
   },
-  "best_arb_margin": 1.46,
-  "best_value_edge": 15.76,
+  "best_arb_margin": 6.318,
+  "best_value_edge": 17.26,
   "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "2c98a4fe34b86a0216d59e1c2135251c",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Real Madrid vs Hapoel Tel Aviv",
+      "commence": "2026-05-01T18:46:00Z",
+      "market": "h2h",
+      "margin_pct": 6.318,
+      "implied_probability_sum": 0.93682,
+      "guaranteed_profit": 63.18,
+      "stakes": {
+        "Real Madrid": {
+          "bookmaker": "William Hill",
+          "odds": 1.35,
+          "stake_pct": 79.07,
+          "stake_amount": 790.7
+        },
+        "Hapoel Tel Aviv": {
+          "bookmaker": "Winamax (DE)",
+          "odds": 5.1,
+          "stake_pct": 20.93,
+          "stake_amount": 209.3
+        }
+      },
+      "num_bookmakers_checked": 21,
+      "fresh_bookmakers": 21,
+      "found_at": "2026-05-01T19:16:58.133580+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "d1280e2e5067d1465f49862c52c1bdbc",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Pisa vs Lecce",
+      "commence": "2026-05-01T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 5.895,
+      "implied_probability_sum": 0.94105,
+      "guaranteed_profit": 58.95,
+      "stakes": {
+        "Lecce": {
+          "bookmaker": "Betfair",
+          "odds": 3.0,
+          "stake_pct": 35.42,
+          "stake_amount": 354.21
+        },
+        "Pisa": {
+          "bookmaker": "Pinnacle",
+          "odds": 3.77,
+          "stake_pct": 28.19,
+          "stake_amount": 281.87
+        },
+        "Draw": {
+          "bookmaker": "Matchbook",
+          "odds": 2.92,
+          "stake_pct": 36.39,
+          "stake_amount": 363.92
+        }
+      },
+      "num_bookmakers_checked": 30,
+      "fresh_bookmakers": 30,
+      "found_at": "2026-05-01T19:16:58.096365+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "d1280e2e5067d1465f49862c52c1bdbc",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Pisa vs Lecce",
+      "commence": "2026-05-01T18:45:00Z",
+      "market": "totals",
+      "margin_pct": 1.951,
+      "implied_probability_sum": 0.98049,
+      "guaranteed_profit": 19.51,
+      "stakes": {
+        "Under 1.5": {
+          "bookmaker": "Pinnacle",
+          "odds": 2.06,
+          "stake_pct": 49.51,
+          "stake_amount": 495.1
+        },
+        "Over 1.5": {
+          "bookmaker": "Matchbook",
+          "odds": 2.02,
+          "stake_pct": 50.49,
+          "stake_amount": 504.9
+        }
+      },
+      "num_bookmakers_checked": 12,
+      "fresh_bookmakers": 12,
+      "found_at": "2026-05-01T19:16:58.096589+00:00"
+    },
     {
       "type": "ARBITRAGE",
       "event_id": "61828e05d7e37e30eecff13ebfec54b5",
@@ -41,51 +134,22 @@
           "stake_pct": 27.43,
           "stake_amount": 274.28
         },
-        "Strasbourg": {
-          "bookmaker": "1xBet",
-          "odds": 2.18,
-          "stake_pct": 46.55,
-          "stake_amount": 465.51
-        },
         "Angers": {
           "bookmaker": "Unibet (SE)",
           "odds": 3.9,
           "stake_pct": 26.02,
           "stake_amount": 260.21
-        }
-      },
-      "num_bookmakers_checked": 28,
-      "fresh_bookmakers": 28,
-      "found_at": "2026-05-01T11:09:29.567720+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "a37e80a2e3cf3aaa3ae84a9124987058",
-      "sport": "basketball",
-      "league": "NBA",
-      "match": "Boston Celtics vs Philadelphia 76ers",
-      "commence": "2026-05-02T23:40:00Z",
-      "market": "h2h",
-      "margin_pct": 1.3,
-      "implied_probability_sum": 0.987,
-      "guaranteed_profit": 13.0,
-      "stakes": {
-        "Philadelphia 76ers": {
-          "bookmaker": "Betway",
-          "odds": 3.6,
-          "stake_pct": 28.14,
-          "stake_amount": 281.44
         },
-        "Boston Celtics": {
-          "bookmaker": "Betfair",
-          "odds": 1.41,
-          "stake_pct": 71.86,
-          "stake_amount": 718.56
+        "Strasbourg": {
+          "bookmaker": "1xBet",
+          "odds": 2.18,
+          "stake_pct": 46.55,
+          "stake_amount": 465.51
         }
       },
-      "num_bookmakers_checked": 36,
-      "fresh_bookmakers": 36,
-      "found_at": "2026-05-01T11:09:29.573132+00:00"
+      "num_bookmakers_checked": 27,
+      "fresh_bookmakers": 27,
+      "found_at": "2026-05-01T19:16:58.127168+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -99,12 +163,6 @@
       "implied_probability_sum": 0.98719,
       "guaranteed_profit": 12.81,
       "stakes": {
-        "Draw": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 4.48,
-          "stake_pct": 22.61,
-          "stake_amount": 226.11
-        },
         "Lecce": {
           "bookmaker": "Unibet (NL)",
           "odds": 7.0,
@@ -116,84 +174,62 @@
           "odds": 1.61,
           "stake_pct": 62.92,
           "stake_amount": 629.18
+        },
+        "Draw": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 4.48,
+          "stake_pct": 22.61,
+          "stake_amount": 226.11
         }
       },
       "num_bookmakers_checked": 30,
       "fresh_bookmakers": 30,
-      "found_at": "2026-05-01T11:09:29.544191+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "2e977aa19b52f35a2f36273a8936a967",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-05-03T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.245,
-      "implied_probability_sum": 0.98755,
-      "guaranteed_profit": 12.45,
-      "stakes": {
-        "Espanyol": {
-          "bookmaker": "Betfair",
-          "odds": 5.0,
-          "stake_pct": 20.25,
-          "stake_amount": 202.52
-        },
-        "Draw": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.2,
-          "stake_pct": 24.11,
-          "stake_amount": 241.1
-        },
-        "Real Madrid": {
-          "bookmaker": "1xBet",
-          "odds": 1.82,
-          "stake_pct": 55.64,
-          "stake_amount": 556.38
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-05-01T11:09:29.550489+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "1dcb2f96c1b117cb5df516c1de8e307b",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Real Betis vs Oviedo",
-      "commence": "2026-05-03T16:30:00Z",
-      "market": "h2h",
-      "margin_pct": 0.907,
-      "implied_probability_sum": 0.99093,
-      "guaranteed_profit": 9.07,
-      "stakes": {
-        "Real Betis": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 1.62,
-          "stake_pct": 62.29,
-          "stake_amount": 622.94
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 4.6,
-          "stake_pct": 21.94,
-          "stake_amount": 219.38
-        },
-        "Oviedo": {
-          "bookmaker": "Smarkets",
-          "odds": 6.4,
-          "stake_pct": 15.77,
-          "stake_amount": 157.68
-        }
-      },
-      "num_bookmakers_checked": 37,
-      "fresh_bookmakers": 37,
-      "found_at": "2026-05-01T11:09:29.550030+00:00"
+      "found_at": "2026-05-01T19:16:58.102447+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "e525b26df615c89d31e7affabdb475e3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Carolina Hurricanes vs Philadelphia Flyers",
+      "commence": "2026-05-03T00:00:00Z",
+      "market": "h2h",
+      "outcome": "Philadelphia Flyers",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.9,
+      "fair_odds": 3.326,
+      "true_prob_pct": 30.07,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 17.26,
+      "kelly_stake_pct": 1.49,
+      "suggested_stake": 14.88,
+      "expected_value": 17.26,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T19:16:58.136556+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "e525b26df615c89d31e7affabdb475e3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Carolina Hurricanes vs Philadelphia Flyers",
+      "commence": "2026-05-03T00:00:00Z",
+      "market": "h2h",
+      "outcome": "Philadelphia Flyers",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.9,
+      "fair_odds": 3.326,
+      "true_prob_pct": 30.07,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 17.26,
+      "kelly_stake_pct": 1.49,
+      "suggested_stake": 14.88,
+      "expected_value": 17.26,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T19:16:58.136598+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "a785b31d8df18dde6921626b09f76415",
@@ -205,15 +241,57 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.86,
-      "fair_odds": 4.198,
-      "true_prob_pct": 23.82,
+      "fair_odds": 4.213,
+      "true_prob_pct": 23.74,
       "implied_prob_pct": 20.58,
-      "edge_pct": 15.76,
-      "kelly_stake_pct": 1.02,
-      "suggested_stake": 10.21,
-      "expected_value": 15.76,
+      "edge_pct": 15.36,
+      "kelly_stake_pct": 0.99,
+      "suggested_stake": 9.95,
+      "expected_value": 15.36,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.544569+00:00"
+      "found_at": "2026-05-01T19:16:58.102880+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c5c914c5b8c28d64ff00b6e65dbd3831",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Utah Mammoth vs Vegas Golden Knights",
+      "commence": "2026-05-02T02:10:00Z",
+      "market": "h2h",
+      "outcome": "Utah Mammoth",
+      "bookmaker": "Unibet (SE)",
+      "odds": 2.65,
+      "fair_odds": 2.317,
+      "true_prob_pct": 43.15,
+      "implied_prob_pct": 37.74,
+      "edge_pct": 14.36,
+      "kelly_stake_pct": 2.18,
+      "suggested_stake": 21.75,
+      "expected_value": 14.36,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T19:16:58.135918+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c5c914c5b8c28d64ff00b6e65dbd3831",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Utah Mammoth vs Vegas Golden Knights",
+      "commence": "2026-05-02T02:10:00Z",
+      "market": "h2h",
+      "outcome": "Utah Mammoth",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 2.65,
+      "fair_odds": 2.317,
+      "true_prob_pct": 43.15,
+      "implied_prob_pct": 37.74,
+      "edge_pct": 14.36,
+      "kelly_stake_pct": 2.18,
+      "suggested_stake": 21.75,
+      "expected_value": 14.36,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T19:16:58.135925+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -221,41 +299,20 @@
       "sport": "hockey",
       "league": "NHL",
       "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-02T23:00:00Z",
+      "commence": "2026-05-03T00:00:00Z",
       "market": "h2h",
       "outcome": "Philadelphia Flyers",
-      "bookmaker": "1xBet",
-      "odds": 3.69,
-      "fair_odds": 3.195,
-      "true_prob_pct": 31.3,
-      "implied_prob_pct": 27.1,
-      "edge_pct": 15.5,
-      "kelly_stake_pct": 1.44,
-      "suggested_stake": 14.41,
-      "expected_value": 15.5,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.576860+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-02T23:00:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Winamax (DE)",
-      "odds": 3.65,
-      "fair_odds": 3.195,
-      "true_prob_pct": 31.3,
-      "implied_prob_pct": 27.4,
+      "bookmaker": "Grosvenor",
+      "odds": 3.8,
+      "fair_odds": 3.326,
+      "true_prob_pct": 30.07,
+      "implied_prob_pct": 26.32,
       "edge_pct": 14.25,
-      "kelly_stake_pct": 1.34,
-      "suggested_stake": 13.44,
+      "kelly_stake_pct": 1.27,
+      "suggested_stake": 12.73,
       "expected_value": 14.25,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.576772+00:00"
+      "found_at": "2026-05-01T19:16:58.136564+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -263,41 +320,62 @@
       "sport": "hockey",
       "league": "NHL",
       "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-02T23:00:00Z",
+      "commence": "2026-05-03T00:00:00Z",
+      "market": "h2h",
+      "outcome": "Philadelphia Flyers",
+      "bookmaker": "Unibet (NL)",
+      "odds": 3.8,
+      "fair_odds": 3.326,
+      "true_prob_pct": 30.07,
+      "implied_prob_pct": 26.32,
+      "edge_pct": 14.25,
+      "kelly_stake_pct": 1.27,
+      "suggested_stake": 12.73,
+      "expected_value": 14.25,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T19:16:58.136578+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "e525b26df615c89d31e7affabdb475e3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Carolina Hurricanes vs Philadelphia Flyers",
+      "commence": "2026-05-03T00:00:00Z",
+      "market": "h2h",
+      "outcome": "Philadelphia Flyers",
+      "bookmaker": "Casumo",
+      "odds": 3.8,
+      "fair_odds": 3.326,
+      "true_prob_pct": 30.07,
+      "implied_prob_pct": 26.32,
+      "edge_pct": 14.25,
+      "kelly_stake_pct": 1.27,
+      "suggested_stake": 12.73,
+      "expected_value": 14.25,
+      "confidence": "ALTA",
+      "found_at": "2026-05-01T19:16:58.136588+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "e525b26df615c89d31e7affabdb475e3",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Carolina Hurricanes vs Philadelphia Flyers",
+      "commence": "2026-05-03T00:00:00Z",
       "market": "h2h",
       "outcome": "Philadelphia Flyers",
       "bookmaker": "Coolbet",
-      "odds": 3.65,
-      "fair_odds": 3.195,
-      "true_prob_pct": 31.3,
-      "implied_prob_pct": 27.4,
+      "odds": 3.8,
+      "fair_odds": 3.326,
+      "true_prob_pct": 30.07,
+      "implied_prob_pct": 26.32,
       "edge_pct": 14.25,
-      "kelly_stake_pct": 1.34,
-      "suggested_stake": 13.44,
+      "kelly_stake_pct": 1.27,
+      "suggested_stake": 12.73,
       "expected_value": 14.25,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.576869+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-02T23:00:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.64,
-      "fair_odds": 3.195,
-      "true_prob_pct": 31.3,
-      "implied_prob_pct": 27.47,
-      "edge_pct": 13.94,
-      "kelly_stake_pct": 1.32,
-      "suggested_stake": 13.2,
-      "expected_value": 13.94,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.576875+00:00"
+      "found_at": "2026-05-01T19:16:58.136623+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -315,94 +393,10 @@
       "implied_prob_pct": 21.28,
       "edge_pct": 13.36,
       "kelly_stake_pct": 0.9,
-      "suggested_stake": 9.03,
+      "suggested_stake": 9.02,
       "expected_value": 13.36,
       "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.553719+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "6a37b1fe10687ca0cbc6904d30fd340a",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Athletic Bilbao vs Valencia",
-      "commence": "2026-05-10T14:15:00Z",
-      "market": "h2h",
-      "outcome": "Valencia",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.7,
-      "fair_odds": 4.146,
-      "true_prob_pct": 24.12,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 13.36,
-      "kelly_stake_pct": 0.9,
-      "suggested_stake": 9.03,
-      "expected_value": 13.36,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.553773+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "a785b31d8df18dde6921626b09f76415",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Hellas Verona vs Como",
-      "commence": "2026-05-10T10:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.75,
-      "fair_odds": 4.198,
-      "true_prob_pct": 23.82,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 13.14,
-      "kelly_stake_pct": 0.88,
-      "suggested_stake": 8.76,
-      "expected_value": 13.14,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.544598+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "666be81702350734d3483a03c4603f67",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Montréal Canadiens vs Tampa Bay Lightning",
-      "commence": "2026-05-01T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Montréal Canadiens",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 2.63,
-      "fair_odds": 2.326,
-      "true_prob_pct": 43.0,
-      "implied_prob_pct": 38.02,
-      "edge_pct": 13.08,
-      "kelly_stake_pct": 2.01,
-      "suggested_stake": 20.06,
-      "expected_value": 13.08,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.574877+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "666be81702350734d3483a03c4603f67",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Montréal Canadiens vs Tampa Bay Lightning",
-      "commence": "2026-05-01T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Montréal Canadiens",
-      "bookmaker": "Unibet (SE)",
-      "odds": 2.63,
-      "fair_odds": 2.326,
-      "true_prob_pct": 43.0,
-      "implied_prob_pct": 38.02,
-      "edge_pct": 13.08,
-      "kelly_stake_pct": 2.01,
-      "suggested_stake": 20.06,
-      "expected_value": 13.08,
-      "confidence": "ALTA",
-      "found_at": "2026-05-01T11:09:29.574885+00:00"
+      "found_at": "2026-05-01T19:16:58.112251+00:00"
     }
   ]
 }
