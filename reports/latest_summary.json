@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-05-02 19:04 UTC",
-  "arbitrages_found": 15,
+  "timestamp": "2026-05-03 10:56 UTC",
+  "arbitrages_found": 14,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 14,
+      "arbs": 12,
       "vbs": 0
     },
     "tennis": {
@@ -12,7 +12,7 @@
       "vbs": 0
     },
     "basketball": {
-      "arbs": 1,
+      "arbs": 2,
       "vbs": 0
     },
     "hockey": {
@@ -20,43 +20,43 @@
       "vbs": 15
     }
   },
-  "best_arb_margin": 1.803,
-  "best_value_edge": 17.8,
+  "best_arb_margin": 2.033,
+  "best_value_edge": 15.06,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "c1c798a177c51362dce45113112e0d3d",
+      "event_id": "bb624cb4bdfb721401d5a3d3017c921e",
       "sport": "soccer",
-      "league": "EPL",
-      "match": "Manchester City vs Brentford",
-      "commence": "2026-05-09T16:30:00Z",
+      "league": "Serie A - Italy",
+      "match": "Bologna vs Cagliari",
+      "commence": "2026-05-03T10:33:00Z",
       "market": "h2h",
-      "margin_pct": 1.803,
-      "implied_probability_sum": 0.98197,
-      "guaranteed_profit": 18.03,
+      "margin_pct": 2.033,
+      "implied_probability_sum": 0.97967,
+      "guaranteed_profit": 20.33,
       "stakes": {
-        "Brentford": {
+        "Cagliari": {
           "bookmaker": "Betfair",
-          "odds": 9.2,
-          "stake_pct": 11.07,
-          "stake_amount": 110.69
-        },
-        "Manchester City": {
-          "bookmaker": "1xBet",
-          "odds": 1.39,
-          "stake_pct": 73.26,
-          "stake_amount": 732.64
+          "odds": 3.95,
+          "stake_pct": 25.84,
+          "stake_amount": 258.42
         },
         "Draw": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 6.5,
-          "stake_pct": 15.67,
-          "stake_amount": 156.67
+          "bookmaker": "Sky Bet",
+          "odds": 2.9,
+          "stake_pct": 35.2,
+          "stake_amount": 351.98
+        },
+        "Bologna": {
+          "bookmaker": "Matchbook",
+          "odds": 2.62,
+          "stake_pct": 38.96,
+          "stake_amount": 389.6
         }
       },
-      "num_bookmakers_checked": 33,
-      "fresh_bookmakers": 33,
-      "found_at": "2026-05-02T19:04:50.115630+00:00"
+      "num_bookmakers_checked": 30,
+      "fresh_bookmakers": 30,
+      "found_at": "2026-05-03T10:56:47.451586+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -70,11 +70,11 @@
       "implied_probability_sum": 0.9854,
       "guaranteed_profit": 14.6,
       "stakes": {
-        "Strasbourg": {
-          "bookmaker": "1xBet",
-          "odds": 2.18,
-          "stake_pct": 46.55,
-          "stake_amount": 465.51
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.7,
+          "stake_pct": 27.43,
+          "stake_amount": 274.28
         },
         "Angers": {
           "bookmaker": "Unibet (SE)",
@@ -82,45 +82,86 @@
           "stake_pct": 26.02,
           "stake_amount": 260.21
         },
-        "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.7,
-          "stake_pct": 27.43,
-          "stake_amount": 274.28
+        "Strasbourg": {
+          "bookmaker": "1xBet",
+          "odds": 2.18,
+          "stake_pct": 46.55,
+          "stake_amount": 465.51
         }
       },
-      "num_bookmakers_checked": 28,
-      "fresh_bookmakers": 28,
-      "found_at": "2026-05-02T19:04:50.140461+00:00"
+      "num_bookmakers_checked": 29,
+      "fresh_bookmakers": 29,
+      "found_at": "2026-05-03T10:56:47.472738+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "a37e80a2e3cf3aaa3ae84a9124987058",
-      "sport": "basketball",
-      "league": "NBA",
-      "match": "Boston Celtics vs Philadelphia 76ers",
-      "commence": "2026-05-02T23:40:00Z",
+      "event_id": "607bd701c9fdd9952ad391bbf5543997",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "AS Roma vs Fiorentina",
+      "commence": "2026-05-04T18:45:00Z",
       "market": "h2h",
-      "margin_pct": 1.295,
-      "implied_probability_sum": 0.98705,
-      "guaranteed_profit": 12.95,
+      "margin_pct": 1.434,
+      "implied_probability_sum": 0.98566,
+      "guaranteed_profit": 14.34,
       "stakes": {
-        "Boston Celtics": {
-          "bookmaker": "Betfair",
-          "odds": 1.46,
-          "stake_pct": 69.39,
-          "stake_amount": 693.92
+        "AS Roma": {
+          "bookmaker": "GTbets",
+          "odds": 1.69,
+          "stake_pct": 60.03,
+          "stake_amount": 600.33
         },
-        "Philadelphia 76ers": {
-          "bookmaker": "1xBet",
-          "odds": 3.31,
-          "stake_pct": 30.61,
-          "stake_amount": 306.08
+        "Fiorentina": {
+          "bookmaker": "Betfair",
+          "odds": 6.0,
+          "stake_pct": 16.91,
+          "stake_amount": 169.09
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 4.4,
+          "stake_pct": 23.06,
+          "stake_amount": 230.58
         }
       },
-      "num_bookmakers_checked": 37,
-      "fresh_bookmakers": 37,
-      "found_at": "2026-05-02T19:04:50.144581+00:00"
+      "num_bookmakers_checked": 40,
+      "fresh_bookmakers": 40,
+      "found_at": "2026-05-03T10:56:47.453879+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "93a9be1c085e1cb24aadef9579a63506",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Le Havre vs Marseille",
+      "commence": "2026-05-10T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.334,
+      "implied_probability_sum": 0.98666,
+      "guaranteed_profit": 13.34,
+      "stakes": {
+        "Marseille": {
+          "bookmaker": "1xBet",
+          "odds": 1.96,
+          "stake_pct": 51.71,
+          "stake_amount": 517.1
+        },
+        "Le Havre": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.3,
+          "stake_pct": 23.57,
+          "stake_amount": 235.7
+        },
+        "Draw": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 4.1,
+          "stake_pct": 24.72,
+          "stake_amount": 247.2
+        }
+      },
+      "num_bookmakers_checked": 30,
+      "fresh_bookmakers": 30,
+      "found_at": "2026-05-03T10:56:47.473677+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -134,6 +175,12 @@
       "implied_probability_sum": 0.98819,
       "guaranteed_profit": 11.81,
       "stakes": {
+        "Juventus": {
+          "bookmaker": "1xBet",
+          "odds": 1.61,
+          "stake_pct": 62.85,
+          "stake_amount": 628.54
+        },
         "Lecce": {
           "bookmaker": "Unibet (NL)",
           "odds": 7.0,
@@ -145,202 +192,14 @@
           "odds": 4.46,
           "stake_pct": 22.69,
           "stake_amount": 226.89
-        },
-        "Juventus": {
-          "bookmaker": "1xBet",
-          "odds": 1.61,
-          "stake_pct": 62.85,
-          "stake_amount": 628.54
         }
       },
-      "num_bookmakers_checked": 31,
-      "fresh_bookmakers": 31,
-      "found_at": "2026-05-02T19:04:50.122618+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "607bd701c9fdd9952ad391bbf5543997",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "AS Roma vs Fiorentina",
-      "commence": "2026-05-04T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 1.1,
-      "implied_probability_sum": 0.989,
-      "guaranteed_profit": 11.0,
-      "stakes": {
-        "AS Roma": {
-          "bookmaker": "GTbets",
-          "odds": 1.69,
-          "stake_pct": 59.83,
-          "stake_amount": 598.3
-        },
-        "Draw": {
-          "bookmaker": "Pinnacle",
-          "odds": 4.39,
-          "stake_pct": 23.03,
-          "stake_amount": 230.32
-        },
-        "Fiorentina": {
-          "bookmaker": "Betfair",
-          "odds": 5.9,
-          "stake_pct": 17.14,
-          "stake_amount": 171.38
-        }
-      },
-      "num_bookmakers_checked": 41,
-      "fresh_bookmakers": 41,
-      "found_at": "2026-05-02T19:04:50.120899+00:00"
+      "num_bookmakers_checked": 35,
+      "fresh_bookmakers": 35,
+      "found_at": "2026-05-03T10:56:47.455674+00:00"
     }
   ],
   "value_bets": [
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.25,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 23.53,
-      "edge_pct": 17.8,
-      "kelly_stake_pct": 1.37,
-      "suggested_stake": 13.69,
-      "expected_value": 17.8,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.147988+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.25,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 23.53,
-      "edge_pct": 17.8,
-      "kelly_stake_pct": 1.37,
-      "suggested_stake": 13.69,
-      "expected_value": 17.8,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.148030+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Grosvenor",
-      "odds": 4.2,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 16.41,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.82,
-      "expected_value": 16.41,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.147996+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.2,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 16.41,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.82,
-      "expected_value": 16.41,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.148011+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Casumo",
-      "odds": 4.2,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 16.41,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.82,
-      "expected_value": 16.41,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.148018+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Coolbet",
-      "odds": 4.2,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 16.41,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.82,
-      "expected_value": 16.41,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.148048+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "e525b26df615c89d31e7affabdb475e3",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-03T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "1xBet",
-      "odds": 4.16,
-      "fair_odds": 3.608,
-      "true_prob_pct": 27.72,
-      "implied_prob_pct": 24.04,
-      "edge_pct": 15.31,
-      "kelly_stake_pct": 1.21,
-      "suggested_stake": 12.11,
-      "expected_value": 15.31,
-      "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.148038+00:00"
-    },
     {
       "type": "VALUE_BET",
       "event_id": "6ff22480704fc10dca4fb5f56513a4f4",
@@ -351,16 +210,142 @@
       "market": "h2h",
       "outcome": "Montréal Canadiens",
       "bookmaker": "1xBet",
-      "odds": 3.2,
-      "fair_odds": 2.794,
-      "true_prob_pct": 35.79,
-      "implied_prob_pct": 31.25,
-      "edge_pct": 14.53,
-      "kelly_stake_pct": 1.65,
-      "suggested_stake": 16.51,
-      "expected_value": 14.53,
+      "odds": 3.21,
+      "fair_odds": 2.79,
+      "true_prob_pct": 35.84,
+      "implied_prob_pct": 31.15,
+      "edge_pct": 15.06,
+      "kelly_stake_pct": 1.7,
+      "suggested_stake": 17.03,
+      "expected_value": 15.06,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.148978+00:00"
+      "found_at": "2026-05-03T10:56:47.480156+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6ff22480704fc10dca4fb5f56513a4f4",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Tampa Bay Lightning vs Montréal Canadiens",
+      "commence": "2026-05-03T22:10:00Z",
+      "market": "h2h",
+      "outcome": "Montréal Canadiens",
+      "bookmaker": "Marathon Bet",
+      "odds": 3.16,
+      "fair_odds": 2.79,
+      "true_prob_pct": 35.84,
+      "implied_prob_pct": 31.65,
+      "edge_pct": 13.27,
+      "kelly_stake_pct": 1.54,
+      "suggested_stake": 15.35,
+      "expected_value": 13.27,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.480176+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6ff22480704fc10dca4fb5f56513a4f4",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Tampa Bay Lightning vs Montréal Canadiens",
+      "commence": "2026-05-03T22:10:00Z",
+      "market": "h2h",
+      "outcome": "Montréal Canadiens",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.15,
+      "fair_odds": 2.79,
+      "true_prob_pct": 35.84,
+      "implied_prob_pct": 31.75,
+      "edge_pct": 12.91,
+      "kelly_stake_pct": 1.5,
+      "suggested_stake": 15.01,
+      "expected_value": 12.91,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.480113+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6ff22480704fc10dca4fb5f56513a4f4",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Tampa Bay Lightning vs Montréal Canadiens",
+      "commence": "2026-05-03T22:10:00Z",
+      "market": "h2h",
+      "outcome": "Montréal Canadiens",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.15,
+      "fair_odds": 2.79,
+      "true_prob_pct": 35.84,
+      "implied_prob_pct": 31.75,
+      "edge_pct": 12.91,
+      "kelly_stake_pct": 1.5,
+      "suggested_stake": 15.01,
+      "expected_value": 12.91,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.480120+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "dd40fd7156c9a60a0ce8365206fc9310",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Minnesota Wild",
+      "commence": "2026-05-04T01:10:15Z",
+      "market": "h2h",
+      "outcome": "Minnesota Wild",
+      "bookmaker": "1xBet",
+      "odds": 3.37,
+      "fair_odds": 2.989,
+      "true_prob_pct": 33.46,
+      "implied_prob_pct": 29.67,
+      "edge_pct": 12.75,
+      "kelly_stake_pct": 1.35,
+      "suggested_stake": 13.45,
+      "expected_value": 12.75,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.481001+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "dd40fd7156c9a60a0ce8365206fc9310",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Minnesota Wild",
+      "commence": "2026-05-04T01:10:15Z",
+      "market": "h2h",
+      "outcome": "Minnesota Wild",
+      "bookmaker": "Coolbet",
+      "odds": 3.35,
+      "fair_odds": 2.989,
+      "true_prob_pct": 33.46,
+      "implied_prob_pct": 29.85,
+      "edge_pct": 12.08,
+      "kelly_stake_pct": 1.29,
+      "suggested_stake": 12.85,
+      "expected_value": 12.08,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.480900+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "dd40fd7156c9a60a0ce8365206fc9310",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Minnesota Wild",
+      "commence": "2026-05-04T01:10:15Z",
+      "market": "h2h",
+      "outcome": "Minnesota Wild",
+      "bookmaker": "Unibet (UK)",
+      "odds": 3.35,
+      "fair_odds": 2.989,
+      "true_prob_pct": 33.46,
+      "implied_prob_pct": 29.85,
+      "edge_pct": 12.08,
+      "kelly_stake_pct": 1.29,
+      "suggested_stake": 12.85,
+      "expected_value": 12.08,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.480907+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -372,16 +357,16 @@
       "market": "h2h",
       "outcome": "Minnesota Wild",
       "bookmaker": "Unibet (SE)",
-      "odds": 3.45,
-      "fair_odds": 3.026,
-      "true_prob_pct": 33.05,
-      "implied_prob_pct": 28.99,
-      "edge_pct": 14.02,
-      "kelly_stake_pct": 1.43,
-      "suggested_stake": 14.31,
-      "expected_value": 14.02,
+      "odds": 3.35,
+      "fair_odds": 2.989,
+      "true_prob_pct": 33.46,
+      "implied_prob_pct": 29.85,
+      "edge_pct": 12.08,
+      "kelly_stake_pct": 1.29,
+      "suggested_stake": 12.85,
+      "expected_value": 12.08,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.149744+00:00"
+      "found_at": "2026-05-03T10:56:47.480936+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -393,16 +378,37 @@
       "market": "h2h",
       "outcome": "Minnesota Wild",
       "bookmaker": "LeoVegas (SE)",
-      "odds": 3.45,
-      "fair_odds": 3.026,
-      "true_prob_pct": 33.05,
-      "implied_prob_pct": 28.99,
-      "edge_pct": 14.02,
-      "kelly_stake_pct": 1.43,
-      "suggested_stake": 14.31,
-      "expected_value": 14.02,
+      "odds": 3.35,
+      "fair_odds": 2.989,
+      "true_prob_pct": 33.46,
+      "implied_prob_pct": 29.85,
+      "edge_pct": 12.08,
+      "kelly_stake_pct": 1.29,
+      "suggested_stake": 12.85,
+      "expected_value": 12.08,
       "confidence": "ALTA",
-      "found_at": "2026-05-02T19:04:50.149766+00:00"
+      "found_at": "2026-05-03T10:56:47.480961+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "6ff22480704fc10dca4fb5f56513a4f4",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Tampa Bay Lightning vs Montréal Canadiens",
+      "commence": "2026-05-03T22:10:00Z",
+      "market": "h2h",
+      "outcome": "Montréal Canadiens",
+      "bookmaker": "Unibet (NL)",
+      "odds": 3.1,
+      "fair_odds": 2.79,
+      "true_prob_pct": 35.84,
+      "implied_prob_pct": 32.26,
+      "edge_pct": 11.11,
+      "kelly_stake_pct": 1.32,
+      "suggested_stake": 13.23,
+      "expected_value": 11.11,
+      "confidence": "ALTA",
+      "found_at": "2026-05-03T10:56:47.480105+00:00"
     }
   ]
 }
