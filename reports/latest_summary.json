@@ -1,62 +1,167 @@
 {
-  "timestamp": "2026-05-04 11:52 UTC",
-  "arbitrages_found": 23,
+  "timestamp": "2026-05-04 19:44 UTC",
+  "arbitrages_found": 26,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 22,
-      "vbs": 10
+      "arbs": 25,
+      "vbs": 15
     },
     "tennis": {
       "arbs": 0,
       "vbs": 0
     },
     "basketball": {
-      "arbs": 0,
+      "arbs": 1,
       "vbs": 0
     },
     "hockey": {
-      "arbs": 1,
-      "vbs": 5
+      "arbs": 0,
+      "vbs": 0
     }
   },
-  "best_arb_margin": 3.156,
-  "best_value_edge": 28.37,
+  "best_arb_margin": 3.786,
+  "best_value_edge": 33.76,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "157189c91b8cdd9f8753a8c4d196c8d1",
+      "event_id": "284021ef84cefaab8089c4630eaf0acc",
       "sport": "soccer",
       "league": "La Liga - Spain",
-      "match": "Rayo Vallecano vs Girona",
-      "commence": "2026-05-11T19:00:00Z",
+      "match": "Sevilla vs Real Madrid",
+      "commence": "2026-05-17T17:00:00Z",
       "market": "h2h",
-      "margin_pct": 3.156,
-      "implied_probability_sum": 0.96844,
-      "guaranteed_profit": 31.56,
+      "margin_pct": 3.786,
+      "implied_probability_sum": 0.96214,
+      "guaranteed_profit": 37.86,
       "stakes": {
-        "Draw": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 3.6,
-          "stake_pct": 28.68,
-          "stake_amount": 286.83
-        },
-        "Rayo Vallecano": {
+        "Sevilla": {
           "bookmaker": "1xBet",
-          "odds": 2.55,
-          "stake_pct": 40.49,
-          "stake_amount": 404.94
+          "odds": 4.23,
+          "stake_pct": 24.57,
+          "stake_amount": 245.71
         },
-        "Girona": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 3.35,
-          "stake_pct": 30.82,
-          "stake_amount": 308.23
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 4.43,
+          "stake_pct": 23.46,
+          "stake_amount": 234.62
+        },
+        "Real Madrid": {
+          "bookmaker": "Betfair",
+          "odds": 2.0,
+          "stake_pct": 51.97,
+          "stake_amount": 519.67
         }
       },
-      "num_bookmakers_checked": 34,
-      "fresh_bookmakers": 34,
-      "found_at": "2026-05-04T11:52:01.878848+00:00"
+      "num_bookmakers_checked": 12,
+      "fresh_bookmakers": 12,
+      "found_at": "2026-05-04T19:44:36.563496+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "129bf1300cca29a85d0ebc69b0765602",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Sevilla vs Real Sociedad",
+      "commence": "2026-05-04T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.571,
+      "implied_probability_sum": 0.97429,
+      "guaranteed_profit": 25.71,
+      "stakes": {
+        "Sevilla": {
+          "bookmaker": "Sky Bet",
+          "odds": 2.45,
+          "stake_pct": 41.89,
+          "stake_amount": 418.94
+        },
+        "Draw": {
+          "bookmaker": "Pinnacle",
+          "odds": 2.83,
+          "stake_pct": 36.27,
+          "stake_amount": 362.68
+        },
+        "Real Sociedad": {
+          "bookmaker": "Betfair",
+          "odds": 4.7,
+          "stake_pct": 21.84,
+          "stake_amount": 218.38
+        }
+      },
+      "num_bookmakers_checked": 28,
+      "fresh_bookmakers": 28,
+      "found_at": "2026-05-04T19:44:36.554358+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "09d5570dec06194bdd8124831b9deb5a",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Everton vs Manchester City",
+      "commence": "2026-05-04T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.179,
+      "implied_probability_sum": 0.97821,
+      "guaranteed_profit": 21.79,
+      "stakes": {
+        "Manchester City": {
+          "bookmaker": "Betfair",
+          "odds": 1.58,
+          "stake_pct": 64.7,
+          "stake_amount": 647.01
+        },
+        "Draw": {
+          "bookmaker": "Pinnacle",
+          "odds": 4.27,
+          "stake_pct": 23.94,
+          "stake_amount": 239.41
+        },
+        "Everton": {
+          "bookmaker": "Betfair",
+          "odds": 9.0,
+          "stake_pct": 11.36,
+          "stake_amount": 113.59
+        }
+      },
+      "num_bookmakers_checked": 31,
+      "fresh_bookmakers": 31,
+      "found_at": "2026-05-04T19:44:36.539034+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "f47ad49910710e3636f51b0b0898306d",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Parma vs AS Roma",
+      "commence": "2026-05-10T16:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.865,
+      "implied_probability_sum": 0.98135,
+      "guaranteed_profit": 18.65,
+      "stakes": {
+        "AS Roma": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 1.71,
+          "stake_pct": 59.59,
+          "stake_amount": 595.91
+        },
+        "Draw": {
+          "bookmaker": "Pinnacle",
+          "odds": 4.35,
+          "stake_pct": 23.43,
+          "stake_amount": 234.25
+        },
+        "Parma": {
+          "bookmaker": "Matchbook",
+          "odds": 6.0,
+          "stake_pct": 16.98,
+          "stake_amount": 169.83
+        }
+      },
+      "num_bookmakers_checked": 36,
+      "fresh_bookmakers": 36,
+      "found_at": "2026-05-04T19:44:36.551628+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -66,161 +171,35 @@
       "match": "Alavés vs Barcelona",
       "commence": "2026-05-13T19:30:00Z",
       "market": "h2h",
-      "margin_pct": 1.872,
-      "implied_probability_sum": 0.98128,
-      "guaranteed_profit": 18.72,
+      "margin_pct": 1.674,
+      "implied_probability_sum": 0.98326,
+      "guaranteed_profit": 16.74,
       "stakes": {
-        "Barcelona": {
-          "bookmaker": "1xBet",
-          "odds": 1.84,
-          "stake_pct": 55.38,
-          "stake_amount": 553.85
-        },
-        "Draw": {
-          "bookmaker": "Tipico",
-          "odds": 4.4,
-          "stake_pct": 23.16,
-          "stake_amount": 231.61
-        },
         "Alavés": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 4.75,
-          "stake_pct": 21.45,
-          "stake_amount": 214.54
-        }
-      },
-      "num_bookmakers_checked": 28,
-      "fresh_bookmakers": 28,
-      "found_at": "2026-05-04T11:52:01.880757+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "541c5e45c0f5393079508826d283ea6e",
-      "sport": "soccer",
-      "league": "UEFA Champions League",
-      "match": "Bayern Munich vs Paris Saint Germain",
-      "commence": "2026-05-06T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.56,
-      "implied_probability_sum": 0.9844,
-      "guaranteed_profit": 15.6,
-      "stakes": {
-        "Paris Saint Germain": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 4.33,
+          "stake_pct": 23.49,
+          "stake_amount": 234.88
+        },
+        "Draw": {
           "bookmaker": "1xBet",
-          "odds": 4.21,
-          "stake_pct": 24.13,
-          "stake_amount": 241.29
+          "odds": 4.32,
+          "stake_pct": 23.54,
+          "stake_amount": 235.42
         },
-        "Bayern Munich": {
+        "Barcelona": {
           "bookmaker": "Betfair",
-          "odds": 1.75,
-          "stake_pct": 58.05,
-          "stake_amount": 580.49
-        },
-        "Draw": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 5.7,
-          "stake_pct": 17.82,
-          "stake_amount": 178.22
+          "odds": 1.92,
+          "stake_pct": 52.97,
+          "stake_amount": 529.7
         }
       },
-      "num_bookmakers_checked": 41,
-      "fresh_bookmakers": 41,
-      "found_at": "2026-05-04T11:52:01.893748+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "eea93184179647a445d8227614dedcef",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "VfL Wolfsburg vs Bayern Munich",
-      "commence": "2026-05-09T16:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.452,
-      "implied_probability_sum": 0.98548,
-      "guaranteed_profit": 14.52,
-      "stakes": {
-        "Bayern Munich": {
-          "bookmaker": "Betfair",
-          "odds": 1.72,
-          "stake_pct": 59.0,
-          "stake_amount": 589.96
-        },
-        "Draw": {
-          "bookmaker": "Coolbet",
-          "odds": 5.0,
-          "stake_pct": 20.29,
-          "stake_amount": 202.95
-        },
-        "VfL Wolfsburg": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 4.9,
-          "stake_pct": 20.71,
-          "stake_amount": 207.09
-        }
-      },
-      "num_bookmakers_checked": 41,
-      "fresh_bookmakers": 41,
-      "found_at": "2026-05-04T11:52:01.886378+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "a0931093de6a061932b13dca2757ca04",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Lecce vs Juventus",
-      "commence": "2026-05-09T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 1.38,
-      "implied_probability_sum": 0.9862,
-      "guaranteed_profit": 13.8,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 4.5,
-          "stake_pct": 22.53,
-          "stake_amount": 225.33
-        },
-        "Juventus": {
-          "bookmaker": "1xBet",
-          "odds": 1.61,
-          "stake_pct": 62.98,
-          "stake_amount": 629.81
-        },
-        "Lecce": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 7.0,
-          "stake_pct": 14.49,
-          "stake_amount": 144.86
-        }
-      },
-      "num_bookmakers_checked": 40,
-      "fresh_bookmakers": 40,
-      "found_at": "2026-05-04T11:52:01.869473+00:00"
+      "num_bookmakers_checked": 29,
+      "fresh_bookmakers": 29,
+      "found_at": "2026-05-04T19:44:36.560910+00:00"
     }
   ],
   "value_bets": [
-    {
-      "type": "VALUE_BET",
-      "event_id": "284021ef84cefaab8089c4630eaf0acc",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Sevilla vs Real Madrid",
-      "commence": "2026-05-17T17:00:00Z",
-      "market": "h2h",
-      "outcome": "Sevilla",
-      "bookmaker": "1xBet",
-      "odds": 4.23,
-      "fair_odds": 3.295,
-      "true_prob_pct": 30.35,
-      "implied_prob_pct": 23.64,
-      "edge_pct": 28.37,
-      "kelly_stake_pct": 2.2,
-      "suggested_stake": 21.96,
-      "expected_value": 28.37,
-      "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.883495+00:00"
-    },
     {
       "type": "VALUE_BET",
       "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
@@ -232,78 +211,120 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.85,
-      "fair_odds": 3.79,
-      "true_prob_pct": 26.39,
+      "fair_odds": 3.626,
+      "true_prob_pct": 27.58,
       "implied_prob_pct": 20.62,
-      "edge_pct": 27.97,
-      "kelly_stake_pct": 1.82,
-      "suggested_stake": 18.17,
-      "expected_value": 27.97,
+      "edge_pct": 33.76,
+      "kelly_stake_pct": 2.19,
+      "suggested_stake": 21.92,
+      "expected_value": 33.76,
       "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.882678+00:00"
+      "found_at": "2026-05-04T19:44:36.562911+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "284021ef84cefaab8089c4630eaf0acc",
+      "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
       "sport": "soccer",
       "league": "La Liga - Spain",
-      "match": "Sevilla vs Real Madrid",
+      "match": "Atlético Madrid vs Girona",
       "commence": "2026-05-17T17:00:00Z",
       "market": "h2h",
-      "outcome": "Sevilla",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.2,
-      "fair_odds": 3.295,
-      "true_prob_pct": 30.35,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 27.46,
-      "kelly_stake_pct": 2.15,
-      "suggested_stake": 21.46,
-      "expected_value": 27.46,
+      "outcome": "Girona",
+      "bookmaker": "William Hill",
+      "odds": 5.0,
+      "fair_odds": 3.968,
+      "true_prob_pct": 25.2,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 26.01,
+      "kelly_stake_pct": 1.63,
+      "suggested_stake": 16.26,
+      "expected_value": 26.01,
       "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.883488+00:00"
+      "found_at": "2026-05-04T19:44:36.562885+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "644f37a134497f23c6d3821ad599b48b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-04T23:10:00Z",
+      "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Girona",
+      "commence": "2026-05-17T17:00:00Z",
       "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.7,
-      "fair_odds": 3.787,
-      "true_prob_pct": 26.41,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 24.12,
+      "outcome": "Girona",
+      "bookmaker": "Paddy Power",
+      "odds": 5.0,
+      "fair_odds": 3.968,
+      "true_prob_pct": 25.2,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 26.01,
       "kelly_stake_pct": 1.63,
-      "suggested_stake": 16.3,
-      "expected_value": 24.12,
+      "suggested_stake": 16.26,
+      "expected_value": 26.01,
       "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.898080+00:00"
+      "found_at": "2026-05-04T19:44:36.562892+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "644f37a134497f23c6d3821ad599b48b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-04T23:10:00Z",
+      "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Girona",
+      "commence": "2026-05-17T17:00:00Z",
       "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.7,
-      "fair_odds": 3.787,
-      "true_prob_pct": 26.41,
-      "implied_prob_pct": 21.28,
-      "edge_pct": 24.12,
+      "outcome": "Girona",
+      "bookmaker": "Unibet (UK)",
+      "odds": 5.0,
+      "fair_odds": 3.968,
+      "true_prob_pct": 25.2,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 26.01,
       "kelly_stake_pct": 1.63,
-      "suggested_stake": 16.3,
-      "expected_value": 24.12,
+      "suggested_stake": 16.26,
+      "expected_value": 26.01,
       "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.898087+00:00"
+      "found_at": "2026-05-04T19:44:36.562899+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Girona",
+      "commence": "2026-05-17T17:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.5,
+      "fair_odds": 3.626,
+      "true_prob_pct": 27.58,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 24.11,
+      "kelly_stake_pct": 1.72,
+      "suggested_stake": 17.22,
+      "expected_value": 24.11,
+      "confidence": "ALTA",
+      "found_at": "2026-05-04T19:44:36.562933+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Girona",
+      "commence": "2026-05-17T17:00:00Z",
+      "market": "h2h",
+      "outcome": "Girona",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.9,
+      "fair_odds": 3.968,
+      "true_prob_pct": 25.2,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 23.49,
+      "kelly_stake_pct": 1.51,
+      "suggested_stake": 15.06,
+      "expected_value": 23.49,
+      "confidence": "ALTA",
+      "found_at": "2026-05-04T19:44:36.562876+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -316,99 +337,78 @@
       "outcome": "Draw",
       "bookmaker": "1xBet",
       "odds": 4.43,
-      "fair_odds": 3.637,
-      "true_prob_pct": 27.5,
+      "fair_odds": 3.644,
+      "true_prob_pct": 27.44,
       "implied_prob_pct": 22.57,
-      "edge_pct": 21.81,
-      "kelly_stake_pct": 1.59,
-      "suggested_stake": 15.89,
-      "expected_value": 21.81,
+      "edge_pct": 21.58,
+      "kelly_stake_pct": 1.57,
+      "suggested_stake": 15.73,
+      "expected_value": 21.58,
       "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.883419+00:00"
+      "found_at": "2026-05-04T19:44:36.563549+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "644f37a134497f23c6d3821ad599b48b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-04T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Casumo",
-      "odds": 4.6,
-      "fair_odds": 3.787,
-      "true_prob_pct": 26.41,
-      "implied_prob_pct": 21.74,
-      "edge_pct": 21.48,
-      "kelly_stake_pct": 1.49,
-      "suggested_stake": 14.91,
-      "expected_value": 21.48,
-      "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.898062+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "644f37a134497f23c6d3821ad599b48b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-04T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.6,
-      "fair_odds": 3.787,
-      "true_prob_pct": 26.41,
-      "implied_prob_pct": 21.74,
-      "edge_pct": 21.48,
-      "kelly_stake_pct": 1.49,
-      "suggested_stake": 14.91,
-      "expected_value": 21.48,
-      "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.898072+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "644f37a134497f23c6d3821ad599b48b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Carolina Hurricanes vs Philadelphia Flyers",
-      "commence": "2026-05-04T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Grosvenor",
-      "odds": 4.6,
-      "fair_odds": 3.787,
-      "true_prob_pct": 26.41,
-      "implied_prob_pct": 21.74,
-      "edge_pct": 21.48,
-      "kelly_stake_pct": 1.49,
-      "suggested_stake": 14.91,
-      "expected_value": 21.48,
-      "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.898095+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "284021ef84cefaab8089c4630eaf0acc",
+      "event_id": "c2cf3acc301546b4365ec327bcde7cf5",
       "sport": "soccer",
       "league": "La Liga - Spain",
-      "match": "Sevilla vs Real Madrid",
+      "match": "Atlético Madrid vs Girona",
       "commence": "2026-05-17T17:00:00Z",
       "market": "h2h",
-      "outcome": "Sevilla",
-      "bookmaker": "Paddy Power",
-      "odds": 4.0,
-      "fair_odds": 3.295,
-      "true_prob_pct": 30.35,
-      "implied_prob_pct": 25.0,
-      "edge_pct": 21.39,
-      "kelly_stake_pct": 1.78,
-      "suggested_stake": 17.83,
-      "expected_value": 21.39,
+      "outcome": "Draw",
+      "bookmaker": "William Hill",
+      "odds": 4.4,
+      "fair_odds": 3.626,
+      "true_prob_pct": 27.58,
+      "implied_prob_pct": 22.73,
+      "edge_pct": 21.35,
+      "kelly_stake_pct": 1.57,
+      "suggested_stake": 15.7,
+      "expected_value": 21.35,
       "confidence": "ALTA",
-      "found_at": "2026-05-04T11:52:01.883503+00:00"
+      "found_at": "2026-05-04T19:44:36.562940+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bd38142035040006cfb0ca9d6e3ab2be",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Everton vs Sunderland",
+      "commence": "2026-05-17T14:00:00Z",
+      "market": "h2h",
+      "outcome": "Sunderland",
+      "bookmaker": "1xBet",
+      "odds": 4.67,
+      "fair_odds": 3.869,
+      "true_prob_pct": 25.84,
+      "implied_prob_pct": 21.41,
+      "edge_pct": 20.7,
+      "kelly_stake_pct": 1.41,
+      "suggested_stake": 14.1,
+      "expected_value": 20.7,
+      "confidence": "ALTA",
+      "found_at": "2026-05-04T19:44:36.546809+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "fa6f7c8af78a278250a86ef8febd7cfb",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Real Betis",
+      "commence": "2026-05-17T17:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (FR)",
+      "odds": 5.0,
+      "fair_odds": 4.15,
+      "true_prob_pct": 24.1,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 20.49,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.81,
+      "expected_value": 20.49,
+      "confidence": "ALTA",
+      "found_at": "2026-05-04T19:44:36.563020+00:00"
     }
   ]
 }
