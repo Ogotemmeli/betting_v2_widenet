@@ -1,294 +1,294 @@
 {
-  "timestamp": "2026-06-02_1405",
+  "timestamp": "2026-06-02_2052",
   "api_calls_used": 18,
   "leagues_active": 4,
   "leagues_inactive": 14,
-  "total_events": 27,
+  "total_events": 24,
   "by_sport": {
     "soccer": 0,
-    "tennis": 21,
+    "tennis": 18,
     "basketball": 3,
     "hockey": 3
   },
   "events": [
     {
-      "id": "d5775a5e72005193155af7b17aeb496c",
+      "id": "cc0adbef781ada963c0516646063a2e1",
       "sport": "tennis_atp_french_open",
       "sport_category": "tennis",
       "league": "ATP French Open",
-      "home_team": "Rafael Jodar",
-      "away_team": "Alexander Zverev",
-      "commence_time": "2026-06-02T12:45:00Z",
+      "home_team": "Jakub Mensik",
+      "away_team": "Joao Fonseca",
+      "commence_time": "2026-06-02T18:30:00Z",
       "market": "h2h",
       "bookmakers": [
         {
-          "bookmaker": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "bookmaker": "livescorebet",
+          "title": "LiveScore Bet",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Alexander Zverev": 1.18,
-            "Rafael Jodar": 5.19
-          }
-        },
-        {
-          "bookmaker": "betfair_sb_uk",
-          "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.13,
-            "Rafael Jodar": 6.0
-          }
-        },
-        {
-          "bookmaker": "smarkets",
-          "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Alexander Zverev": 1.16,
-            "Rafael Jodar": 6.0
-          }
-        },
-        {
-          "bookmaker": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Alexander Zverev": 1.1,
-            "Rafael Jodar": 6.5
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.3
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
-            "Alexander Zverev": 1.15,
-            "Rafael Jodar": 7.2
+            "Jakub Mensik": 1.57,
+            "Joao Fonseca": 2.72
           }
         },
         {
-          "bookmaker": "betfair_ex_eu",
-          "title": "Betfair",
-          "last_update": "2026-06-02T14:05:45Z",
+          "bookmaker": "betsson",
+          "title": "Betsson",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Alexander Zverev": 1.16,
-            "Rafael Jodar": 6.8
-          }
-        },
-        {
-          "bookmaker": "paddypower",
-          "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:22Z",
-          "outcomes": {
-            "Alexander Zverev": 1.12,
-            "Rafael Jodar": 5.5
-          }
-        },
-        {
-          "bookmaker": "betvictor",
-          "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:49Z",
-          "outcomes": {
-            "Alexander Zverev": 1.17,
-            "Rafael Jodar": 4.75
-          }
-        },
-        {
-          "bookmaker": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Alexander Zverev": 1.1,
-            "Rafael Jodar": 7.0
-          }
-        },
-        {
-          "bookmaker": "winamax_de",
-          "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.08,
-            "Rafael Jodar": 6.5
-          }
-        },
-        {
-          "bookmaker": "nordicbet",
-          "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
-          "outcomes": {
-            "Alexander Zverev": 1.1,
-            "Rafael Jodar": 6.5
-          }
-        },
-        {
-          "bookmaker": "unibet_uk",
-          "title": "Unibet (UK)",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Alexander Zverev": 1.1,
-            "Rafael Jodar": 7.0
-          }
-        },
-        {
-          "bookmaker": "betway",
-          "title": "Betway",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.15,
-            "Rafael Jodar": 5.5
-          }
-        },
-        {
-          "bookmaker": "winamax_fr",
-          "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.07,
-            "Rafael Jodar": 6.25
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
-          "outcomes": {
-            "Alexander Zverev": 1.09,
-            "Rafael Jodar": 7.25
-          }
-        },
-        {
-          "bookmaker": "betclic_fr",
-          "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:04:10Z",
-          "outcomes": {
-            "Alexander Zverev": 1.09,
-            "Rafael Jodar": 6.25
-          }
-        },
-        {
-          "bookmaker": "coral",
-          "title": "Coral",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.14,
-            "Rafael Jodar": 5.25
-          }
-        },
-        {
-          "bookmaker": "ladbrokes_uk",
-          "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev": 1.14,
-            "Rafael Jodar": 5.25
-          }
-        },
-        {
-          "bookmaker": "matchbook",
-          "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Alexander Zverev": 1.16,
-            "Rafael Jodar": 6.2
-          }
-        },
-        {
-          "bookmaker": "tipico_de",
-          "title": "Tipico",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.08,
-            "Rafael Jodar": 6.5
-          }
-        },
-        {
-          "bookmaker": "virginbet",
-          "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:22Z",
-          "outcomes": {
-            "Alexander Zverev": 1.11,
-            "Rafael Jodar": 5.75
-          }
-        },
-        {
-          "bookmaker": "livescorebet",
-          "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev": 1.11,
-            "Rafael Jodar": 5.75
-          }
-        },
-        {
-          "bookmaker": "leovegas",
-          "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev": 1.1,
-            "Rafael Jodar": 5.6
-          }
-        },
-        {
-          "bookmaker": "leovegas_se",
-          "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev": 1.1,
-            "Rafael Jodar": 5.5
-          }
-        },
-        {
-          "bookmaker": "casumo",
-          "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev": 1.12,
-            "Rafael Jodar": 6.1
-          }
-        },
-        {
-          "bookmaker": "pmu_fr",
-          "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.08,
-            "Rafael Jodar": 5.3
-          }
-        },
-        {
-          "bookmaker": "grosvenor",
-          "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev": 1.11,
-            "Rafael Jodar": 5.75
-          }
-        },
-        {
-          "bookmaker": "unibet_nl",
-          "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Alexander Zverev": 1.12,
-            "Rafael Jodar": 6.1
+            "Jakub Mensik": 1.27,
+            "Joao Fonseca": 3.6
           }
         },
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Alexander Zverev": 1.12,
-            "Rafael Jodar": 6.1
+            "Jakub Mensik": 1.32,
+            "Joao Fonseca": 3.4
+          }
+        },
+        {
+          "bookmaker": "betway",
+          "title": "Betway",
+          "last_update": "2026-06-02T20:50:42Z",
+          "outcomes": {
+            "Jakub Mensik": 1.55,
+            "Joao Fonseca": 2.5
+          }
+        },
+        {
+          "bookmaker": "smarkets",
+          "title": "Smarkets",
+          "last_update": "2026-06-02T20:52:57Z",
+          "outcomes": {
+            "Jakub Mensik": 1.35,
+            "Joao Fonseca": 3.7
+          }
+        },
+        {
+          "bookmaker": "nordicbet",
+          "title": "Nordic Bet",
+          "last_update": "2026-06-02T20:52:56Z",
+          "outcomes": {
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.5
+          }
+        },
+        {
+          "bookmaker": "coolbet",
+          "title": "Coolbet",
+          "last_update": "2026-06-02T20:52:38Z",
+          "outcomes": {
+            "Jakub Mensik": 1.25,
+            "Joao Fonseca": 4.0
+          }
+        },
+        {
+          "bookmaker": "matchbook",
+          "title": "Matchbook",
+          "last_update": "2026-06-02T20:52:57Z",
+          "outcomes": {
+            "Jakub Mensik": 1.39,
+            "Joao Fonseca": 3.5
+          }
+        },
+        {
+          "bookmaker": "betfair_ex_eu",
+          "title": "Betfair",
+          "last_update": "2026-06-02T20:52:56Z",
+          "outcomes": {
+            "Jakub Mensik": 1.35,
+            "Joao Fonseca": 3.8
+          }
+        },
+        {
+          "bookmaker": "leovegas_se",
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Jakub Mensik": 1.29,
+            "Joao Fonseca": 3.25
+          }
+        },
+        {
+          "bookmaker": "casumo",
+          "title": "Casumo",
+          "last_update": "2026-06-02T20:52:38Z",
+          "outcomes": {
+            "Jakub Mensik": 1.27,
+            "Joao Fonseca": 3.8
+          }
+        },
+        {
+          "bookmaker": "unibet_uk",
+          "title": "Unibet (UK)",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.6
+          }
+        },
+        {
+          "bookmaker": "leovegas",
+          "title": "LeoVegas",
+          "last_update": "2026-06-02T20:52:57Z",
+          "outcomes": {
+            "Jakub Mensik": 1.29,
+            "Joao Fonseca": 3.25
+          }
+        },
+        {
+          "bookmaker": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-06-02T20:51:59Z",
+          "outcomes": {
+            "Jakub Mensik": 1.85,
+            "Joao Fonseca": 1.85
+          }
+        },
+        {
+          "bookmaker": "unibet_nl",
+          "title": "Unibet (NL)",
+          "last_update": "2026-06-02T20:52:56Z",
+          "outcomes": {
+            "Jakub Mensik": 1.32,
+            "Joao Fonseca": 3.4
+          }
+        },
+        {
+          "bookmaker": "pmu_fr",
+          "title": "PMU (FR)",
+          "last_update": "2026-06-02T20:52:19Z",
+          "outcomes": {
+            "Jakub Mensik": 1.21,
+            "Joao Fonseca": 3.5
+          }
+        },
+        {
+          "bookmaker": "grosvenor",
+          "title": "Grosvenor",
+          "last_update": "2026-06-02T20:52:17Z",
+          "outcomes": {
+            "Jakub Mensik": 1.26,
+            "Joao Fonseca": 3.65
+          }
+        },
+        {
+          "bookmaker": "betvictor",
+          "title": "Bet Victor",
+          "last_update": "2026-06-02T20:51:40Z",
+          "outcomes": {
+            "Jakub Mensik": 1.4,
+            "Joao Fonseca": 2.88
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-02T20:52:56Z",
+          "outcomes": {
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.4
+          }
+        },
+        {
+          "bookmaker": "virginbet",
+          "title": "Virgin Bet",
+          "last_update": "2026-06-02T20:52:57Z",
+          "outcomes": {
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.3
+          }
+        },
+        {
+          "bookmaker": "betclic_fr",
+          "title": "Betclic (FR)",
+          "last_update": "2026-06-02T20:50:56Z",
+          "outcomes": {
+            "Jakub Mensik": 1.48,
+            "Joao Fonseca": 2.5
+          }
+        },
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-02T20:50:59Z",
+          "outcomes": {
+            "Jakub Mensik": 1.5,
+            "Joao Fonseca": 2.5
+          }
+        },
+        {
+          "bookmaker": "winamax_fr",
+          "title": "Winamax (FR)",
+          "last_update": "2026-06-02T20:52:00Z",
+          "outcomes": {
+            "Jakub Mensik": 1.24,
+            "Joao Fonseca": 3.25
+          }
+        },
+        {
+          "bookmaker": "winamax_de",
+          "title": "Winamax (DE)",
+          "last_update": "2026-06-02T20:52:02Z",
+          "outcomes": {
+            "Jakub Mensik": 1.26,
+            "Joao Fonseca": 3.35
+          }
+        },
+        {
+          "bookmaker": "ladbrokes_uk",
+          "title": "Ladbrokes",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.3
+          }
+        },
+        {
+          "bookmaker": "coral",
+          "title": "Coral",
+          "last_update": "2026-06-02T20:52:41Z",
+          "outcomes": {
+            "Jakub Mensik": 1.3,
+            "Joao Fonseca": 3.25
+          }
+        },
+        {
+          "bookmaker": "tipico_de",
+          "title": "Tipico",
+          "last_update": "2026-06-02T20:52:37Z",
+          "outcomes": {
+            "Jakub Mensik": 1.25,
+            "Joao Fonseca": 3.6
+          }
+        },
+        {
+          "bookmaker": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-06-02T20:52:57Z",
+          "outcomes": {
+            "Jakub Mensik": 1.91,
+            "Joao Fonseca": 1.93
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:36Z",
           "outcomes": {
-            "Alexander Zverev": 1.11,
-            "Rafael Jodar": 6.0
+            "Jakub Mensik": 1.25,
+            "Joao Fonseca": 3.75
           }
         }
       ],
@@ -296,76 +296,76 @@
       "stale_filtered": 0
     },
     {
-      "id": "d5775a5e72005193155af7b17aeb496c",
+      "id": "cc0adbef781ada963c0516646063a2e1",
       "sport": "tennis_atp_french_open",
       "sport_category": "tennis",
       "league": "ATP French Open",
-      "home_team": "Rafael Jodar",
-      "away_team": "Alexander Zverev",
-      "commence_time": "2026-06-02T12:45:00Z",
+      "home_team": "Jakub Mensik",
+      "away_team": "Joao Fonseca",
+      "commence_time": "2026-06-02T18:30:00Z",
       "market": "totals",
       "bookmakers": [
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 37.5": 1.85,
-            "Under 37.5": 1.85
+            "Over 32.5": 1.85,
+            "Under 32.5": 1.85
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Over 37.5": 1.85,
-            "Under 37.5": 1.85
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
-          "outcomes": {
-            "Over 35.5": 1.8,
-            "Under 35.5": 1.9
+            "Over 40.5": 1.9,
+            "Under 40.5": 1.8
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Over 38.5": 1.88,
-            "Under 38.5": 1.87
+            "Over 39.5": 1.87,
+            "Under 39.5": 1.88
           }
         },
         {
-          "bookmaker": "pmu_fr",
-          "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "bookmaker": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 38.5": 1.79,
-            "Under 38.5": 1.77
-          }
-        },
-        {
-          "bookmaker": "grosvenor",
-          "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Over 38.5": 1.85,
-            "Under 38.5": 1.83
+            "Over 46.5": 1.95,
+            "Under 46.5": 1.75
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Over 38.5": 1.88,
-            "Under 38.5": 1.87
+            "Over 41.5": 1.91,
+            "Under 41.5": 1.85
+          }
+        },
+        {
+          "bookmaker": "pmu_fr",
+          "title": "PMU (FR)",
+          "last_update": "2026-06-02T20:52:19Z",
+          "outcomes": {
+            "Over 39.5": 1.77,
+            "Under 39.5": 1.79
+          }
+        },
+        {
+          "bookmaker": "grosvenor",
+          "title": "Grosvenor",
+          "last_update": "2026-06-02T20:52:17Z",
+          "outcomes": {
+            "Over 39.5": 1.83,
+            "Under 39.5": 1.85
           }
         }
       ],
@@ -373,698 +373,71 @@
       "stale_filtered": 0
     },
     {
-      "id": "d5775a5e72005193155af7b17aeb496c",
+      "id": "cc0adbef781ada963c0516646063a2e1",
       "sport": "tennis_atp_french_open",
       "sport_category": "tennis",
       "league": "ATP French Open",
-      "home_team": "Rafael Jodar",
-      "away_team": "Alexander Zverev",
-      "commence_time": "2026-06-02T12:45:00Z",
+      "home_team": "Jakub Mensik",
+      "away_team": "Joao Fonseca",
+      "commence_time": "2026-06-02T18:30:00Z",
       "market": "spreads",
       "bookmakers": [
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Alexander Zverev (-5.5)": 2.0,
-            "Rafael Jodar (5.5)": 1.8
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
-          "outcomes": {
-            "Alexander Zverev (-5.5)": 1.8,
-            "Rafael Jodar (5.5)": 1.9
+            "Jakub Mensik (-5.5)": 1.5,
+            "Joao Fonseca (5.5)": 2.55
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Alexander Zverev (-5.5)": 2.06,
-            "Rafael Jodar (5.5)": 1.73
+            "Jakub Mensik (-5.5)": 1.53,
+            "Joao Fonseca (5.5)": 2.43
           }
         },
         {
-          "bookmaker": "pmu_fr",
-          "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "bookmaker": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Alexander Zverev (-5.5)": 1.94,
-            "Rafael Jodar (5.5)": 1.64
-          }
-        },
-        {
-          "bookmaker": "grosvenor",
-          "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Alexander Zverev (-5.5)": 2.02,
-            "Rafael Jodar (5.5)": 1.71
+            "Jakub Mensik (-0.5)": 1.85,
+            "Joao Fonseca (0.5)": 1.85
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Alexander Zverev (-5.5)": 2.06,
-            "Rafael Jodar (5.5)": 1.73
+            "Jakub Mensik (-5.5)": 1.64,
+            "Joao Fonseca (5.5)": 2.2
+          }
+        },
+        {
+          "bookmaker": "pmu_fr",
+          "title": "PMU (FR)",
+          "last_update": "2026-06-02T20:52:19Z",
+          "outcomes": {
+            "Jakub Mensik (-5.5)": 1.43,
+            "Joao Fonseca (5.5)": 2.35
+          }
+        },
+        {
+          "bookmaker": "grosvenor",
+          "title": "Grosvenor",
+          "last_update": "2026-06-02T20:52:17Z",
+          "outcomes": {
+            "Jakub Mensik (-5.5)": 1.5,
+            "Joao Fonseca (5.5)": 2.45
           }
         }
       ],
       "fresh_bookmakers": 6,
-      "stale_filtered": 0
-    },
-    {
-      "id": "cc0adbef781ada963c0516646063a2e1",
-      "sport": "tennis_atp_french_open",
-      "sport_category": "tennis",
-      "league": "ATP French Open",
-      "home_team": "Jakub Mensik",
-      "away_team": "Joao Fonseca",
-      "commence_time": "2026-06-02T18:15:00Z",
-      "market": "h2h",
-      "bookmakers": [
-        {
-          "bookmaker": "livescorebet",
-          "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.43
-          }
-        },
-        {
-          "bookmaker": "betfair_ex_uk",
-          "title": "Betfair",
-          "last_update": "2026-06-02T14:05:44Z",
-          "outcomes": {
-            "Jakub Mensik": 2.9,
-            "Joao Fonseca": 1.52
-          }
-        },
-        {
-          "bookmaker": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "unibet_se",
-          "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "betway",
-          "title": "Betway",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.65,
-            "Joao Fonseca": 1.44
-          }
-        },
-        {
-          "bookmaker": "smarkets",
-          "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Jakub Mensik": 2.84,
-            "Joao Fonseca": 1.5
-          }
-        },
-        {
-          "bookmaker": "nordicbet",
-          "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "unibet_fr",
-          "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.49
-          }
-        },
-        {
-          "bookmaker": "matchbook",
-          "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Jakub Mensik": 2.88,
-            "Joao Fonseca": 1.52
-          }
-        },
-        {
-          "bookmaker": "betfair_ex_eu",
-          "title": "Betfair",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Jakub Mensik": 2.9,
-            "Joao Fonseca": 1.52
-          }
-        },
-        {
-          "bookmaker": "leovegas_se",
-          "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "casumo",
-          "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "codere_it",
-          "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.46
-          }
-        },
-        {
-          "bookmaker": "unibet_uk",
-          "title": "Unibet (UK)",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "leovegas",
-          "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "gtbets",
-          "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.49
-          }
-        },
-        {
-          "bookmaker": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
-          "outcomes": {
-            "Jakub Mensik": 2.82,
-            "Joao Fonseca": 1.49
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
-          "outcomes": {
-            "Jakub Mensik": 2.77,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "unibet_nl",
-          "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "pmu_fr",
-          "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "grosvenor",
-          "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "betvictor",
-          "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:49Z",
-          "outcomes": {
-            "Jakub Mensik": 2.6,
-            "Joao Fonseca": 1.44
-          }
-        },
-        {
-          "bookmaker": "betfair_sb_uk",
-          "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.44
-          }
-        },
-        {
-          "bookmaker": "virginbet",
-          "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:22Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.43
-          }
-        },
-        {
-          "bookmaker": "betclic_fr",
-          "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:04:10Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "paddypower",
-          "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:22Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.4
-          }
-        },
-        {
-          "bookmaker": "winamax_fr",
-          "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.46
-          }
-        },
-        {
-          "bookmaker": "winamax_de",
-          "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.8,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "ladbrokes_uk",
-          "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.7,
-            "Joao Fonseca": 1.44
-          }
-        },
-        {
-          "bookmaker": "coral",
-          "title": "Coral",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.7,
-            "Joao Fonseca": 1.44
-          }
-        },
-        {
-          "bookmaker": "tipico_de",
-          "title": "Tipico",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik": 2.7,
-            "Joao Fonseca": 1.45
-          }
-        },
-        {
-          "bookmaker": "marathonbet",
-          "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:04:15Z",
-          "outcomes": {
-            "Jakub Mensik": 2.78,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.51
-          }
-        },
-        {
-          "bookmaker": "betonlineag",
-          "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.48
-          }
-        },
-        {
-          "bookmaker": "betanysports",
-          "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.75,
-            "Joao Fonseca": 1.47
-          }
-        },
-        {
-          "bookmaker": "everygame",
-          "title": "Everygame",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.55,
-            "Joao Fonseca": 1.5
-          }
-        },
-        {
-          "bookmaker": "sport888",
-          "title": "888sport",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik": 2.6,
-            "Joao Fonseca": 1.5
-          }
-        },
-        {
-          "bookmaker": "williamhill",
-          "title": "William Hill",
-          "last_update": "2026-06-02T14:05:22Z",
-          "outcomes": {
-            "Jakub Mensik": 2.6,
-            "Joao Fonseca": 1.5
-          }
-        }
-      ],
-      "fresh_bookmakers": 39,
-      "stale_filtered": 0
-    },
-    {
-      "id": "cc0adbef781ada963c0516646063a2e1",
-      "sport": "tennis_atp_french_open",
-      "sport_category": "tennis",
-      "league": "ATP French Open",
-      "home_team": "Jakub Mensik",
-      "away_team": "Joao Fonseca",
-      "commence_time": "2026-06-02T18:15:00Z",
-      "market": "totals",
-      "bookmakers": [
-        {
-          "bookmaker": "betsson",
-          "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Over 37.5": 1.8,
-            "Under 37.5": 1.91
-          }
-        },
-        {
-          "bookmaker": "nordicbet",
-          "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
-          "outcomes": {
-            "Over 37.5": 1.8,
-            "Under 37.5": 1.91
-          }
-        },
-        {
-          "bookmaker": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Over 37.5": 1.85,
-            "Under 37.5": 2.0
-          }
-        },
-        {
-          "bookmaker": "matchbook",
-          "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Over 38.0": 1.93,
-            "Under 38.0": 1.94
-          }
-        },
-        {
-          "bookmaker": "casumo",
-          "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Over 38.5": 1.94,
-            "Under 38.5": 1.85
-          }
-        },
-        {
-          "bookmaker": "gtbets",
-          "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Over 38.5": 1.94,
-            "Under 38.5": 1.84
-          }
-        },
-        {
-          "bookmaker": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
-          "outcomes": {
-            "Over 38.5": 1.95,
-            "Under 38.5": 1.87
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
-          "outcomes": {
-            "Over 37.5": 1.8,
-            "Under 37.5": 1.91
-          }
-        },
-        {
-          "bookmaker": "unibet_nl",
-          "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Over 38.5": 1.94,
-            "Under 38.5": 1.85
-          }
-        },
-        {
-          "bookmaker": "pmu_fr",
-          "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Over 38.5": 1.81,
-            "Under 38.5": 1.72
-          }
-        },
-        {
-          "bookmaker": "grosvenor",
-          "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Over 38.5": 1.94,
-            "Under 38.5": 1.85
-          }
-        },
-        {
-          "bookmaker": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
-          "outcomes": {
-            "Over 38.0": 1.94,
-            "Under 38.0": 1.94
-          }
-        },
-        {
-          "bookmaker": "betonlineag",
-          "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Over 37.5": 1.87,
-            "Under 37.5": 1.98
-          }
-        },
-        {
-          "bookmaker": "betanysports",
-          "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Over 37.5": 1.87,
-            "Under 37.5": 1.87
-          }
-        }
-      ],
-      "fresh_bookmakers": 14,
-      "stale_filtered": 0
-    },
-    {
-      "id": "cc0adbef781ada963c0516646063a2e1",
-      "sport": "tennis_atp_french_open",
-      "sport_category": "tennis",
-      "league": "ATP French Open",
-      "home_team": "Jakub Mensik",
-      "away_team": "Joao Fonseca",
-      "commence_time": "2026-06-02T18:15:00Z",
-      "market": "spreads",
-      "bookmakers": [
-        {
-          "bookmaker": "coolbet",
-          "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Jakub Mensik (3.5)": 2.03,
-            "Joao Fonseca (-3.5)": 1.82
-          }
-        },
-        {
-          "bookmaker": "matchbook",
-          "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
-          "outcomes": {
-            "Jakub Mensik (4.0)": 1.9,
-            "Joao Fonseca (-4.0)": 1.97
-          }
-        },
-        {
-          "bookmaker": "casumo",
-          "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik (4.5)": 1.79,
-            "Joao Fonseca (-4.5)": 2.02
-          }
-        },
-        {
-          "bookmaker": "gtbets",
-          "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik (4.5)": 1.79,
-            "Joao Fonseca (-4.5)": 2.03
-          }
-        },
-        {
-          "bookmaker": "onexbet",
-          "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
-          "outcomes": {
-            "Jakub Mensik (3.5)": 2.0,
-            "Joao Fonseca (-3.5)": 1.83
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
-          "outcomes": {
-            "Jakub Mensik (3.5)": 1.93,
-            "Joao Fonseca (-3.5)": 1.78
-          }
-        },
-        {
-          "bookmaker": "unibet_nl",
-          "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik (4.5)": 1.79,
-            "Joao Fonseca (-4.5)": 2.02
-          }
-        },
-        {
-          "bookmaker": "pmu_fr",
-          "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
-          "outcomes": {
-            "Jakub Mensik (4.5)": 1.66,
-            "Joao Fonseca (-4.5)": 1.88
-          }
-        },
-        {
-          "bookmaker": "grosvenor",
-          "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik (4.5)": 1.79,
-            "Joao Fonseca (-4.5)": 2.02
-          }
-        },
-        {
-          "bookmaker": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
-          "outcomes": {
-            "Jakub Mensik (4.0)": 1.9,
-            "Joao Fonseca (-4.0)": 1.98
-          }
-        },
-        {
-          "bookmaker": "betonlineag",
-          "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
-          "outcomes": {
-            "Jakub Mensik (3.5)": 2.02,
-            "Joao Fonseca (-3.5)": 1.83
-          }
-        },
-        {
-          "bookmaker": "betanysports",
-          "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
-          "outcomes": {
-            "Jakub Mensik (3.5)": 1.91,
-            "Joao Fonseca (-3.5)": 1.83
-          }
-        }
-      ],
-      "fresh_bookmakers": 12,
       "stale_filtered": 0
     },
     {
@@ -1080,7 +453,7 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.93,
             "Flavio Cobolli": 1.83
@@ -1089,7 +462,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.96,
             "Flavio Cobolli": 1.87
@@ -1098,34 +471,34 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 2.0,
-            "Flavio Cobolli": 1.98
+            "Felix Auger-Aliassime": 2.04,
+            "Flavio Cobolli": 1.94
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 2.0,
-            "Flavio Cobolli": 1.98
+            "Felix Auger-Aliassime": 2.04,
+            "Flavio Cobolli": 1.94
           }
         },
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 2.0,
-            "Flavio Cobolli": 1.98
+            "Felix Auger-Aliassime": 2.04,
+            "Flavio Cobolli": 1.94
           }
         },
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.95,
             "Flavio Cobolli": 1.9
@@ -1134,25 +507,25 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.96,
-            "Flavio Cobolli": 1.92
+            "Felix Auger-Aliassime": 1.99,
+            "Flavio Cobolli": 1.9
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.98,
-            "Flavio Cobolli": 1.93
+            "Felix Auger-Aliassime": 1.99,
+            "Flavio Cobolli": 1.92
           }
         },
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.9,
             "Flavio Cobolli": 1.87
@@ -1161,16 +534,16 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.98,
-            "Flavio Cobolli": 1.94
+            "Felix Auger-Aliassime": 2.0,
+            "Flavio Cobolli": 1.91
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:00Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.94,
             "Flavio Cobolli": 1.9
@@ -1179,7 +552,7 @@
         {
           "bookmaker": "everygame",
           "title": "Everygame",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.95,
             "Flavio Cobolli": 1.83
@@ -1188,7 +561,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:50:59Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.91,
             "Flavio Cobolli": 1.83
@@ -1197,7 +570,7 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.93,
             "Flavio Cobolli": 1.83
@@ -1206,16 +579,16 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:18Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.9,
-            "Flavio Cobolli": 1.87
+            "Felix Auger-Aliassime": 1.92,
+            "Flavio Cobolli": 1.89
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.96,
             "Flavio Cobolli": 1.87
@@ -1224,7 +597,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.96,
             "Flavio Cobolli": 1.87
@@ -1233,7 +606,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.96,
             "Flavio Cobolli": 1.87
@@ -1242,7 +615,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.84,
             "Flavio Cobolli": 1.97
@@ -1251,7 +624,7 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.97,
             "Flavio Cobolli": 1.88
@@ -1260,7 +633,7 @@
         {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:39Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.83,
             "Flavio Cobolli": 1.83
@@ -1269,7 +642,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.96,
             "Flavio Cobolli": 1.87
@@ -1278,7 +651,7 @@
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.92,
             "Flavio Cobolli": 1.89
@@ -1287,7 +660,7 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.96,
             "Flavio Cobolli": 1.87
@@ -1296,7 +669,7 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.92,
             "Flavio Cobolli": 1.89
@@ -1305,7 +678,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:02Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.92,
             "Flavio Cobolli": 1.88
@@ -1314,16 +687,16 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.92,
-            "Flavio Cobolli": 1.89
+            "Felix Auger-Aliassime": 2.0,
+            "Flavio Cobolli": 1.82
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:49Z",
+          "last_update": "2026-06-02T20:51:40Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.87,
             "Flavio Cobolli": 1.83
@@ -1332,7 +705,7 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:50:56Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.95,
             "Flavio Cobolli": 1.9
@@ -1341,7 +714,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.9,
             "Flavio Cobolli": 1.9
@@ -1350,43 +723,43 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:04:15Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.95,
-            "Flavio Cobolli": 1.9
+            "Felix Auger-Aliassime": 1.96,
+            "Flavio Cobolli": 1.89
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:41Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.85,
-            "Flavio Cobolli": 1.85
+            "Felix Auger-Aliassime": 1.91,
+            "Flavio Cobolli": 1.83
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.85,
-            "Flavio Cobolli": 1.85
+            "Felix Auger-Aliassime": 1.91,
+            "Flavio Cobolli": 1.83
           }
         },
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.98,
-            "Flavio Cobolli": 1.9
+            "Felix Auger-Aliassime": 2.0,
+            "Flavio Cobolli": 1.91
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:36Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.95,
             "Flavio Cobolli": 1.85
@@ -1395,7 +768,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.95,
             "Flavio Cobolli": 1.85
@@ -1404,7 +777,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Felix Auger-Aliassime": 1.87,
             "Flavio Cobolli": 1.9
@@ -1413,19 +786,19 @@
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.95,
-            "Flavio Cobolli": 1.87
+            "Felix Auger-Aliassime": 2.0,
+            "Flavio Cobolli": 1.83
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Felix Auger-Aliassime": 1.93,
-            "Flavio Cobolli": 1.91
+            "Felix Auger-Aliassime": 1.95,
+            "Flavio Cobolli": 1.87
           }
         }
       ],
@@ -1445,25 +818,25 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Over 40.0": 1.79,
-            "Under 40.0": 1.82
+            "Over 40.5": 1.86,
+            "Under 40.5": 1.76
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Over 39.5": 1.87,
-            "Under 39.5": 1.98
+            "Over 39.5": 1.88,
+            "Under 39.5": 1.97
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Over 39.5": 1.9,
             "Under 39.5": 1.92
@@ -1472,7 +845,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 39.5": 1.92,
             "Under 39.5": 1.88
@@ -1481,7 +854,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
             "Over 39.5": 1.92,
             "Under 39.5": 1.88
@@ -1490,7 +863,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 39.5": 1.91,
             "Under 39.5": 1.87
@@ -1499,7 +872,7 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
             "Over 39.5": 1.78,
             "Under 39.5": 1.74
@@ -1508,7 +881,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Over 39.5": 1.92,
             "Under 39.5": 1.88
@@ -1517,7 +890,7 @@
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Over 39.5": 1.8,
             "Under 39.5": 1.91
@@ -1526,7 +899,7 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Over 39.5": 1.8,
             "Under 39.5": 1.91
@@ -1535,7 +908,7 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Over 39.5": 1.8,
             "Under 39.5": 1.91
@@ -1544,25 +917,25 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Over 40.0": 1.92,
+            "Over 40.0": 1.93,
             "Under 40.0": 1.95
           }
         },
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Over 40.0": 1.87,
-            "Under 40.0": 1.87
+            "Over 40.5": 1.87,
+            "Under 40.5": 1.87
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 40.5": 1.98,
             "Under 40.5": 1.87
@@ -1585,16 +958,16 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Felix Auger-Aliassime (0.5)": 1.78,
-            "Flavio Cobolli (-0.5)": 1.83
+            "Felix Auger-Aliassime (0.5)": 1.79,
+            "Flavio Cobolli (-0.5)": 1.82
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.9,
             "Flavio Cobolli (-0.5)": 1.95
@@ -1603,16 +976,16 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Felix Auger-Aliassime (0.0)": 1.93,
-            "Flavio Cobolli (0.0)": 1.89
+            "Felix Auger-Aliassime (0.5)": 1.89,
+            "Flavio Cobolli (-0.5)": 1.93
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.88,
             "Flavio Cobolli (-0.5)": 1.92
@@ -1621,7 +994,7 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.88,
             "Flavio Cobolli (-0.5)": 1.92
@@ -1630,7 +1003,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.88,
             "Flavio Cobolli (-0.5)": 1.93
@@ -1639,7 +1012,7 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.74,
             "Flavio Cobolli (-0.5)": 1.78
@@ -1648,7 +1021,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.88,
             "Flavio Cobolli (-0.5)": 1.92
@@ -1657,7 +1030,7 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.8,
             "Flavio Cobolli (-0.5)": 1.9
@@ -1666,16 +1039,16 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Felix Auger-Aliassime (0.5)": 1.91,
+            "Felix Auger-Aliassime (0.5)": 1.93,
             "Flavio Cobolli (-0.5)": 1.96
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Felix Auger-Aliassime (0.5)": 1.91,
             "Flavio Cobolli (-0.5)": 1.93
@@ -1698,25 +1071,25 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
-            "Matteo Berrettini": 1.5
+            "Matteo Arnaldi": 2.65,
+            "Matteo Berrettini": 1.48
           }
         },
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.66,
-            "Matteo Berrettini": 1.59
+            "Matteo Arnaldi": 2.68,
+            "Matteo Berrettini": 1.58
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Matteo Arnaldi": 2.6,
             "Matteo Berrettini": 1.55
@@ -1725,52 +1098,52 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.66,
-            "Matteo Berrettini": 1.59
+            "Matteo Arnaldi": 2.68,
+            "Matteo Berrettini": 1.58
           }
         },
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.63,
             "Matteo Berrettini": 1.51
           }
         },
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.5,
-            "Matteo Berrettini": 1.5
+            "Matteo Arnaldi": 2.55,
+            "Matteo Berrettini": 1.48
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.63,
             "Matteo Berrettini": 1.51
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.63,
             "Matteo Berrettini": 1.51
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Matteo Arnaldi": 2.5,
             "Matteo Berrettini": 1.54
@@ -1779,25 +1152,25 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.63,
             "Matteo Berrettini": 1.51
           }
         },
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:50:56Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.53,
             "Matteo Berrettini": 1.53
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Matteo Arnaldi": 2.62,
             "Matteo Berrettini": 1.55
@@ -1806,16 +1179,16 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.66,
+            "Matteo Arnaldi": 2.72,
             "Matteo Berrettini": 1.56
           }
         },
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Matteo Arnaldi": 2.5,
             "Matteo Berrettini": 1.54
@@ -1824,16 +1197,16 @@
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.5,
-            "Matteo Berrettini": 1.5
+            "Matteo Arnaldi": 2.55,
+            "Matteo Berrettini": 1.48
           }
         },
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Matteo Arnaldi": 2.47,
             "Matteo Berrettini": 1.52
@@ -1842,16 +1215,16 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.41,
+            "Matteo Arnaldi": 2.54,
             "Matteo Berrettini": 1.57
           }
         },
         {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:39Z",
           "outcomes": {
             "Matteo Arnaldi": 2.5,
             "Matteo Berrettini": 1.5
@@ -1860,7 +1233,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:49Z",
+          "last_update": "2026-06-02T20:51:40Z",
           "outcomes": {
             "Matteo Arnaldi": 2.4,
             "Matteo Berrettini": 1.5
@@ -1869,34 +1242,34 @@
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.5,
-            "Matteo Berrettini": 1.53
+            "Matteo Arnaldi": 2.55,
+            "Matteo Berrettini": 1.54
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.63,
             "Matteo Berrettini": 1.51
           }
         },
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.55,
+            "Matteo Arnaldi": 2.63,
             "Matteo Berrettini": 1.51
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:18Z",
           "outcomes": {
             "Matteo Arnaldi": 2.47,
             "Matteo Berrettini": 1.53
@@ -1905,16 +1278,16 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.47,
-            "Matteo Berrettini": 1.53
+            "Matteo Arnaldi": 2.5,
+            "Matteo Berrettini": 1.54
           }
         },
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:50:59Z",
           "outcomes": {
             "Matteo Arnaldi": 2.5,
             "Matteo Berrettini": 1.5
@@ -1923,16 +1296,16 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.62,
-            "Matteo Berrettini": 1.54
+            "Matteo Arnaldi": 2.63,
+            "Matteo Berrettini": 1.56
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:00Z",
           "outcomes": {
             "Matteo Arnaldi": 2.5,
             "Matteo Berrettini": 1.54
@@ -1941,7 +1314,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:02Z",
           "outcomes": {
             "Matteo Arnaldi": 2.55,
             "Matteo Berrettini": 1.56
@@ -1950,7 +1323,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Matteo Arnaldi": 2.45,
             "Matteo Berrettini": 1.5
@@ -1959,7 +1332,7 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:41Z",
           "outcomes": {
             "Matteo Arnaldi": 2.45,
             "Matteo Berrettini": 1.5
@@ -1968,25 +1341,25 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.6,
-            "Matteo Berrettini": 1.5
+            "Matteo Arnaldi": 2.5,
+            "Matteo Berrettini": 1.53
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:36Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.6,
-            "Matteo Berrettini": 1.5
+            "Matteo Arnaldi": 2.5,
+            "Matteo Berrettini": 1.53
           }
         },
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Matteo Arnaldi": 2.55,
             "Matteo Berrettini": 1.5
@@ -1995,16 +1368,16 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.66,
-            "Matteo Berrettini": 1.59
+            "Matteo Arnaldi": 2.68,
+            "Matteo Berrettini": 1.58
           }
         },
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:04:15Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Matteo Arnaldi": 2.59,
             "Matteo Berrettini": 1.53
@@ -2013,7 +1386,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Matteo Arnaldi": 2.5,
             "Matteo Berrettini": 1.53
@@ -2022,7 +1395,7 @@
         {
           "bookmaker": "everygame",
           "title": "Everygame",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Matteo Arnaldi": 2.55,
             "Matteo Berrettini": 1.5
@@ -2031,16 +1404,16 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Matteo Arnaldi": 2.52,
-            "Matteo Berrettini": 1.56
+            "Matteo Arnaldi": 2.61,
+            "Matteo Berrettini": 1.54
           }
         },
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Matteo Arnaldi": 2.55,
             "Matteo Berrettini": 1.54
@@ -2063,16 +1436,16 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
-            "Over 38.5": 1.78,
-            "Under 38.5": 1.74
+            "Over 38.5": 1.74,
+            "Under 38.5": 1.78
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 38.5": 1.91,
             "Under 38.5": 1.93
@@ -2081,16 +1454,16 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Over 38.5": 1.91,
-            "Under 38.5": 1.87
+            "Over 38.5": 1.88,
+            "Under 38.5": 1.92
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Over 39.5": 1.91,
             "Under 39.5": 1.8
@@ -2099,25 +1472,25 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
-            "Over 38.5": 1.91,
-            "Under 38.5": 1.87
+            "Over 38.5": 1.88,
+            "Under 38.5": 1.92
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Over 38.5": 1.89,
-            "Under 38.5": 1.93
+            "Over 38.5": 1.87,
+            "Under 38.5": 1.95
           }
         },
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Over 39.5": 1.91,
             "Under 39.5": 1.8
@@ -2126,25 +1499,25 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 37.5": 1.85,
-            "Under 37.5": 1.93
+            "Over 38.5": 1.94,
+            "Under 38.5": 1.83
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Over 38.5": 1.91,
-            "Under 38.5": 1.87
+            "Over 38.5": 1.88,
+            "Under 38.5": 1.92
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:18Z",
           "outcomes": {
             "Over 3.5": 1.8,
             "Under 3.5": 1.91
@@ -2153,34 +1526,34 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 39.5": 1.88,
-            "Under 39.5": 1.79
+            "Over 39.5": 1.97,
+            "Under 39.5": 1.75
           }
         },
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Over 38.5": 1.94,
+            "Over 38.5": 1.95,
             "Under 38.5": 1.93
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Over 38.5": 1.8,
-            "Under 38.5": 1.81
+            "Over 38.5": 1.79,
+            "Under 38.5": 1.82
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 38.5": 1.93,
             "Under 38.5": 1.91
@@ -2189,7 +1562,7 @@
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Over 38.5": 1.87,
             "Under 38.5": 1.87
@@ -2212,7 +1585,7 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.79,
             "Matteo Berrettini (-3.5)": 1.73
@@ -2221,7 +1594,7 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.9,
             "Matteo Berrettini (-3.5)": 1.95
@@ -2230,25 +1603,25 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
-            "Matteo Arnaldi (3.5)": 1.92,
-            "Matteo Berrettini (-3.5)": 1.85
+            "Matteo Arnaldi (3.5)": 1.93,
+            "Matteo Berrettini (-3.5)": 1.87
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
-            "Matteo Arnaldi (3.5)": 1.92,
-            "Matteo Berrettini (-3.5)": 1.85
+            "Matteo Arnaldi (3.5)": 1.93,
+            "Matteo Berrettini (-3.5)": 1.87
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:04:17Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.88,
             "Matteo Berrettini (-3.5)": 1.94
@@ -2257,7 +1630,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.88,
             "Matteo Berrettini (-3.5)": 1.93
@@ -2266,34 +1639,34 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Matteo Arnaldi (3.5)": 1.92,
-            "Matteo Berrettini (-3.5)": 1.85
+            "Matteo Arnaldi (3.5)": 1.93,
+            "Matteo Berrettini (-3.5)": 1.87
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:56Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Matteo Arnaldi (3.5)": 1.78,
-            "Matteo Berrettini (-3.5)": 1.89
+            "Matteo Arnaldi (3.5)": 1.79,
+            "Matteo Berrettini (-3.5)": 1.91
           }
         },
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.94,
-            "Matteo Berrettini (-3.5)": 1.93
+            "Matteo Berrettini (-3.5)": 1.94
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.77,
             "Matteo Berrettini (-3.5)": 1.84
@@ -2302,7 +1675,7 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.93,
             "Matteo Berrettini (-3.5)": 1.92
@@ -2311,7 +1684,7 @@
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:56Z",
           "outcomes": {
             "Matteo Arnaldi (3.5)": 1.83,
             "Matteo Berrettini (-3.5)": 1.91
@@ -2334,7 +1707,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
             "Anna Kalinskaya": 1.92,
             "Maja Chwalinska": 1.96
@@ -2343,7 +1716,7 @@
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:04:54Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
             "Anna Kalinskaya": 1.87,
             "Maja Chwalinska": 1.89
@@ -2352,34 +1725,34 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.05
+            "Anna Kalinskaya": 1.85,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:51:20Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.86,
-            "Maja Chwalinska": 1.99
+            "Anna Kalinskaya": 1.88,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.05
+            "Anna Kalinskaya": 1.85,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Anna Kalinskaya": 1.83,
             "Maja Chwalinska": 1.91
@@ -2388,16 +1761,16 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.89,
-            "Maja Chwalinska": 2.02
+            "Anna Kalinskaya": 1.91,
+            "Maja Chwalinska": 2.0
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Anna Kalinskaya": 1.8,
             "Maja Chwalinska": 1.91
@@ -2406,25 +1779,25 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.99,
-            "Maja Chwalinska": 1.99
+            "Anna Kalinskaya": 1.98,
+            "Maja Chwalinska": 2.02
           }
         },
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.77,
-            "Maja Chwalinska": 2.02
+            "Anna Kalinskaya": 1.82,
+            "Maja Chwalinska": 1.94
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Anna Kalinskaya": 1.85,
             "Maja Chwalinska": 1.96
@@ -2433,61 +1806,61 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.77,
-            "Maja Chwalinska": 2.02
+            "Anna Kalinskaya": 1.82,
+            "Maja Chwalinska": 1.94
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.05
+            "Anna Kalinskaya": 1.85,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.87,
-            "Maja Chwalinska": 1.91
+            "Anna Kalinskaya": 1.89,
+            "Maja Chwalinska": 1.92
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.05
+            "Anna Kalinskaya": 1.85,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.96,
-            "Maja Chwalinska": 2.0
+            "Anna Kalinskaya": 1.95,
+            "Maja Chwalinska": 1.98
           }
         },
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
             "Anna Kalinskaya": 1.9,
-            "Maja Chwalinska": 1.94
+            "Maja Chwalinska": 1.95
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
             "Anna Kalinskaya": 1.9,
             "Maja Chwalinska": 1.94
@@ -2496,52 +1869,52 @@
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.99,
-            "Maja Chwalinska": 1.99
+            "Anna Kalinskaya": 1.98,
+            "Maja Chwalinska": 2.02
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.02
+            "Anna Kalinskaya": 1.87,
+            "Maja Chwalinska": 1.93
           }
         },
         {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.8,
-            "Maja Chwalinska": 1.91
+            "Anna Kalinskaya": 1.83,
+            "Maja Chwalinska": 1.83
           }
         },
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.05
+            "Anna Kalinskaya": 1.85,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.9,
-            "Maja Chwalinska": 1.98
+            "Anna Kalinskaya": 1.92,
+            "Maja Chwalinska": 1.96
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Anna Kalinskaya": 1.87,
             "Maja Chwalinska": 1.89
@@ -2550,34 +1923,34 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.8,
-            "Maja Chwalinska": 1.9
+            "Anna Kalinskaya": 1.83,
+            "Maja Chwalinska": 1.87
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.79,
-            "Maja Chwalinska": 2.05
+            "Anna Kalinskaya": 1.85,
+            "Maja Chwalinska": 1.97
           }
         },
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:03:31Z",
+          "last_update": "2026-06-02T20:50:57Z",
           "outcomes": {
             "Anna Kalinskaya": 1.9,
-            "Maja Chwalinska": 1.94
+            "Maja Chwalinska": 1.95
           }
         },
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:51:40Z",
           "outcomes": {
             "Anna Kalinskaya": 1.83,
             "Maja Chwalinska": 1.91
@@ -2586,7 +1959,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:00Z",
           "outcomes": {
             "Anna Kalinskaya": 1.83,
             "Maja Chwalinska": 1.91
@@ -2595,7 +1968,7 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Anna Kalinskaya": 1.88,
             "Maja Chwalinska": 1.93
@@ -2604,16 +1977,16 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Anna Kalinskaya": 2.0,
-            "Maja Chwalinska": 1.99
+            "Anna Kalinskaya": 1.97,
+            "Maja Chwalinska": 2.02
           }
         },
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Anna Kalinskaya": 1.93,
             "Maja Chwalinska": 1.98
@@ -2622,7 +1995,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
             "Anna Kalinskaya": 1.85,
             "Maja Chwalinska": 1.95
@@ -2631,7 +2004,7 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Anna Kalinskaya": 1.85,
             "Maja Chwalinska": 1.95
@@ -2640,7 +2013,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Anna Kalinskaya": 1.91,
             "Maja Chwalinska": 1.91
@@ -2649,7 +2022,7 @@
         {
           "bookmaker": "everygame",
           "title": "Everygame",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Anna Kalinskaya": 1.85,
             "Maja Chwalinska": 1.9
@@ -2658,16 +2031,16 @@
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya": 1.87,
-            "Maja Chwalinska": 1.95
+            "Anna Kalinskaya": 1.91,
+            "Maja Chwalinska": 1.91
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Anna Kalinskaya": 1.92,
             "Maja Chwalinska": 1.93
@@ -2690,25 +2063,25 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.88,
-            "Under 21.5": 1.88
+            "Over 21.5": 1.89,
+            "Under 21.5": 1.89
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.89,
-            "Under 21.5": 1.93
+            "Over 21.5": 1.88,
+            "Under 21.5": 1.94
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 21.5": 1.86,
             "Under 21.5": 1.91
@@ -2717,16 +2090,16 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 21.5": 1.88,
-            "Under 21.5": 1.88
+            "Over 21.5": 1.89,
+            "Under 21.5": 1.89
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Over 0.5": 1.82,
             "Under 0.5": 1.88
@@ -2735,7 +2108,7 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 21.5": 1.76,
             "Under 21.5": 1.76
@@ -2744,34 +2117,34 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Over 21.5": 1.9,
-            "Under 21.5": 1.95
+            "Over 21.5": 1.89,
+            "Under 21.5": 1.96
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 22.5": 1.98,
-            "Under 22.5": 1.7
+            "Over 21.5": 1.74,
+            "Under 21.5": 1.93
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.88,
-            "Under 21.5": 1.88
+            "Over 21.5": 1.89,
+            "Under 21.5": 1.89
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Over 21.5": 1.76,
             "Under 21.5": 1.96
@@ -2780,7 +2153,7 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Over 21.5": 1.79,
             "Under 21.5": 1.82
@@ -2789,7 +2162,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 21.5": 1.93,
             "Under 21.5": 1.96
@@ -2798,16 +2171,16 @@
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.87,
-            "Under 21.5": 1.87
+            "Over 21.5": 1.91,
+            "Under 21.5": 1.83
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 21.5": 1.91,
             "Under 21.5": 1.93
@@ -2830,25 +2203,25 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya (-1.5)": 1.93,
-            "Maja Chwalinska (1.5)": 1.85
+            "Anna Kalinskaya (-0.5)": 1.88,
+            "Maja Chwalinska (0.5)": 1.91
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya (-0.5)": 1.9,
-            "Maja Chwalinska (0.5)": 1.92
+            "Anna Kalinskaya (-0.5)": 1.92,
+            "Maja Chwalinska (0.5)": 1.9
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Anna Kalinskaya (-0.5)": 1.95,
             "Maja Chwalinska (0.5)": 1.86
@@ -2857,43 +2230,43 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Anna Kalinskaya (-1.5)": 1.93,
-            "Maja Chwalinska (1.5)": 1.85
+            "Anna Kalinskaya (-0.5)": 1.88,
+            "Maja Chwalinska (0.5)": 1.91
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya (-1.5)": 1.8,
-            "Maja Chwalinska (1.5)": 1.72
+            "Anna Kalinskaya (-0.5)": 1.75,
+            "Maja Chwalinska (0.5)": 1.77
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya (-0.5)": 1.96,
-            "Maja Chwalinska (0.5)": 1.89
+            "Anna Kalinskaya (-0.5)": 1.93,
+            "Maja Chwalinska (0.5)": 1.91
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Anna Kalinskaya (-1.5)": 1.93,
-            "Maja Chwalinska (1.5)": 1.85
+            "Anna Kalinskaya (-0.5)": 1.88,
+            "Maja Chwalinska (0.5)": 1.91
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Anna Kalinskaya (-0.5)": 1.88,
             "Maja Chwalinska (0.5)": 1.82
@@ -2902,7 +2275,7 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Anna Kalinskaya (-0.5)": 1.83,
             "Maja Chwalinska (0.5)": 1.78
@@ -2911,16 +2284,16 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Anna Kalinskaya (0.0)": 1.93,
-            "Maja Chwalinska (-0.0)": 1.96
+            "Anna Kalinskaya (0.0)": 1.92,
+            "Maja Chwalinska (-0.0)": 1.97
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Anna Kalinskaya (-0.5)": 1.98,
             "Maja Chwalinska (0.5)": 1.87
@@ -2943,178 +2316,178 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 7.2
+            "Diana Shnaider": 7.6
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 7.0
+            "Diana Shnaider": 7.6
           }
         },
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.13,
-            "Diana Shnaider": 5.5
+            "Aryna Sabalenka": 1.12,
+            "Diana Shnaider": 6.0
           }
         },
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.13,
-            "Diana Shnaider": 5.5
+            "Aryna Sabalenka": 1.12,
+            "Diana Shnaider": 6.0
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.75
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.25
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.63
+            "Diana Shnaider": 5.98
           }
         },
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 6.0
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 6.5
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.12,
-            "Diana Shnaider": 5.87
+            "Aryna Sabalenka": 1.11,
+            "Diana Shnaider": 6.09
           }
         },
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:04:54Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.12,
-            "Diana Shnaider": 5.87
+            "Aryna Sabalenka": 1.11,
+            "Diana Shnaider": 6.09
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.17,
-            "Diana Shnaider": 5.92
+            "Aryna Sabalenka": 1.16,
+            "Diana Shnaider": 6.19
           }
         },
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:03:31Z",
+          "last_update": "2026-06-02T20:50:57Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 6.0
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 6.5
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Aryna Sabalenka": 1.12,
-            "Diana Shnaider": 5.8
+            "Diana Shnaider": 6.2
           }
         },
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.13,
+            "Aryna Sabalenka": 1.12,
             "Diana Shnaider": 5.0
           }
         },
         {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Aryna Sabalenka": 1.12,
             "Diana Shnaider": 6.0
@@ -3123,43 +2496,43 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 6.25
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.5
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 7.2
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 7.6
           }
         },
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:51:40Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 5.5
+            "Aryna Sabalenka": 1.11,
+            "Diana Shnaider": 6.5
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.13,
-            "Diana Shnaider": 6.1
+            "Aryna Sabalenka": 1.12,
+            "Diana Shnaider": 6.2
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
             "Aryna Sabalenka": 1.13,
             "Diana Shnaider": 6.25
@@ -3168,79 +2541,79 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
+            "Aryna Sabalenka": 1.13,
             "Diana Shnaider": 6.5
           }
         },
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:51:20Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 5.8
+            "Aryna Sabalenka": 1.14,
+            "Diana Shnaider": 6.05
           }
         },
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:00Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.17,
-            "Diana Shnaider": 5.0
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 6.0
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 5.5
+            "Aryna Sabalenka": 1.12,
+            "Diana Shnaider": 6.0
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 5.5
+            "Aryna Sabalenka": 1.12,
+            "Diana Shnaider": 6.0
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 7.2
+            "Diana Shnaider": 7.6
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 5.25
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 5.5
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 5.25
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 5.5
           }
         },
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Aryna Sabalenka": 1.1,
             "Diana Shnaider": 6.5
@@ -3249,7 +2622,7 @@
         {
           "bookmaker": "everygame",
           "title": "Everygame",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Aryna Sabalenka": 1.12,
             "Diana Shnaider": 6.0
@@ -3258,34 +2631,34 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Aryna Sabalenka": 1.15,
-            "Diana Shnaider": 6.19
+            "Diana Shnaider": 6.43
           }
         },
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 5.5
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 5.75
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka": 1.14,
-            "Diana Shnaider": 6.05
+            "Aryna Sabalenka": 1.13,
+            "Diana Shnaider": 6.34
           }
         },
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Aryna Sabalenka": 1.12,
             "Diana Shnaider": 6.0
@@ -3308,43 +2681,43 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 19.5": 1.74,
-            "Under 19.5": 1.78
+            "Over 19.5": 1.78,
+            "Under 19.5": 1.74
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 19.5": 1.81,
-            "Under 19.5": 1.96
+            "Over 19.5": 1.92,
+            "Under 19.5": 1.88
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 19.5": 1.81,
-            "Under 19.5": 1.96
+            "Over 19.5": 1.92,
+            "Under 19.5": 1.88
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 19.5": 1.81,
-            "Under 19.5": 1.96
+            "Over 19.5": 1.92,
+            "Under 19.5": 1.88
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 19.5": 1.86,
             "Under 19.5": 1.91
@@ -3353,34 +2726,34 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 19.5": 1.84,
-            "Under 19.5": 1.82
+            "Over 19.5": 1.85,
+            "Under 19.5": 1.81
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 19.5": 1.89,
-            "Under 19.5": 1.93
+            "Over 19.5": 1.92,
+            "Under 19.5": 1.9
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Over 5.5": 1.84,
-            "Under 5.5": 1.87
+            "Over 5.5": 1.86,
+            "Under 5.5": 1.84
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 19.5": 1.9,
             "Under 19.5": 1.95
@@ -3389,16 +2762,16 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 19.5": 1.86,
-            "Under 19.5": 1.85
+            "Over 19.5": 1.88,
+            "Under 19.5": 1.83
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Over 19.5": 1.79,
             "Under 19.5": 1.82
@@ -3407,25 +2780,25 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Over 19.5": 1.9,
-            "Under 19.5": 1.97
+            "Over 19.5": 1.91,
+            "Under 19.5": 1.98
           }
         },
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 19.5": 1.83,
-            "Under 19.5": 1.91
+            "Over 19.5": 1.87,
+            "Under 19.5": 1.87
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 19.5": 1.87,
             "Under 19.5": 1.98
@@ -3448,79 +2821,79 @@
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.83,
-            "Diana Shnaider (5.5)": 1.68
+            "Aryna Sabalenka (-5.5)": 1.77,
+            "Diana Shnaider (5.5)": 1.75
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.97,
-            "Diana Shnaider (5.5)": 1.81
+            "Aryna Sabalenka (-5.5)": 1.91,
+            "Diana Shnaider (5.5)": 1.88
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.97,
-            "Diana Shnaider (5.5)": 1.81
+            "Aryna Sabalenka (-5.5)": 1.91,
+            "Diana Shnaider (5.5)": 1.88
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.97,
-            "Diana Shnaider (5.5)": 1.81
+            "Aryna Sabalenka (-5.5)": 1.91,
+            "Diana Shnaider (5.5)": 1.88
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.98,
-            "Diana Shnaider (5.5)": 1.83
+            "Aryna Sabalenka (-5.5)": 1.87,
+            "Diana Shnaider (5.5)": 1.94
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.93,
-            "Diana Shnaider (5.5)": 1.89
+            "Aryna Sabalenka (-5.5)": 1.9,
+            "Diana Shnaider (5.5)": 1.92
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.96,
-            "Diana Shnaider (5.5)": 1.89
+            "Aryna Sabalenka (-5.5)": 1.93,
+            "Diana Shnaider (5.5)": 1.91
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.87,
-            "Diana Shnaider (5.5)": 1.84
+            "Aryna Sabalenka (-5.5)": 1.85,
+            "Diana Shnaider (5.5)": 1.86
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Aryna Sabalenka (-5.5)": 1.82,
             "Diana Shnaider (5.5)": 1.79
@@ -3529,25 +2902,25 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Aryna Sabalenka (-5.5)": 1.93,
-            "Diana Shnaider (5.5)": 1.93
+            "Diana Shnaider (5.5)": 1.95
           }
         },
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Aryna Sabalenka (-5.5)": 1.87,
-            "Diana Shnaider (5.5)": 1.87
+            "Aryna Sabalenka (-5.5)": 1.83,
+            "Diana Shnaider (5.5)": 1.91
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Aryna Sabalenka (-5.5)": 1.93,
             "Diana Shnaider (5.5)": 1.92
@@ -3570,7 +2943,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:00Z",
           "outcomes": {
             "Marta Kostyuk": 1.73,
             "Mirra Andreeva": 2.1
@@ -3579,7 +2952,7 @@
         {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk": 1.73,
             "Mirra Andreeva": 2.0
@@ -3588,7 +2961,7 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk": 1.73,
             "Mirra Andreeva": 2.1
@@ -3597,34 +2970,34 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 2.1
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.16
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Marta Kostyuk": 1.72,
-            "Mirra Andreeva": 2.07
+            "Marta Kostyuk": 1.7,
+            "Mirra Andreeva": 2.1
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 2.1
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.16
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Marta Kostyuk": 1.78,
             "Mirra Andreeva": 2.13
@@ -3633,16 +3006,16 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 2.1
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.16
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk": 1.78,
             "Mirra Andreeva": 2.05
@@ -3651,7 +3024,7 @@
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
             "Marta Kostyuk": 1.74,
             "Mirra Andreeva": 2.05
@@ -3660,16 +3033,16 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:25Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 2.1
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.16
           }
         },
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk": 1.74,
             "Mirra Andreeva": 2.05
@@ -3678,25 +3051,25 @@
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:44Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
-            "Marta Kostyuk": 1.72,
-            "Mirra Andreeva": 2.07
+            "Marta Kostyuk": 1.7,
+            "Mirra Andreeva": 2.1
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Marta Kostyuk": 1.75,
-            "Mirra Andreeva": 2.12
+            "Marta Kostyuk": 1.81,
+            "Mirra Andreeva": 2.18
           }
         },
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:04:54Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
             "Marta Kostyuk": 1.74,
             "Mirra Andreeva": 2.05
@@ -3705,43 +3078,43 @@
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 1.21
+            "Marta Kostyuk": 1.79,
+            "Mirra Andreeva": 2.14
           }
         },
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:19Z",
           "outcomes": {
-            "Marta Kostyuk": 1.66,
-            "Mirra Andreeva": 1.93
+            "Marta Kostyuk": 1.74,
+            "Mirra Andreeva": 2.05
           }
         },
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Marta Kostyuk": 1.75,
-            "Mirra Andreeva": 2.12
+            "Marta Kostyuk": 1.81,
+            "Mirra Andreeva": 2.18
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:59Z",
           "outcomes": {
-            "Marta Kostyuk": 1.66,
-            "Mirra Andreeva": 1.94
+            "Marta Kostyuk": 1.7,
+            "Mirra Andreeva": 2.0
           }
         },
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:51:40Z",
           "outcomes": {
             "Marta Kostyuk": 1.73,
             "Mirra Andreeva": 2.0
@@ -3750,25 +3123,25 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 2.1
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.16
           }
         },
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Marta Kostyuk": 1.72,
-            "Mirra Andreeva": 2.07
+            "Marta Kostyuk": 1.7,
+            "Mirra Andreeva": 2.1
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk": 1.78,
             "Mirra Andreeva": 2.15
@@ -3777,16 +3150,16 @@
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
-            "Marta Kostyuk": 1.74,
-            "Mirra Andreeva": 2.1
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.16
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
             "Marta Kostyuk": 1.74,
             "Mirra Andreeva": 2.05
@@ -3795,16 +3168,16 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
             "Marta Kostyuk": 1.7,
-            "Mirra Andreeva": 2.05
+            "Mirra Andreeva": 2.0
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Marta Kostyuk": 1.75,
             "Mirra Andreeva": 2.05
@@ -3813,25 +3186,25 @@
         {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:03:31Z",
+          "last_update": "2026-06-02T20:50:57Z",
           "outcomes": {
-            "Marta Kostyuk": 1.69,
-            "Mirra Andreeva": 1.97
+            "Marta Kostyuk": 1.74,
+            "Mirra Andreeva": 2.05
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Marta Kostyuk": 1.62,
-            "Mirra Andreeva": 1.97
+            "Marta Kostyuk": 1.81,
+            "Mirra Andreeva": 2.18
           }
         },
         {
           "bookmaker": "everygame",
           "title": "Everygame",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Marta Kostyuk": 1.75,
             "Mirra Andreeva": 2.05
@@ -3840,25 +3213,25 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:05:23Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Marta Kostyuk": 1.7,
-            "Mirra Andreeva": 2.05
+            "Marta Kostyuk": 1.73,
+            "Mirra Andreeva": 2.0
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Marta Kostyuk": 1.7,
-            "Mirra Andreeva": 2.05
+            "Marta Kostyuk": 1.75,
+            "Mirra Andreeva": 2.0
           }
         },
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:51:20Z",
           "outcomes": {
             "Marta Kostyuk": 1.76,
             "Mirra Andreeva": 2.12
@@ -3867,7 +3240,7 @@
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
             "Marta Kostyuk": 1.73,
             "Mirra Andreeva": 2.1
@@ -3876,14 +3249,41 @@
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:05:45Z",
+          "last_update": "2026-06-02T20:52:57Z",
           "outcomes": {
             "Marta Kostyuk": 1.73,
             "Mirra Andreeva": 2.1
           }
+        },
+        {
+          "bookmaker": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-06-02T20:52:38Z",
+          "outcomes": {
+            "Marta Kostyuk": 1.78,
+            "Mirra Andreeva": 2.14
+          }
+        },
+        {
+          "bookmaker": "tipico_de",
+          "title": "Tipico",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Marta Kostyuk": 1.72,
+            "Mirra Andreeva": 2.1
+          }
+        },
+        {
+          "bookmaker": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Marta Kostyuk": 1.78,
+            "Mirra Andreeva": 2.08
+          }
         }
       ],
-      "fresh_bookmakers": 35,
+      "fresh_bookmakers": 38,
       "stale_filtered": 0
     },
     {
@@ -3899,34 +3299,34 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 21.5": 1.89,
-            "Under 21.5": 1.85
+            "Over 21.5": 1.83,
+            "Under 21.5": 1.96
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.77,
-            "Under 21.5": 1.75
+            "Over 21.5": 1.7,
+            "Under 21.5": 1.82
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.89,
-            "Under 21.5": 1.85
+            "Over 21.5": 1.83,
+            "Under 21.5": 1.96
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:52:38Z",
           "outcomes": {
             "Over 21.5": 1.86,
             "Under 21.5": 1.99
@@ -3935,7 +3335,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 21.5": 1.79,
             "Under 21.5": 1.99
@@ -3944,25 +3344,25 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:04:55Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 22.5": 1.93,
-            "Under 22.5": 1.74
+            "Over 22.5": 1.94,
+            "Under 22.5": 1.73
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Over 21.5": 1.89,
-            "Under 21.5": 1.85
+            "Over 21.5": 1.83,
+            "Under 21.5": 1.96
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Over 21.5": 1.85,
             "Under 21.5": 1.98
@@ -3971,23 +3371,50 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:05:26Z",
+          "last_update": "2026-06-02T20:52:37Z",
           "outcomes": {
-            "Over 1.5": 1.83,
-            "Under 1.5": 1.88
+            "Over 1.5": 1.84,
+            "Under 1.5": 1.86
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Over 22.5": 1.93,
-            "Under 22.5": 1.75
+            "Over 22.5": 1.94,
+            "Under 22.5": 1.74
+          }
+        },
+        {
+          "bookmaker": "matchbook",
+          "title": "Matchbook",
+          "last_update": "2026-06-02T20:52:37Z",
+          "outcomes": {
+            "Over 21.5": 1.89,
+            "Under 21.5": 1.97
+          }
+        },
+        {
+          "bookmaker": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-06-02T20:52:38Z",
+          "outcomes": {
+            "Over 21.5": 1.9,
+            "Under 21.5": 1.97
+          }
+        },
+        {
+          "bookmaker": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Over 21.5": 1.87,
+            "Under 21.5": 1.95
           }
         }
       ],
-      "fresh_bookmakers": 10,
+      "fresh_bookmakers": 13,
       "stale_filtered": 0
     },
     {
@@ -4003,34 +3430,34 @@
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:04:53Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
             "Marta Kostyuk (-1.5)": 1.85,
-            "Mirra Andreeva (1.5)": 1.89
+            "Mirra Andreeva (1.5)": 1.93
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
-            "Marta Kostyuk (-1.5)": 1.74,
-            "Mirra Andreeva (1.5)": 1.78
+            "Marta Kostyuk (-1.5)": 1.73,
+            "Mirra Andreeva (1.5)": 1.8
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:04:52Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk (-1.5)": 1.85,
-            "Mirra Andreeva (1.5)": 1.89
+            "Mirra Andreeva (1.5)": 1.93
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:56Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk (-1.5)": 1.88,
             "Mirra Andreeva (1.5)": 1.93
@@ -4039,16 +3466,16 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:46Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk (-1.5)": 1.85,
-            "Mirra Andreeva (1.5)": 1.89
+            "Mirra Andreeva (1.5)": 1.93
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:24Z",
+          "last_update": "2026-06-02T20:52:58Z",
           "outcomes": {
             "Marta Kostyuk (-1.5)": 1.91,
             "Mirra Andreeva (1.5)": 1.91
@@ -4057,14 +3484,41 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:03:58Z",
+          "last_update": "2026-06-02T20:51:59Z",
           "outcomes": {
-            "Marta Kostyuk (-1.5)": 1.85,
-            "Mirra Andreeva (1.5)": 1.81
+            "Marta Kostyuk (-1.5)": 1.84,
+            "Mirra Andreeva (1.5)": 1.83
+          }
+        },
+        {
+          "bookmaker": "matchbook",
+          "title": "Matchbook",
+          "last_update": "2026-06-02T20:52:37Z",
+          "outcomes": {
+            "Marta Kostyuk (-1.5)": 1.94,
+            "Mirra Andreeva (1.5)": 1.92
+          }
+        },
+        {
+          "bookmaker": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-06-02T20:52:38Z",
+          "outcomes": {
+            "Marta Kostyuk (-1.5)": 1.95,
+            "Mirra Andreeva (1.5)": 1.92
+          }
+        },
+        {
+          "bookmaker": "betonlineag",
+          "title": "BetOnline.ag",
+          "last_update": "2026-06-02T20:52:58Z",
+          "outcomes": {
+            "Marta Kostyuk (-1.5)": 1.91,
+            "Mirra Andreeva (1.5)": 1.91
           }
         }
       ],
-      "fresh_bookmakers": 7,
+      "fresh_bookmakers": 10,
       "stale_filtered": 0
     },
     {
@@ -4080,7 +3534,7 @@
         {
           "bookmaker": "skybet",
           "title": "Sky Bet",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
             "New York Knicks": 2.5,
             "San Antonio Spurs": 1.53
@@ -4089,7 +3543,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:05Z",
+          "last_update": "2026-06-02T20:51:13Z",
           "outcomes": {
             "New York Knicks": 2.55,
             "San Antonio Spurs": 1.5
@@ -4098,7 +3552,7 @@
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
             "New York Knicks": 2.5,
             "San Antonio Spurs": 1.53
@@ -4107,25 +3561,25 @@
         {
           "bookmaker": "betfair_ex_eu",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
-            "New York Knicks": 2.7,
-            "San Antonio Spurs": 1.57
+            "New York Knicks": 2.74,
+            "San Antonio Spurs": 1.56
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
-            "New York Knicks": 2.7,
-            "San Antonio Spurs": 1.57
+            "New York Knicks": 2.74,
+            "San Antonio Spurs": 1.56
           }
         },
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
             "New York Knicks": 2.61,
             "San Antonio Spurs": 1.54
@@ -4134,124 +3588,124 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:40Z",
+          "last_update": "2026-06-02T20:52:29Z",
           "outcomes": {
-            "New York Knicks": 2.48,
-            "San Antonio Spurs": 1.43
+            "New York Knicks": 2.45,
+            "San Antonio Spurs": 1.44
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
-            "New York Knicks": 2.65,
-            "San Antonio Spurs": 1.51
+            "New York Knicks": 2.6,
+            "San Antonio Spurs": 1.53
           }
         },
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:38Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.5
+            "New York Knicks": 2.55,
+            "San Antonio Spurs": 1.52
           }
         },
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:07Z",
+          "last_update": "2026-06-02T20:51:54Z",
           "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.5
+            "New York Knicks": 2.55,
+            "San Antonio Spurs": 1.52
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:04:47Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "New York Knicks": 2.65,
-            "San Antonio Spurs": 1.51
+            "New York Knicks": 2.6,
+            "San Antonio Spurs": 1.53
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:04:46Z",
-          "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.5
-          }
-        },
-        {
-          "bookmaker": "leovegas_se",
-          "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:07Z",
-          "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.49
-          }
-        },
-        {
-          "bookmaker": "unibet_fr",
-          "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:04:46Z",
-          "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.52
-          }
-        },
-        {
-          "bookmaker": "unibet_se",
-          "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:04:46Z",
-          "outcomes": {
-            "New York Knicks": 2.65,
-            "San Antonio Spurs": 1.51
-          }
-        },
-        {
-          "bookmaker": "unibet_uk",
-          "title": "Unibet (UK)",
-          "last_update": "2026-06-02T14:05:07Z",
-          "outcomes": {
-            "New York Knicks": 2.65,
-            "San Antonio Spurs": 1.52
-          }
-        },
-        {
-          "bookmaker": "smarkets",
-          "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:37Z",
-          "outcomes": {
-            "New York Knicks": 2.66,
-            "San Antonio Spurs": 1.55
-          }
-        },
-        {
-          "bookmaker": "mybookieag",
-          "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
             "New York Knicks": 2.5,
             "San Antonio Spurs": 1.53
           }
         },
         {
+          "bookmaker": "leovegas_se",
+          "title": "LeoVegas (SE)",
+          "last_update": "2026-06-02T20:51:52Z",
+          "outcomes": {
+            "New York Knicks": 2.55,
+            "San Antonio Spurs": 1.5
+          }
+        },
+        {
+          "bookmaker": "unibet_fr",
+          "title": "Unibet (FR)",
+          "last_update": "2026-06-02T20:51:53Z",
+          "outcomes": {
+            "New York Knicks": 2.6,
+            "San Antonio Spurs": 1.53
+          }
+        },
+        {
+          "bookmaker": "unibet_se",
+          "title": "Unibet (SE)",
+          "last_update": "2026-06-02T20:51:52Z",
+          "outcomes": {
+            "New York Knicks": 2.6,
+            "San Antonio Spurs": 1.53
+          }
+        },
+        {
+          "bookmaker": "unibet_uk",
+          "title": "Unibet (UK)",
+          "last_update": "2026-06-02T20:51:53Z",
+          "outcomes": {
+            "New York Knicks": 2.6,
+            "San Antonio Spurs": 1.54
+          }
+        },
+        {
+          "bookmaker": "smarkets",
+          "title": "Smarkets",
+          "last_update": "2026-06-02T20:52:54Z",
+          "outcomes": {
+            "New York Knicks": 2.7,
+            "San Antonio Spurs": 1.57
+          }
+        },
+        {
+          "bookmaker": "mybookieag",
+          "title": "MyBookie.ag",
+          "last_update": "2026-06-02T20:51:13Z",
+          "outcomes": {
+            "New York Knicks": 2.56,
+            "San Antonio Spurs": 1.52
+          }
+        },
+        {
           "bookmaker": "betclic_fr",
           "title": "Betclic (FR)",
-          "last_update": "2026-06-02T14:05:22Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "New York Knicks": 2.58,
-            "San Antonio Spurs": 1.51
+            "New York Knicks": 2.55,
+            "San Antonio Spurs": 1.52
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:11Z",
           "outcomes": {
             "New York Knicks": 2.5,
             "San Antonio Spurs": 1.5
@@ -4260,16 +3714,16 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:03:40Z",
+          "last_update": "2026-06-02T20:51:27Z",
           "outcomes": {
-            "New York Knicks": 2.5,
+            "New York Knicks": 2.45,
             "San Antonio Spurs": 1.48
           }
         },
         {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:04:49Z",
+          "last_update": "2026-06-02T20:51:56Z",
           "outcomes": {
             "New York Knicks": 2.6,
             "San Antonio Spurs": 1.53
@@ -4278,43 +3732,43 @@
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:04:47Z",
+          "last_update": "2026-06-02T20:52:12Z",
           "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.5
+            "New York Knicks": 2.55,
+            "San Antonio Spurs": 1.52
           }
         },
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:07Z",
+          "last_update": "2026-06-02T20:52:31Z",
           "outcomes": {
-            "New York Knicks": 2.65,
-            "San Antonio Spurs": 1.52
+            "New York Knicks": 2.6,
+            "San Antonio Spurs": 1.54
           }
         },
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:08Z",
+          "last_update": "2026-06-02T20:51:53Z",
           "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.47
+            "New York Knicks": 2.55,
+            "San Antonio Spurs": 1.5
           }
         },
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:51Z",
           "outcomes": {
-            "New York Knicks": 2.55,
-            "San Antonio Spurs": 1.48
+            "New York Knicks": 2.48,
+            "San Antonio Spurs": 1.5
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:04:09Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
             "New York Knicks": 2.5,
             "San Antonio Spurs": 1.5
@@ -4323,7 +3777,7 @@
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:06Z",
+          "last_update": "2026-06-02T20:52:12Z",
           "outcomes": {
             "New York Knicks": 2.6,
             "San Antonio Spurs": 1.54
@@ -4332,16 +3786,16 @@
         {
           "bookmaker": "boylesports",
           "title": "BoyleSports",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:52:52Z",
           "outcomes": {
-            "New York Knicks": 2.6,
+            "New York Knicks": 2.5,
             "San Antonio Spurs": 1.5
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:10Z",
+          "last_update": "2026-06-02T20:52:11Z",
           "outcomes": {
             "New York Knicks": 2.58,
             "San Antonio Spurs": 1.53
@@ -4350,25 +3804,25 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:37Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
-            "New York Knicks": 2.66,
+            "New York Knicks": 2.64,
             "San Antonio Spurs": 1.53
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "New York Knicks": 2.6,
-            "San Antonio Spurs": 1.5
+            "New York Knicks": 2.5,
+            "San Antonio Spurs": 1.53
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:51:13Z",
           "outcomes": {
             "New York Knicks": 2.73,
             "San Antonio Spurs": 1.53
@@ -4377,7 +3831,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
             "New York Knicks": 2.6,
             "San Antonio Spurs": 1.53
@@ -4386,28 +3840,28 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:41Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
-            "New York Knicks": 2.55,
-            "San Antonio Spurs": 1.5
+            "New York Knicks": 2.48,
+            "San Antonio Spurs": 1.54
           }
         },
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:04:48Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "New York Knicks": 2.55,
-            "San Antonio Spurs": 1.5
+            "New York Knicks": 2.48,
+            "San Antonio Spurs": 1.54
           }
         },
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
-            "New York Knicks": 2.68,
-            "San Antonio Spurs": 1.58
+            "New York Knicks": 2.74,
+            "San Antonio Spurs": 1.56
           }
         }
       ],
@@ -4427,7 +3881,7 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
             "Over 218.5": 1.91,
             "Under 218.5": 1.91
@@ -4436,70 +3890,70 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:40Z",
+          "last_update": "2026-06-02T20:52:29Z",
           "outcomes": {
-            "Over 218.0": 1.82,
-            "Under 218.0": 1.82
+            "Over 218.0": 1.81,
+            "Under 218.0": 1.83
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
-            "Over 218.0": 1.91,
-            "Under 218.0": 1.91
+            "Over 218.0": 1.89,
+            "Under 218.0": 1.92
           }
         },
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:38Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "Over 218.0": 1.91,
-            "Under 218.0": 1.91
+            "Over 218.0": 1.9,
+            "Under 218.0": 1.92
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:06Z",
+          "last_update": "2026-06-02T20:51:51Z",
           "outcomes": {
-            "Over 218.0": 1.91,
-            "Under 218.0": 1.91
+            "Over 218.0": 1.89,
+            "Under 218.0": 1.92
           }
         },
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:07Z",
+          "last_update": "2026-06-02T20:51:54Z",
           "outcomes": {
-            "Over 218.0": 1.91,
-            "Under 218.0": 1.91
+            "Over 218.0": 1.9,
+            "Under 218.0": 1.92
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
-            "Over 218.0": 1.88,
+            "Over 218.0": 1.87,
             "Under 218.0": 1.88
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:04:47Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "Over 218.0": 1.82,
-            "Under 218.0": 1.82
+            "Over 218.0": 1.81,
+            "Under 218.0": 1.83
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
             "Over 218.5": 1.91,
             "Under 218.5": 1.91
@@ -4508,7 +3962,7 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:51:13Z",
           "outcomes": {
             "Over 218.5": 1.91,
             "Under 218.5": 1.91
@@ -4517,7 +3971,7 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:11Z",
           "outcomes": {
             "Over 227.5": 2.87,
             "Under 227.5": 1.4
@@ -4526,7 +3980,7 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:03:40Z",
+          "last_update": "2026-06-02T20:51:27Z",
           "outcomes": {
             "Over 218.5": 1.9,
             "Under 218.5": 1.9
@@ -4535,7 +3989,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:08Z",
+          "last_update": "2026-06-02T20:51:53Z",
           "outcomes": {
             "Over 218.5": 1.8,
             "Under 218.5": 1.9
@@ -4544,16 +3998,16 @@
         {
           "bookmaker": "codere_it",
           "title": "Codere (IT)",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:51Z",
           "outcomes": {
             "Over 218.5": 1.87,
-            "Under 218.5": 1.83
+            "Under 218.5": 1.84
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:04:09Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
             "Over 227.5": 2.87,
             "Under 227.5": 1.4
@@ -4562,16 +4016,16 @@
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:10Z",
+          "last_update": "2026-06-02T20:52:11Z",
           "outcomes": {
-            "Over 219.0": 1.9,
-            "Under 219.0": 1.94
+            "Over 218.5": 1.92,
+            "Under 218.5": 1.92
           }
         },
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:37Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
             "Over 218.0": 1.91,
             "Under 218.0": 1.96
@@ -4580,7 +4034,7 @@
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:51:13Z",
           "outcomes": {
             "Over 218.5": 1.96,
             "Under 218.5": 1.96
@@ -4589,7 +4043,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
             "Over 218.5": 1.92,
             "Under 218.5": 1.92
@@ -4598,7 +4052,7 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:41Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
             "Over 218.5": 1.88,
             "Under 218.5": 1.88
@@ -4607,7 +4061,7 @@
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:04:48Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
             "Over 218.5": 1.88,
             "Under 218.5": 1.88
@@ -4616,9 +4070,9 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
-            "Over 218.5": 1.96,
+            "Over 218.5": 1.97,
             "Under 218.5": 1.93
           }
         }
@@ -4639,7 +4093,7 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
             "New York Knicks (4.5)": 1.93,
             "San Antonio Spurs (-4.5)": 1.88
@@ -4648,52 +4102,52 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:40Z",
+          "last_update": "2026-06-02T20:52:29Z",
           "outcomes": {
-            "New York Knicks (4.5)": 1.85,
-            "San Antonio Spurs (-4.5)": 1.82
+            "New York Knicks (4.5)": 1.83,
+            "San Antonio Spurs (-4.5)": 1.83
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
-            "New York Knicks (4.5)": 1.93,
-            "San Antonio Spurs (-4.5)": 1.88
+            "New York Knicks (4.5)": 1.91,
+            "San Antonio Spurs (-4.5)": 1.91
           }
         },
         {
           "bookmaker": "sport888",
           "title": "888sport",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
-            "New York Knicks (5.5)": 1.73,
-            "San Antonio Spurs (-5.5)": 2.1
+            "New York Knicks (4.5)": 1.91,
+            "San Antonio Spurs (-4.5)": 1.91
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:07Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "New York Knicks (4.5)": 1.91,
-            "San Antonio Spurs (-4.5)": 1.87
+            "New York Knicks (4.5)": 1.88,
+            "San Antonio Spurs (-4.5)": 1.88
           }
         },
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
-            "New York Knicks (4.5)": 1.93,
-            "San Antonio Spurs (-4.5)": 1.88
+            "New York Knicks (4.5)": 1.91,
+            "San Antonio Spurs (-4.5)": 1.91
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:51:13Z",
           "outcomes": {
             "New York Knicks (4.5)": 1.91,
             "San Antonio Spurs (-4.5)": 1.91
@@ -4702,52 +4156,52 @@
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:52:11Z",
           "outcomes": {
             "New York Knicks (12.5)": 1.25,
-            "San Antonio Spurs (-12.5)": 4.0
+            "San Antonio Spurs (-12.5)": 3.9
           }
         },
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:08Z",
+          "last_update": "2026-06-02T20:51:53Z",
           "outcomes": {
-            "New York Knicks (5.5)": 1.85,
-            "San Antonio Spurs (-5.5)": 1.85
+            "New York Knicks (4.5)": 1.9,
+            "San Antonio Spurs (-4.5)": 1.8
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:04:09Z",
+          "last_update": "2026-06-02T20:52:30Z",
           "outcomes": {
             "New York Knicks (12.5)": 1.25,
-            "San Antonio Spurs (-12.5)": 4.0
+            "San Antonio Spurs (-12.5)": 3.9
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:10Z",
+          "last_update": "2026-06-02T20:52:11Z",
           "outcomes": {
-            "New York Knicks (5.0)": 1.9,
-            "San Antonio Spurs (-5.0)": 1.95
+            "New York Knicks (4.5)": 1.95,
+            "San Antonio Spurs (-4.5)": 1.9
           }
         },
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:37Z",
+          "last_update": "2026-06-02T20:52:49Z",
           "outcomes": {
-            "New York Knicks (4.5)": 1.99,
-            "San Antonio Spurs (-4.5)": 1.9
+            "New York Knicks (4.5)": 1.98,
+            "San Antonio Spurs (-4.5)": 1.91
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:05:36Z",
+          "last_update": "2026-06-02T20:51:13Z",
           "outcomes": {
             "New York Knicks (4.5)": 1.96,
             "San Antonio Spurs (-4.5)": 1.96
@@ -4756,7 +4210,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:04:46Z",
+          "last_update": "2026-06-02T20:51:52Z",
           "outcomes": {
             "New York Knicks (4.5)": 1.92,
             "San Antonio Spurs (-4.5)": 1.92
@@ -4765,10 +4219,10 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:35Z",
+          "last_update": "2026-06-02T20:52:50Z",
           "outcomes": {
-            "New York Knicks (5.0)": 1.96,
-            "San Antonio Spurs (-5.0)": 1.97
+            "New York Knicks (5.0)": 1.95,
+            "San Antonio Spurs (-5.0)": 1.98
           }
         }
       ],
@@ -4788,7 +4242,7 @@
         {
           "bookmaker": "paddypower",
           "title": "Paddy Power",
-          "last_update": "2026-06-02T14:05:17Z",
+          "last_update": "2026-06-02T20:48:22Z",
           "outcomes": {
             "Carolina Hurricanes": 1.65,
             "Vegas Golden Knights": 2.3
@@ -4797,16 +4251,16 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:16Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.62,
-            "Vegas Golden Knights": 2.41
+            "Carolina Hurricanes": 1.63,
+            "Vegas Golden Knights": 2.39
           }
         },
         {
           "bookmaker": "betfair_sb_uk",
           "title": "Betfair Sportsbook",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:17Z",
           "outcomes": {
             "Carolina Hurricanes": 1.65,
             "Vegas Golden Knights": 2.3
@@ -4815,35 +4269,35 @@
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:04:13Z",
+          "last_update": "2026-06-02T20:51:54Z",
           "outcomes": {
             "Carolina Hurricanes": 1.65,
-            "Vegas Golden Knights": 2.25
+            "Vegas Golden Knights": 2.3
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes": 1.65,
-            "Vegas Golden Knights": 2.25
+            "Vegas Golden Knights": 2.3
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:03:50Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Carolina Hurricanes": 2.1,
-            "Vegas Golden Knights": 3.15,
+            "Carolina Hurricanes": 2.11,
+            "Vegas Golden Knights": 3.12,
             "Draw": 4.21
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:42Z",
+          "last_update": "2026-06-02T20:50:17Z",
           "outcomes": {
             "Carolina Hurricanes": 2.03,
             "Vegas Golden Knights": 3.1,
@@ -4853,17 +4307,17 @@
         {
           "bookmaker": "marathonbet",
           "title": "Marathon Bet",
-          "last_update": "2026-06-02T14:03:51Z",
+          "last_update": "2026-06-02T20:52:34Z",
           "outcomes": {
-            "Carolina Hurricanes": 2.07,
-            "Vegas Golden Knights": 3.1,
+            "Carolina Hurricanes": 2.08,
+            "Vegas Golden Knights": 3.08,
             "Draw": 4.15
           }
         },
         {
           "bookmaker": "unibet_fr",
           "title": "Unibet (FR)",
-          "last_update": "2026-06-02T14:05:14Z",
+          "last_update": "2026-06-02T20:52:33Z",
           "outcomes": {
             "Carolina Hurricanes": 2.05,
             "Vegas Golden Knights": 3.0,
@@ -4873,35 +4327,45 @@
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes": 1.65,
-            "Vegas Golden Knights": 2.26
+            "Vegas Golden Knights": 2.25
           }
         },
         {
           "bookmaker": "unibet_uk",
           "title": "Unibet (UK)",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
             "Carolina Hurricanes": 2.08,
             "Vegas Golden Knights": 3.05,
-            "Draw": 4.2
+            "Draw": 4.1
           }
         },
         {
           "bookmaker": "williamhill",
           "title": "William Hill",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes": 1.67,
             "Vegas Golden Knights": 2.2
           }
         },
         {
+          "bookmaker": "betclic_fr",
+          "title": "Betclic (FR)",
+          "last_update": "2026-06-02T20:51:32Z",
+          "outcomes": {
+            "Carolina Hurricanes": 2.05,
+            "Vegas Golden Knights": 2.98,
+            "Draw": 4.05
+          }
+        },
+        {
           "bookmaker": "betway",
           "title": "Betway",
-          "last_update": "2026-06-02T14:05:40Z",
+          "last_update": "2026-06-02T20:52:33Z",
           "outcomes": {
             "Carolina Hurricanes": 2.05,
             "Vegas Golden Knights": 3.0,
@@ -4911,16 +4375,16 @@
         {
           "bookmaker": "betvictor",
           "title": "Bet Victor",
-          "last_update": "2026-06-02T14:02:11Z",
+          "last_update": "2026-06-02T20:52:48Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.61,
-            "Vegas Golden Knights": 2.3
+            "Carolina Hurricanes": 1.67,
+            "Vegas Golden Knights": 2.25
           }
         },
         {
           "bookmaker": "smarkets",
           "title": "Smarkets",
-          "last_update": "2026-06-02T14:05:41Z",
+          "last_update": "2026-06-02T20:52:52Z",
           "outcomes": {
             "Carolina Hurricanes": 1.66,
             "Vegas Golden Knights": 2.4
@@ -4929,86 +4393,86 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes": 2.04,
-            "Vegas Golden Knights": 3.1,
-            "Draw": 4.2
+            "Vegas Golden Knights": 3.15,
+            "Draw": 4.1
           }
         },
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
             "Carolina Hurricanes": 2.0,
             "Vegas Golden Knights": 3.05,
-            "Draw": 4.1
+            "Draw": 4.0
           }
         },
         {
           "bookmaker": "pmu_fr",
           "title": "PMU (FR)",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:52Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.89,
-            "Vegas Golden Knights": 2.9,
-            "Draw": 3.9
+            "Carolina Hurricanes": 1.91,
+            "Vegas Golden Knights": 2.95,
+            "Draw": 3.85
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes": 2.08,
-            "Vegas Golden Knights": 3.15,
-            "Draw": 4.25
+            "Vegas Golden Knights": 3.2,
+            "Draw": 4.2
           }
         },
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:05:18Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes": 2.08,
-            "Vegas Golden Knights": 3.15,
-            "Draw": 4.25
+            "Vegas Golden Knights": 3.2,
+            "Draw": 4.2
           }
         },
         {
           "bookmaker": "betanysports",
           "title": "BetAnything",
-          "last_update": "2026-06-02T14:05:40Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.69,
-            "Vegas Golden Knights": 2.25
+            "Carolina Hurricanes": 1.67,
+            "Vegas Golden Knights": 2.3
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes": 2.04,
-            "Vegas Golden Knights": 3.1,
-            "Draw": 4.2
+            "Vegas Golden Knights": 3.15,
+            "Draw": 4.1
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes": 2.04,
-            "Vegas Golden Knights": 3.1,
-            "Draw": 4.2
+            "Vegas Golden Knights": 3.15,
+            "Draw": 4.1
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:15Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes": 1.62,
             "Vegas Golden Knights": 2.35
@@ -5017,26 +4481,26 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:39Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.66,
-            "Vegas Golden Knights": 2.36
+            "Carolina Hurricanes": 1.67,
+            "Vegas Golden Knights": 2.34
           }
         },
         {
           "bookmaker": "winamax_de",
           "title": "Winamax (DE)",
-          "last_update": "2026-06-02T14:05:41Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
             "Carolina Hurricanes": 2.05,
             "Vegas Golden Knights": 3.05,
-            "Draw": 4.2
+            "Draw": 4.1
           }
         },
         {
           "bookmaker": "winamax_fr",
           "title": "Winamax (FR)",
-          "last_update": "2026-06-02T14:05:42Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
             "Carolina Hurricanes": 2.0,
             "Vegas Golden Knights": 2.95,
@@ -5046,25 +4510,25 @@
         {
           "bookmaker": "nordicbet",
           "title": "Nordic Bet",
-          "last_update": "2026-06-02T14:05:14Z",
+          "last_update": "2026-06-02T20:52:16Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.64,
-            "Vegas Golden Knights": 2.25
+            "Carolina Hurricanes": 1.65,
+            "Vegas Golden Knights": 2.24
           }
         },
         {
           "bookmaker": "betsson",
           "title": "Betsson",
-          "last_update": "2026-06-02T14:05:43Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.64,
-            "Vegas Golden Knights": 2.25
+            "Carolina Hurricanes": 1.65,
+            "Vegas Golden Knights": 2.24
           }
         },
         {
           "bookmaker": "betfair_ex_uk",
           "title": "Betfair",
-          "last_update": "2026-06-02T14:05:40Z",
+          "last_update": "2026-06-02T20:52:52Z",
           "outcomes": {
             "Carolina Hurricanes": 1.68,
             "Vegas Golden Knights": 2.42
@@ -5073,7 +4537,7 @@
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes": 2.05,
             "Vegas Golden Knights": 2.95,
@@ -5083,14 +4547,14 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "Carolina Hurricanes": 1.68,
-            "Vegas Golden Knights": 2.44
+            "Carolina Hurricanes": 1.69,
+            "Vegas Golden Knights": 2.42
           }
         }
       ],
-      "fresh_bookmakers": 32,
+      "fresh_bookmakers": 33,
       "stale_filtered": 0
     },
     {
@@ -5106,115 +4570,115 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:16Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "Over 5.5": 1.83,
-            "Under 5.5": 2.05
+            "Over 5.5": 1.84,
+            "Under 5.5": 2.03
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:04:13Z",
+          "last_update": "2026-06-02T20:51:54Z",
           "outcomes": {
-            "Over 8.5": 5.25,
-            "Under 8.5": 1.13
+            "Over 9.5": 10.0,
+            "Under 9.5": 1.04
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
-            "Over 8.5": 5.25,
-            "Under 8.5": 1.13
+            "Over 9.5": 10.0,
+            "Under 9.5": 1.04
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:03:50Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Over 5.5": 1.93,
-            "Under 5.5": 1.95
+            "Over 5.5": 1.89,
+            "Under 5.5": 1.99
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:42Z",
+          "last_update": "2026-06-02T20:50:17Z",
           "outcomes": {
-            "Over 5.5": 1.89,
-            "Under 5.5": 1.92
+            "Over 5.5": 1.82,
+            "Under 5.5": 2.0
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
-            "Over 5.5": 1.84,
-            "Under 5.5": 1.97
+            "Over 5.5": 1.83,
+            "Under 5.5": 1.99
           }
         },
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
-            "Over 5.5": 1.89,
-            "Under 5.5": 1.91
+            "Over 5.5": 1.82,
+            "Under 5.5": 2.0
           }
         },
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Over 5.5": 1.83,
-            "Under 5.5": 1.83
+            "Over 5.5": 1.76,
+            "Under 5.5": 1.93
           }
         },
         {
           "bookmaker": "livescorebet",
           "title": "LiveScore Bet",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Over 5.5": 1.9,
-            "Under 5.5": 1.91
+            "Over 5.5": 1.82,
+            "Under 5.5": 2.0
           }
         },
         {
           "bookmaker": "virginbet",
           "title": "Virgin Bet",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
-            "Over 5.5": 1.9,
-            "Under 5.5": 1.91
+            "Over 5.5": 1.82,
+            "Under 5.5": 2.0
           }
         },
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
-            "Over 5.5": 1.89,
-            "Under 5.5": 1.91
+            "Over 5.5": 1.82,
+            "Under 5.5": 2.0
           }
         },
         {
           "bookmaker": "grosvenor",
           "title": "Grosvenor",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
-            "Over 5.5": 1.89,
-            "Under 5.5": 1.91
+            "Over 5.5": 1.82,
+            "Under 5.5": 2.0
           }
         },
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:15Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Over 5.5": 1.83,
             "Under 5.5": 2.0
@@ -5223,16 +4687,16 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:39Z",
           "outcomes": {
-            "Over 5.5": 1.92,
-            "Under 5.5": 1.97
+            "Over 5.5": 1.85,
+            "Under 5.5": 2.04
           }
         },
         {
           "bookmaker": "tipico_de",
           "title": "Tipico",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Over 5.5": 1.75,
             "Under 5.5": 1.93
@@ -5241,10 +4705,10 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "Over 5.5": 1.93,
-            "Under 5.5": 2.02
+            "Over 5.5": 1.89,
+            "Under 5.5": 2.06
           }
         }
       ],
@@ -5264,52 +4728,52 @@
         {
           "bookmaker": "betonlineag",
           "title": "BetOnline.ag",
-          "last_update": "2026-06-02T14:05:16Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "Carolina Hurricanes (-1.5)": 2.67,
-            "Vegas Golden Knights (1.5)": 1.52
+            "Carolina Hurricanes (-1.5)": 2.7,
+            "Vegas Golden Knights (1.5)": 1.51
           }
         },
         {
           "bookmaker": "coral",
           "title": "Coral",
-          "last_update": "2026-06-02T14:04:13Z",
+          "last_update": "2026-06-02T20:51:54Z",
           "outcomes": {
-            "Carolina Hurricanes (-4.5)": 15.0,
-            "Vegas Golden Knights (4.5)": 1.03
+            "Carolina Hurricanes (3.5)": 1.05,
+            "Vegas Golden Knights (-3.5)": 11.0
           }
         },
         {
           "bookmaker": "ladbrokes_uk",
           "title": "Ladbrokes",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
-            "Carolina Hurricanes (-4.5)": 15.0,
-            "Vegas Golden Knights (4.5)": 1.03
+            "Carolina Hurricanes (3.5)": 1.05,
+            "Vegas Golden Knights (-3.5)": 11.0
           }
         },
         {
           "bookmaker": "onexbet",
           "title": "1xBet",
-          "last_update": "2026-06-02T14:03:50Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Carolina Hurricanes (0.0)": 1.63,
-            "Vegas Golden Knights (0.0)": 2.4
+            "Carolina Hurricanes (0.0)": 1.64,
+            "Vegas Golden Knights (0.0)": 2.37
           }
         },
         {
           "bookmaker": "coolbet",
           "title": "Coolbet",
-          "last_update": "2026-06-02T14:05:42Z",
+          "last_update": "2026-06-02T20:50:17Z",
           "outcomes": {
-            "Carolina Hurricanes (-1.5)": 2.6,
-            "Vegas Golden Knights (1.5)": 1.5
+            "Carolina Hurricanes (-1.5)": 2.71,
+            "Vegas Golden Knights (1.5)": 1.49
           }
         },
         {
           "bookmaker": "mybookieag",
           "title": "MyBookie.ag",
-          "last_update": "2026-06-02T14:04:10Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.61,
             "Vegas Golden Knights (1.5)": 1.5
@@ -5318,7 +4782,7 @@
         {
           "bookmaker": "casumo",
           "title": "Casumo",
-          "last_update": "2026-06-02T14:05:13Z",
+          "last_update": "2026-06-02T20:52:32Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.55,
             "Vegas Golden Knights (1.5)": 1.51
@@ -5327,16 +4791,16 @@
         {
           "bookmaker": "leovegas",
           "title": "LeoVegas",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:13Z",
           "outcomes": {
-            "Carolina Hurricanes (-1.5)": 2.5,
-            "Vegas Golden Knights (1.5)": 1.48
+            "Carolina Hurricanes (-1.5)": 2.48,
+            "Vegas Golden Knights (1.5)": 1.49
           }
         },
         {
           "bookmaker": "leovegas_se",
           "title": "LeoVegas (SE)",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.55,
             "Vegas Golden Knights (1.5)": 1.53
@@ -5345,7 +4809,7 @@
         {
           "bookmaker": "unibet_se",
           "title": "Unibet (SE)",
-          "last_update": "2026-06-02T14:05:18Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.55,
             "Vegas Golden Knights (1.5)": 1.51
@@ -5354,7 +4818,7 @@
         {
           "bookmaker": "unibet_nl",
           "title": "Unibet (NL)",
-          "last_update": "2026-06-02T14:05:12Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.55,
             "Vegas Golden Knights (1.5)": 1.51
@@ -5363,7 +4827,7 @@
         {
           "bookmaker": "gtbets",
           "title": "GTbets",
-          "last_update": "2026-06-02T14:05:15Z",
+          "last_update": "2026-06-02T20:52:14Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.7,
             "Vegas Golden Knights (1.5)": 1.5
@@ -5372,7 +4836,7 @@
         {
           "bookmaker": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:39Z",
           "outcomes": {
             "Carolina Hurricanes (-1.5)": 2.73,
             "Vegas Golden Knights (1.5)": 1.51
@@ -5381,10 +4845,10 @@
         {
           "bookmaker": "matchbook",
           "title": "Matchbook",
-          "last_update": "2026-06-02T14:05:39Z",
+          "last_update": "2026-06-02T20:52:53Z",
           "outcomes": {
-            "Carolina Hurricanes (-1.5)": 2.76,
-            "Vegas Golden Knights (1.5)": 1.55
+            "Carolina Hurricanes (-1.5)": 2.72,
+            "Vegas Golden Knights (1.5)": 1.54
           }
         }
       ],
