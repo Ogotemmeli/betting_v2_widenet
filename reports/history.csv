@@ -584,3 +584,21 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-06-01 21:36 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,8.8,ALTA,20.0,Carolina Hurricanes@2.1 (Winamax (DE))
 2026-06-01 21:36 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,7.76,ALTA,17.97,Carolina Hurricanes@2.08 (Marathon Bet)
 2026-06-01 21:36 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,7.76,ALTA,17.97,Carolina Hurricanes@2.08 (Unibet (UK))
+2026-06-02 14:05 UTC,ARBITRAGE,tennis,Rafael Jodar vs Alexander Zverev,ATP French Open,h2h,1.461,SURE,14.61,"{""Rafael Jodar"": {""bookmaker"": ""MyBookie.ag"", ""odds"": 7.25, ""stake_pct"": 14.0, ""stake_amount"": 139.98}, ""Alexander Zverev"": {""bookmaker"": ""Pinnacle"", ""odds"": 1.18, ""stake_pct"": 86.0, ""stake_amount"": 860.02}}"
+2026-06-02 14:05 UTC,ARBITRAGE,tennis,Anna Kalinskaya vs Maja Chwalinska,WTA French Open,h2h,1.22,SURE,12.2,"{""Maja Chwalinska"": {""bookmaker"": ""LeoVegas"", ""odds"": 2.05, ""stake_pct"": 49.38, ""stake_amount"": 493.83}, ""Anna Kalinskaya"": {""bookmaker"": ""Matchbook"", ""odds"": 2.0, ""stake_pct"": 50.62, ""stake_amount"": 506.17}}"
+2026-06-02 14:05 UTC,ARBITRAGE,tennis,Aryna Sabalenka vs Diana Shnaider,WTA French Open,h2h,0.641,SURE,6.41,"{""Aryna Sabalenka"": {""bookmaker"": ""1xBet"", ""odds"": 1.17, ""stake_pct"": 86.02, ""stake_amount"": 860.22}, ""Diana Shnaider"": {""bookmaker"": ""Betfair"", ""odds"": 7.2, ""stake_pct"": 13.98, ""stake_amount"": 139.78}}"
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,14.17,ALTA,16.48,Vegas Golden Knights@3.15 (1xBet)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,14.17,ALTA,16.48,Vegas Golden Knights@3.15 (LeoVegas (SE))
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,14.17,ALTA,16.48,Vegas Golden Knights@3.15 (Unibet (SE))
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,12.36,ALTA,14.72,Vegas Golden Knights@3.1 (Coolbet)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,12.36,ALTA,14.72,Vegas Golden Knights@3.1 (Marathon Bet)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,12.36,ALTA,14.72,Vegas Golden Knights@3.1 (Casumo)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,12.36,ALTA,14.72,Vegas Golden Knights@3.1 (Unibet (NL))
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,12.36,ALTA,14.72,Vegas Golden Knights@3.1 (Grosvenor)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,10.55,ALTA,12.86,Vegas Golden Knights@3.05 (Unibet (UK))
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,10.55,ALTA,12.86,Vegas Golden Knights@3.05 (LeoVegas)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,10.55,ALTA,12.86,Vegas Golden Knights@3.05 (Winamax (DE))
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,9.72,ALTA,22.08,Carolina Hurricanes@2.1 (1xBet)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,8.74,ALTA,10.92,Vegas Golden Knights@3.0 (Unibet (FR))
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,8.74,ALTA,10.92,Vegas Golden Knights@3.0 (Betway)
+2026-06-02 14:05 UTC,VALUE_BET,hockey,Carolina Hurricanes vs Vegas Golden Knights,NHL,h2h,8.67,ALTA,20.07,Carolina Hurricanes@2.08 (Unibet (UK))
