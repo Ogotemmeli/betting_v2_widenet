@@ -1,5 +1,5 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-06-05 19:58 UTC
+**Generato:** 2026-06-06 11:36 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
@@ -11,43 +11,51 @@
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
 | Calcio | 0 | 0 | — |
-| Tennis | 0 | 0 | — |
-| Basket | 0 | 1 | 3.0% edge |
-| Hockey | 0 | 14 | 13.4% edge |
+| Tennis | 1 | 0 | 1.48% arb |
+| Basket | 0 | 0 | — |
+| Hockey | 0 | 15 | 13.1% edge |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-_Nessun arbitraggio trovato. Normale — sono rari e brevi._
+### #1 — Maja Chwalinska vs Mirra Andreeva
+- **Sport:** Tennis | **Lega:** WTA French Open
+- **Mercato:** h2h | **Inizio:** 2026-06-06T13:00:00Z
+- **Margine:** 1.48% (€14.81 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Mirra Andreeva | Bet Victor | 1.25 | 81.2% | €812.03 |
+| Maja Chwalinska | Betfair | 5.40 | 18.8% | €187.97 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | LeoVegas (SE | 2.60 | 13.4% | 🟢 | €21 |
-| 2 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Unibet (SE) | 2.60 | 13.4% | 🟢 | €21 |
-| 3 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | 1xBet | 2.57 | 12.1% | 🟢 | €19 |
-| 4 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Unibet (NL) | 2.55 | 11.2% | 🟢 | €18 |
-| 5 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Grosvenor | 2.55 | 11.2% | 🟢 | €18 |
-| 6 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Casumo | 2.55 | 11.2% | 🟢 | €18 |
-| 7 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Marathon Bet | 2.53 | 10.3% | 🟢 | €17 |
-| 8 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | LeoVegas (SE | 2.50 | 10.2% | 🟢 | €17 |
-| 9 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Coolbet | 2.50 | 10.2% | 🟢 | €17 |
-| 10 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (SE) | 2.50 | 10.2% | 🟢 | €17 |
-| 11 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | 1xBet | 2.50 | 10.2% | 🟢 | €17 |
-| 12 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Coolbet | 2.50 | 9.0% | 🟢 | €15 |
-| 13 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Marathon Bet | 2.46 | 8.4% | 🟢 | €14 |
-| 14 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | LeoVegas | 2.48 | 8.2% | 🟢 | €14 |
-| 15 | Basket | San Antonio Spurs vs New  | New York Knicks | Betfair | 3.10 | 3.0% | 🟡 | €4 |
+| 1 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | LeoVegas (SE | 2.60 | 13.1% | 🟢 | €20 |
+| 2 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Unibet (SE) | 2.60 | 13.1% | 🟢 | €20 |
+| 3 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Unibet (NL) | 2.55 | 10.9% | 🟢 | €18 |
+| 4 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Grosvenor | 2.55 | 10.9% | 🟢 | €18 |
+| 5 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Casumo | 2.55 | 10.9% | 🟢 | €18 |
+| 6 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | 1xBet | 2.54 | 10.5% | 🟢 | €17 |
+| 7 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | 1xBet | 2.52 | 10.4% | 🟢 | €17 |
+| 8 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | LeoVegas (SE | 2.50 | 9.6% | 🟢 | €16 |
+| 9 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Coolbet | 2.50 | 9.6% | 🟢 | €16 |
+| 10 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (SE) | 2.50 | 9.6% | 🟢 | €16 |
+| 11 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (UK) | 2.50 | 9.6% | 🟢 | €16 |
+| 12 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Marathon Bet | 2.50 | 8.8% | 🟢 | €15 |
+| 13 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | LeoVegas | 2.50 | 8.8% | 🟢 | €15 |
+| 14 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Coolbet | 2.50 | 8.8% | 🟢 | €15 |
+| 15 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (NL) | 2.45 | 7.4% | 🟢 | €13 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Hockey**: ████████████████████████████████░ 99% (€243)
-- **Basket**: ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1% (€4)
+- **Hockey**: █████████████████████████████████ 100% (€248)
 
 ---
 ## ⚠️ Disclaimer
