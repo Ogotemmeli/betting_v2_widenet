@@ -1,5 +1,5 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-06-11 20:29 UTC
+**Generato:** 2026-06-12 12:54 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
@@ -13,7 +13,7 @@
 | Calcio | 0 | 0 | — |
 | Tennis | 0 | 0 | — |
 | Basket | 0 | 0 | — |
-| Hockey | 0 | 15 | 13.7% edge |
+| Hockey | 0 | 15 | 12.0% edge |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
@@ -25,21 +25,21 @@ _Nessun arbitraggio trovato. Normale — sono rari e brevi._
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Unibet (SE) | 3.15 | 13.7% | 🟢 | €16 |
-| 2 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | LeoVegas (SE | 3.15 | 13.7% | 🟢 | €16 |
-| 3 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | 1xBet | 3.12 | 12.6% | 🟢 | €15 |
-| 4 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Casumo | 3.10 | 11.9% | 🟢 | €14 |
-| 5 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Grosvenor | 3.10 | 11.9% | 🟢 | €14 |
-| 6 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Unibet (NL) | 3.10 | 11.9% | 🟢 | €14 |
-| 7 | Hockey | Carolina Hurricanes vs Ve | Carolina Hurric | 1xBet | 2.12 | 10.4% | 🟢 | €23 |
-| 8 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Unibet (UK) | 3.05 | 10.1% | 🟢 | €12 |
-| 9 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Coolbet | 3.05 | 10.1% | 🟢 | €12 |
-| 10 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Marathon Bet | 3.04 | 9.7% | 🟢 | €12 |
-| 11 | Hockey | Carolina Hurricanes vs Ve | Carolina Hurric | Unibet (UK) | 2.08 | 8.3% | 🟢 | €19 |
-| 12 | Hockey | Carolina Hurricanes vs Ve | Carolina Hurric | Coolbet | 2.08 | 8.3% | 🟢 | €19 |
-| 13 | Hockey | Carolina Hurricanes vs Ve | Carolina Hurric | Unibet (SE) | 2.08 | 8.3% | 🟢 | €19 |
-| 14 | Hockey | Carolina Hurricanes vs Ve | Carolina Hurric | LeoVegas (SE | 2.08 | 8.3% | 🟢 | €19 |
-| 15 | Hockey | Carolina Hurricanes vs Ve | Vegas Golden Kn | Unibet (FR) | 3.00 | 8.2% | 🟢 | €10 |
+| 1 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | 1xBet | 2.64 | 12.0% | 🟢 | €18 |
+| 2 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Unibet (SE) | 2.48 | 11.4% | 🟢 | €19 |
+| 3 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | LeoVegas (SE | 2.48 | 11.4% | 🟢 | €19 |
+| 4 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (SE) | 2.60 | 10.3% | 🟢 | €16 |
+| 5 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | LeoVegas (SE | 2.60 | 10.3% | 🟢 | €16 |
+| 6 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Marathon Bet | 2.60 | 10.3% | 🟢 | €16 |
+| 7 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Tipico | 2.60 | 10.3% | 🟢 | €16 |
+| 8 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Grosvenor | 2.43 | 9.1% | 🟢 | €16 |
+| 9 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Unibet (NL) | 2.43 | 9.1% | 🟢 | €16 |
+| 10 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | Casumo | 2.43 | 9.1% | 🟢 | €16 |
+| 11 | Hockey | Vegas Golden Knights vs C | Carolina Hurric | 1xBet | 2.41 | 8.2% | 🟢 | €15 |
+| 12 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Grosvenor | 2.55 | 8.2% | 🟢 | €13 |
+| 13 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (NL) | 2.55 | 8.2% | 🟢 | €13 |
+| 14 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Casumo | 2.55 | 8.2% | 🟢 | €13 |
+| 15 | Hockey | Vegas Golden Knights vs C | Vegas Golden Kn | Unibet (UK) | 2.55 | 8.2% | 🟢 | €13 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
