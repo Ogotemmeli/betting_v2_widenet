@@ -1,9 +1,9 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-06-18 12:56 UTC
+**Generato:** 2026-06-18 20:29 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 0 record da 0 leghe attive | API calls: 18
+**Dati:** 6 record da 1 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport

@@ -1,14 +1,339 @@
 {
-  "timestamp": "2026-06-18_1256",
+  "timestamp": "2026-06-18_2028",
   "api_calls_used": 18,
-  "leagues_active": 0,
-  "leagues_inactive": 18,
-  "total_events": 0,
+  "leagues_active": 1,
+  "leagues_inactive": 17,
+  "total_events": 6,
   "by_sport": {
-    "soccer": 0,
+    "soccer": 6,
     "tennis": 0,
     "basketball": 0,
     "hockey": 0
   },
-  "events": []
+  "events": [
+    {
+      "id": "fbea45a1e53e07faac0027ac5d233587",
+      "sport": "soccer_italy_serie_a",
+      "sport_category": "soccer",
+      "league": "Serie A - Italy",
+      "home_team": "Torino",
+      "away_team": "AC Milan",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T20:28:00Z",
+          "outcomes": {
+            "AC Milan": 1.73,
+            "Torino": 4.2,
+            "Draw": 3.75
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T20:28:23Z",
+          "outcomes": {
+            "AC Milan": 1.75,
+            "Torino": 4.2,
+            "Draw": 3.75
+          }
+        },
+        {
+          "bookmaker": "betfred_uk",
+          "title": "Betfred (UK)",
+          "last_update": "2026-06-18T20:27:58Z",
+          "outcomes": {
+            "AC Milan": 1.8,
+            "Torino": 4.33,
+            "Draw": 3.75
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-18T20:28:24Z",
+          "outcomes": {
+            "AC Milan": 1.67,
+            "Torino": 4.0,
+            "Draw": 3.2
+          }
+        }
+      ],
+      "fresh_bookmakers": 4,
+      "stale_filtered": 0
+    },
+    {
+      "id": "342da6cad58a21d1c6653ef88c05371e",
+      "sport": "soccer_italy_serie_a",
+      "sport_category": "soccer",
+      "league": "Serie A - Italy",
+      "home_team": "AS Roma",
+      "away_team": "Fiorentina",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T20:28:00Z",
+          "outcomes": {
+            "AS Roma": 1.5,
+            "Fiorentina": 6.0,
+            "Draw": 4.0
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T20:28:23Z",
+          "outcomes": {
+            "AS Roma": 1.5,
+            "Fiorentina": 6.0,
+            "Draw": 4.0
+          }
+        },
+        {
+          "bookmaker": "betfred_uk",
+          "title": "Betfred (UK)",
+          "last_update": "2026-06-18T20:27:58Z",
+          "outcomes": {
+            "AS Roma": 1.53,
+            "Fiorentina": 6.0,
+            "Draw": 4.2
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-18T20:28:24Z",
+          "outcomes": {
+            "AS Roma": 1.44,
+            "Fiorentina": 5.5,
+            "Draw": 3.4
+          }
+        }
+      ],
+      "fresh_bookmakers": 4,
+      "stale_filtered": 0
+    },
+    {
+      "id": "c23c70e25e6253ea30f33add6c73d299",
+      "sport": "soccer_italy_serie_a",
+      "sport_category": "soccer",
+      "league": "Serie A - Italy",
+      "home_team": "Bologna",
+      "away_team": "Lazio",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T20:28:00Z",
+          "outcomes": {
+            "Bologna": 2.1,
+            "Lazio": 3.3,
+            "Draw": 3.3
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T20:28:23Z",
+          "outcomes": {
+            "Bologna": 2.1,
+            "Lazio": 3.3,
+            "Draw": 3.3
+          }
+        },
+        {
+          "bookmaker": "betfred_uk",
+          "title": "Betfred (UK)",
+          "last_update": "2026-06-18T20:27:58Z",
+          "outcomes": {
+            "Bologna": 2.15,
+            "Lazio": 3.4,
+            "Draw": 3.4
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-18T20:28:24Z",
+          "outcomes": {
+            "Bologna": 2.0,
+            "Lazio": 3.1,
+            "Draw": 2.88
+          }
+        }
+      ],
+      "fresh_bookmakers": 4,
+      "stale_filtered": 0
+    },
+    {
+      "id": "bea9b476bdea2d41a0f4bd53a24c1413",
+      "sport": "soccer_italy_serie_a",
+      "sport_category": "soccer",
+      "league": "Serie A - Italy",
+      "home_team": "Parma",
+      "away_team": "Cagliari",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T20:28:00Z",
+          "outcomes": {
+            "Cagliari": 2.88,
+            "Parma": 2.45,
+            "Draw": 3.0
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T20:28:23Z",
+          "outcomes": {
+            "Cagliari": 2.88,
+            "Parma": 2.5,
+            "Draw": 3.1
+          }
+        },
+        {
+          "bookmaker": "betfred_uk",
+          "title": "Betfred (UK)",
+          "last_update": "2026-06-18T20:27:58Z",
+          "outcomes": {
+            "Cagliari": 2.88,
+            "Parma": 2.5,
+            "Draw": 3.2
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-18T20:28:24Z",
+          "outcomes": {
+            "Cagliari": 2.7,
+            "Parma": 2.4,
+            "Draw": 2.63
+          }
+        }
+      ],
+      "fresh_bookmakers": 4,
+      "stale_filtered": 0
+    },
+    {
+      "id": "71a416cf5920fef1bddf076ca260421f",
+      "sport": "soccer_italy_serie_a",
+      "sport_category": "soccer",
+      "league": "Serie A - Italy",
+      "home_team": "Genoa",
+      "away_team": "Napoli",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T20:28:00Z",
+          "outcomes": {
+            "Genoa": 5.5,
+            "Napoli": 1.62,
+            "Draw": 3.6
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T20:28:23Z",
+          "outcomes": {
+            "Genoa": 5.5,
+            "Napoli": 1.62,
+            "Draw": 3.6
+          }
+        },
+        {
+          "bookmaker": "betfred_uk",
+          "title": "Betfred (UK)",
+          "last_update": "2026-06-18T20:27:58Z",
+          "outcomes": {
+            "Genoa": 5.5,
+            "Napoli": 1.67,
+            "Draw": 3.6
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-18T20:28:24Z",
+          "outcomes": {
+            "Genoa": 5.0,
+            "Napoli": 1.57,
+            "Draw": 3.1
+          }
+        }
+      ],
+      "fresh_bookmakers": 4,
+      "stale_filtered": 0
+    },
+    {
+      "id": "4a22f8a958a3360b75505a1c432a81dd",
+      "sport": "soccer_italy_serie_a",
+      "sport_category": "soccer",
+      "league": "Serie A - Italy",
+      "home_team": "Inter Milan",
+      "away_team": "Monza",
+      "commence_time": "2026-08-23T16:30:00Z",
+      "market": "h2h",
+      "bookmakers": [
+        {
+          "bookmaker": "paddypower",
+          "title": "Paddy Power",
+          "last_update": "2026-06-18T20:28:00Z",
+          "outcomes": {
+            "Inter Milan": 1.14,
+            "Monza": 14.0,
+            "Draw": 7.0
+          }
+        },
+        {
+          "bookmaker": "skybet",
+          "title": "Sky Bet",
+          "last_update": "2026-06-18T20:28:23Z",
+          "outcomes": {
+            "Inter Milan": 1.17,
+            "Monza": 13.0,
+            "Draw": 7.0
+          }
+        },
+        {
+          "bookmaker": "betfred_uk",
+          "title": "Betfred (UK)",
+          "last_update": "2026-06-18T20:27:58Z",
+          "outcomes": {
+            "Inter Milan": 1.18,
+            "Monza": 15.0,
+            "Draw": 7.0
+          }
+        },
+        {
+          "bookmaker": "betfair_sb_uk",
+          "title": "Betfair Sportsbook",
+          "last_update": "2026-06-18T20:28:24Z",
+          "outcomes": {
+            "Inter Milan": 1.14,
+            "Monza": 14.0,
+            "Draw": 5.5
+          }
+        }
+      ],
+      "fresh_bookmakers": 4,
+      "stale_filtered": 0
+    }
+  ]
 }
