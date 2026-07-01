@@ -1027,3 +1027,27 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-01 12:35 UTC,VALUE_BET,tennis,Alejandro Davidovich Fokina vs Fabian Marozsan,ATP Wimbledon,spreads,5.78,BASSA,8.03,Fabian Marozsan (7.5)@2.8 (Grosvenor)
 2026-07-01 12:35 UTC,VALUE_BET,tennis,Frances Tiafoe vs Terence Atmane,ATP Wimbledon,totals,5.64,MEDIA,12.47,Under 42.5@2.13 (1xBet)
 2026-07-01 12:35 UTC,VALUE_BET,tennis,Roman Safiullin vs Botic van de Zandschulp,ATP Wimbledon,h2h,5.58,ALTA,8.94,Botic van de Zandschulp@2.56 (Matchbook)
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Brandon Nakashima vs Jan-Lennard Struff,ATP Wimbledon,h2h,9.351,SURE,93.51,"{""Brandon Nakashima"": {""bookmaker"": ""Betsson"", ""odds"": 1.67, ""stake_pct"": 66.06, ""stake_amount"": 660.57}, ""Jan-Lennard Struff"": {""bookmaker"": ""Betway"", ""odds"": 3.25, ""stake_pct"": 33.94, ""stake_amount"": 339.43}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Rafael Jodar vs Pablo Carreno Busta,ATP Wimbledon,h2h,5.242,SURE,52.42,"{""Pablo Carreno Busta"": {""bookmaker"": ""Betway"", ""odds"": 1.6, ""stake_pct"": 65.96, ""stake_amount"": 659.57}, ""Rafael Jodar"": {""bookmaker"": ""BoyleSports"", ""odds"": 3.1, ""stake_pct"": 34.04, ""stake_amount"": 340.43}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Jacob Fearnley vs Jaume Munar,ATP Wimbledon,h2h,2.529,SURE,25.29,"{""Jacob Fearnley"": {""bookmaker"": ""1xBet"", ""odds"": 2.5, ""stake_pct"": 41.04, ""stake_amount"": 410.38}, ""Jaume Munar"": {""bookmaker"": ""Betfair"", ""odds"": 1.74, ""stake_pct"": 58.96, ""stake_amount"": 589.62}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Alex de Minaur vs Adrian Mannarino,ATP Wimbledon,h2h,2.453,SURE,24.53,"{""Alex de Minaur"": {""bookmaker"": ""GTbets"", ""odds"": 1.26, ""stake_pct"": 81.36, ""stake_amount"": 813.61}, ""Adrian Mannarino"": {""bookmaker"": ""BoyleSports"", ""odds"": 5.5, ""stake_pct"": 18.64, ""stake_amount"": 186.39}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Belinda Bencic vs Anna Kalinskaya,WTA Wimbledon,h2h,0.877,SURE,8.77,"{""Anna Kalinskaya"": {""bookmaker"": ""Betway"", ""odds"": 3.0, ""stake_pct"": 33.63, ""stake_amount"": 336.28}, ""Belinda Bencic"": {""bookmaker"": ""1xBet"", ""odds"": 1.52, ""stake_pct"": 66.37, ""stake_amount"": 663.72}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Taylor Fritz vs Patrick Kypson,ATP Wimbledon,h2h,0.849,SURE,8.49,"{""Patrick Kypson"": {""bookmaker"": ""Smarkets"", ""odds"": 13.5, ""stake_pct"": 7.47, ""stake_amount"": 74.71}, ""Taylor Fritz"": {""bookmaker"": ""GTbets"", ""odds"": 1.09, ""stake_pct"": 92.53, ""stake_amount"": 925.29}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Daria Snigur vs Leolia Jeanjean,WTA Wimbledon,h2h,0.746,SURE,7.46,"{""Daria Snigur"": {""bookmaker"": ""GTbets"", ""odds"": 1.23, ""stake_pct"": 81.91, ""stake_amount"": 819.12}, ""Leolia Jeanjean"": {""bookmaker"": ""1xBet"", ""odds"": 5.57, ""stake_pct"": 18.09, ""stake_amount"": 180.88}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Stefanos Tsitsipas vs Novak Djokovic,ATP Wimbledon,h2h,0.63,SURE,6.3,"{""Stefanos Tsitsipas"": {""bookmaker"": ""Pinnacle"", ""odds"": 24.2, ""stake_pct"": 4.16, ""stake_amount"": 41.58}, ""Novak Djokovic"": {""bookmaker"": ""Tipico"", ""odds"": 1.05, ""stake_pct"": 95.84, ""stake_amount"": 958.42}}"
+2026-07-01 19:59 UTC,ARBITRAGE,tennis,Daria Kasatkina vs Naomi Osaka,WTA Wimbledon,h2h,0.427,SURE,4.27,"{""Naomi Osaka"": {""bookmaker"": ""GTbets"", ""odds"": 1.27, ""stake_pct"": 79.08, ""stake_amount"": 790.77}, ""Daria Kasatkina"": {""bookmaker"": ""1xBet"", ""odds"": 4.8, ""stake_pct"": 20.92, ""stake_amount"": 209.23}}"
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,17.28,ALTA,11.68,Torino@4.7 (Smarkets)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,16.03,ALTA,10.98,Torino@4.65 (1xBet)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,14.79,ALTA,10.27,Torino@4.6 (Tipico)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Atalanta BC vs Sassuolo,Serie A - Italy,h2h,14.25,ALTA,8.91,Sassuolo@5.0 (BoyleSports)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,13.54,ALTA,9.53,Torino@4.55 (Marathon Bet)
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Rafael Jodar vs Pablo Carreno Busta,ATP Wimbledon,h2h,12.9,ALTA,15.36,Rafael Jodar@3.1 (BoyleSports)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,12.29,ALTA,8.78,Torino@4.5 (Sky Bet)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,12.29,ALTA,8.78,Torino@4.5 (Betfred (UK))
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Belinda Bencic vs Anna Kalinskaya,WTA Wimbledon,h2h,11.29,ALTA,14.12,Anna Kalinskaya@3.0 (Betway)
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Belinda Bencic vs Anna Kalinskaya,WTA Wimbledon,h2h,11.29,ALTA,14.12,Anna Kalinskaya@3.0 (Sky Bet)
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Brandon Nakashima vs Jan-Lennard Struff,ATP Wimbledon,h2h,10.45,ALTA,38.99,Brandon Nakashima@1.67 (Betsson)
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Brandon Nakashima vs Jan-Lennard Struff,ATP Wimbledon,h2h,10.05,ALTA,11.17,Jan-Lennard Struff@3.25 (Betway)
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Brandon Nakashima vs Jan-Lennard Struff,ATP Wimbledon,h2h,10.05,ALTA,11.17,Jan-Lennard Struff@3.25 (Coral)
+2026-07-01 19:59 UTC,VALUE_BET,tennis,Brandon Nakashima vs Jan-Lennard Struff,ATP Wimbledon,h2h,10.05,ALTA,11.17,Jan-Lennard Struff@3.25 (Ladbrokes)
+2026-07-01 19:59 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,9.8,ALTA,7.2,Torino@4.4 (Paddy Power)
