@@ -1081,3 +1081,24 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-02 12:10 UTC,VALUE_BET,tennis,Gabriel Diallo vs Lorenzo Sonego,ATP Wimbledon,h2h,11.3,ALTA,34.88,Lorenzo Sonego@1.81 (Unibet (UK))
 2026-07-02 12:10 UTC,VALUE_BET,tennis,Gabriel Diallo vs Lorenzo Sonego,ATP Wimbledon,h2h,10.07,ALTA,31.87,Lorenzo Sonego@1.79 (PMU (FR))
 2026-07-02 12:10 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.86,ALTA,9.48,Levante@3.6 (Unibet (FR))
+2026-07-02 19:28 UTC,ARBITRAGE,tennis,Felix Auger-Aliassime vs Michael Zheng,ATP Wimbledon,h2h,1.366,SURE,13.66,"{""Michael Zheng"": {""bookmaker"": ""BoyleSports"", ""odds"": 6.0, ""stake_pct"": 16.9, ""stake_amount"": 168.98}, ""Felix Auger-Aliassime"": {""bookmaker"": ""Sky Bet"", ""odds"": 1.22, ""stake_pct"": 83.1, ""stake_amount"": 831.02}}"
+2026-07-02 19:28 UTC,ARBITRAGE,tennis,Taylor Fritz vs Lorenzo Sonego,ATP Wimbledon,h2h,1.261,SURE,12.61,"{""Lorenzo Sonego"": {""bookmaker"": ""Betfair"", ""odds"": 6.8, ""stake_pct"": 14.89, ""stake_amount"": 148.94}, ""Taylor Fritz"": {""bookmaker"": ""GTbets"", ""odds"": 1.19, ""stake_pct"": 85.11, ""stake_amount"": 851.06}}"
+2026-07-02 19:28 UTC,ARBITRAGE,tennis,Jakub Mensik vs Grigor Dimitrov,ATP Wimbledon,h2h,1.235,SURE,12.35,"{""Jakub Mensik"": {""bookmaker"": ""Unibet (UK)"", ""odds"": 2.7, ""stake_pct"": 37.5, ""stake_amount"": 375.0}, ""Grigor Dimitrov"": {""bookmaker"": ""Matchbook"", ""odds"": 1.62, ""stake_pct"": 62.5, ""stake_amount"": 625.0}}"
+2026-07-02 19:28 UTC,ARBITRAGE,soccer,Barcelona vs Athletic Bilbao,La Liga - Spain,totals,1.07,SURE,10.7,"{""Over 3.5"": {""bookmaker"": ""Tipico"", ""odds"": 2.2, ""stake_pct"": 45.95, ""stake_amount"": 459.46}, ""Under 3.5"": {""bookmaker"": ""1xBet"", ""odds"": 1.87, ""stake_pct"": 54.05, ""stake_amount"": 540.54}}"
+2026-07-02 19:28 UTC,ARBITRAGE,tennis,Emma Navarro vs Marta Kostyuk,WTA Wimbledon,h2h,0.901,SURE,9.01,"{""Marta Kostyuk"": {""bookmaker"": ""1xBet"", ""odds"": 1.85, ""stake_pct"": 54.55, ""stake_amount"": 545.45}, ""Emma Navarro"": {""bookmaker"": ""Matchbook"", ""odds"": 2.22, ""stake_pct"": 45.45, ""stake_amount"": 454.55}}"
+2026-07-02 19:28 UTC,ARBITRAGE,tennis,Daria Kasatkina vs Naomi Osaka,WTA Wimbledon,h2h,0.427,SURE,4.27,"{""Daria Kasatkina"": {""bookmaker"": ""Betfair"", ""odds"": 4.8, ""stake_pct"": 20.92, ""stake_amount"": 209.23}, ""Naomi Osaka"": {""bookmaker"": ""GTbets"", ""odds"": 1.27, ""stake_pct"": 79.08, ""stake_amount"": 790.77}}"
+2026-07-02 19:28 UTC,VALUE_BET,tennis,Frances Tiafoe vs Jan Choinski,ATP Wimbledon,totals,34.6,ALTA,50.0,Under 39.5@1.95 (MyBookie.ag)
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,29.0,ALTA,22.45,Levante@4.23 (1xBet)
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,28.09,ALTA,21.94,Levante@4.2 (Tipico)
+2026-07-02 19:28 UTC,VALUE_BET,tennis,Frances Tiafoe vs Jan Choinski,ATP Wimbledon,totals,23.55,ALTA,50.0,Under 39.5@1.79 (Casumo)
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,15.89,ALTA,14.19,Levante@3.8 (Codere (IT))
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,14.37,ALTA,13.06,Levante@3.75 (Betfred (UK))
+2026-07-02 19:28 UTC,VALUE_BET,tennis,Frances Tiafoe vs Jan Choinski,ATP Wimbledon,spreads,14.28,ALTA,21.0,Jan Choinski (6.5)@2.7 (Unibet (NL))
+2026-07-02 19:28 UTC,VALUE_BET,tennis,Frances Tiafoe vs Jan Choinski,ATP Wimbledon,spreads,14.28,ALTA,21.0,Jan Choinski (6.5)@2.7 (Grosvenor)
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,12.84,ALTA,11.89,Levante@3.7 (Bet Victor)
+2026-07-02 19:28 UTC,VALUE_BET,tennis,Frances Tiafoe vs Jan Choinski,ATP Wimbledon,spreads,12.62,ALTA,33.22,Frances Tiafoe (-6.5)@1.95 (MyBookie.ag)
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Paddy Power)
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Unibet (FR))
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Unibet (UK))
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Winamax (DE))
+2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Sky Bet)

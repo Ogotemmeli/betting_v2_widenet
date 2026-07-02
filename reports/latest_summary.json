@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-07-02 12:10 UTC",
-  "arbitrages_found": 15,
+  "timestamp": "2026-07-02 19:28 UTC",
+  "arbitrages_found": 6,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
       "arbs": 1,
-      "vbs": 8
+      "vbs": 10
     },
     "tennis": {
-      "arbs": 14,
-      "vbs": 7
+      "arbs": 5,
+      "vbs": 5
     },
     "basketball": {
       "arbs": 0,
@@ -20,156 +20,177 @@
       "vbs": 0
     }
   },
-  "best_arb_margin": 8.132,
-  "best_value_edge": 29.08,
+  "best_arb_margin": 1.366,
+  "best_value_edge": 34.6,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "0ad39b89540186c42be74ee4b7f75de5",
-      "sport": "tennis",
-      "league": "WTA Wimbledon",
-      "match": "Mariam Bolkvadze vs Ashlyn Krueger",
-      "commence": "2026-07-02T12:03:30Z",
-      "market": "h2h",
-      "margin_pct": 8.132,
-      "implied_probability_sum": 0.91868,
-      "guaranteed_profit": 81.32,
-      "stakes": {
-        "Ashlyn Krueger": {
-          "bookmaker": "Betfair",
-          "odds": 1.35,
-          "stake_pct": 80.63,
-          "stake_amount": 806.31
-        },
-        "Mariam Bolkvadze": {
-          "bookmaker": "Pinnacle",
-          "odds": 5.62,
-          "stake_pct": 19.37,
-          "stake_amount": 193.69
-        }
-      },
-      "num_bookmakers_checked": 31,
-      "fresh_bookmakers": 31,
-      "found_at": "2026-07-02T12:10:09.370044+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "e5d6695710cc298e0db270379849262d",
+      "event_id": "d0cbc86603cb62460f6d14ed211e488b",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Zizou Bergs vs Jaime Faria",
-      "commence": "2026-07-02T12:00:00Z",
+      "match": "Felix Auger-Aliassime vs Michael Zheng",
+      "commence": "2026-07-03T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 7.95,
-      "implied_probability_sum": 0.9205,
-      "guaranteed_profit": 79.5,
+      "margin_pct": 1.366,
+      "implied_probability_sum": 0.98634,
+      "guaranteed_profit": 13.66,
       "stakes": {
-        "Zizou Bergs": {
+        "Michael Zheng": {
           "bookmaker": "BoyleSports",
-          "odds": 1.73,
-          "stake_pct": 62.8,
-          "stake_amount": 627.96
+          "odds": 6.0,
+          "stake_pct": 16.9,
+          "stake_amount": 168.98
         },
-        "Jaime Faria": {
-          "bookmaker": "Matchbook",
-          "odds": 2.92,
-          "stake_pct": 37.2,
-          "stake_amount": 372.04
+        "Felix Auger-Aliassime": {
+          "bookmaker": "Sky Bet",
+          "odds": 1.22,
+          "stake_pct": 83.1,
+          "stake_amount": 831.02
         }
       },
-      "num_bookmakers_checked": 33,
-      "fresh_bookmakers": 33,
-      "found_at": "2026-07-02T12:10:09.362379+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-07-02T19:28:01.520450+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "d63a0bd61f124e280900d461a69e43bd",
+      "event_id": "40f075c68595d809bd4835c234817431",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Taylor Fritz vs Lorenzo Sonego",
+      "commence": "2026-07-03T09:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.261,
+      "implied_probability_sum": 0.98739,
+      "guaranteed_profit": 12.61,
+      "stakes": {
+        "Lorenzo Sonego": {
+          "bookmaker": "Betfair",
+          "odds": 6.8,
+          "stake_pct": 14.89,
+          "stake_amount": 148.94
+        },
+        "Taylor Fritz": {
+          "bookmaker": "GTbets",
+          "odds": 1.19,
+          "stake_pct": 85.11,
+          "stake_amount": 851.06
+        }
+      },
+      "num_bookmakers_checked": 37,
+      "fresh_bookmakers": 37,
+      "found_at": "2026-07-02T19:28:01.517519+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "fd09cf3c860ea9a59a315a30c7dd6edf",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Jakub Mensik vs Grigor Dimitrov",
+      "commence": "2026-07-02T16:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.235,
+      "implied_probability_sum": 0.98765,
+      "guaranteed_profit": 12.35,
+      "stakes": {
+        "Jakub Mensik": {
+          "bookmaker": "Unibet (UK)",
+          "odds": 2.7,
+          "stake_pct": 37.5,
+          "stake_amount": 375.0
+        },
+        "Grigor Dimitrov": {
+          "bookmaker": "Matchbook",
+          "odds": 1.62,
+          "stake_pct": 62.5,
+          "stake_amount": 625.0
+        }
+      },
+      "num_bookmakers_checked": 27,
+      "fresh_bookmakers": 27,
+      "found_at": "2026-07-02T19:28:01.516607+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "cc046b0dcb624210df0aec3743c7c255",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Barcelona vs Athletic Bilbao",
+      "commence": "2026-08-16T19:00:00Z",
+      "market": "totals",
+      "margin_pct": 1.07,
+      "implied_probability_sum": 0.9893,
+      "guaranteed_profit": 10.7,
+      "stakes": {
+        "Over 3.5": {
+          "bookmaker": "Tipico",
+          "odds": 2.2,
+          "stake_pct": 45.95,
+          "stake_amount": 459.46
+        },
+        "Under 3.5": {
+          "bookmaker": "1xBet",
+          "odds": 1.87,
+          "stake_pct": 54.05,
+          "stake_amount": 540.54
+        }
+      },
+      "num_bookmakers_checked": 4,
+      "fresh_bookmakers": 4,
+      "found_at": "2026-07-02T19:28:01.515457+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "f41b2c0783234f586463ba7246e7c6f6",
       "sport": "tennis",
       "league": "WTA Wimbledon",
-      "match": "Diana Shnaider vs Liudmila Samsonova",
-      "commence": "2026-07-02T10:00:00Z",
+      "match": "Emma Navarro vs Marta Kostyuk",
+      "commence": "2026-07-03T09:00:00Z",
       "market": "h2h",
-      "margin_pct": 5.627,
-      "implied_probability_sum": 0.94373,
-      "guaranteed_profit": 56.27,
+      "margin_pct": 0.901,
+      "implied_probability_sum": 0.99099,
+      "guaranteed_profit": 9.01,
       "stakes": {
-        "Diana Shnaider": {
-          "bookmaker": "Sky Bet",
-          "odds": 2.38,
-          "stake_pct": 44.52,
-          "stake_amount": 445.22
+        "Marta Kostyuk": {
+          "bookmaker": "1xBet",
+          "odds": 1.85,
+          "stake_pct": 54.55,
+          "stake_amount": 545.45
         },
-        "Liudmila Samsonova": {
-          "bookmaker": "Smarkets",
-          "odds": 1.91,
-          "stake_pct": 55.48,
-          "stake_amount": 554.78
+        "Emma Navarro": {
+          "bookmaker": "Matchbook",
+          "odds": 2.22,
+          "stake_pct": 45.45,
+          "stake_amount": 454.55
         }
       },
-      "num_bookmakers_checked": 30,
-      "fresh_bookmakers": 30,
-      "found_at": "2026-07-02T12:10:09.369372+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "57ccf4d5f11f84a3ed959a6e16e6b4a6",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Arthur Fery vs Otto Virtanen",
-      "commence": "2026-07-02T10:04:00Z",
-      "market": "h2h",
-      "margin_pct": 4.134,
-      "implied_probability_sum": 0.95866,
-      "guaranteed_profit": 41.34,
-      "stakes": {
-        "Otto Virtanen": {
-          "bookmaker": "Pinnacle",
-          "odds": 2.27,
-          "stake_pct": 45.95,
-          "stake_amount": 459.52
-        },
-        "Arthur Fery": {
-          "bookmaker": "Smarkets",
-          "odds": 1.93,
-          "stake_pct": 54.05,
-          "stake_amount": 540.48
-        }
-      },
-      "num_bookmakers_checked": 32,
-      "fresh_bookmakers": 32,
-      "found_at": "2026-07-02T12:10:09.361799+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "aed2eee3003707dd3092f0e35a79a06c",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Jiri Lehecka vs Alex Molcan",
-      "commence": "2026-07-02T13:30:00Z",
-      "market": "h2h",
-      "margin_pct": 3.333,
-      "implied_probability_sum": 0.96667,
-      "guaranteed_profit": 33.33,
-      "stakes": {
-        "Alex Molcan": {
-          "bookmaker": "Betfair",
-          "odds": 6.0,
-          "stake_pct": 17.24,
-          "stake_amount": 172.41
-        },
-        "Jiri Lehecka": {
-          "bookmaker": "GTbets",
-          "odds": 1.25,
-          "stake_pct": 82.76,
-          "stake_amount": 827.59
-        }
-      },
-      "num_bookmakers_checked": 40,
-      "fresh_bookmakers": 40,
-      "found_at": "2026-07-02T12:10:09.363679+00:00"
+      "num_bookmakers_checked": 22,
+      "fresh_bookmakers": 22,
+      "found_at": "2026-07-02T19:28:01.522141+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "12aa9566b8347a7b4d31415a1b9c6965",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Frances Tiafoe vs Jan Choinski",
+      "commence": "2026-07-02T16:31:00Z",
+      "market": "totals",
+      "outcome": "Under 39.5",
+      "bookmaker": "MyBookie.ag",
+      "odds": 1.95,
+      "fair_odds": 1.449,
+      "true_prob_pct": 69.02,
+      "implied_prob_pct": 51.28,
+      "edge_pct": 34.6,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 34.6,
+      "confidence": "ALTA",
+      "found_at": "2026-07-02T19:28:01.516921+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "4e24891d0ee382bfda6305eabbc54754",
@@ -181,15 +202,15 @@
       "outcome": "Levante",
       "bookmaker": "1xBet",
       "odds": 4.23,
-      "fair_odds": 3.277,
-      "true_prob_pct": 30.52,
+      "fair_odds": 3.279,
+      "true_prob_pct": 30.5,
       "implied_prob_pct": 23.64,
-      "edge_pct": 29.08,
-      "kelly_stake_pct": 2.25,
-      "suggested_stake": 22.51,
-      "expected_value": 29.08,
+      "edge_pct": 29.0,
+      "kelly_stake_pct": 2.24,
+      "suggested_stake": 22.45,
+      "expected_value": 29.0,
       "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.360721+00:00"
+      "found_at": "2026-07-02T19:28:01.515881+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -202,57 +223,36 @@
       "outcome": "Levante",
       "bookmaker": "Tipico",
       "odds": 4.2,
-      "fair_odds": 3.277,
-      "true_prob_pct": 30.52,
+      "fair_odds": 3.279,
+      "true_prob_pct": 30.5,
       "implied_prob_pct": 23.81,
-      "edge_pct": 28.17,
-      "kelly_stake_pct": 2.2,
-      "suggested_stake": 22.0,
-      "expected_value": 28.17,
+      "edge_pct": 28.09,
+      "kelly_stake_pct": 2.19,
+      "suggested_stake": 21.94,
+      "expected_value": 28.09,
       "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.360788+00:00"
+      "found_at": "2026-07-02T19:28:01.515946+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4e24891d0ee382bfda6305eabbc54754",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Levante",
-      "commence": "2026-08-16T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Levante",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.0,
-      "fair_odds": 3.277,
-      "true_prob_pct": 30.52,
-      "implied_prob_pct": 25.0,
-      "edge_pct": 22.06,
-      "kelly_stake_pct": 1.84,
-      "suggested_stake": 18.39,
-      "expected_value": 22.06,
+      "event_id": "12aa9566b8347a7b4d31415a1b9c6965",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Frances Tiafoe vs Jan Choinski",
+      "commence": "2026-07-02T16:31:00Z",
+      "market": "totals",
+      "outcome": "Under 39.5",
+      "bookmaker": "Casumo",
+      "odds": 1.79,
+      "fair_odds": 1.449,
+      "true_prob_pct": 69.02,
+      "implied_prob_pct": 55.87,
+      "edge_pct": 23.55,
+      "kelly_stake_pct": 5.0,
+      "suggested_stake": 50.0,
+      "expected_value": 23.55,
       "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.360737+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "4e24891d0ee382bfda6305eabbc54754",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Levante",
-      "commence": "2026-08-16T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Levante",
-      "bookmaker": "Sky Bet",
-      "odds": 3.9,
-      "fair_odds": 3.277,
-      "true_prob_pct": 30.52,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 19.01,
-      "kelly_stake_pct": 1.64,
-      "suggested_stake": 16.39,
-      "expected_value": 19.01,
-      "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.360781+00:00"
+      "found_at": "2026-07-02T19:28:01.516929+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -265,15 +265,15 @@
       "outcome": "Levante",
       "bookmaker": "Codere (IT)",
       "odds": 3.8,
-      "fair_odds": 3.277,
-      "true_prob_pct": 30.52,
+      "fair_odds": 3.279,
+      "true_prob_pct": 30.5,
       "implied_prob_pct": 26.32,
-      "edge_pct": 15.96,
+      "edge_pct": 15.89,
       "kelly_stake_pct": 1.42,
-      "suggested_stake": 14.25,
-      "expected_value": 15.96,
+      "suggested_stake": 14.19,
+      "expected_value": 15.89,
       "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.360709+00:00"
+      "found_at": "2026-07-02T19:28:01.515871+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -284,101 +284,101 @@
       "commence": "2026-08-16T19:00:00Z",
       "market": "h2h",
       "outcome": "Levante",
-      "bookmaker": "Paddy Power",
-      "odds": 3.8,
-      "fair_odds": 3.277,
-      "true_prob_pct": 30.52,
-      "implied_prob_pct": 26.32,
-      "edge_pct": 15.96,
-      "kelly_stake_pct": 1.42,
-      "suggested_stake": 14.25,
-      "expected_value": 15.96,
+      "bookmaker": "Betfred (UK)",
+      "odds": 3.75,
+      "fair_odds": 3.279,
+      "true_prob_pct": 30.5,
+      "implied_prob_pct": 26.67,
+      "edge_pct": 14.37,
+      "kelly_stake_pct": 1.31,
+      "suggested_stake": 13.06,
+      "expected_value": 14.37,
       "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.360729+00:00"
+      "found_at": "2026-07-02T19:28:01.515898+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "6f6bf7e8a3cf4f51b6e4a1275a8ab192",
+      "event_id": "12aa9566b8347a7b4d31415a1b9c6965",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Gabriel Diallo vs Lorenzo Sonego",
-      "commence": "2026-07-02T10:00:00Z",
-      "market": "h2h",
-      "outcome": "Gabriel Diallo",
-      "bookmaker": "Betway",
-      "odds": 3.0,
-      "fair_odds": 2.597,
-      "true_prob_pct": 38.51,
-      "implied_prob_pct": 33.33,
-      "edge_pct": 15.52,
-      "kelly_stake_pct": 1.94,
-      "suggested_stake": 19.4,
-      "expected_value": 15.52,
-      "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.361566+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "6f6bf7e8a3cf4f51b6e4a1275a8ab192",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Gabriel Diallo vs Lorenzo Sonego",
-      "commence": "2026-07-02T10:00:00Z",
-      "market": "h2h",
-      "outcome": "Lorenzo Sonego",
-      "bookmaker": "Matchbook",
-      "odds": 1.86,
-      "fair_odds": 1.626,
-      "true_prob_pct": 61.49,
-      "implied_prob_pct": 53.76,
-      "edge_pct": 14.38,
-      "kelly_stake_pct": 4.18,
-      "suggested_stake": 41.79,
-      "expected_value": 14.38,
-      "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.361465+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8410e2f4af6e059adc7db5233459178d",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Taylor Fritz vs Patrick Kypson",
-      "commence": "2026-07-02T10:07:00Z",
+      "match": "Frances Tiafoe vs Jan Choinski",
+      "commence": "2026-07-02T16:31:00Z",
       "market": "spreads",
-      "outcome": "Patrick Kypson (9.5)",
-      "bookmaker": "Casumo",
-      "odds": 2.12,
-      "fair_odds": 1.872,
-      "true_prob_pct": 53.42,
-      "implied_prob_pct": 47.17,
-      "edge_pct": 13.25,
-      "kelly_stake_pct": 2.96,
-      "suggested_stake": 29.57,
-      "expected_value": 13.25,
-      "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.362165+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8410e2f4af6e059adc7db5233459178d",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Taylor Fritz vs Patrick Kypson",
-      "commence": "2026-07-02T10:07:00Z",
-      "market": "spreads",
-      "outcome": "Patrick Kypson (9.5)",
+      "outcome": "Jan Choinski (6.5)",
       "bookmaker": "Unibet (NL)",
-      "odds": 2.12,
-      "fair_odds": 1.872,
-      "true_prob_pct": 53.42,
-      "implied_prob_pct": 47.17,
-      "edge_pct": 13.25,
-      "kelly_stake_pct": 2.96,
-      "suggested_stake": 29.57,
-      "expected_value": 13.25,
+      "odds": 2.7,
+      "fair_odds": 2.363,
+      "true_prob_pct": 42.33,
+      "implied_prob_pct": 37.04,
+      "edge_pct": 14.28,
+      "kelly_stake_pct": 2.1,
+      "suggested_stake": 21.0,
+      "expected_value": 14.28,
       "confidence": "ALTA",
-      "found_at": "2026-07-02T12:10:09.362179+00:00"
+      "found_at": "2026-07-02T19:28:01.516968+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "12aa9566b8347a7b4d31415a1b9c6965",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Frances Tiafoe vs Jan Choinski",
+      "commence": "2026-07-02T16:31:00Z",
+      "market": "spreads",
+      "outcome": "Jan Choinski (6.5)",
+      "bookmaker": "Grosvenor",
+      "odds": 2.7,
+      "fair_odds": 2.363,
+      "true_prob_pct": 42.33,
+      "implied_prob_pct": 37.04,
+      "edge_pct": 14.28,
+      "kelly_stake_pct": 2.1,
+      "suggested_stake": 21.0,
+      "expected_value": 14.28,
+      "confidence": "ALTA",
+      "found_at": "2026-07-02T19:28:01.516976+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4e24891d0ee382bfda6305eabbc54754",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Levante",
+      "commence": "2026-08-16T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Levante",
+      "bookmaker": "Bet Victor",
+      "odds": 3.7,
+      "fair_odds": 3.279,
+      "true_prob_pct": 30.5,
+      "implied_prob_pct": 27.03,
+      "edge_pct": 12.84,
+      "kelly_stake_pct": 1.19,
+      "suggested_stake": 11.89,
+      "expected_value": 12.84,
+      "confidence": "ALTA",
+      "found_at": "2026-07-02T19:28:01.515960+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "12aa9566b8347a7b4d31415a1b9c6965",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Frances Tiafoe vs Jan Choinski",
+      "commence": "2026-07-02T16:31:00Z",
+      "market": "spreads",
+      "outcome": "Frances Tiafoe (-6.5)",
+      "bookmaker": "MyBookie.ag",
+      "odds": 1.95,
+      "fair_odds": 1.731,
+      "true_prob_pct": 57.76,
+      "implied_prob_pct": 51.28,
+      "edge_pct": 12.62,
+      "kelly_stake_pct": 3.32,
+      "suggested_stake": 33.22,
+      "expected_value": 12.62,
+      "confidence": "ALTA",
+      "found_at": "2026-07-02T19:28:01.516985+00:00"
     }
   ]
 }
