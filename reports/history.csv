@@ -1102,3 +1102,27 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Unibet (UK))
 2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Winamax (DE))
 2026-07-02 19:28 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.79,ALTA,9.41,Levante@3.6 (Sky Bet)
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Belinda Bencic vs Anna Kalinskaya,WTA Wimbledon,h2h,7.983,SURE,79.83,"{""Belinda Bencic"": {""bookmaker"": ""BoyleSports"", ""odds"": 2.38, ""stake_pct"": 45.66, ""stake_amount"": 456.62}, ""Anna Kalinskaya"": {""bookmaker"": ""Betfair"", ""odds"": 2.0, ""stake_pct"": 54.34, ""stake_amount"": 543.38}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Zizou Bergs vs Arthur Fery,ATP Wimbledon,h2h,1.877,SURE,18.77,"{""Arthur Fery"": {""bookmaker"": ""1xBet"", ""odds"": 2.3, ""stake_pct"": 44.31, ""stake_amount"": 443.1}, ""Zizou Bergs"": {""bookmaker"": ""Betfair"", ""odds"": 1.83, ""stake_pct"": 55.69, ""stake_amount"": 556.9}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Daria Kasatkina vs Naomi Osaka,WTA Wimbledon,h2h,1.73,SURE,17.3,"{""Daria Kasatkina"": {""bookmaker"": ""Betfair"", ""odds"": 6.4, ""stake_pct"": 15.9, ""stake_amount"": 159.0}, ""Naomi Osaka"": {""bookmaker"": ""1xBet"", ""odds"": 1.21, ""stake_pct"": 84.1, ""stake_amount"": 841.0}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Taylor Fritz vs Lorenzo Sonego,ATP Wimbledon,h2h,1.261,SURE,12.61,"{""Taylor Fritz"": {""bookmaker"": ""GTbets"", ""odds"": 1.19, ""stake_pct"": 85.11, ""stake_amount"": 851.06}, ""Lorenzo Sonego"": {""bookmaker"": ""Betfair"", ""odds"": 6.8, ""stake_pct"": 14.89, ""stake_amount"": 148.94}}"
+2026-07-03 12:10 UTC,ARBITRAGE,soccer,Barcelona vs Athletic Bilbao,La Liga - Spain,totals,1.07,SURE,10.7,"{""Under 3.5"": {""bookmaker"": ""1xBet"", ""odds"": 1.87, ""stake_pct"": 54.05, ""stake_amount"": 540.54}, ""Over 3.5"": {""bookmaker"": ""Tipico"", ""odds"": 2.2, ""stake_pct"": 45.95, ""stake_amount"": 459.46}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Ekaterina Alexandrova vs Iva Jović,WTA Wimbledon,h2h,0.877,SURE,8.77,"{""Iva Jović"": {""bookmaker"": ""Winamax (DE)"", ""odds"": 1.52, ""stake_pct"": 66.37, ""stake_amount"": 663.72}, ""Ekaterina Alexandrova"": {""bookmaker"": ""Betfair"", ""odds"": 3.0, ""stake_pct"": 33.63, ""stake_amount"": 336.28}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Arthur Rinderknech vs Novak Djokovic,ATP Wimbledon,h2h,0.848,SURE,8.48,"{""Novak Djokovic"": {""bookmaker"": ""Betfair"", ""odds"": 1.15, ""stake_pct"": 87.7, ""stake_amount"": 877.01}, ""Arthur Rinderknech"": {""bookmaker"": ""1xBet"", ""odds"": 8.2, ""stake_pct"": 12.3, ""stake_amount"": 122.99}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Jiri Lehecka vs Jaume Munar,ATP Wimbledon,h2h,0.692,SURE,6.92,"{""Jiri Lehecka"": {""bookmaker"": ""GTbets"", ""odds"": 1.37, ""stake_pct"": 73.5, ""stake_amount"": 735.01}, ""Jaume Munar"": {""bookmaker"": ""Matchbook"", ""odds"": 3.8, ""stake_pct"": 26.5, ""stake_amount"": 264.99}}"
+2026-07-03 12:10 UTC,ARBITRAGE,tennis,Daria Snigur vs Ashlyn Krueger,WTA Wimbledon,h2h,0.495,SURE,4.95,"{""Ashlyn Krueger"": {""bookmaker"": ""Betfair"", ""odds"": 2.02, ""stake_pct"": 49.75, ""stake_amount"": 497.51}, ""Daria Snigur"": {""bookmaker"": ""BetAnything"", ""odds"": 2.0, ""stake_pct"": 50.25, ""stake_amount"": 502.49}}"
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,23.23,ALTA,17.98,Levante@4.23 (1xBet)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,22.36,ALTA,17.47,Levante@4.2 (Tipico)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,15.44,ALTA,10.58,Torino@4.65 (1xBet)
+2026-07-03 12:10 UTC,VALUE_BET,tennis,Belinda Bencic vs Anna Kalinskaya,WTA Wimbledon,h2h,14.28,ALTA,25.87,Belinda Bencic@2.38 (BoyleSports)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,14.2,ALTA,9.86,Torino@4.6 (Tipico)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,12.96,ALTA,9.13,Torino@4.55 (Marathon Bet)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Atalanta BC vs Sassuolo,Serie A - Italy,h2h,12.79,ALTA,7.99,Sassuolo@5.0 (BoyleSports)
+2026-07-03 12:10 UTC,VALUE_BET,tennis,Roman Safiullin vs Joao Fonseca,ATP Wimbledon,h2h,12.32,ALTA,50.0,Roman Safiullin@1.26 (Pinnacle)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,12.16,ALTA,10.67,Levante@3.85 (Codere (IT))
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,11.72,ALTA,8.37,Torino@4.5 (Sky Bet)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,11.72,ALTA,8.37,Torino@4.5 (Betfred (UK))
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,9.25,ALTA,8.41,Levante@3.75 (Betfred (UK))
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,9.23,ALTA,6.79,Torino@4.4 (Paddy Power)
+2026-07-03 12:10 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,9.23,ALTA,6.79,Torino@4.4 (Bet Victor)
+2026-07-03 12:10 UTC,VALUE_BET,tennis,Belinda Bencic vs Anna Kalinskaya,WTA Wimbledon,h2h,8.04,ALTA,16.08,Belinda Bencic@2.25 (Grosvenor)

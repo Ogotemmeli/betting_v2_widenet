@@ -1,117 +1,150 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-07-02 19:28 UTC
+**Generato:** 2026-07-03 12:10 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 187 record da 5 leghe attive | API calls: 18
+**Dati:** 233 record da 7 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 1 | 10 | 1.07% arb |
-| Tennis | 5 | 5 | 1.37% arb |
+| Calcio | 1 | 12 | 1.07% arb |
+| Tennis | 8 | 3 | 7.98% arb |
 | Basket | 0 | 0 | — |
 | Hockey | 0 | 0 | — |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-### #1 — Felix Auger-Aliassime vs Michael Zheng
+### #1 — Belinda Bencic vs Anna Kalinskaya
+- **Sport:** Tennis | **Lega:** WTA Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-03T10:05:00Z
+- **Margine:** 7.98% (€79.83 su €1000)
+- **Book freschi:** 31
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Belinda Bencic | BoyleSports | 2.38 | 45.7% | €456.62 |
+| Anna Kalinskaya | Betfair | 2.00 | 54.3% | €543.38 |
+
+### #2 — Zizou Bergs vs Arthur Fery
 - **Sport:** Tennis | **Lega:** ATP Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-03T16:30:00Z
-- **Margine:** 1.37% (€13.66 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-07-04T10:00:00Z
+- **Margine:** 1.88% (€18.77 su €1000)
 - **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Michael Zheng | BoyleSports | 6.00 | 16.9% | €168.98 |
-| Felix Auger-Aliassime | Sky Bet | 1.22 | 83.1% | €831.02 |
+| Arthur Fery | 1xBet | 2.30 | 44.3% | €443.10 |
+| Zizou Bergs | Betfair | 1.83 | 55.7% | €556.90 |
 
-### #2 — Taylor Fritz vs Lorenzo Sonego
+### #3 — Daria Kasatkina vs Naomi Osaka
+- **Sport:** Tennis | **Lega:** WTA Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-03T13:05:00Z
+- **Margine:** 1.73% (€17.30 su €1000)
+- **Book freschi:** 36
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Daria Kasatkina | Betfair | 6.40 | 15.9% | €159.00 |
+| Naomi Osaka | 1xBet | 1.21 | 84.1% | €841.00 |
+
+### #4 — Taylor Fritz vs Lorenzo Sonego
 - **Sport:** Tennis | **Lega:** ATP Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-03T09:00:00Z
+- **Mercato:** h2h | **Inizio:** 2026-07-04T09:00:00Z
 - **Margine:** 1.26% (€12.61 su €1000)
-- **Book freschi:** 37
+- **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Lorenzo Sonego | Betfair | 6.80 | 14.9% | €148.94 |
 | Taylor Fritz | GTbets | 1.19 | 85.1% | €851.06 |
+| Lorenzo Sonego | Betfair | 6.80 | 14.9% | €148.94 |
 
-### #3 — Jakub Mensik vs Grigor Dimitrov
-- **Sport:** Tennis | **Lega:** ATP Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-02T16:00:00Z
-- **Margine:** 1.24% (€12.35 su €1000)
-- **Book freschi:** 27
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Jakub Mensik | Unibet (UK) | 2.70 | 37.5% | €375.00 |
-| Grigor Dimitrov | Matchbook | 1.62 | 62.5% | €625.00 |
-
-### #4 — Barcelona vs Athletic Bilbao
+### #5 — Barcelona vs Athletic Bilbao
 - **Sport:** Calcio | **Lega:** La Liga - Spain
 - **Mercato:** totals | **Inizio:** 2026-08-16T19:00:00Z
 - **Margine:** 1.07% (€10.70 su €1000)
-- **Book freschi:** 4
+- **Book freschi:** 8
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Over 3.5 | Tipico | 2.20 | 46.0% | €459.46 |
 | Under 3.5 | 1xBet | 1.87 | 54.0% | €540.54 |
+| Over 3.5 | Tipico | 2.20 | 46.0% | €459.46 |
 
-### #5 — Emma Navarro vs Marta Kostyuk
+### #6 — Ekaterina Alexandrova vs Iva Jović
 - **Sport:** Tennis | **Lega:** WTA Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-03T09:00:00Z
-- **Margine:** 0.90% (€9.01 su €1000)
-- **Book freschi:** 22
+- **Mercato:** h2h | **Inizio:** 2026-07-03T13:00:00Z
+- **Margine:** 0.88% (€8.77 su €1000)
+- **Book freschi:** 36
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Marta Kostyuk | 1xBet | 1.85 | 54.5% | €545.45 |
-| Emma Navarro | Matchbook | 2.22 | 45.5% | €454.55 |
+| Iva Jović | Winamax (DE) | 1.52 | 66.4% | €663.72 |
+| Ekaterina Alexandrova | Betfair | 3.00 | 33.6% | €336.28 |
 
-### #6 — Daria Kasatkina vs Naomi Osaka
-- **Sport:** Tennis | **Lega:** WTA Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-03T12:05:00Z
-- **Margine:** 0.43% (€4.27 su €1000)
+### #7 — Arthur Rinderknech vs Novak Djokovic
+- **Sport:** Tennis | **Lega:** ATP Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-03T12:30:00Z
+- **Margine:** 0.85% (€8.48 su €1000)
 - **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Daria Kasatkina | Betfair | 4.80 | 20.9% | €209.23 |
-| Naomi Osaka | GTbets | 1.27 | 79.1% | €790.77 |
+| Novak Djokovic | Betfair | 1.15 | 87.7% | €877.01 |
+| Arthur Rinderknech | 1xBet | 8.20 | 12.3% | €122.99 |
+
+### #8 — Jiri Lehecka vs Jaume Munar
+- **Sport:** Tennis | **Lega:** ATP Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-04T09:00:00Z
+- **Margine:** 0.69% (€6.92 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Jiri Lehecka | GTbets | 1.37 | 73.5% | €735.01 |
+| Jaume Munar | Matchbook | 3.80 | 26.5% | €264.99 |
+
+### #9 — Daria Snigur vs Ashlyn Krueger
+- **Sport:** Tennis | **Lega:** WTA Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-04T09:00:00Z
+- **Margine:** 0.49% (€4.95 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Ashlyn Krueger | Betfair | 2.02 | 49.8% | €497.51 |
+| Daria Snigur | BetAnything | 2.00 | 50.2% | €502.49 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Tennis | Frances Tiafoe vs Jan Cho | Under 39.5 | MyBookie.ag | 1.95 | 34.6% | 🟢 | €50 |
-| 2 | Calcio | Espanyol vs Levante | Levante | 1xBet | 4.23 | 29.0% | 🟢 | €22 |
-| 3 | Calcio | Espanyol vs Levante | Levante | Tipico | 4.20 | 28.1% | 🟢 | €22 |
-| 4 | Tennis | Frances Tiafoe vs Jan Cho | Under 39.5 | Casumo | 1.79 | 23.6% | 🟢 | €50 |
-| 5 | Calcio | Espanyol vs Levante | Levante | Codere (IT) | 3.80 | 15.9% | 🟢 | €14 |
-| 6 | Calcio | Espanyol vs Levante | Levante | Betfred (UK) | 3.75 | 14.4% | 🟢 | €13 |
-| 7 | Tennis | Frances Tiafoe vs Jan Cho | Jan Choinski (6 | Unibet (NL) | 2.70 | 14.3% | 🟢 | €21 |
-| 8 | Tennis | Frances Tiafoe vs Jan Cho | Jan Choinski (6 | Grosvenor | 2.70 | 14.3% | 🟢 | €21 |
-| 9 | Calcio | Espanyol vs Levante | Levante | Bet Victor | 3.70 | 12.8% | 🟢 | €12 |
-| 10 | Tennis | Frances Tiafoe vs Jan Cho | Frances Tiafoe  | MyBookie.ag | 1.95 | 12.6% | 🟢 | €33 |
-| 11 | Calcio | Espanyol vs Levante | Levante | Paddy Power | 3.60 | 9.8% | 🟢 | €9 |
-| 12 | Calcio | Espanyol vs Levante | Levante | Unibet (FR) | 3.60 | 9.8% | 🟢 | €9 |
-| 13 | Calcio | Espanyol vs Levante | Levante | Unibet (UK) | 3.60 | 9.8% | 🟢 | €9 |
-| 14 | Calcio | Espanyol vs Levante | Levante | Winamax (DE) | 3.60 | 9.8% | 🟢 | €9 |
-| 15 | Calcio | Espanyol vs Levante | Levante | Sky Bet | 3.60 | 9.8% | 🟢 | €9 |
+| 1 | Calcio | Espanyol vs Levante | Levante | 1xBet | 4.23 | 23.2% | 🟢 | €18 |
+| 2 | Calcio | Espanyol vs Levante | Levante | Tipico | 4.20 | 22.4% | 🟢 | €17 |
+| 3 | Calcio | Torino vs AC Milan | Torino | 1xBet | 4.65 | 15.4% | 🟢 | €11 |
+| 4 | Tennis | Belinda Bencic vs Anna Ka | Belinda Bencic | BoyleSports | 2.38 | 14.3% | 🟢 | €26 |
+| 5 | Calcio | Torino vs AC Milan | Torino | Tipico | 4.60 | 14.2% | 🟢 | €10 |
+| 6 | Calcio | Torino vs AC Milan | Torino | Marathon Bet | 4.55 | 13.0% | 🟢 | €9 |
+| 7 | Calcio | Atalanta BC vs Sassuolo | Sassuolo | BoyleSports | 5.00 | 12.8% | 🟢 | €8 |
+| 8 | Tennis | Roman Safiullin vs Joao F | Roman Safiullin | Pinnacle | 1.26 | 12.3% | 🟢 | €50 |
+| 9 | Calcio | Espanyol vs Levante | Levante | Codere (IT) | 3.85 | 12.2% | 🟢 | €11 |
+| 10 | Calcio | Torino vs AC Milan | Torino | Sky Bet | 4.50 | 11.7% | 🟢 | €8 |
+| 11 | Calcio | Torino vs AC Milan | Torino | Betfred (UK) | 4.50 | 11.7% | 🟢 | €8 |
+| 12 | Calcio | Espanyol vs Levante | Levante | Betfred (UK) | 3.75 | 9.2% | 🟢 | €8 |
+| 13 | Calcio | Torino vs AC Milan | Torino | Paddy Power | 4.40 | 9.2% | 🟢 | €7 |
+| 14 | Calcio | Torino vs AC Milan | Torino | Bet Victor | 4.40 | 9.2% | 🟢 | €7 |
+| 15 | Tennis | Belinda Bencic vs Anna Ka | Belinda Bencic | Grosvenor | 2.25 | 8.0% | 🟢 | €16 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Tennis**: ███████████████████░░░░░░░░░░░░░░ 57% (€175)
-- **Calcio**: ██████████████░░░░░░░░░░░░░░░░░░░ 43% (€131)
+- **Calcio**: ███████████████████░░░░░░░░░░░░░░ 57% (€122)
+- **Tennis**: ██████████████░░░░░░░░░░░░░░░░░░░ 43% (€92)
 
 ---
 ## ⚠️ Disclaimer
