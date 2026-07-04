@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-04 11:34 UTC",
-  "arbitrages_found": 6,
+  "timestamp": "2026-07-04 19:18 UTC",
+  "arbitrages_found": 5,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
@@ -8,7 +8,7 @@
       "vbs": 15
     },
     "tennis": {
-      "arbs": 6,
+      "arbs": 5,
       "vbs": 0
     },
     "basketball": {
@@ -20,153 +20,153 @@
       "vbs": 0
     }
   },
-  "best_arb_margin": 6.746,
-  "best_value_edge": 27.46,
+  "best_arb_margin": 8.033,
+  "best_value_edge": 26.44,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "f41b2c0783234f586463ba7246e7c6f6",
-      "sport": "tennis",
-      "league": "WTA Wimbledon",
-      "match": "Emma Navarro vs Marta Kostyuk",
-      "commence": "2026-07-04T10:05:00Z",
-      "market": "h2h",
-      "margin_pct": 6.746,
-      "implied_probability_sum": 0.93254,
-      "guaranteed_profit": 67.46,
-      "stakes": {
-        "Marta Kostyuk": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.44,
-          "stake_pct": 74.47,
-          "stake_amount": 744.68
-        },
-        "Emma Navarro": {
-          "bookmaker": "Casumo",
-          "odds": 4.2,
-          "stake_pct": 25.53,
-          "stake_amount": 255.32
-        }
-      },
-      "num_bookmakers_checked": 31,
-      "fresh_bookmakers": 31,
-      "found_at": "2026-07-04T11:34:38.832716+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "1799a6bae91d8976d456143df5b616df",
+      "event_id": "40f075c68595d809bd4835c234817431",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Alex de Minaur vs Zachary Svajda",
-      "commence": "2026-07-04T10:03:00Z",
+      "match": "Taylor Fritz vs Lorenzo Sonego",
+      "commence": "2026-07-04T16:37:00Z",
       "market": "h2h",
-      "margin_pct": 6.349,
-      "implied_probability_sum": 0.93651,
-      "guaranteed_profit": 63.49,
+      "margin_pct": 8.033,
+      "implied_probability_sum": 0.91967,
+      "guaranteed_profit": 80.33,
       "stakes": {
-        "Alex de Minaur": {
-          "bookmaker": "Betway",
-          "odds": 1.4,
-          "stake_pct": 76.27,
-          "stake_amount": 762.71
+        "Lorenzo Sonego": {
+          "bookmaker": "Betfair",
+          "odds": 10.0,
+          "stake_pct": 10.87,
+          "stake_amount": 108.73
         },
-        "Zachary Svajda": {
-          "bookmaker": "Paddy Power",
-          "odds": 4.5,
-          "stake_pct": 23.73,
-          "stake_amount": 237.29
-        }
-      },
-      "num_bookmakers_checked": 31,
-      "fresh_bookmakers": 31,
-      "found_at": "2026-07-04T11:34:38.827972+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "3523e4c754ebf06f358ebf59979692cf",
-      "sport": "tennis",
-      "league": "WTA Wimbledon",
-      "match": "Liudmila Samsonova vs Marie Bouzkova",
-      "commence": "2026-07-04T10:05:00Z",
-      "market": "h2h",
-      "margin_pct": 5.229,
-      "implied_probability_sum": 0.94771,
-      "guaranteed_profit": 52.29,
-      "stakes": {
-        "Liudmila Samsonova": {
-          "bookmaker": "Matchbook",
-          "odds": 1.53,
-          "stake_pct": 68.97,
-          "stake_amount": 689.66
-        },
-        "Marie Bouzkova": {
-          "bookmaker": "BoyleSports",
-          "odds": 3.4,
-          "stake_pct": 31.03,
-          "stake_amount": 310.34
+        "Taylor Fritz": {
+          "bookmaker": "Bet Victor",
+          "odds": 1.22,
+          "stake_pct": 89.13,
+          "stake_amount": 891.27
         }
       },
       "num_bookmakers_checked": 32,
       "fresh_bookmakers": 32,
-      "found_at": "2026-07-04T11:34:38.833077+00:00"
+      "found_at": "2026-07-04T19:18:00.761668+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "f96720ebe957199507985213c07f5afb",
+      "event_id": "0dcdb7b775c9c9802fb54feb8b1f1593",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Zizou Bergs vs Arthur Fery",
-      "commence": "2026-07-04T12:50:00Z",
+      "match": "Frances Tiafoe vs Alexander Bublik",
+      "commence": "2026-07-04T16:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.273,
-      "implied_probability_sum": 0.98727,
-      "guaranteed_profit": 12.73,
+      "margin_pct": 7.843,
+      "implied_probability_sum": 0.92157,
+      "guaranteed_profit": 78.43,
       "stakes": {
-        "Arthur Fery": {
-          "bookmaker": "1xBet",
-          "odds": 2.3,
-          "stake_pct": 44.04,
-          "stake_amount": 440.39
+        "Frances Tiafoe": {
+          "bookmaker": "LeoVegas",
+          "odds": 3.0,
+          "stake_pct": 36.17,
+          "stake_amount": 361.7
         },
-        "Zizou Bergs": {
-          "bookmaker": "Betfair",
-          "odds": 1.81,
-          "stake_pct": 55.96,
-          "stake_amount": 559.61
+        "Alexander Bublik": {
+          "bookmaker": "Betway",
+          "odds": 1.7,
+          "stake_pct": 63.83,
+          "stake_amount": 638.3
         }
       },
-      "num_bookmakers_checked": 41,
-      "fresh_bookmakers": 41,
-      "found_at": "2026-07-04T11:34:38.829277+00:00"
+      "num_bookmakers_checked": 32,
+      "fresh_bookmakers": 32,
+      "found_at": "2026-07-04T19:18:00.760935+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "6dc8c06e342c397dfa3fa2076f31bfc9",
+      "event_id": "cfc02240ad5be9509d5cb936e79e02ed",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Hubert Hurkacz vs Jan-Lennard Struff",
+      "match": "Grigor Dimitrov vs Matteo Berrettini",
+      "commence": "2026-07-04T16:30:00Z",
+      "market": "h2h",
+      "margin_pct": 2.623,
+      "implied_probability_sum": 0.97377,
+      "guaranteed_profit": 26.23,
+      "stakes": {
+        "Matteo Berrettini": {
+          "bookmaker": "Pinnacle",
+          "odds": 3.71,
+          "stake_pct": 27.68,
+          "stake_amount": 276.8
+        },
+        "Grigor Dimitrov": {
+          "bookmaker": "Matchbook",
+          "odds": 1.42,
+          "stake_pct": 72.32,
+          "stake_amount": 723.2
+        }
+      },
+      "num_bookmakers_checked": 32,
+      "fresh_bookmakers": 32,
+      "found_at": "2026-07-04T19:18:00.761318+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "5aadb0dbbad4128c3faf3df033ae5878",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Alex de Minaur vs Flavio Cobolli",
       "commence": "2026-07-05T09:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.174,
-      "implied_probability_sum": 0.98826,
-      "guaranteed_profit": 11.74,
+      "margin_pct": 2.085,
+      "implied_probability_sum": 0.97915,
+      "guaranteed_profit": 20.85,
       "stakes": {
-        "Jan-Lennard Struff": {
+        "Flavio Cobolli": {
           "bookmaker": "Betfair",
-          "odds": 3.65,
-          "stake_pct": 27.72,
-          "stake_amount": 277.23
+          "odds": 4.4,
+          "stake_pct": 23.21,
+          "stake_amount": 232.11
         },
-        "Hubert Hurkacz": {
-          "bookmaker": "BoyleSports",
-          "odds": 1.4,
-          "stake_pct": 72.28,
-          "stake_amount": 722.77
+        "Alex de Minaur": {
+          "bookmaker": "GTbets",
+          "odds": 1.33,
+          "stake_pct": 76.79,
+          "stake_amount": 767.89
         }
       },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-07-04T11:34:38.831265+00:00"
+      "num_bookmakers_checked": 34,
+      "fresh_bookmakers": 34,
+      "found_at": "2026-07-04T19:18:00.761895+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "cfc02240ad5be9509d5cb936e79e02ed",
+      "sport": "tennis",
+      "league": "ATP Wimbledon",
+      "match": "Grigor Dimitrov vs Matteo Berrettini",
+      "commence": "2026-07-04T16:30:00Z",
+      "market": "spreads",
+      "margin_pct": 0.84,
+      "implied_probability_sum": 0.9916,
+      "guaranteed_profit": 8.4,
+      "stakes": {
+        "Matteo Berrettini (2.5)": {
+          "bookmaker": "Grosvenor",
+          "odds": 2.38,
+          "stake_pct": 42.37,
+          "stake_amount": 423.73
+        },
+        "Grigor Dimitrov (-2.5)": {
+          "bookmaker": "Coolbet",
+          "odds": 1.75,
+          "stake_pct": 57.63,
+          "stake_amount": 576.27
+        }
+      },
+      "num_bookmakers_checked": 6,
+      "fresh_bookmakers": 6,
+      "found_at": "2026-07-04T19:18:00.761540+00:00"
     }
   ],
   "value_bets": [
@@ -181,36 +181,15 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 3.923,
-      "true_prob_pct": 25.49,
+      "fair_odds": 3.955,
+      "true_prob_pct": 25.29,
       "implied_prob_pct": 20.0,
-      "edge_pct": 27.46,
-      "kelly_stake_pct": 1.72,
-      "suggested_stake": 17.16,
-      "expected_value": 27.46,
+      "edge_pct": 26.44,
+      "kelly_stake_pct": 1.65,
+      "suggested_stake": 16.52,
+      "expected_value": 26.44,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825514+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.88,
-      "fair_odds": 3.923,
-      "true_prob_pct": 25.49,
-      "implied_prob_pct": 20.49,
-      "edge_pct": 24.4,
-      "kelly_stake_pct": 1.57,
-      "suggested_stake": 15.72,
-      "expected_value": 24.4,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825485+00:00"
+      "found_at": "2026-07-04T19:18:00.758729+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -223,15 +202,15 @@
       "outcome": "Torino",
       "bookmaker": "1xBet",
       "odds": 4.65,
-      "fair_odds": 3.744,
-      "true_prob_pct": 26.71,
+      "fair_odds": 3.702,
+      "true_prob_pct": 27.02,
       "implied_prob_pct": 21.51,
-      "edge_pct": 24.22,
-      "kelly_stake_pct": 1.66,
-      "suggested_stake": 16.59,
-      "expected_value": 24.22,
+      "edge_pct": 25.62,
+      "kelly_stake_pct": 1.76,
+      "suggested_stake": 17.55,
+      "expected_value": 25.62,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.821141+00:00"
+      "found_at": "2026-07-04T19:18:00.755122+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -244,15 +223,15 @@
       "outcome": "Torino",
       "bookmaker": "Tipico",
       "odds": 4.6,
-      "fair_odds": 3.744,
-      "true_prob_pct": 26.71,
+      "fair_odds": 3.702,
+      "true_prob_pct": 27.02,
       "implied_prob_pct": 21.74,
-      "edge_pct": 22.88,
-      "kelly_stake_pct": 1.59,
-      "suggested_stake": 15.89,
-      "expected_value": 22.88,
+      "edge_pct": 24.27,
+      "kelly_stake_pct": 1.69,
+      "suggested_stake": 16.86,
+      "expected_value": 24.27,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.821098+00:00"
+      "found_at": "2026-07-04T19:18:00.755114+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -263,17 +242,17 @@
       "commence": "2026-08-29T13:30:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.8,
-      "fair_odds": 3.923,
-      "true_prob_pct": 25.49,
-      "implied_prob_pct": 20.83,
-      "edge_pct": 22.36,
-      "kelly_stake_pct": 1.47,
-      "suggested_stake": 14.71,
-      "expected_value": 22.36,
+      "bookmaker": "1xBet",
+      "odds": 4.88,
+      "fair_odds": 3.955,
+      "true_prob_pct": 25.29,
+      "implied_prob_pct": 20.49,
+      "edge_pct": 23.4,
+      "kelly_stake_pct": 1.51,
+      "suggested_stake": 15.08,
+      "expected_value": 23.4,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825500+00:00"
+      "found_at": "2026-07-04T19:18:00.758697+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -286,57 +265,15 @@
       "outcome": "Torino",
       "bookmaker": "Marathon Bet",
       "odds": 4.55,
-      "fair_odds": 3.744,
-      "true_prob_pct": 26.71,
+      "fair_odds": 3.702,
+      "true_prob_pct": 27.02,
       "implied_prob_pct": 21.98,
-      "edge_pct": 21.54,
-      "kelly_stake_pct": 1.52,
-      "suggested_stake": 15.17,
-      "expected_value": 21.54,
+      "edge_pct": 22.92,
+      "kelly_stake_pct": 1.61,
+      "suggested_stake": 16.14,
+      "expected_value": 22.92,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.820974+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Sky Bet",
-      "odds": 4.75,
-      "fair_odds": 3.923,
-      "true_prob_pct": 25.49,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 21.09,
-      "kelly_stake_pct": 1.41,
-      "suggested_stake": 14.06,
-      "expected_value": 21.09,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825507+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Paddy Power",
-      "odds": 4.75,
-      "fair_odds": 3.923,
-      "true_prob_pct": 25.49,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 21.09,
-      "kelly_stake_pct": 1.41,
-      "suggested_stake": 14.06,
-      "expected_value": 21.09,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825521+00:00"
+      "found_at": "2026-07-04T19:18:00.755064+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -349,15 +286,15 @@
       "outcome": "Draw",
       "bookmaker": "Sky Bet",
       "odds": 5.0,
-      "fair_odds": 4.141,
-      "true_prob_pct": 24.15,
+      "fair_odds": 4.097,
+      "true_prob_pct": 24.41,
       "implied_prob_pct": 20.0,
-      "edge_pct": 20.74,
-      "kelly_stake_pct": 1.3,
-      "suggested_stake": 12.96,
-      "expected_value": 20.74,
+      "edge_pct": 22.05,
+      "kelly_stake_pct": 1.38,
+      "suggested_stake": 13.78,
+      "expected_value": 22.05,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825115+00:00"
+      "found_at": "2026-07-04T19:18:00.758329+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -370,15 +307,78 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 4.141,
-      "true_prob_pct": 24.15,
+      "fair_odds": 4.097,
+      "true_prob_pct": 24.41,
       "implied_prob_pct": 20.0,
-      "edge_pct": 20.74,
-      "kelly_stake_pct": 1.3,
-      "suggested_stake": 12.96,
-      "expected_value": 20.74,
+      "edge_pct": 22.05,
+      "kelly_stake_pct": 1.38,
+      "suggested_stake": 13.78,
+      "expected_value": 22.05,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T11:34:38.825125+00:00"
+      "found_at": "2026-07-04T19:18:00.758337+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "Elversberg vs Bayer Leverkusen",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Codere (IT)",
+      "odds": 5.0,
+      "fair_odds": 4.097,
+      "true_prob_pct": 24.41,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 22.05,
+      "kelly_stake_pct": 1.38,
+      "suggested_stake": 13.78,
+      "expected_value": 22.05,
+      "confidence": "ALTA",
+      "found_at": "2026-07-04T19:18:00.758378+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "fbea45a1e53e07faac0027ac5d233587",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Torino vs AC Milan",
+      "commence": "2026-08-23T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Torino",
+      "bookmaker": "Sky Bet",
+      "odds": 4.5,
+      "fair_odds": 3.702,
+      "true_prob_pct": 27.02,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 21.57,
+      "kelly_stake_pct": 1.54,
+      "suggested_stake": 15.41,
+      "expected_value": 21.57,
+      "confidence": "ALTA",
+      "found_at": "2026-07-04T19:18:00.755037+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "fbea45a1e53e07faac0027ac5d233587",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Torino vs AC Milan",
+      "commence": "2026-08-23T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Torino",
+      "bookmaker": "Betfred (UK)",
+      "odds": 4.5,
+      "fair_odds": 3.702,
+      "true_prob_pct": 27.02,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 21.57,
+      "kelly_stake_pct": 1.54,
+      "suggested_stake": 15.41,
+      "expected_value": 21.57,
+      "confidence": "ALTA",
+      "found_at": "2026-07-04T19:18:00.755048+00:00"
     }
   ]
 }

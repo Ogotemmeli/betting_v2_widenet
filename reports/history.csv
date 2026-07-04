@@ -1167,3 +1167,23 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,20.21,ALTA,14.43,Torino@4.5 (Sky Bet)
 2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,20.21,ALTA,14.43,Torino@4.5 (Betfred (UK))
 2026-07-04 11:34 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,18.32,ALTA,11.74,Draw@4.9 (Winamax (DE))
+2026-07-04 19:18 UTC,ARBITRAGE,tennis,Taylor Fritz vs Lorenzo Sonego,ATP Wimbledon,h2h,8.033,SURE,80.33,"{""Lorenzo Sonego"": {""bookmaker"": ""Betfair"", ""odds"": 10.0, ""stake_pct"": 10.87, ""stake_amount"": 108.73}, ""Taylor Fritz"": {""bookmaker"": ""Bet Victor"", ""odds"": 1.22, ""stake_pct"": 89.13, ""stake_amount"": 891.27}}"
+2026-07-04 19:18 UTC,ARBITRAGE,tennis,Frances Tiafoe vs Alexander Bublik,ATP Wimbledon,h2h,7.843,SURE,78.43,"{""Frances Tiafoe"": {""bookmaker"": ""LeoVegas"", ""odds"": 3.0, ""stake_pct"": 36.17, ""stake_amount"": 361.7}, ""Alexander Bublik"": {""bookmaker"": ""Betway"", ""odds"": 1.7, ""stake_pct"": 63.83, ""stake_amount"": 638.3}}"
+2026-07-04 19:18 UTC,ARBITRAGE,tennis,Grigor Dimitrov vs Matteo Berrettini,ATP Wimbledon,h2h,2.623,SURE,26.23,"{""Matteo Berrettini"": {""bookmaker"": ""Pinnacle"", ""odds"": 3.71, ""stake_pct"": 27.68, ""stake_amount"": 276.8}, ""Grigor Dimitrov"": {""bookmaker"": ""Matchbook"", ""odds"": 1.42, ""stake_pct"": 72.32, ""stake_amount"": 723.2}}"
+2026-07-04 19:18 UTC,ARBITRAGE,tennis,Alex de Minaur vs Flavio Cobolli,ATP Wimbledon,h2h,2.085,SURE,20.85,"{""Flavio Cobolli"": {""bookmaker"": ""Betfair"", ""odds"": 4.4, ""stake_pct"": 23.21, ""stake_amount"": 232.11}, ""Alex de Minaur"": {""bookmaker"": ""GTbets"", ""odds"": 1.33, ""stake_pct"": 76.79, ""stake_amount"": 767.89}}"
+2026-07-04 19:18 UTC,ARBITRAGE,tennis,Grigor Dimitrov vs Matteo Berrettini,ATP Wimbledon,spreads,0.84,SURE,8.4,"{""Matteo Berrettini (2.5)"": {""bookmaker"": ""Grosvenor"", ""odds"": 2.38, ""stake_pct"": 42.37, ""stake_amount"": 423.73}, ""Grigor Dimitrov (-2.5)"": {""bookmaker"": ""Coolbet"", ""odds"": 1.75, ""stake_pct"": 57.63, ""stake_amount"": 576.27}}"
+2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,26.44,ALTA,16.52,Draw@5.0 (Betfred (UK))
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,25.62,ALTA,17.55,Torino@4.65 (1xBet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,24.27,ALTA,16.86,Torino@4.6 (Tipico)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,23.4,ALTA,15.08,Draw@4.88 (1xBet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,22.92,ALTA,16.14,Torino@4.55 (Marathon Bet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,22.05,ALTA,13.78,Draw@5.0 (Sky Bet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,22.05,ALTA,13.78,Draw@5.0 (Betfred (UK))
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,22.05,ALTA,13.78,Draw@5.0 (Codere (IT))
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,21.57,ALTA,15.41,Torino@4.5 (Sky Bet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,21.57,ALTA,15.41,Torino@4.5 (Betfred (UK))
+2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,21.38,ALTA,14.07,Draw@4.8 (Marathon Bet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,21.35,ALTA,16.68,Levante@4.2 (Tipico)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.12,ALTA,13.41,Draw@4.75 (Sky Bet)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.12,ALTA,13.41,Draw@4.75 (Paddy Power)
+2026-07-04 19:18 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,19.61,ALTA,12.57,Draw@4.9 (Winamax (DE))
