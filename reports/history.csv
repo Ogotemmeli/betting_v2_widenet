@@ -1146,3 +1146,24 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-03 19:26 UTC,VALUE_BET,soccer,Augsburg vs FC Schalke 04,Bundesliga - Germany,h2h,20.66,ALTA,16.09,Draw@4.21 (1xBet)
 2026-07-03 19:26 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,20.61,ALTA,13.56,Draw@4.8 (LeoVegas)
 2026-07-03 19:26 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,20.21,ALTA,14.43,Torino@4.5 (Sky Bet)
+2026-07-04 11:34 UTC,ARBITRAGE,tennis,Emma Navarro vs Marta Kostyuk,WTA Wimbledon,h2h,6.746,SURE,67.46,"{""Marta Kostyuk"": {""bookmaker"": ""Pinnacle"", ""odds"": 1.44, ""stake_pct"": 74.47, ""stake_amount"": 744.68}, ""Emma Navarro"": {""bookmaker"": ""Casumo"", ""odds"": 4.2, ""stake_pct"": 25.53, ""stake_amount"": 255.32}}"
+2026-07-04 11:34 UTC,ARBITRAGE,tennis,Alex de Minaur vs Zachary Svajda,ATP Wimbledon,h2h,6.349,SURE,63.49,"{""Alex de Minaur"": {""bookmaker"": ""Betway"", ""odds"": 1.4, ""stake_pct"": 76.27, ""stake_amount"": 762.71}, ""Zachary Svajda"": {""bookmaker"": ""Paddy Power"", ""odds"": 4.5, ""stake_pct"": 23.73, ""stake_amount"": 237.29}}"
+2026-07-04 11:34 UTC,ARBITRAGE,tennis,Liudmila Samsonova vs Marie Bouzkova,WTA Wimbledon,h2h,5.229,SURE,52.29,"{""Liudmila Samsonova"": {""bookmaker"": ""Matchbook"", ""odds"": 1.53, ""stake_pct"": 68.97, ""stake_amount"": 689.66}, ""Marie Bouzkova"": {""bookmaker"": ""BoyleSports"", ""odds"": 3.4, ""stake_pct"": 31.03, ""stake_amount"": 310.34}}"
+2026-07-04 11:34 UTC,ARBITRAGE,tennis,Zizou Bergs vs Arthur Fery,ATP Wimbledon,h2h,1.273,SURE,12.73,"{""Arthur Fery"": {""bookmaker"": ""1xBet"", ""odds"": 2.3, ""stake_pct"": 44.04, ""stake_amount"": 440.39}, ""Zizou Bergs"": {""bookmaker"": ""Betfair"", ""odds"": 1.81, ""stake_pct"": 55.96, ""stake_amount"": 559.61}}"
+2026-07-04 11:34 UTC,ARBITRAGE,tennis,Hubert Hurkacz vs Jan-Lennard Struff,ATP Wimbledon,h2h,1.174,SURE,11.74,"{""Jan-Lennard Struff"": {""bookmaker"": ""Betfair"", ""odds"": 3.65, ""stake_pct"": 27.72, ""stake_amount"": 277.23}, ""Hubert Hurkacz"": {""bookmaker"": ""BoyleSports"", ""odds"": 1.4, ""stake_pct"": 72.28, ""stake_amount"": 722.77}}"
+2026-07-04 11:34 UTC,ARBITRAGE,tennis,Sorana Cirstea vs Linda Noskova,WTA Wimbledon,h2h,0.345,SURE,3.45,"{""Sorana Cirstea"": {""bookmaker"": ""BoyleSports"", ""odds"": 2.75, ""stake_pct"": 36.49, ""stake_amount"": 364.9}, ""Linda Noskova"": {""bookmaker"": ""Betfair"", ""odds"": 1.58, ""stake_pct"": 63.51, ""stake_amount"": 635.1}}"
+2026-07-04 11:34 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,27.46,ALTA,17.16,Draw@5.0 (Betfred (UK))
+2026-07-04 11:34 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,24.4,ALTA,15.72,Draw@4.88 (1xBet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,24.22,ALTA,16.59,Torino@4.65 (1xBet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,22.88,ALTA,15.89,Torino@4.6 (Tipico)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,22.36,ALTA,14.71,Draw@4.8 (Marathon Bet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,21.54,ALTA,15.17,Torino@4.55 (Marathon Bet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,21.09,ALTA,14.06,Draw@4.75 (Sky Bet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,21.09,ALTA,14.06,Draw@4.75 (Paddy Power)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,20.74,ALTA,12.96,Draw@5.0 (Sky Bet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,20.74,ALTA,12.96,Draw@5.0 (Betfred (UK))
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,20.74,ALTA,12.96,Draw@5.0 (Codere (IT))
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,20.42,ALTA,15.95,Levante@4.2 (Tipico)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,20.21,ALTA,14.43,Torino@4.5 (Sky Bet)
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Torino vs AC Milan,Serie A - Italy,h2h,20.21,ALTA,14.43,Torino@4.5 (Betfred (UK))
+2026-07-04 11:34 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,18.32,ALTA,11.74,Draw@4.9 (Winamax (DE))
