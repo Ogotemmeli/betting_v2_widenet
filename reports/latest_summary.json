@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-04 19:18 UTC",
-  "arbitrages_found": 5,
+  "timestamp": "2026-07-05 11:36 UTC",
+  "arbitrages_found": 6,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
@@ -8,7 +8,7 @@
       "vbs": 15
     },
     "tennis": {
-      "arbs": 5,
+      "arbs": 6,
       "vbs": 0
     },
     "basketball": {
@@ -20,153 +20,153 @@
       "vbs": 0
     }
   },
-  "best_arb_margin": 8.033,
-  "best_value_edge": 26.44,
+  "best_arb_margin": 0.988,
+  "best_value_edge": 27.15,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "40f075c68595d809bd4835c234817431",
+      "event_id": "d8b6d9e196b22bb6a224ec404730c671",
       "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Taylor Fritz vs Lorenzo Sonego",
-      "commence": "2026-07-04T16:37:00Z",
+      "league": "WTA Wimbledon",
+      "match": "Jasmine Paolini vs Alexandra Eala",
+      "commence": "2026-07-06T09:00:00Z",
       "market": "h2h",
-      "margin_pct": 8.033,
-      "implied_probability_sum": 0.91967,
-      "guaranteed_profit": 80.33,
+      "margin_pct": 0.988,
+      "implied_probability_sum": 0.99012,
+      "guaranteed_profit": 9.88,
       "stakes": {
-        "Lorenzo Sonego": {
+        "Alexandra Eala": {
           "bookmaker": "Betfair",
-          "odds": 10.0,
-          "stake_pct": 10.87,
-          "stake_amount": 108.73
+          "odds": 1.69,
+          "stake_pct": 59.76,
+          "stake_amount": 597.62
         },
-        "Taylor Fritz": {
-          "bookmaker": "Bet Victor",
-          "odds": 1.22,
-          "stake_pct": 89.13,
-          "stake_amount": 891.27
+        "Jasmine Paolini": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 2.51,
+          "stake_pct": 40.24,
+          "stake_amount": 402.38
         }
       },
-      "num_bookmakers_checked": 32,
-      "fresh_bookmakers": 32,
-      "found_at": "2026-07-04T19:18:00.761668+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-07-05T11:36:38.188390+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "0dcdb7b775c9c9802fb54feb8b1f1593",
+      "event_id": "5fca44be8e4f4be20860b8cd4695fd42",
       "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Frances Tiafoe vs Alexander Bublik",
-      "commence": "2026-07-04T16:00:00Z",
+      "league": "WTA Wimbledon",
+      "match": "Aryna Sabalenka vs Naomi Osaka",
+      "commence": "2026-07-05T14:30:00Z",
       "market": "h2h",
-      "margin_pct": 7.843,
-      "implied_probability_sum": 0.92157,
-      "guaranteed_profit": 78.43,
+      "margin_pct": 0.738,
+      "implied_probability_sum": 0.99262,
+      "guaranteed_profit": 7.38,
       "stakes": {
-        "Frances Tiafoe": {
-          "bookmaker": "LeoVegas",
-          "odds": 3.0,
-          "stake_pct": 36.17,
-          "stake_amount": 361.7
+        "Aryna Sabalenka": {
+          "bookmaker": "1xBet",
+          "odds": 1.46,
+          "stake_pct": 69.0,
+          "stake_amount": 690.02
         },
-        "Alexander Bublik": {
-          "bookmaker": "Betway",
-          "odds": 1.7,
-          "stake_pct": 63.83,
-          "stake_amount": 638.3
+        "Naomi Osaka": {
+          "bookmaker": "Smarkets",
+          "odds": 3.25,
+          "stake_pct": 31.0,
+          "stake_amount": 309.98
         }
       },
-      "num_bookmakers_checked": 32,
-      "fresh_bookmakers": 32,
-      "found_at": "2026-07-04T19:18:00.760935+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-07-05T11:36:38.187238+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "cfc02240ad5be9509d5cb936e79e02ed",
+      "event_id": "b3d71ef368ca8a3172673e081f7fdee3",
+      "sport": "tennis",
+      "league": "WTA Wimbledon",
+      "match": "Jessica Pegula vs Iva Jović",
+      "commence": "2026-07-05T12:00:00Z",
+      "market": "h2h",
+      "margin_pct": 0.731,
+      "implied_probability_sum": 0.99269,
+      "guaranteed_profit": 7.31,
+      "stakes": {
+        "Jessica Pegula": {
+          "bookmaker": "GTbets",
+          "odds": 1.45,
+          "stake_pct": 69.47,
+          "stake_amount": 694.74
+        },
+        "Iva Jović": {
+          "bookmaker": "Smarkets",
+          "odds": 3.3,
+          "stake_pct": 30.53,
+          "stake_amount": 305.26
+        }
+      },
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-07-05T11:36:38.186646+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "deb46b10eff833cb32c724e825c99114",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Grigor Dimitrov vs Matteo Berrettini",
-      "commence": "2026-07-04T16:30:00Z",
+      "match": "Grigor Dimitrov vs Arthur Fery",
+      "commence": "2026-07-06T09:00:00Z",
       "market": "h2h",
-      "margin_pct": 2.623,
-      "implied_probability_sum": 0.97377,
-      "guaranteed_profit": 26.23,
+      "margin_pct": 0.653,
+      "implied_probability_sum": 0.99347,
+      "guaranteed_profit": 6.53,
       "stakes": {
-        "Matteo Berrettini": {
-          "bookmaker": "Pinnacle",
-          "odds": 3.71,
-          "stake_pct": 27.68,
-          "stake_amount": 276.8
+        "Arthur Fery": {
+          "bookmaker": "Matchbook",
+          "odds": 2.98,
+          "stake_pct": 33.78,
+          "stake_amount": 337.78
         },
         "Grigor Dimitrov": {
-          "bookmaker": "Matchbook",
-          "odds": 1.42,
-          "stake_pct": 72.32,
-          "stake_amount": 723.2
+          "bookmaker": "1xBet",
+          "odds": 1.52,
+          "stake_pct": 66.22,
+          "stake_amount": 662.22
         }
       },
-      "num_bookmakers_checked": 32,
-      "fresh_bookmakers": 32,
-      "found_at": "2026-07-04T19:18:00.761318+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-07-05T11:36:38.185414+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "5aadb0dbbad4128c3faf3df033ae5878",
+      "event_id": "44a55068b95674016667af4bf1a49145",
       "sport": "tennis",
       "league": "ATP Wimbledon",
-      "match": "Alex de Minaur vs Flavio Cobolli",
-      "commence": "2026-07-05T09:00:00Z",
+      "match": "Roman Safiullin vs Novak Djokovic",
+      "commence": "2026-07-05T12:30:00Z",
       "market": "h2h",
-      "margin_pct": 2.085,
-      "implied_probability_sum": 0.97915,
-      "guaranteed_profit": 20.85,
+      "margin_pct": 0.538,
+      "implied_probability_sum": 0.99462,
+      "guaranteed_profit": 5.38,
       "stakes": {
-        "Flavio Cobolli": {
-          "bookmaker": "Betfair",
-          "odds": 4.4,
-          "stake_pct": 23.21,
-          "stake_amount": 232.11
-        },
-        "Alex de Minaur": {
+        "Novak Djokovic": {
           "bookmaker": "GTbets",
-          "odds": 1.33,
-          "stake_pct": 76.79,
-          "stake_amount": 767.89
-        }
-      },
-      "num_bookmakers_checked": 34,
-      "fresh_bookmakers": 34,
-      "found_at": "2026-07-04T19:18:00.761895+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "cfc02240ad5be9509d5cb936e79e02ed",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Grigor Dimitrov vs Matteo Berrettini",
-      "commence": "2026-07-04T16:30:00Z",
-      "market": "spreads",
-      "margin_pct": 0.84,
-      "implied_probability_sum": 0.9916,
-      "guaranteed_profit": 8.4,
-      "stakes": {
-        "Matteo Berrettini (2.5)": {
-          "bookmaker": "Grosvenor",
-          "odds": 2.38,
-          "stake_pct": 42.37,
-          "stake_amount": 423.73
+          "odds": 1.2,
+          "stake_pct": 83.78,
+          "stake_amount": 837.84
         },
-        "Grigor Dimitrov (-2.5)": {
-          "bookmaker": "Coolbet",
-          "odds": 1.75,
-          "stake_pct": 57.63,
-          "stake_amount": 576.27
+        "Roman Safiullin": {
+          "bookmaker": "Betfair",
+          "odds": 6.2,
+          "stake_pct": 16.22,
+          "stake_amount": 162.16
         }
       },
-      "num_bookmakers_checked": 6,
-      "fresh_bookmakers": 6,
-      "found_at": "2026-07-04T19:18:00.761540+00:00"
+      "num_bookmakers_checked": 40,
+      "fresh_bookmakers": 40,
+      "found_at": "2026-07-05T11:36:38.181623+00:00"
     }
   ],
   "value_bets": [
@@ -181,99 +181,15 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 3.955,
-      "true_prob_pct": 25.29,
+      "fair_odds": 3.932,
+      "true_prob_pct": 25.43,
       "implied_prob_pct": 20.0,
-      "edge_pct": 26.44,
-      "kelly_stake_pct": 1.65,
-      "suggested_stake": 16.52,
-      "expected_value": 26.44,
+      "edge_pct": 27.15,
+      "kelly_stake_pct": 1.7,
+      "suggested_stake": 16.97,
+      "expected_value": 27.15,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.758729+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "fbea45a1e53e07faac0027ac5d233587",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Torino vs AC Milan",
-      "commence": "2026-08-23T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Torino",
-      "bookmaker": "1xBet",
-      "odds": 4.65,
-      "fair_odds": 3.702,
-      "true_prob_pct": 27.02,
-      "implied_prob_pct": 21.51,
-      "edge_pct": 25.62,
-      "kelly_stake_pct": 1.76,
-      "suggested_stake": 17.55,
-      "expected_value": 25.62,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.755122+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "fbea45a1e53e07faac0027ac5d233587",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Torino vs AC Milan",
-      "commence": "2026-08-23T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Torino",
-      "bookmaker": "Tipico",
-      "odds": 4.6,
-      "fair_odds": 3.702,
-      "true_prob_pct": 27.02,
-      "implied_prob_pct": 21.74,
-      "edge_pct": 24.27,
-      "kelly_stake_pct": 1.69,
-      "suggested_stake": 16.86,
-      "expected_value": 24.27,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.755114+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.88,
-      "fair_odds": 3.955,
-      "true_prob_pct": 25.29,
-      "implied_prob_pct": 20.49,
-      "edge_pct": 23.4,
-      "kelly_stake_pct": 1.51,
-      "suggested_stake": 15.08,
-      "expected_value": 23.4,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.758697+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "fbea45a1e53e07faac0027ac5d233587",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Torino vs AC Milan",
-      "commence": "2026-08-23T18:45:00Z",
-      "market": "h2h",
-      "outcome": "Torino",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.55,
-      "fair_odds": 3.702,
-      "true_prob_pct": 27.02,
-      "implied_prob_pct": 21.98,
-      "edge_pct": 22.92,
-      "kelly_stake_pct": 1.61,
-      "suggested_stake": 16.14,
-      "expected_value": 22.92,
-      "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.755064+00:00"
+      "found_at": "2026-07-05T11:36:38.178702+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -294,7 +210,7 @@
       "suggested_stake": 13.78,
       "expected_value": 22.05,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.758329+00:00"
+      "found_at": "2026-07-05T11:36:38.178224+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -315,7 +231,7 @@
       "suggested_stake": 13.78,
       "expected_value": 22.05,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.758337+00:00"
+      "found_at": "2026-07-05T11:36:38.178233+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -336,49 +252,133 @@
       "suggested_stake": 13.78,
       "expected_value": 22.05,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.758378+00:00"
+      "found_at": "2026-07-05T11:36:38.178283+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "fbea45a1e53e07faac0027ac5d233587",
+      "event_id": "4e24891d0ee382bfda6305eabbc54754",
       "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Torino vs AC Milan",
-      "commence": "2026-08-23T18:45:00Z",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Levante",
+      "commence": "2026-08-16T19:00:00Z",
       "market": "h2h",
-      "outcome": "Torino",
+      "outcome": "Levante",
+      "bookmaker": "Tipico",
+      "odds": 4.2,
+      "fair_odds": 3.473,
+      "true_prob_pct": 28.8,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 20.94,
+      "kelly_stake_pct": 1.64,
+      "suggested_stake": 16.36,
+      "expected_value": 20.94,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T11:36:38.176049+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "831beb2ef9729a813b44d2a50dd19970",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "RB Leipzig vs Borussia Monchengladbach",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
       "bookmaker": "Sky Bet",
-      "odds": 4.5,
-      "fair_odds": 3.702,
-      "true_prob_pct": 27.02,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 21.57,
-      "kelly_stake_pct": 1.54,
-      "suggested_stake": 15.41,
-      "expected_value": 21.57,
+      "odds": 4.75,
+      "fair_odds": 3.932,
+      "true_prob_pct": 25.43,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 20.79,
+      "kelly_stake_pct": 1.39,
+      "suggested_stake": 13.86,
+      "expected_value": 20.79,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.755037+00:00"
+      "found_at": "2026-07-05T11:36:38.178691+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "fbea45a1e53e07faac0027ac5d233587",
+      "event_id": "831beb2ef9729a813b44d2a50dd19970",
       "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Torino vs AC Milan",
-      "commence": "2026-08-23T18:45:00Z",
+      "league": "Bundesliga - Germany",
+      "match": "RB Leipzig vs Borussia Monchengladbach",
+      "commence": "2026-08-29T13:30:00Z",
       "market": "h2h",
-      "outcome": "Torino",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.5,
-      "fair_odds": 3.702,
-      "true_prob_pct": 27.02,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 21.57,
-      "kelly_stake_pct": 1.54,
-      "suggested_stake": 15.41,
-      "expected_value": 21.57,
+      "outcome": "Draw",
+      "bookmaker": "Paddy Power",
+      "odds": 4.75,
+      "fair_odds": 3.932,
+      "true_prob_pct": 25.43,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 20.79,
+      "kelly_stake_pct": 1.39,
+      "suggested_stake": 13.86,
+      "expected_value": 20.79,
       "confidence": "ALTA",
-      "found_at": "2026-07-04T19:18:00.755048+00:00"
+      "found_at": "2026-07-05T11:36:38.178710+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "831beb2ef9729a813b44d2a50dd19970",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "RB Leipzig vs Borussia Monchengladbach",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.72,
+      "fair_odds": 3.932,
+      "true_prob_pct": 25.43,
+      "implied_prob_pct": 21.19,
+      "edge_pct": 20.03,
+      "kelly_stake_pct": 1.35,
+      "suggested_stake": 13.46,
+      "expected_value": 20.03,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T11:36:38.178665+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "Elversberg vs Bayer Leverkusen",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.9,
+      "fair_odds": 4.097,
+      "true_prob_pct": 24.41,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 19.61,
+      "kelly_stake_pct": 1.26,
+      "suggested_stake": 12.57,
+      "expected_value": 19.61,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T11:36:38.178274+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "831beb2ef9729a813b44d2a50dd19970",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "RB Leipzig vs Borussia Monchengladbach",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Marathon Bet",
+      "odds": 4.65,
+      "fair_odds": 3.932,
+      "true_prob_pct": 25.43,
+      "implied_prob_pct": 21.51,
+      "edge_pct": 18.25,
+      "kelly_stake_pct": 1.25,
+      "suggested_stake": 12.5,
+      "expected_value": 18.25,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T11:36:38.178683+00:00"
     }
   ]
 }

@@ -1187,3 +1187,24 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.12,ALTA,13.41,Draw@4.75 (Sky Bet)
 2026-07-04 19:18 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.12,ALTA,13.41,Draw@4.75 (Paddy Power)
 2026-07-04 19:18 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,19.61,ALTA,12.57,Draw@4.9 (Winamax (DE))
+2026-07-05 11:36 UTC,ARBITRAGE,tennis,Jasmine Paolini vs Alexandra Eala,WTA Wimbledon,h2h,0.988,SURE,9.88,"{""Alexandra Eala"": {""bookmaker"": ""Betfair"", ""odds"": 1.69, ""stake_pct"": 59.76, ""stake_amount"": 597.62}, ""Jasmine Paolini"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 2.51, ""stake_pct"": 40.24, ""stake_amount"": 402.38}}"
+2026-07-05 11:36 UTC,ARBITRAGE,tennis,Aryna Sabalenka vs Naomi Osaka,WTA Wimbledon,h2h,0.738,SURE,7.38,"{""Aryna Sabalenka"": {""bookmaker"": ""1xBet"", ""odds"": 1.46, ""stake_pct"": 69.0, ""stake_amount"": 690.02}, ""Naomi Osaka"": {""bookmaker"": ""Smarkets"", ""odds"": 3.25, ""stake_pct"": 31.0, ""stake_amount"": 309.98}}"
+2026-07-05 11:36 UTC,ARBITRAGE,tennis,Jessica Pegula vs Iva Jović,WTA Wimbledon,h2h,0.731,SURE,7.31,"{""Jessica Pegula"": {""bookmaker"": ""GTbets"", ""odds"": 1.45, ""stake_pct"": 69.47, ""stake_amount"": 694.74}, ""Iva Jović"": {""bookmaker"": ""Smarkets"", ""odds"": 3.3, ""stake_pct"": 30.53, ""stake_amount"": 305.26}}"
+2026-07-05 11:36 UTC,ARBITRAGE,tennis,Grigor Dimitrov vs Arthur Fery,ATP Wimbledon,h2h,0.653,SURE,6.53,"{""Arthur Fery"": {""bookmaker"": ""Matchbook"", ""odds"": 2.98, ""stake_pct"": 33.78, ""stake_amount"": 337.78}, ""Grigor Dimitrov"": {""bookmaker"": ""1xBet"", ""odds"": 1.52, ""stake_pct"": 66.22, ""stake_amount"": 662.22}}"
+2026-07-05 11:36 UTC,ARBITRAGE,tennis,Roman Safiullin vs Novak Djokovic,ATP Wimbledon,h2h,0.538,SURE,5.38,"{""Novak Djokovic"": {""bookmaker"": ""GTbets"", ""odds"": 1.2, ""stake_pct"": 83.78, ""stake_amount"": 837.84}, ""Roman Safiullin"": {""bookmaker"": ""Betfair"", ""odds"": 6.2, ""stake_pct"": 16.22, ""stake_amount"": 162.16}}"
+2026-07-05 11:36 UTC,ARBITRAGE,tennis,Felix Auger-Aliassime vs Alejandro Davidovich Fokina,ATP Wimbledon,h2h,0.389,SURE,3.89,"{""Felix Auger-Aliassime"": {""bookmaker"": ""Betfair"", ""odds"": 1.66, ""stake_pct"": 60.48, ""stake_amount"": 604.76}, ""Alejandro Davidovich Fokina"": {""bookmaker"": ""GTbets"", ""odds"": 2.54, ""stake_pct"": 39.52, ""stake_amount"": 395.24}}"
+2026-07-05 11:36 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,27.15,ALTA,16.97,Draw@5.0 (Betfred (UK))
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,22.05,ALTA,13.78,Draw@5.0 (Sky Bet)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,22.05,ALTA,13.78,Draw@5.0 (Betfred (UK))
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,22.05,ALTA,13.78,Draw@5.0 (Codere (IT))
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,20.94,ALTA,16.36,Levante@4.2 (Tipico)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.79,ALTA,13.86,Draw@4.75 (Sky Bet)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.79,ALTA,13.86,Draw@4.75 (Paddy Power)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,20.03,ALTA,13.46,Draw@4.72 (1xBet)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,19.61,ALTA,12.57,Draw@4.9 (Winamax (DE))
+2026-07-05 11:36 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,18.25,ALTA,12.5,Draw@4.65 (Marathon Bet)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,FSV Mainz 05 vs SC Paderborn,Bundesliga - Germany,h2h,17.64,ALTA,13.08,Draw@4.37 (1xBet)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,17.17,ALTA,11.3,Draw@4.8 (LeoVegas)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,16.65,ALTA,11.5,Draw@4.62 (1xBet)
+2026-07-05 11:36 UTC,VALUE_BET,soccer,1. FC Köln vs TSG Hoffenheim,Bundesliga - Germany,h2h,16.35,ALTA,13.63,Draw@4.0 (Betfred (UK))
+2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,15.95,ALTA,10.63,Draw@4.75 (Paddy Power)
