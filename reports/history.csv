@@ -1208,3 +1208,22 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-05 11:36 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,16.65,ALTA,11.5,Draw@4.62 (1xBet)
 2026-07-05 11:36 UTC,VALUE_BET,soccer,1. FC Köln vs TSG Hoffenheim,Bundesliga - Germany,h2h,16.35,ALTA,13.63,Draw@4.0 (Betfred (UK))
 2026-07-05 11:36 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,15.95,ALTA,10.63,Draw@4.75 (Paddy Power)
+2026-07-05 19:21 UTC,ARBITRAGE,tennis,Hubert Hurkacz vs Jan-Lennard Struff,ATP Wimbledon,h2h,6.41,SURE,64.1,"{""Jan-Lennard Struff"": {""bookmaker"": ""Smarkets"", ""odds"": 1.3, ""stake_pct"": 82.19, ""stake_amount"": 821.92}, ""Hubert Hurkacz"": {""bookmaker"": ""Betclic (FR)"", ""odds"": 6.0, ""stake_pct"": 17.81, ""stake_amount"": 178.08}}"
+2026-07-05 19:21 UTC,ARBITRAGE,soccer,Espanyol vs Levante,La Liga - Spain,h2h,1.215,SURE,12.15,"{""Levante"": {""bookmaker"": ""Tipico"", ""odds"": 4.2, ""stake_pct"": 24.1, ""stake_amount"": 241.02}, ""Espanyol"": {""bookmaker"": ""1xBet"", ""odds"": 2.07, ""stake_pct"": 48.9, ""stake_amount"": 489.03}, ""Draw"": {""bookmaker"": ""Coral"", ""odds"": 3.75, ""stake_pct"": 26.99, ""stake_amount"": 269.95}}"
+2026-07-05 19:21 UTC,ARBITRAGE,tennis,Grigor Dimitrov vs Arthur Fery,ATP Wimbledon,h2h,1.075,SURE,10.75,"{""Grigor Dimitrov"": {""bookmaker"": ""1xBet"", ""odds"": 1.5, ""stake_pct"": 67.39, ""stake_amount"": 673.91}, ""Arthur Fery"": {""bookmaker"": ""Matchbook"", ""odds"": 3.1, ""stake_pct"": 32.61, ""stake_amount"": 326.09}}"
+2026-07-05 19:21 UTC,ARBITRAGE,tennis,Belinda Bencic vs Coco Gauff,WTA Wimbledon,h2h,0.98,SURE,9.8,"{""Belinda Bencic"": {""bookmaker"": ""Betfair"", ""odds"": 2.0, ""stake_pct"": 50.5, ""stake_amount"": 504.95}, ""Coco Gauff"": {""bookmaker"": ""Matchbook"", ""odds"": 2.04, ""stake_pct"": 49.5, ""stake_amount"": 495.05}}"
+2026-07-05 19:21 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,25.45,ALTA,15.91,Draw@5.0 (Betfred (UK))
+2026-07-05 19:21 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,19.93,ALTA,13.18,Draw@4.78 (1xBet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,19.18,ALTA,12.79,Draw@4.75 (Sky Bet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,19.18,ALTA,12.79,Draw@4.75 (Paddy Power)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,18.48,ALTA,11.55,Draw@5.0 (Sky Bet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,18.48,ALTA,11.55,Draw@5.0 (Betfred (UK))
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,18.48,ALTA,11.55,Draw@5.0 (Codere (IT))
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Espanyol vs Levante,La Liga - Spain,h2h,18.37,ALTA,14.35,Levante@4.2 (Tipico)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,RB Leipzig vs Borussia Monchengladbach,Bundesliga - Germany,h2h,17.93,ALTA,12.11,Draw@4.7 (Marathon Bet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,16.65,ALTA,11.5,Draw@4.62 (1xBet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,16.43,ALTA,11.67,Draw@4.52 (1xBet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Elversberg vs Bayer Leverkusen,Bundesliga - Germany,h2h,16.11,ALTA,10.33,Draw@4.9 (Winamax (DE))
+2026-07-05 19:21 UTC,VALUE_BET,soccer,FSV Mainz 05 vs SC Paderborn,Bundesliga - Germany,h2h,15.2,ALTA,11.27,Draw@4.37 (1xBet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Le Havre vs AS Monaco,Ligue 1 - France,h2h,14.39,ALTA,11.11,Draw@4.24 (1xBet)
+2026-07-05 19:21 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,14.02,ALTA,10.4,Strasbourg@4.37 (1xBet)

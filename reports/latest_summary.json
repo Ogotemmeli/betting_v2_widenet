@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-07-05 11:36 UTC",
-  "arbitrages_found": 6,
+  "timestamp": "2026-07-05 19:21 UTC",
+  "arbitrages_found": 4,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 0,
+      "arbs": 1,
       "vbs": 15
     },
     "tennis": {
-      "arbs": 6,
+      "arbs": 3,
       "vbs": 0
     },
     "basketball": {
@@ -20,95 +20,72 @@
       "vbs": 0
     }
   },
-  "best_arb_margin": 0.988,
-  "best_value_edge": 27.15,
+  "best_arb_margin": 6.41,
+  "best_value_edge": 25.45,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "d8b6d9e196b22bb6a224ec404730c671",
+      "event_id": "6dc8c06e342c397dfa3fa2076f31bfc9",
       "sport": "tennis",
-      "league": "WTA Wimbledon",
-      "match": "Jasmine Paolini vs Alexandra Eala",
-      "commence": "2026-07-06T09:00:00Z",
+      "league": "ATP Wimbledon",
+      "match": "Hubert Hurkacz vs Jan-Lennard Struff",
+      "commence": "2026-07-05T15:44:00Z",
       "market": "h2h",
-      "margin_pct": 0.988,
-      "implied_probability_sum": 0.99012,
-      "guaranteed_profit": 9.88,
+      "margin_pct": 6.41,
+      "implied_probability_sum": 0.9359,
+      "guaranteed_profit": 64.1,
       "stakes": {
-        "Alexandra Eala": {
-          "bookmaker": "Betfair",
-          "odds": 1.69,
-          "stake_pct": 59.76,
-          "stake_amount": 597.62
+        "Jan-Lennard Struff": {
+          "bookmaker": "Smarkets",
+          "odds": 1.3,
+          "stake_pct": 82.19,
+          "stake_amount": 821.92
         },
-        "Jasmine Paolini": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 2.51,
-          "stake_pct": 40.24,
-          "stake_amount": 402.38
+        "Hubert Hurkacz": {
+          "bookmaker": "Betclic (FR)",
+          "odds": 6.0,
+          "stake_pct": 17.81,
+          "stake_amount": 178.08
         }
       },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-07-05T11:36:38.188390+00:00"
+      "num_bookmakers_checked": 22,
+      "fresh_bookmakers": 22,
+      "found_at": "2026-07-05T19:21:16.586570+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "5fca44be8e4f4be20860b8cd4695fd42",
-      "sport": "tennis",
-      "league": "WTA Wimbledon",
-      "match": "Aryna Sabalenka vs Naomi Osaka",
-      "commence": "2026-07-05T14:30:00Z",
+      "event_id": "4e24891d0ee382bfda6305eabbc54754",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Levante",
+      "commence": "2026-08-16T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 0.738,
-      "implied_probability_sum": 0.99262,
-      "guaranteed_profit": 7.38,
+      "margin_pct": 1.215,
+      "implied_probability_sum": 0.98785,
+      "guaranteed_profit": 12.15,
       "stakes": {
-        "Aryna Sabalenka": {
+        "Levante": {
+          "bookmaker": "Tipico",
+          "odds": 4.2,
+          "stake_pct": 24.1,
+          "stake_amount": 241.02
+        },
+        "Espanyol": {
           "bookmaker": "1xBet",
-          "odds": 1.46,
-          "stake_pct": 69.0,
-          "stake_amount": 690.02
+          "odds": 2.07,
+          "stake_pct": 48.9,
+          "stake_amount": 489.03
         },
-        "Naomi Osaka": {
-          "bookmaker": "Smarkets",
-          "odds": 3.25,
-          "stake_pct": 31.0,
-          "stake_amount": 309.98
+        "Draw": {
+          "bookmaker": "Coral",
+          "odds": 3.75,
+          "stake_pct": 26.99,
+          "stake_amount": 269.95
         }
       },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-07-05T11:36:38.187238+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "b3d71ef368ca8a3172673e081f7fdee3",
-      "sport": "tennis",
-      "league": "WTA Wimbledon",
-      "match": "Jessica Pegula vs Iva Jović",
-      "commence": "2026-07-05T12:00:00Z",
-      "market": "h2h",
-      "margin_pct": 0.731,
-      "implied_probability_sum": 0.99269,
-      "guaranteed_profit": 7.31,
-      "stakes": {
-        "Jessica Pegula": {
-          "bookmaker": "GTbets",
-          "odds": 1.45,
-          "stake_pct": 69.47,
-          "stake_amount": 694.74
-        },
-        "Iva Jović": {
-          "bookmaker": "Smarkets",
-          "odds": 3.3,
-          "stake_pct": 30.53,
-          "stake_amount": 305.26
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-07-05T11:36:38.186646+00:00"
+      "num_bookmakers_checked": 25,
+      "fresh_bookmakers": 25,
+      "found_at": "2026-07-05T19:21:16.584075+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -116,57 +93,57 @@
       "sport": "tennis",
       "league": "ATP Wimbledon",
       "match": "Grigor Dimitrov vs Arthur Fery",
-      "commence": "2026-07-06T09:00:00Z",
+      "commence": "2026-07-06T14:30:00Z",
       "market": "h2h",
-      "margin_pct": 0.653,
-      "implied_probability_sum": 0.99347,
-      "guaranteed_profit": 6.53,
+      "margin_pct": 1.075,
+      "implied_probability_sum": 0.98925,
+      "guaranteed_profit": 10.75,
       "stakes": {
-        "Arthur Fery": {
-          "bookmaker": "Matchbook",
-          "odds": 2.98,
-          "stake_pct": 33.78,
-          "stake_amount": 337.78
-        },
         "Grigor Dimitrov": {
           "bookmaker": "1xBet",
-          "odds": 1.52,
-          "stake_pct": 66.22,
-          "stake_amount": 662.22
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-07-05T11:36:38.185414+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "44a55068b95674016667af4bf1a49145",
-      "sport": "tennis",
-      "league": "ATP Wimbledon",
-      "match": "Roman Safiullin vs Novak Djokovic",
-      "commence": "2026-07-05T12:30:00Z",
-      "market": "h2h",
-      "margin_pct": 0.538,
-      "implied_probability_sum": 0.99462,
-      "guaranteed_profit": 5.38,
-      "stakes": {
-        "Novak Djokovic": {
-          "bookmaker": "GTbets",
-          "odds": 1.2,
-          "stake_pct": 83.78,
-          "stake_amount": 837.84
+          "odds": 1.5,
+          "stake_pct": 67.39,
+          "stake_amount": 673.91
         },
-        "Roman Safiullin": {
-          "bookmaker": "Betfair",
-          "odds": 6.2,
-          "stake_pct": 16.22,
-          "stake_amount": 162.16
+        "Arthur Fery": {
+          "bookmaker": "Matchbook",
+          "odds": 3.1,
+          "stake_pct": 32.61,
+          "stake_amount": 326.09
         }
       },
       "num_bookmakers_checked": 40,
       "fresh_bookmakers": 40,
-      "found_at": "2026-07-05T11:36:38.181623+00:00"
+      "found_at": "2026-07-05T19:21:16.586976+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "0dde211a4505e155ef36e15f1bf05a55",
+      "sport": "tennis",
+      "league": "WTA Wimbledon",
+      "match": "Belinda Bencic vs Coco Gauff",
+      "commence": "2026-07-05T19:34:00Z",
+      "market": "h2h",
+      "margin_pct": 0.98,
+      "implied_probability_sum": 0.9902,
+      "guaranteed_profit": 9.8,
+      "stakes": {
+        "Belinda Bencic": {
+          "bookmaker": "Betfair",
+          "odds": 2.0,
+          "stake_pct": 50.5,
+          "stake_amount": 504.95
+        },
+        "Coco Gauff": {
+          "bookmaker": "Matchbook",
+          "odds": 2.04,
+          "stake_pct": 49.5,
+          "stake_amount": 495.05
+        }
+      },
+      "num_bookmakers_checked": 40,
+      "fresh_bookmakers": 40,
+      "found_at": "2026-07-05T19:21:16.587663+00:00"
     }
   ],
   "value_bets": [
@@ -181,99 +158,36 @@
       "outcome": "Draw",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.43,
+      "fair_odds": 3.986,
+      "true_prob_pct": 25.09,
       "implied_prob_pct": 20.0,
-      "edge_pct": 27.15,
-      "kelly_stake_pct": 1.7,
-      "suggested_stake": 16.97,
-      "expected_value": 27.15,
+      "edge_pct": 25.45,
+      "kelly_stake_pct": 1.59,
+      "suggested_stake": 15.91,
+      "expected_value": 25.45,
       "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178702+00:00"
+      "found_at": "2026-07-05T19:21:16.585251+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "event_id": "831beb2ef9729a813b44d2a50dd19970",
       "sport": "soccer",
       "league": "Bundesliga - Germany",
-      "match": "Elversberg vs Bayer Leverkusen",
+      "match": "RB Leipzig vs Borussia Monchengladbach",
       "commence": "2026-08-29T13:30:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 4.097,
-      "true_prob_pct": 24.41,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 22.05,
-      "kelly_stake_pct": 1.38,
-      "suggested_stake": 13.78,
-      "expected_value": 22.05,
+      "bookmaker": "1xBet",
+      "odds": 4.78,
+      "fair_odds": 3.986,
+      "true_prob_pct": 25.09,
+      "implied_prob_pct": 20.92,
+      "edge_pct": 19.93,
+      "kelly_stake_pct": 1.32,
+      "suggested_stake": 13.18,
+      "expected_value": 19.93,
       "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178224+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "Elversberg vs Bayer Leverkusen",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.097,
-      "true_prob_pct": 24.41,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 22.05,
-      "kelly_stake_pct": 1.38,
-      "suggested_stake": 13.78,
-      "expected_value": 22.05,
-      "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178233+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "Elversberg vs Bayer Leverkusen",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "Codere (IT)",
-      "odds": 5.0,
-      "fair_odds": 4.097,
-      "true_prob_pct": 24.41,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 22.05,
-      "kelly_stake_pct": 1.38,
-      "suggested_stake": 13.78,
-      "expected_value": 22.05,
-      "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178283+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "4e24891d0ee382bfda6305eabbc54754",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Levante",
-      "commence": "2026-08-16T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Levante",
-      "bookmaker": "Tipico",
-      "odds": 4.2,
-      "fair_odds": 3.473,
-      "true_prob_pct": 28.8,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 20.94,
-      "kelly_stake_pct": 1.64,
-      "suggested_stake": 16.36,
-      "expected_value": 20.94,
-      "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.176049+00:00"
+      "found_at": "2026-07-05T19:21:16.585235+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -286,15 +200,15 @@
       "outcome": "Draw",
       "bookmaker": "Sky Bet",
       "odds": 4.75,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.43,
+      "fair_odds": 3.986,
+      "true_prob_pct": 25.09,
       "implied_prob_pct": 21.05,
-      "edge_pct": 20.79,
-      "kelly_stake_pct": 1.39,
-      "suggested_stake": 13.86,
-      "expected_value": 20.79,
+      "edge_pct": 19.18,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.79,
+      "expected_value": 19.18,
       "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178691+00:00"
+      "found_at": "2026-07-05T19:21:16.585247+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -307,36 +221,15 @@
       "outcome": "Draw",
       "bookmaker": "Paddy Power",
       "odds": 4.75,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.43,
+      "fair_odds": 3.986,
+      "true_prob_pct": 25.09,
       "implied_prob_pct": 21.05,
-      "edge_pct": 20.79,
-      "kelly_stake_pct": 1.39,
-      "suggested_stake": 13.86,
-      "expected_value": 20.79,
+      "edge_pct": 19.18,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.79,
+      "expected_value": 19.18,
       "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178710+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "831beb2ef9729a813b44d2a50dd19970",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "RB Leipzig vs Borussia Monchengladbach",
-      "commence": "2026-08-29T13:30:00Z",
-      "market": "h2h",
-      "outcome": "Draw",
-      "bookmaker": "1xBet",
-      "odds": 4.72,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.43,
-      "implied_prob_pct": 21.19,
-      "edge_pct": 20.03,
-      "kelly_stake_pct": 1.35,
-      "suggested_stake": 13.46,
-      "expected_value": 20.03,
-      "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178665+00:00"
+      "found_at": "2026-07-05T19:21:16.585254+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -347,17 +240,80 @@
       "commence": "2026-08-29T13:30:00Z",
       "market": "h2h",
       "outcome": "Draw",
-      "bookmaker": "Winamax (DE)",
-      "odds": 4.9,
-      "fair_odds": 4.097,
-      "true_prob_pct": 24.41,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 19.61,
-      "kelly_stake_pct": 1.26,
-      "suggested_stake": 12.57,
-      "expected_value": 19.61,
+      "bookmaker": "Sky Bet",
+      "odds": 5.0,
+      "fair_odds": 4.22,
+      "true_prob_pct": 23.7,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 18.48,
+      "kelly_stake_pct": 1.16,
+      "suggested_stake": 11.55,
+      "expected_value": 18.48,
       "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178274+00:00"
+      "found_at": "2026-07-05T19:21:16.585036+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "Elversberg vs Bayer Leverkusen",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 4.22,
+      "true_prob_pct": 23.7,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 18.48,
+      "kelly_stake_pct": 1.16,
+      "suggested_stake": 11.55,
+      "expected_value": 18.48,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T19:21:16.585040+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bf5e00842d79a39d57b99fce07a1257e",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "Elversberg vs Bayer Leverkusen",
+      "commence": "2026-08-29T13:30:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Codere (IT)",
+      "odds": 5.0,
+      "fair_odds": 4.22,
+      "true_prob_pct": 23.7,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 18.48,
+      "kelly_stake_pct": 1.16,
+      "suggested_stake": 11.55,
+      "expected_value": 18.48,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T19:21:16.585059+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4e24891d0ee382bfda6305eabbc54754",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Levante",
+      "commence": "2026-08-16T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Levante",
+      "bookmaker": "Tipico",
+      "odds": 4.2,
+      "fair_odds": 3.548,
+      "true_prob_pct": 28.18,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 18.37,
+      "kelly_stake_pct": 1.43,
+      "suggested_stake": 14.35,
+      "expected_value": 18.37,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T19:21:16.584137+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -369,16 +325,37 @@
       "market": "h2h",
       "outcome": "Draw",
       "bookmaker": "Marathon Bet",
-      "odds": 4.65,
-      "fair_odds": 3.932,
-      "true_prob_pct": 25.43,
-      "implied_prob_pct": 21.51,
-      "edge_pct": 18.25,
-      "kelly_stake_pct": 1.25,
-      "suggested_stake": 12.5,
-      "expected_value": 18.25,
+      "odds": 4.7,
+      "fair_odds": 3.986,
+      "true_prob_pct": 25.09,
+      "implied_prob_pct": 21.28,
+      "edge_pct": 17.93,
+      "kelly_stake_pct": 1.21,
+      "suggested_stake": 12.11,
+      "expected_value": 17.93,
       "confidence": "ALTA",
-      "found_at": "2026-07-05T11:36:38.178683+00:00"
+      "found_at": "2026-07-05T19:21:16.585242+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "1835d30f4ac2e1f3462f0654e0ea984a",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "RC Lens vs Auxerre",
+      "commence": "2026-08-22T15:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "1xBet",
+      "odds": 4.62,
+      "fair_odds": 3.961,
+      "true_prob_pct": 25.25,
+      "implied_prob_pct": 21.65,
+      "edge_pct": 16.65,
+      "kelly_stake_pct": 1.15,
+      "suggested_stake": 11.5,
+      "expected_value": 16.65,
+      "confidence": "ALTA",
+      "found_at": "2026-07-05T19:21:16.585927+00:00"
     }
   ]
 }
