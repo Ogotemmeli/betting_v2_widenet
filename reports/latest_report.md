@@ -1,95 +1,106 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-07-05 19:21 UTC
+**Generato:** 2026-07-06 13:49 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 195 record da 7 leghe attive | API calls: 18
+**Dati:** 193 record da 7 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 1 | 15 | 1.22% arb |
-| Tennis | 3 | 0 | 6.41% arb |
+| Calcio | 2 | 15 | 0.91% arb |
+| Tennis | 3 | 0 | 8.70% arb |
 | Basket | 0 | 0 | — |
 | Hockey | 0 | 0 | — |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-### #1 — Hubert Hurkacz vs Jan-Lennard Struff
-- **Sport:** Tennis | **Lega:** ATP Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-05T15:44:00Z
-- **Margine:** 6.41% (€64.10 su €1000)
-- **Book freschi:** 22
+### #1 — Marie Bouzkova vs Elise Mertens
+- **Sport:** Tennis | **Lega:** WTA Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-06T12:00:00Z
+- **Margine:** 8.70% (€86.96 su €1000)
+- **Book freschi:** 29
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Jan-Lennard Struff | Smarkets | 1.30 | 82.2% | €821.92 |
-| Hubert Hurkacz | Betclic (FR) | 6.00 | 17.8% | €178.08 |
+| Elise Mertens | Pinnacle | 1.15 | 95.2% | €952.38 |
+| Marie Bouzkova | Coral | 23.00 | 4.8% | €47.62 |
 
-### #2 — Espanyol vs Levante
+### #2 — Alex de Minaur vs Flavio Cobolli
+- **Sport:** Tennis | **Lega:** ATP Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-06T12:04:00Z
+- **Margine:** 6.34% (€63.45 su €1000)
+- **Book freschi:** 31
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Alex de Minaur | Betway | 1.95 | 54.8% | €547.56 |
+| Flavio Cobolli | Betfair | 2.36 | 45.2% | €452.44 |
+
+### #3 — Jasmine Paolini vs Alexandra Eala
+- **Sport:** Tennis | **Lega:** WTA Wimbledon
+- **Mercato:** h2h | **Inizio:** 2026-07-06T12:35:00Z
+- **Margine:** 4.96% (€49.62 su €1000)
+- **Book freschi:** 32
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Jasmine Paolini | Betway | 1.85 | 56.9% | €568.76 |
+| Alexandra Eala | Matchbook | 2.44 | 43.1% | €431.24 |
+
+### #4 — Atlético Madrid vs Málaga
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** totals | **Inizio:** 2026-08-16T19:00:00Z
+- **Margine:** 0.91% (€9.11 su €1000)
+- **Book freschi:** 7
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Over 2.5 | Pinnacle | 1.83 | 55.1% | €551.47 |
+| Under 2.5 | Casumo | 2.25 | 44.9% | €448.53 |
+
+### #5 — Real Madrid vs Real Sociedad
 - **Sport:** Calcio | **Lega:** La Liga - Spain
 - **Mercato:** h2h | **Inizio:** 2026-08-16T19:00:00Z
-- **Margine:** 1.22% (€12.15 su €1000)
-- **Book freschi:** 25
+- **Margine:** 0.70% (€7.02 su €1000)
+- **Book freschi:** 27
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Levante | Tipico | 4.20 | 24.1% | €241.02 |
-| Espanyol | 1xBet | 2.07 | 48.9% | €489.03 |
-| Draw | Coral | 3.75 | 27.0% | €269.95 |
-
-### #3 — Grigor Dimitrov vs Arthur Fery
-- **Sport:** Tennis | **Lega:** ATP Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-06T14:30:00Z
-- **Margine:** 1.07% (€10.75 su €1000)
-- **Book freschi:** 40
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Grigor Dimitrov | 1xBet | 1.50 | 67.4% | €673.91 |
-| Arthur Fery | Matchbook | 3.10 | 32.6% | €326.09 |
-
-### #4 — Belinda Bencic vs Coco Gauff
-- **Sport:** Tennis | **Lega:** WTA Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-05T19:34:00Z
-- **Margine:** 0.98% (€9.80 su €1000)
-- **Book freschi:** 40
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Belinda Bencic | Betfair | 2.00 | 50.5% | €504.95 |
-| Coco Gauff | Matchbook | 2.04 | 49.5% | €495.05 |
+| Real Madrid | 1xBet | 1.48 | 68.0% | €680.45 |
+| Real Sociedad | LeoVegas (SE) | 8.00 | 12.6% | €125.88 |
+| Draw | Tipico | 5.20 | 19.4% | €193.67 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Calcio | RB Leipzig vs Borussia Mo | Draw | Betfred (UK) | 5.00 | 25.4% | 🟢 | €16 |
-| 2 | Calcio | RB Leipzig vs Borussia Mo | Draw | 1xBet | 4.78 | 19.9% | 🟢 | €13 |
-| 3 | Calcio | RB Leipzig vs Borussia Mo | Draw | Sky Bet | 4.75 | 19.2% | 🟢 | €13 |
-| 4 | Calcio | RB Leipzig vs Borussia Mo | Draw | Paddy Power | 4.75 | 19.2% | 🟢 | €13 |
-| 5 | Calcio | Elversberg vs Bayer Lever | Draw | Sky Bet | 5.00 | 18.5% | 🟢 | €12 |
-| 6 | Calcio | Elversberg vs Bayer Lever | Draw | Betfred (UK) | 5.00 | 18.5% | 🟢 | €12 |
-| 7 | Calcio | Elversberg vs Bayer Lever | Draw | Codere (IT) | 5.00 | 18.5% | 🟢 | €12 |
-| 8 | Calcio | Espanyol vs Levante | Levante | Tipico | 4.20 | 18.4% | 🟢 | €14 |
-| 9 | Calcio | RB Leipzig vs Borussia Mo | Draw | Marathon Bet | 4.70 | 17.9% | 🟢 | €12 |
-| 10 | Calcio | RC Lens vs Auxerre | Draw | 1xBet | 4.62 | 16.6% | 🟢 | €12 |
-| 11 | Calcio | Marseille vs Strasbourg | Draw | 1xBet | 4.52 | 16.4% | 🟢 | €12 |
-| 12 | Calcio | Elversberg vs Bayer Lever | Draw | Winamax (DE) | 4.90 | 16.1% | 🟢 | €10 |
-| 13 | Calcio | FSV Mainz 05 vs SC Paderb | Draw | 1xBet | 4.37 | 15.2% | 🟢 | €11 |
-| 14 | Calcio | Le Havre vs AS Monaco | Draw | 1xBet | 4.24 | 14.4% | 🟢 | €11 |
-| 15 | Calcio | Marseille vs Strasbourg | Strasbourg | 1xBet | 4.37 | 14.0% | 🟢 | €10 |
+| 1 | Calcio | Marseille vs Strasbourg | Strasbourg | Pinnacle | 4.62 | 25.3% | 🟢 | €17 |
+| 2 | Calcio | Marseille vs Strasbourg | Strasbourg | Tipico | 4.60 | 24.8% | 🟢 | €17 |
+| 3 | Calcio | Angers vs Lille | Angers | Unibet (UK) | 5.00 | 23.0% | 🟢 | €14 |
+| 4 | Calcio | Angers vs Lille | Angers | Sky Bet | 5.00 | 23.0% | 🟢 | €14 |
+| 5 | Calcio | Angers vs Lille | Angers | Paddy Power | 5.00 | 23.0% | 🟢 | €14 |
+| 6 | Calcio | Angers vs Lille | Angers | Bet Victor | 5.00 | 23.0% | 🟢 | €14 |
+| 7 | Calcio | Angers vs Lille | Angers | Tipico | 5.00 | 23.0% | 🟢 | €14 |
+| 8 | Calcio | RC Lens vs Auxerre | Auxerre | Unibet (UK) | 5.00 | 22.2% | 🟢 | €14 |
+| 9 | Calcio | RC Lens vs Auxerre | Auxerre | Bet Victor | 5.00 | 22.2% | 🟢 | €14 |
+| 10 | Calcio | Marseille vs Strasbourg | Strasbourg | Coolbet | 4.50 | 22.0% | 🟢 | €16 |
+| 11 | Calcio | Marseille vs Strasbourg | Strasbourg | 1xBet | 4.46 | 21.0% | 🟢 | €15 |
+| 12 | Calcio | RC Lens vs Auxerre | Auxerre | LeoVegas | 4.95 | 20.9% | 🟢 | €13 |
+| 13 | Calcio | Angers vs Lille | Angers | LeoVegas | 4.90 | 20.5% | 🟢 | €13 |
+| 14 | Calcio | Angers vs Lille | Angers | Pinnacle | 4.88 | 20.1% | 🟢 | €13 |
+| 15 | Calcio | Angers vs Lille | Angers | Winamax (DE) | 4.80 | 18.1% | 🟢 | €12 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Calcio**: █████████████████████████████████ 100% (€182)
+- **Calcio**: █████████████████████████████████ 100% (€216)
 
 ---
 ## ⚠️ Disclaimer

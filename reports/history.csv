@@ -1227,3 +1227,23 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-05 19:21 UTC,VALUE_BET,soccer,FSV Mainz 05 vs SC Paderborn,Bundesliga - Germany,h2h,15.2,ALTA,11.27,Draw@4.37 (1xBet)
 2026-07-05 19:21 UTC,VALUE_BET,soccer,Le Havre vs AS Monaco,Ligue 1 - France,h2h,14.39,ALTA,11.11,Draw@4.24 (1xBet)
 2026-07-05 19:21 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,14.02,ALTA,10.4,Strasbourg@4.37 (1xBet)
+2026-07-06 13:49 UTC,ARBITRAGE,tennis,Marie Bouzkova vs Elise Mertens,WTA Wimbledon,h2h,8.696,SURE,86.96,"{""Elise Mertens"": {""bookmaker"": ""Pinnacle"", ""odds"": 1.15, ""stake_pct"": 95.24, ""stake_amount"": 952.38}, ""Marie Bouzkova"": {""bookmaker"": ""Coral"", ""odds"": 23.0, ""stake_pct"": 4.76, ""stake_amount"": 47.62}}"
+2026-07-06 13:49 UTC,ARBITRAGE,tennis,Alex de Minaur vs Flavio Cobolli,ATP Wimbledon,h2h,6.345,SURE,63.45,"{""Alex de Minaur"": {""bookmaker"": ""Betway"", ""odds"": 1.95, ""stake_pct"": 54.76, ""stake_amount"": 547.56}, ""Flavio Cobolli"": {""bookmaker"": ""Betfair"", ""odds"": 2.36, ""stake_pct"": 45.24, ""stake_amount"": 452.44}}"
+2026-07-06 13:49 UTC,ARBITRAGE,tennis,Jasmine Paolini vs Alexandra Eala,WTA Wimbledon,h2h,4.962,SURE,49.62,"{""Jasmine Paolini"": {""bookmaker"": ""Betway"", ""odds"": 1.85, ""stake_pct"": 56.88, ""stake_amount"": 568.76}, ""Alexandra Eala"": {""bookmaker"": ""Matchbook"", ""odds"": 2.44, ""stake_pct"": 43.12, ""stake_amount"": 431.24}}"
+2026-07-06 13:49 UTC,ARBITRAGE,soccer,Atlético Madrid vs Málaga,La Liga - Spain,totals,0.911,SURE,9.11,"{""Over 2.5"": {""bookmaker"": ""Pinnacle"", ""odds"": 1.83, ""stake_pct"": 55.15, ""stake_amount"": 551.47}, ""Under 2.5"": {""bookmaker"": ""Casumo"", ""odds"": 2.25, ""stake_pct"": 44.85, ""stake_amount"": 448.53}}"
+2026-07-06 13:49 UTC,ARBITRAGE,soccer,Real Madrid vs Real Sociedad,La Liga - Spain,h2h,0.702,SURE,7.02,"{""Real Madrid"": {""bookmaker"": ""1xBet"", ""odds"": 1.48, ""stake_pct"": 68.05, ""stake_amount"": 680.45}, ""Real Sociedad"": {""bookmaker"": ""LeoVegas (SE)"", ""odds"": 8.0, ""stake_pct"": 12.59, ""stake_amount"": 125.88}, ""Draw"": {""bookmaker"": ""Tipico"", ""odds"": 5.2, ""stake_pct"": 19.37, ""stake_amount"": 193.67}}"
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,25.3,ALTA,17.47,Strasbourg@4.62 (Pinnacle)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,24.75,ALTA,17.19,Strasbourg@4.6 (Tipico)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,23.0,ALTA,14.38,Angers@5.0 (Unibet (UK))
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,23.0,ALTA,14.38,Angers@5.0 (Sky Bet)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,23.0,ALTA,14.38,Angers@5.0 (Paddy Power)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,23.0,ALTA,14.38,Angers@5.0 (Bet Victor)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,23.0,ALTA,14.38,Angers@5.0 (Tipico)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,22.18,ALTA,13.86,Auxerre@5.0 (Unibet (UK))
+2026-07-06 13:49 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,22.18,ALTA,13.86,Auxerre@5.0 (Bet Victor)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,22.04,ALTA,15.74,Strasbourg@4.5 (Coolbet)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,20.96,ALTA,15.14,Strasbourg@4.46 (1xBet)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,20.95,ALTA,13.26,Auxerre@4.95 (LeoVegas)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,20.54,ALTA,13.17,Angers@4.9 (LeoVegas)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,20.05,ALTA,12.92,Angers@4.88 (Pinnacle)
+2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,18.08,ALTA,11.9,Angers@4.8 (Winamax (DE))
