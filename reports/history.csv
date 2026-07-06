@@ -1247,3 +1247,22 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,20.54,ALTA,13.17,Angers@4.9 (LeoVegas)
 2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,20.05,ALTA,12.92,Angers@4.88 (Pinnacle)
 2026-07-06 13:49 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,18.08,ALTA,11.9,Angers@4.8 (Winamax (DE))
+2026-07-06 20:01 UTC,ARBITRAGE,soccer,Atlético Madrid vs Málaga,La Liga - Spain,totals,1.208,SURE,12.08,"{""Under 2.5"": {""bookmaker"": ""Casumo"", ""odds"": 2.25, ""stake_pct"": 44.99, ""stake_amount"": 449.88}, ""Over 2.5"": {""bookmaker"": ""1xBet"", ""odds"": 1.84, ""stake_pct"": 55.01, ""stake_amount"": 550.12}}"
+2026-07-06 20:01 UTC,ARBITRAGE,soccer,Real Madrid vs Real Sociedad,La Liga - Spain,h2h,0.702,SURE,7.02,"{""Real Madrid"": {""bookmaker"": ""1xBet"", ""odds"": 1.48, ""stake_pct"": 68.05, ""stake_amount"": 680.45}, ""Real Sociedad"": {""bookmaker"": ""LeoVegas (SE)"", ""odds"": 8.0, ""stake_pct"": 12.59, ""stake_amount"": 125.88}, ""Draw"": {""bookmaker"": ""Tipico"", ""odds"": 5.2, ""stake_pct"": 19.37, ""stake_amount"": 193.67}}"
+2026-07-06 20:01 UTC,ARBITRAGE,soccer,SC Freiburg vs Werder Bremen,Bundesliga - Germany,h2h,0.659,SURE,6.59,"{""SC Freiburg"": {""bookmaker"": ""1xBet"", ""odds"": 2.11, ""stake_pct"": 47.71, ""stake_amount"": 477.08}, ""Werder Bremen"": {""bookmaker"": ""Codere (IT)"", ""odds"": 3.85, ""stake_pct"": 26.15, ""stake_amount"": 261.46}, ""Draw"": {""bookmaker"": ""Coolbet"", ""odds"": 3.85, ""stake_pct"": 26.15, ""stake_amount"": 261.46}}"
+2026-07-06 20:01 UTC,ARBITRAGE,soccer,Celta Vigo vs CA Osasuna,La Liga - Spain,h2h,0.527,SURE,5.27,"{""Celta Vigo"": {""bookmaker"": ""1xBet"", ""odds"": 2.15, ""stake_pct"": 46.76, ""stake_amount"": 467.58}, ""CA Osasuna"": {""bookmaker"": ""Betfair"", ""odds"": 4.1, ""stake_pct"": 24.52, ""stake_amount"": 245.19}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.5, ""stake_pct"": 28.72, ""stake_amount"": 287.23}}"
+2026-07-06 20:01 UTC,VALUE_BET,soccer,FSV Mainz 05 vs SC Paderborn,Bundesliga - Germany,h2h,23.37,ALTA,14.61,SC Paderborn@5.0 (Coolbet)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,22.03,ALTA,15.21,Strasbourg@4.62 (Pinnacle)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,FSV Mainz 05 vs SC Paderborn,Bundesliga - Germany,h2h,21.65,ALTA,13.77,SC Paderborn@4.93 (1xBet)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,21.5,ALTA,14.93,Strasbourg@4.6 (Tipico)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,21.38,ALTA,13.36,Auxerre@5.0 (Unibet (UK))
+2026-07-06 20:01 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,21.38,ALTA,13.36,Auxerre@5.0 (Sky Bet)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,21.38,ALTA,13.36,Auxerre@5.0 (Betfred (UK))
+2026-07-06 20:01 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,21.38,ALTA,13.36,Auxerre@5.0 (Paddy Power)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,21.38,ALTA,13.36,Auxerre@5.0 (Bet Victor)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,RC Lens vs Auxerre,Ligue 1 - France,h2h,21.38,ALTA,13.36,Auxerre@5.0 (Coral)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,FSV Mainz 05 vs SC Paderborn,Bundesliga - Germany,h2h,20.91,ALTA,13.4,SC Paderborn@4.9 (Codere (IT))
+2026-07-06 20:01 UTC,VALUE_BET,soccer,Marseille vs Strasbourg,Ligue 1 - France,h2h,20.7,ALTA,14.5,Strasbourg@4.57 (1xBet)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,19.85,ALTA,12.41,Angers@5.0 (Unibet (UK))
+2026-07-06 20:01 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,19.85,ALTA,12.41,Angers@5.0 (Sky Bet)
+2026-07-06 20:01 UTC,VALUE_BET,soccer,Angers vs Lille,Ligue 1 - France,h2h,19.85,ALTA,12.41,Angers@5.0 (Paddy Power)
