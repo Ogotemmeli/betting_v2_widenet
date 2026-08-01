@@ -1,84 +1,85 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-07-07 12:28 UTC
+**Generato:** 2026-08-01 11:17 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 187 record da 7 leghe attive | API calls: 18
+**Dati:** 199 record da 6 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 2 | 15 | 1.21% arb |
-| Tennis | 1 | 0 | 1.06% arb |
+| Calcio | 2 | 0 | 1.14% arb |
+| Tennis | 0 | 0 | — |
 | Basket | 0 | 0 | — |
-| Hockey | 0 | 0 | — |
+| Hockey | 1 | 15 | 2.31% arb |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-### #1 — Atlético Madrid vs Málaga
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** totals | **Inizio:** 2026-08-16T19:00:00Z
-- **Margine:** 1.21% (€12.08 su €1000)
-- **Book freschi:** 9
+### #1 — Edmonton Oilers vs Vancouver Canucks
+- **Sport:** Hockey | **Lega:** NHL
+- **Mercato:** totals | **Inizio:** 2026-09-30T02:10:00Z
+- **Margine:** 2.31% (€23.15 su €1000)
+- **Book freschi:** 10
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Over 2.5 | 1xBet | 1.84 | 55.0% | €550.12 |
-| Under 2.5 | Casumo | 2.25 | 45.0% | €449.88 |
+| Over 6.5 | 1xBet | 2.18 | 47.0% | €469.59 |
+| Under 6.5 | BetOnline.ag | 1.93 | 53.0% | €530.41 |
 
-### #2 — Jessica Pegula vs Coco Gauff
-- **Sport:** Tennis | **Lega:** WTA Wimbledon
-- **Mercato:** h2h | **Inizio:** 2026-07-07T12:40:17Z
-- **Margine:** 1.06% (€10.56 su €1000)
-- **Book freschi:** 41
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Jessica Pegula | GTbets | 1.63 | 62.0% | €620.05 |
-| Coco Gauff | Betfair | 2.66 | 38.0% | €379.95 |
-
-### #3 — Real Madrid vs Real Sociedad
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-08-16T19:00:00Z
-- **Margine:** 0.70% (€7.02 su €1000)
-- **Book freschi:** 29
+### #2 — Newcastle United vs Liverpool
+- **Sport:** Calcio | **Lega:** EPL
+- **Mercato:** h2h | **Inizio:** 2026-08-23T15:30:00Z
+- **Margine:** 1.14% (€11.44 su €1000)
+- **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Real Madrid | 1xBet | 1.48 | 68.0% | €680.45 |
-| Real Sociedad | LeoVegas (SE) | 8.00 | 12.6% | €125.88 |
-| Draw | Tipico | 5.20 | 19.4% | €193.67 |
+| Liverpool | 1xBet | 2.25 | 45.0% | €449.59 |
+| Newcastle United | Betfair | 3.40 | 29.8% | €297.52 |
+| Draw | Betfred (UK) | 4.00 | 25.3% | €252.89 |
+
+### #3 — Paris Saint Germain vs Rennes
+- **Sport:** Calcio | **Lega:** Ligue 1 - France
+- **Mercato:** h2h | **Inizio:** 2026-08-23T18:45:00Z
+- **Margine:** 0.60% (€5.99 su €1000)
+- **Book freschi:** 36
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
+| Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
+| Draw | 1xBet | 5.69 | 17.7% | €176.81 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Calcio | Angers vs Lille | Angers | Sky Bet | 5.00 | 53.6% | 🟢 | €34 |
-| 2 | Calcio | Angers vs Lille | Angers | Paddy Power | 5.00 | 53.6% | 🟢 | €34 |
-| 3 | Calcio | Angers vs Lille | Angers | Pinnacle | 4.88 | 50.0% | 🟢 | €32 |
-| 4 | Calcio | Angers vs Lille | Angers | Bet Victor | 4.80 | 47.5% | 🟢 | €31 |
-| 5 | Calcio | Marseille vs Strasbourg | Draw | Coolbet | 4.75 | 30.5% | 🟢 | €20 |
-| 6 | Calcio | Marseille vs Strasbourg | Strasbourg | Coolbet | 4.75 | 29.6% | 🟢 | €20 |
-| 7 | Calcio | Marseille vs Strasbourg | Strasbourg | Betfred (UK) | 4.60 | 25.6% | 🟢 | €18 |
-| 8 | Calcio | Marseille vs Strasbourg | Draw | Sky Bet | 4.50 | 23.7% | 🟢 | €17 |
-| 9 | Calcio | Marseille vs Strasbourg | Draw | Betfred (UK) | 4.50 | 23.7% | 🟢 | €17 |
-| 10 | Calcio | Marseille vs Strasbourg | Strasbourg | Sky Bet | 4.50 | 22.8% | 🟢 | €16 |
-| 11 | Calcio | FSV Mainz 05 vs SC Paderb | SC Paderborn | Coolbet | 5.00 | 18.5% | 🟢 | €12 |
-| 12 | Calcio | FSV Mainz 05 vs SC Paderb | SC Paderborn | 1xBet | 4.93 | 16.9% | 🟢 | €11 |
-| 13 | Calcio | RC Lens vs Auxerre | Auxerre | LeoVegas | 4.85 | 16.3% | 🟢 | €11 |
-| 14 | Calcio | FSV Mainz 05 vs SC Paderb | SC Paderborn | Marathon Bet | 4.85 | 15.0% | 🟢 | €10 |
-| 15 | Calcio | FSV Mainz 05 vs SC Paderb | SC Paderborn | Sky Bet | 4.75 | 12.6% | 🟢 | €8 |
+| 1 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (SE) | 4.60 | 18.8% | 🟢 | €13 |
+| 2 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | LeoVegas (SE | 4.60 | 18.8% | 🟢 | €13 |
+| 3 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Casumo | 4.50 | 16.2% | 🟢 | €12 |
+| 4 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Grosvenor | 4.50 | 16.2% | 🟢 | €12 |
+| 5 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (NL) | 4.50 | 16.2% | 🟢 | €12 |
+| 6 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | Coolbet | 4.80 | 15.4% | 🟢 | €10 |
+| 7 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | PMU (FR) | 4.75 | 14.2% | 🟢 | €10 |
+| 8 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Coolbet | 4.40 | 13.7% | 🟢 | €10 |
+| 9 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | 1xBet | 4.71 | 13.3% | 🟢 | €9 |
+| 10 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | Marathon Bet | 4.65 | 11.8% | 🟢 | €8 |
+| 11 | Hockey | Boston Bruins vs New York | Boston Bruins | Casumo | 2.43 | 11.4% | 🟢 | €20 |
+| 12 | Hockey | Boston Bruins vs New York | Boston Bruins | Unibet (SE) | 2.43 | 11.4% | 🟢 | €20 |
+| 13 | Hockey | Boston Bruins vs New York | Boston Bruins | Grosvenor | 2.43 | 11.4% | 🟢 | €20 |
+| 14 | Hockey | Boston Bruins vs New York | Boston Bruins | LeoVegas (SE | 2.43 | 11.4% | 🟢 | €20 |
+| 15 | Hockey | Boston Bruins vs New York | Boston Bruins | Unibet (NL) | 2.43 | 11.4% | 🟢 | €20 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Calcio**: █████████████████████████████████ 100% (€289)
+- **Hockey**: █████████████████████████████████ 100% (€208)
 
 ---
 ## ⚠️ Disclaimer
