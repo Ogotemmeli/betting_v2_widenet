@@ -1,5 +1,5 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-08-01 11:17 UTC
+**Generato:** 2026-08-01 19:11 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
@@ -10,7 +10,7 @@
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 2 | 0 | 1.14% arb |
+| Calcio | 1 | 0 | 0.60% arb |
 | Tennis | 0 | 0 | — |
 | Basket | 0 | 0 | — |
 | Hockey | 1 | 15 | 2.31% arb |
@@ -29,19 +29,7 @@
 | Over 6.5 | 1xBet | 2.18 | 47.0% | €469.59 |
 | Under 6.5 | BetOnline.ag | 1.93 | 53.0% | €530.41 |
 
-### #2 — Newcastle United vs Liverpool
-- **Sport:** Calcio | **Lega:** EPL
-- **Mercato:** h2h | **Inizio:** 2026-08-23T15:30:00Z
-- **Margine:** 1.14% (€11.44 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Liverpool | 1xBet | 2.25 | 45.0% | €449.59 |
-| Newcastle United | Betfair | 3.40 | 29.8% | €297.52 |
-| Draw | Betfred (UK) | 4.00 | 25.3% | €252.89 |
-
-### #3 — Paris Saint Germain vs Rennes
+### #2 — Paris Saint Germain vs Rennes
 - **Sport:** Calcio | **Lega:** Ligue 1 - France
 - **Mercato:** h2h | **Inizio:** 2026-08-23T18:45:00Z
 - **Margine:** 0.60% (€5.99 su €1000)
@@ -50,7 +38,7 @@
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
 | Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
-| Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
+| Rennes | Unibet (SE) | 7.50 | 13.4% | €134.14 |
 | Draw | 1xBet | 5.69 | 17.7% | €176.81 |
 
 ---
