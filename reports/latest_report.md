@@ -1,5 +1,5 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-08-02 11:17 UTC
+**Generato:** 2026-08-02 19:14 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
@@ -10,10 +10,10 @@
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 2 | 0 | 0.68% arb |
+| Calcio | 3 | 8 | 0.90% arb |
 | Tennis | 0 | 0 | — |
 | Basket | 0 | 0 | — |
-| Hockey | 1 | 15 | 2.31% arb |
+| Hockey | 1 | 7 | 2.31% arb |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
@@ -26,20 +26,20 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Over 6.5 | 1xBet | 2.18 | 47.0% | €469.59 |
 | Under 6.5 | BetOnline.ag | 1.93 | 53.0% | €530.41 |
+| Over 6.5 | 1xBet | 2.18 | 47.0% | €469.59 |
 
 ### #2 — Rayo Vallecano vs Alavés
 - **Sport:** Calcio | **Lega:** La Liga - Spain
 - **Mercato:** h2h | **Inizio:** 2026-08-20T19:00:00Z
-- **Margine:** 0.68% (€6.84 su €1000)
-- **Book freschi:** 13
+- **Margine:** 0.90% (€8.97 su €1000)
+- **Book freschi:** 17
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.29 | 30.6% | €306.05 |
-| Alavés | 1xBet | 4.42 | 22.8% | €227.80 |
-| Rayo Vallecano | Codere (IT) | 2.16 | 46.6% | €466.15 |
+| Rayo Vallecano | Codere (IT) | 2.17 | 46.5% | €465.00 |
+| Draw | 1xBet | 3.29 | 30.7% | €306.70 |
+| Alavés | 1xBet | 4.42 | 22.8% | €228.29 |
 
 ### #3 — Paris Saint Germain vs Rennes
 - **Sport:** Calcio | **Lega:** Ligue 1 - France
@@ -49,9 +49,21 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
 | Draw | 1xBet | 5.69 | 17.7% | €176.81 |
 | Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
+| Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
+
+### #4 — Brentford vs Tottenham Hotspur
+- **Sport:** Calcio | **Lega:** EPL
+- **Mercato:** h2h | **Inizio:** 2026-08-22T16:30:00Z
+- **Margine:** 0.58% (€5.84 su €1000)
+- **Book freschi:** 39
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | 1xBet | 3.78 | 26.6% | €266.10 |
+| Tottenham Hotspur | Unibet (SE) | 2.95 | 34.1% | €340.97 |
+| Brentford | Betfair | 2.56 | 39.3% | €392.92 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
@@ -64,22 +76,23 @@
 | 4 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Grosvenor | 4.50 | 16.2% | 🟢 | €12 |
 | 5 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (NL) | 4.50 | 16.2% | 🟢 | €12 |
 | 6 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | Coolbet | 4.80 | 15.4% | 🟢 | €10 |
-| 7 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | PMU (FR) | 4.75 | 14.2% | 🟢 | €10 |
-| 8 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Coolbet | 4.40 | 13.7% | 🟢 | €10 |
-| 9 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | 1xBet | 4.71 | 13.3% | 🟢 | €9 |
-| 10 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | Marathon Bet | 4.65 | 11.8% | 🟢 | €8 |
-| 11 | Hockey | Boston Bruins vs New York | Boston Bruins | Casumo | 2.43 | 11.4% | 🟢 | €20 |
-| 12 | Hockey | Boston Bruins vs New York | Boston Bruins | Unibet (SE) | 2.43 | 11.4% | 🟢 | €20 |
-| 13 | Hockey | Boston Bruins vs New York | Boston Bruins | Grosvenor | 2.43 | 11.4% | 🟢 | €20 |
-| 14 | Hockey | Boston Bruins vs New York | Boston Bruins | LeoVegas (SE | 2.43 | 11.4% | 🟢 | €20 |
-| 15 | Hockey | Boston Bruins vs New York | Boston Bruins | Unibet (NL) | 2.43 | 11.4% | 🟢 | €20 |
+| 7 | Calcio | Rayo Vallecano vs Alavés | Alavés | 1xBet | 4.42 | 14.7% | 🟢 | €11 |
+| 8 | Calcio | Espanyol vs Real Madrid | Espanyol | Betfred (UK) | 5.00 | 14.7% | 🟢 | €9 |
+| 9 | Calcio | Espanyol vs Real Madrid | Espanyol | Codere (IT) | 5.00 | 14.7% | 🟢 | €9 |
+| 10 | Calcio | Espanyol vs Real Madrid | Espanyol | Sky Bet | 5.00 | 14.7% | 🟢 | €9 |
+| 11 | Calcio | Espanyol vs Real Madrid | Espanyol | Unibet (UK) | 5.00 | 14.7% | 🟢 | €9 |
+| 12 | Calcio | Getafe vs Real Racing Clu | Real Racing Clu | Betfred (UK) | 5.00 | 14.6% | 🟢 | €9 |
+| 13 | Calcio | Getafe vs Real Racing Clu | Real Racing Clu | Sky Bet | 5.00 | 14.6% | 🟢 | €9 |
+| 14 | Calcio | Getafe vs Real Racing Clu | Real Racing Clu | William Hill | 5.00 | 14.6% | 🟢 | €9 |
+| 15 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | PMU (FR) | 4.75 | 14.2% | 🟢 | €10 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Hockey**: █████████████████████████████████ 100% (€208)
+- **Hockey**: █████████████████░░░░░░░░░░░░░░░░ 52% (€81)
+- **Calcio**: ████████████████░░░░░░░░░░░░░░░░░ 48% (€75)
 
 ---
 ## ⚠️ Disclaimer

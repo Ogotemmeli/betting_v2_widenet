@@ -1337,3 +1337,22 @@ timestamp,type,sport,match,league,market,edge_pct,confidence,suggested_stake,det
 2026-08-02 11:17 UTC,VALUE_BET,hockey,Boston Bruins vs New York Rangers,NHL,h2h,11.41,ALTA,19.96,Boston Bruins@2.43 (Grosvenor)
 2026-08-02 11:17 UTC,VALUE_BET,hockey,Boston Bruins vs New York Rangers,NHL,h2h,11.41,ALTA,19.96,Boston Bruins@2.43 (LeoVegas (SE))
 2026-08-02 11:17 UTC,VALUE_BET,hockey,Boston Bruins vs New York Rangers,NHL,h2h,11.41,ALTA,19.96,Boston Bruins@2.43 (Unibet (NL))
+2026-08-02 19:14 UTC,ARBITRAGE,hockey,Edmonton Oilers vs Vancouver Canucks,NHL,totals,2.315,SURE,23.15,"{""Under 6.5"": {""bookmaker"": ""BetOnline.ag"", ""odds"": 1.93, ""stake_pct"": 53.04, ""stake_amount"": 530.41}, ""Over 6.5"": {""bookmaker"": ""1xBet"", ""odds"": 2.18, ""stake_pct"": 46.96, ""stake_amount"": 469.59}}"
+2026-08-02 19:14 UTC,ARBITRAGE,soccer,Rayo Vallecano vs Alavés,La Liga - Spain,h2h,0.897,SURE,8.97,"{""Rayo Vallecano"": {""bookmaker"": ""Codere (IT)"", ""odds"": 2.17, ""stake_pct"": 46.5, ""stake_amount"": 465.0}, ""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.29, ""stake_pct"": 30.67, ""stake_amount"": 306.7}, ""Alavés"": {""bookmaker"": ""1xBet"", ""odds"": 4.42, ""stake_pct"": 22.83, ""stake_amount"": 228.29}}"
+2026-08-02 19:14 UTC,ARBITRAGE,soccer,Paris Saint Germain vs Rennes,Ligue 1 - France,h2h,0.599,SURE,5.99,"{""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 5.69, ""stake_pct"": 17.68, ""stake_amount"": 176.81}, ""Rennes"": {""bookmaker"": ""Coolbet"", ""odds"": 7.5, ""stake_pct"": 13.41, ""stake_amount"": 134.14}, ""Paris Saint Germain"": {""bookmaker"": ""1xBet"", ""odds"": 1.46, ""stake_pct"": 68.91, ""stake_amount"": 689.06}}"
+2026-08-02 19:14 UTC,ARBITRAGE,soccer,Brentford vs Tottenham Hotspur,EPL,h2h,0.584,SURE,5.84,"{""Draw"": {""bookmaker"": ""1xBet"", ""odds"": 3.78, ""stake_pct"": 26.61, ""stake_amount"": 266.1}, ""Tottenham Hotspur"": {""bookmaker"": ""Unibet (SE)"", ""odds"": 2.95, ""stake_pct"": 34.1, ""stake_amount"": 340.97}, ""Brentford"": {""bookmaker"": ""Betfair"", ""odds"": 2.56, ""stake_pct"": 39.29, ""stake_amount"": 392.92}}"
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Vegas Golden Knights vs Chicago Blackhawks,NHL,h2h,18.82,ALTA,13.07,Chicago Blackhawks@4.6 (Unibet (SE))
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Vegas Golden Knights vs Chicago Blackhawks,NHL,h2h,18.82,ALTA,13.07,Chicago Blackhawks@4.6 (LeoVegas (SE))
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Vegas Golden Knights vs Chicago Blackhawks,NHL,h2h,16.24,ALTA,11.6,Chicago Blackhawks@4.5 (Casumo)
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Vegas Golden Knights vs Chicago Blackhawks,NHL,h2h,16.24,ALTA,11.6,Chicago Blackhawks@4.5 (Grosvenor)
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Vegas Golden Knights vs Chicago Blackhawks,NHL,h2h,16.24,ALTA,11.6,Chicago Blackhawks@4.5 (Unibet (NL))
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Edmonton Oilers vs Vancouver Canucks,NHL,h2h,15.45,ALTA,10.16,Vancouver Canucks@4.8 (Coolbet)
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Rayo Vallecano vs Alavés,La Liga - Spain,h2h,14.73,ALTA,10.77,Alavés@4.42 (1xBet)
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Espanyol vs Real Madrid,La Liga - Spain,h2h,14.69,ALTA,9.18,Espanyol@5.0 (Betfred (UK))
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Espanyol vs Real Madrid,La Liga - Spain,h2h,14.69,ALTA,9.18,Espanyol@5.0 (Codere (IT))
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Espanyol vs Real Madrid,La Liga - Spain,h2h,14.69,ALTA,9.18,Espanyol@5.0 (Sky Bet)
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Espanyol vs Real Madrid,La Liga - Spain,h2h,14.69,ALTA,9.18,Espanyol@5.0 (Unibet (UK))
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,14.58,ALTA,9.11,Real Racing Club de Santander@5.0 (Betfred (UK))
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,14.58,ALTA,9.11,Real Racing Club de Santander@5.0 (Sky Bet)
+2026-08-02 19:14 UTC,VALUE_BET,soccer,Getafe vs Real Racing Club de Santander,La Liga - Spain,h2h,14.58,ALTA,9.11,Real Racing Club de Santander@5.0 (William Hill)
+2026-08-02 19:14 UTC,VALUE_BET,hockey,Edmonton Oilers vs Vancouver Canucks,NHL,h2h,14.24,ALTA,9.5,Vancouver Canucks@4.75 (PMU (FR))
