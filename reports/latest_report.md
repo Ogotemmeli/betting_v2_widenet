@@ -1,16 +1,16 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-08-01 19:11 UTC
+**Generato:** 2026-08-02 11:17 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 199 record da 6 leghe attive | API calls: 18
+**Dati:** 229 record da 6 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 1 | 0 | 0.60% arb |
+| Calcio | 2 | 0 | 0.68% arb |
 | Tennis | 0 | 0 | — |
 | Basket | 0 | 0 | — |
 | Hockey | 1 | 15 | 2.31% arb |
@@ -29,7 +29,19 @@
 | Over 6.5 | 1xBet | 2.18 | 47.0% | €469.59 |
 | Under 6.5 | BetOnline.ag | 1.93 | 53.0% | €530.41 |
 
-### #2 — Paris Saint Germain vs Rennes
+### #2 — Rayo Vallecano vs Alavés
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** h2h | **Inizio:** 2026-08-20T19:00:00Z
+- **Margine:** 0.68% (€6.84 su €1000)
+- **Book freschi:** 13
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | 1xBet | 3.29 | 30.6% | €306.05 |
+| Alavés | 1xBet | 4.42 | 22.8% | €227.80 |
+| Rayo Vallecano | Codere (IT) | 2.16 | 46.6% | €466.15 |
+
+### #3 — Paris Saint Germain vs Rennes
 - **Sport:** Calcio | **Lega:** Ligue 1 - France
 - **Mercato:** h2h | **Inizio:** 2026-08-23T18:45:00Z
 - **Margine:** 0.60% (€5.99 su €1000)
@@ -38,8 +50,8 @@
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
 | Paris Saint Germain | 1xBet | 1.46 | 68.9% | €689.06 |
-| Rennes | Unibet (SE) | 7.50 | 13.4% | €134.14 |
 | Draw | 1xBet | 5.69 | 17.7% | €176.81 |
+| Rennes | Coolbet | 7.50 | 13.4% | €134.14 |
 
 ---
 ## 📈 Value Bet (con diversificazione)

@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-01 19:11 UTC",
-  "arbitrages_found": 2,
+  "timestamp": "2026-08-02 11:17 UTC",
+  "arbitrages_found": 3,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 1,
+      "arbs": 2,
       "vbs": 0
     },
     "tennis": {
@@ -50,7 +50,42 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-01T19:11:37.993165+00:00"
+      "found_at": "2026-08-02T11:17:48.841623+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4feb0ef58a41849f92fcc270268734d4",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Rayo Vallecano vs Alavés",
+      "commence": "2026-08-20T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 0.684,
+      "implied_probability_sum": 0.99316,
+      "guaranteed_profit": 6.84,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.29,
+          "stake_pct": 30.6,
+          "stake_amount": 306.05
+        },
+        "Alavés": {
+          "bookmaker": "1xBet",
+          "odds": 4.42,
+          "stake_pct": 22.78,
+          "stake_amount": 227.8
+        },
+        "Rayo Vallecano": {
+          "bookmaker": "Codere (IT)",
+          "odds": 2.16,
+          "stake_pct": 46.62,
+          "stake_amount": 466.15
+        }
+      },
+      "num_bookmakers_checked": 13,
+      "fresh_bookmakers": 13,
+      "found_at": "2026-08-02T11:17:48.829928+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -70,22 +105,22 @@
           "stake_pct": 68.91,
           "stake_amount": 689.06
         },
-        "Rennes": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 7.5,
-          "stake_pct": 13.41,
-          "stake_amount": 134.14
-        },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 5.69,
           "stake_pct": 17.68,
           "stake_amount": 176.81
+        },
+        "Rennes": {
+          "bookmaker": "Coolbet",
+          "odds": 7.5,
+          "stake_pct": 13.41,
+          "stake_amount": 134.14
         }
       },
       "num_bookmakers_checked": 36,
       "fresh_bookmakers": 36,
-      "found_at": "2026-08-01T19:11:37.991261+00:00"
+      "found_at": "2026-08-02T11:17:48.839852+00:00"
     }
   ],
   "value_bets": [
@@ -108,7 +143,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993554+00:00"
+      "found_at": "2026-08-02T11:17:48.842005+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -129,7 +164,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993568+00:00"
+      "found_at": "2026-08-02T11:17:48.842018+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -150,7 +185,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993545+00:00"
+      "found_at": "2026-08-02T11:17:48.841998+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -171,7 +206,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993561+00:00"
+      "found_at": "2026-08-02T11:17:48.842011+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -192,7 +227,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993577+00:00"
+      "found_at": "2026-08-02T11:17:48.842027+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -213,7 +248,7 @@
       "suggested_stake": 10.16,
       "expected_value": 15.45,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993022+00:00"
+      "found_at": "2026-08-02T11:17:48.841572+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -234,7 +269,7 @@
       "suggested_stake": 9.5,
       "expected_value": 14.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993037+00:00"
+      "found_at": "2026-08-02T11:17:48.841587+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,7 +290,7 @@
       "suggested_stake": 10.04,
       "expected_value": 13.66,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993530+00:00"
+      "found_at": "2026-08-02T11:17:48.841984+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -276,7 +311,7 @@
       "suggested_stake": 8.95,
       "expected_value": 13.28,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993006+00:00"
+      "found_at": "2026-08-02T11:17:48.841559+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -297,7 +332,7 @@
       "suggested_stake": 8.11,
       "expected_value": 11.84,
       "confidence": "ALTA",
-      "found_at": "2026-08-01T19:11:37.993013+00:00"
+      "found_at": "2026-08-02T11:17:48.841566+00:00"
     }
   ]
 }
