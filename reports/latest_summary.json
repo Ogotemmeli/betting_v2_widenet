@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-03 12:55 UTC",
-  "arbitrages_found": 7,
+  "timestamp": "2026-08-03 19:40 UTC",
+  "arbitrages_found": 8,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 6,
-      "vbs": 4
+      "arbs": 7,
+      "vbs": 2
     },
     "tennis": {
       "arbs": 0,
@@ -17,7 +17,7 @@
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 11
+      "vbs": 13
     }
   },
   "best_arb_margin": 2.315,
@@ -50,7 +50,42 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-03T12:55:25.209395+00:00"
+      "found_at": "2026-08-03T19:40:19.685615+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Villarreal",
+      "commence": "2026-08-23T15:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.354,
+      "implied_probability_sum": 0.98646,
+      "guaranteed_profit": 13.54,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.92,
+          "stake_pct": 25.86,
+          "stake_amount": 258.6
+        },
+        "Villarreal": {
+          "bookmaker": "1xBet",
+          "odds": 4.75,
+          "stake_pct": 21.34,
+          "stake_amount": 213.42
+        },
+        "Atlético Madrid": {
+          "bookmaker": "Codere (IT)",
+          "odds": 1.92,
+          "stake_pct": 52.8,
+          "stake_amount": 527.98
+        }
+      },
+      "num_bookmakers_checked": 15,
+      "fresh_bookmakers": 15,
+      "found_at": "2026-08-03T19:40:19.673522+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -70,22 +105,57 @@
           "stake_pct": 44.85,
           "stake_amount": 448.49
         },
-        "FC Schalke 04": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.4,
-          "stake_pct": 29.81,
-          "stake_amount": 298.11
-        },
         "Draw": {
           "bookmaker": "Coolbet",
           "odds": 4.0,
           "stake_pct": 25.34,
           "stake_amount": 253.4
+        },
+        "FC Schalke 04": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.4,
+          "stake_pct": 29.81,
+          "stake_amount": 298.11
         }
       },
       "num_bookmakers_checked": 36,
       "fresh_bookmakers": 36,
-      "found_at": "2026-08-03T12:55:25.203185+00:00"
+      "found_at": "2026-08-03T19:40:19.679071+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "0a88bfab377a4bbddf8aec2983bf4c15",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Paris Saint Germain vs Rennes",
+      "commence": "2026-08-23T18:45:00Z",
+      "market": "h2h",
+      "margin_pct": 0.774,
+      "implied_probability_sum": 0.99226,
+      "guaranteed_profit": 7.74,
+      "stakes": {
+        "Paris Saint Germain": {
+          "bookmaker": "1xBet",
+          "odds": 1.46,
+          "stake_pct": 69.03,
+          "stake_amount": 690.28
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 5.69,
+          "stake_pct": 17.71,
+          "stake_amount": 177.12
+        },
+        "Rennes": {
+          "bookmaker": "Smarkets",
+          "odds": 7.6,
+          "stake_pct": 13.26,
+          "stake_amount": 132.61
+        }
+      },
+      "num_bookmakers_checked": 37,
+      "fresh_bookmakers": 37,
+      "found_at": "2026-08-03T19:40:19.683717+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -105,92 +175,22 @@
           "stake_pct": 25.82,
           "stake_amount": 258.22
         },
-        "Chelsea": {
-          "bookmaker": "1xBet",
-          "odds": 2.26,
-          "stake_pct": 44.56,
-          "stake_amount": 445.59
-        },
         "Fulham": {
           "bookmaker": "Betfair",
           "odds": 3.4,
           "stake_pct": 29.62,
           "stake_amount": 296.19
+        },
+        "Chelsea": {
+          "bookmaker": "1xBet",
+          "odds": 2.26,
+          "stake_pct": 44.56,
+          "stake_amount": 445.59
         }
       },
       "num_bookmakers_checked": 37,
       "fresh_bookmakers": 37,
-      "found_at": "2026-08-03T12:55:25.189544+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "0a88bfab377a4bbddf8aec2983bf4c15",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Paris Saint Germain vs Rennes",
-      "commence": "2026-08-23T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 0.599,
-      "implied_probability_sum": 0.99401,
-      "guaranteed_profit": 5.99,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.68,
-          "stake_amount": 176.81
-        },
-        "Paris Saint Germain": {
-          "bookmaker": "1xBet",
-          "odds": 1.46,
-          "stake_pct": 68.91,
-          "stake_amount": 689.06
-        },
-        "Rennes": {
-          "bookmaker": "Coolbet",
-          "odds": 7.5,
-          "stake_pct": 13.41,
-          "stake_amount": 134.14
-        }
-      },
-      "num_bookmakers_checked": 37,
-      "fresh_bookmakers": 37,
-      "found_at": "2026-08-03T12:55:25.207586+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "8b4b033209bb204516cbd1f523614f25",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Brentford vs Tottenham Hotspur",
-      "commence": "2026-08-22T16:30:00Z",
-      "market": "h2h",
-      "margin_pct": 0.584,
-      "implied_probability_sum": 0.99416,
-      "guaranteed_profit": 5.84,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.78,
-          "stake_pct": 26.61,
-          "stake_amount": 266.1
-        },
-        "Tottenham Hotspur": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 2.95,
-          "stake_pct": 34.1,
-          "stake_amount": 340.97
-        },
-        "Brentford": {
-          "bookmaker": "Betfair",
-          "odds": 2.56,
-          "stake_pct": 39.29,
-          "stake_amount": 392.92
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-08-03T12:55:25.187672+00:00"
+      "found_at": "2026-08-03T19:40:19.664615+00:00"
     }
   ],
   "value_bets": [
@@ -213,7 +213,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209759+00:00"
+      "found_at": "2026-08-03T19:40:19.686002+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -234,7 +234,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209775+00:00"
+      "found_at": "2026-08-03T19:40:19.686016+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,7 +255,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209752+00:00"
+      "found_at": "2026-08-03T19:40:19.685994+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -276,7 +276,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209768+00:00"
+      "found_at": "2026-08-03T19:40:19.686009+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -297,7 +297,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209784+00:00"
+      "found_at": "2026-08-03T19:40:19.686022+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -318,28 +318,7 @@
       "suggested_stake": 10.16,
       "expected_value": 15.45,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209344+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "4feb0ef58a41849f92fcc270268734d4",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Rayo Vallecano vs Alavés",
-      "commence": "2026-08-20T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Alavés",
-      "bookmaker": "1xBet",
-      "odds": 4.42,
-      "fair_odds": 3.864,
-      "true_prob_pct": 25.88,
-      "implied_prob_pct": 22.62,
-      "edge_pct": 14.38,
-      "kelly_stake_pct": 1.05,
-      "suggested_stake": 10.51,
-      "expected_value": 14.38,
-      "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.197192+00:00"
+      "found_at": "2026-08-03T19:40:19.685558+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -360,49 +339,70 @@
       "suggested_stake": 9.5,
       "expected_value": 14.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.209359+00:00"
+      "found_at": "2026-08-03T19:40:19.685574+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
+      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Vegas Golden Knights vs Chicago Blackhawks",
+      "commence": "2026-09-30T02:40:00Z",
       "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.397,
-      "true_prob_pct": 22.74,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 13.71,
-      "kelly_stake_pct": 0.86,
-      "suggested_stake": 8.57,
-      "expected_value": 13.71,
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "Coolbet",
+      "odds": 4.4,
+      "fair_odds": 3.871,
+      "true_prob_pct": 25.83,
+      "implied_prob_pct": 22.73,
+      "edge_pct": 13.66,
+      "kelly_stake_pct": 1.0,
+      "suggested_stake": 10.04,
+      "expected_value": 13.66,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.198106+00:00"
+      "found_at": "2026-08-03T19:40:19.685978+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
+      "event_id": "4feb0ef58a41849f92fcc270268734d4",
       "sport": "soccer",
       "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
+      "match": "Rayo Vallecano vs Alavés",
+      "commence": "2026-08-20T19:00:00Z",
       "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 4.397,
-      "true_prob_pct": 22.74,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 13.71,
-      "kelly_stake_pct": 0.86,
-      "suggested_stake": 8.57,
-      "expected_value": 13.71,
+      "outcome": "Alavés",
+      "bookmaker": "1xBet",
+      "odds": 4.42,
+      "fair_odds": 3.901,
+      "true_prob_pct": 25.64,
+      "implied_prob_pct": 22.62,
+      "edge_pct": 13.32,
+      "kelly_stake_pct": 0.97,
+      "suggested_stake": 9.73,
+      "expected_value": 13.32,
       "confidence": "ALTA",
-      "found_at": "2026-08-03T12:55:25.198122+00:00"
+      "found_at": "2026-08-03T19:40:19.672763+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "82c96670ad269b3647066b5e5032e0fd",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Edmonton Oilers vs Vancouver Canucks",
+      "commence": "2026-09-30T02:10:00Z",
+      "market": "h2h",
+      "outcome": "Vancouver Canucks",
+      "bookmaker": "1xBet",
+      "odds": 4.71,
+      "fair_odds": 4.158,
+      "true_prob_pct": 24.05,
+      "implied_prob_pct": 21.23,
+      "edge_pct": 13.28,
+      "kelly_stake_pct": 0.89,
+      "suggested_stake": 8.95,
+      "expected_value": 13.28,
+      "confidence": "ALTA",
+      "found_at": "2026-08-03T19:40:19.685539+00:00"
     }
   ]
 }
