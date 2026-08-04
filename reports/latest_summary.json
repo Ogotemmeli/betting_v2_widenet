@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-04 12:02 UTC",
-  "arbitrages_found": 6,
+  "timestamp": "2026-08-04 19:40 UTC",
+  "arbitrages_found": 7,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 5,
+      "arbs": 6,
       "vbs": 7
     },
     "tennis": {
@@ -21,7 +21,7 @@
     }
   },
   "best_arb_margin": 2.315,
-  "best_value_edge": 19.22,
+  "best_value_edge": 19.35,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -35,22 +35,22 @@
       "implied_probability_sum": 0.97685,
       "guaranteed_profit": 23.15,
       "stakes": {
-        "Under 6.5": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 1.93,
-          "stake_pct": 53.04,
-          "stake_amount": 530.41
-        },
         "Over 6.5": {
           "bookmaker": "1xBet",
           "odds": 2.18,
           "stake_pct": 46.96,
           "stake_amount": 469.59
+        },
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.93,
+          "stake_pct": 53.04,
+          "stake_amount": 530.41
         }
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-04T12:02:55.068453+00:00"
+      "found_at": "2026-08-04T19:40:06.660724+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -64,11 +64,11 @@
       "implied_probability_sum": 0.98646,
       "guaranteed_profit": 13.54,
       "stakes": {
-        "Villarreal": {
+        "Draw": {
           "bookmaker": "1xBet",
-          "odds": 4.75,
-          "stake_pct": 21.34,
-          "stake_amount": 213.42
+          "odds": 3.92,
+          "stake_pct": 25.86,
+          "stake_amount": 258.6
         },
         "Atlético Madrid": {
           "bookmaker": "Codere (IT)",
@@ -76,51 +76,16 @@
           "stake_pct": 52.8,
           "stake_amount": 527.98
         },
-        "Draw": {
+        "Villarreal": {
           "bookmaker": "1xBet",
-          "odds": 3.92,
-          "stake_pct": 25.86,
-          "stake_amount": 258.6
+          "odds": 4.75,
+          "stake_pct": 21.34,
+          "stake_amount": 213.42
         }
       },
       "num_bookmakers_checked": 15,
       "fresh_bookmakers": 15,
-      "found_at": "2026-08-04T12:02:55.057254+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "600aeb3560814afc9a02bec5126b249d",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Marseille vs Strasbourg",
-      "commence": "2026-08-21T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 1.013,
-      "implied_probability_sum": 0.98987,
-      "guaranteed_profit": 10.13,
-      "stakes": {
-        "Strasbourg": {
-          "bookmaker": "LeoVegas (SE)",
-          "odds": 5.4,
-          "stake_pct": 18.71,
-          "stake_amount": 187.08
-        },
-        "Marseille": {
-          "bookmaker": "1xBet",
-          "odds": 1.7,
-          "stake_pct": 59.43,
-          "stake_amount": 594.25
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 4.62,
-          "stake_pct": 21.87,
-          "stake_amount": 218.67
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-08-04T12:02:55.062806+00:00"
+      "found_at": "2026-08-04T19:40:06.649437+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -134,12 +99,6 @@
       "implied_probability_sum": 0.99071,
       "guaranteed_profit": 9.29,
       "stakes": {
-        "Chelsea": {
-          "bookmaker": "1xBet",
-          "odds": 2.25,
-          "stake_pct": 44.86,
-          "stake_amount": 448.61
-        },
         "Fulham": {
           "bookmaker": "Betfair",
           "odds": 3.45,
@@ -151,46 +110,87 @@
           "odds": 3.9,
           "stake_pct": 25.88,
           "stake_amount": 258.81
+        },
+        "Chelsea": {
+          "bookmaker": "1xBet",
+          "odds": 2.25,
+          "stake_pct": 44.86,
+          "stake_amount": 448.61
         }
       },
-      "num_bookmakers_checked": 37,
-      "fresh_bookmakers": 37,
-      "found_at": "2026-08-04T12:02:55.048826+00:00"
+      "num_bookmakers_checked": 38,
+      "fresh_bookmakers": 38,
+      "found_at": "2026-08-04T19:40:06.641002+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "0a88bfab377a4bbddf8aec2983bf4c15",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
       "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Paris Saint Germain vs Rennes",
-      "commence": "2026-08-23T18:45:00Z",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
       "market": "h2h",
-      "margin_pct": 0.774,
-      "implied_probability_sum": 0.99226,
-      "guaranteed_profit": 7.74,
+      "margin_pct": 0.922,
+      "implied_probability_sum": 0.99078,
+      "guaranteed_profit": 9.22,
       "stakes": {
-        "Paris Saint Germain": {
-          "bookmaker": "1xBet",
-          "odds": 1.46,
-          "stake_pct": 69.03,
-          "stake_amount": 690.28
-        },
         "Draw": {
           "bookmaker": "1xBet",
-          "odds": 5.69,
-          "stake_pct": 17.71,
-          "stake_amount": 177.12
+          "odds": 4.22,
+          "stake_pct": 23.92,
+          "stake_amount": 239.17
         },
-        "Rennes": {
-          "bookmaker": "Betfair",
-          "odds": 7.6,
-          "stake_pct": 13.26,
-          "stake_amount": 132.61
+        "Real Madrid": {
+          "bookmaker": "1xBet",
+          "odds": 1.72,
+          "stake_pct": 58.68,
+          "stake_amount": 586.81
+        },
+        "Espanyol": {
+          "bookmaker": "Tipico",
+          "odds": 5.8,
+          "stake_pct": 17.4,
+          "stake_amount": 174.02
+        }
+      },
+      "num_bookmakers_checked": 16,
+      "fresh_bookmakers": 16,
+      "found_at": "2026-08-04T19:40:06.649166+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "4b1211e0f448d01cf2b7fabd07aee49e",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Alavés vs Getafe",
+      "commence": "2026-08-15T17:30:00Z",
+      "market": "h2h",
+      "margin_pct": 0.772,
+      "implied_probability_sum": 0.99228,
+      "guaranteed_profit": 7.72,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Smarkets",
+          "odds": 2.98,
+          "stake_pct": 33.82,
+          "stake_amount": 338.18
+        },
+        "Getafe": {
+          "bookmaker": "Pinnacle",
+          "odds": 3.78,
+          "stake_pct": 26.66,
+          "stake_amount": 266.61
+        },
+        "Alavés": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 2.55,
+          "stake_pct": 39.52,
+          "stake_amount": 395.21
         }
       },
       "num_bookmakers_checked": 36,
       "fresh_bookmakers": 36,
-      "found_at": "2026-08-04T12:02:55.066538+00:00"
+      "found_at": "2026-08-04T19:40:06.645825+00:00"
     }
   ],
   "value_bets": [
@@ -205,15 +205,15 @@
       "outcome": "Villarreal",
       "bookmaker": "1xBet",
       "odds": 4.75,
-      "fair_odds": 3.984,
-      "true_prob_pct": 25.1,
+      "fair_odds": 3.98,
+      "true_prob_pct": 25.13,
       "implied_prob_pct": 21.05,
-      "edge_pct": 19.22,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.81,
-      "expected_value": 19.22,
+      "edge_pct": 19.35,
+      "kelly_stake_pct": 1.29,
+      "suggested_stake": 12.9,
+      "expected_value": 19.35,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.057293+00:00"
+      "found_at": "2026-08-04T19:40:06.649503+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -234,7 +234,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.068845+00:00"
+      "found_at": "2026-08-04T19:40:06.661096+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,7 +255,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.068866+00:00"
+      "found_at": "2026-08-04T19:40:06.661112+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -276,7 +276,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.068838+00:00"
+      "found_at": "2026-08-04T19:40:06.661089+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -297,7 +297,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.068859+00:00"
+      "found_at": "2026-08-04T19:40:06.661103+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -318,70 +318,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.068874+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-08-22T19:30:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.326,
-      "true_prob_pct": 23.12,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 15.58,
-      "kelly_stake_pct": 0.97,
-      "suggested_stake": 9.74,
-      "expected_value": 15.58,
-      "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.057115+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-08-22T19:30:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Codere (IT)",
-      "odds": 5.0,
-      "fair_odds": 4.326,
-      "true_prob_pct": 23.12,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 15.58,
-      "kelly_stake_pct": 0.97,
-      "suggested_stake": 9.74,
-      "expected_value": 15.58,
-      "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.057122+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Espanyol vs Real Madrid",
-      "commence": "2026-08-22T19:30:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 4.326,
-      "true_prob_pct": 23.12,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 15.58,
-      "kelly_stake_pct": 0.97,
-      "suggested_stake": 9.74,
-      "expected_value": 15.58,
-      "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.057137+00:00"
+      "found_at": "2026-08-04T19:40:06.661118+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -402,7 +339,70 @@
       "suggested_stake": 10.16,
       "expected_value": 15.45,
       "confidence": "ALTA",
-      "found_at": "2026-08-04T12:02:55.068311+00:00"
+      "found_at": "2026-08-04T19:40:06.660673+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 4.347,
+      "true_prob_pct": 23.0,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 15.02,
+      "kelly_stake_pct": 0.94,
+      "suggested_stake": 9.39,
+      "expected_value": 15.02,
+      "confidence": "ALTA",
+      "found_at": "2026-08-04T19:40:06.649307+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Codere (IT)",
+      "odds": 5.0,
+      "fair_odds": 4.347,
+      "true_prob_pct": 23.0,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 15.02,
+      "kelly_stake_pct": 0.94,
+      "suggested_stake": 9.39,
+      "expected_value": 15.02,
+      "confidence": "ALTA",
+      "found_at": "2026-08-04T19:40:06.649313+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "142b9f77470fa57ac5f1e1f69a28d44e",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Espanyol vs Real Madrid",
+      "commence": "2026-08-22T19:30:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Sky Bet",
+      "odds": 5.0,
+      "fair_odds": 4.347,
+      "true_prob_pct": 23.0,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 15.02,
+      "kelly_stake_pct": 0.94,
+      "suggested_stake": 9.39,
+      "expected_value": 15.02,
+      "confidence": "ALTA",
+      "found_at": "2026-08-04T19:40:06.649330+00:00"
     }
   ]
 }
