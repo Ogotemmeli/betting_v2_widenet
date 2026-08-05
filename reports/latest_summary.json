@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-05 12:00 UTC",
-  "arbitrages_found": 11,
+  "timestamp": "2026-08-05 19:38 UTC",
+  "arbitrages_found": 10,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 10,
-      "vbs": 5
+      "arbs": 9,
+      "vbs": 6
     },
     "tennis": {
       "arbs": 0,
@@ -17,11 +17,11 @@
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 10
+      "vbs": 9
     }
   },
   "best_arb_margin": 2.315,
-  "best_value_edge": 19.35,
+  "best_value_edge": 18.82,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -35,22 +35,22 @@
       "implied_probability_sum": 0.97685,
       "guaranteed_profit": 23.15,
       "stakes": {
-        "Under 6.5": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 1.93,
-          "stake_pct": 53.04,
-          "stake_amount": 530.41
-        },
         "Over 6.5": {
           "bookmaker": "1xBet",
           "odds": 2.18,
           "stake_pct": 46.96,
           "stake_amount": 469.59
+        },
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.93,
+          "stake_pct": 53.04,
+          "stake_amount": 530.41
         }
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-05T12:00:33.488822+00:00"
+      "found_at": "2026-08-05T19:38:29.189572+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -64,6 +64,12 @@
       "implied_probability_sum": 0.98587,
       "guaranteed_profit": 14.13,
       "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.6,
+          "stake_pct": 18.11,
+          "stake_amount": 181.13
+        },
         "Barcelona": {
           "bookmaker": "1xBet",
           "odds": 1.45,
@@ -75,17 +81,11 @@
           "odds": 8.5,
           "stake_pct": 11.93,
           "stake_amount": 119.33
-        },
-        "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 5.6,
-          "stake_pct": 18.11,
-          "stake_amount": 181.13
         }
       },
       "num_bookmakers_checked": 28,
       "fresh_bookmakers": 28,
-      "found_at": "2026-08-05T12:00:33.478967+00:00"
+      "found_at": "2026-08-05T19:38:29.181220+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -105,22 +105,22 @@
           "stake_pct": 25.86,
           "stake_amount": 258.6
         },
+        "Atlético Madrid": {
+          "bookmaker": "Betfair",
+          "odds": 1.92,
+          "stake_pct": 52.8,
+          "stake_amount": 527.98
+        },
         "Villarreal": {
           "bookmaker": "1xBet",
           "odds": 4.75,
           "stake_pct": 21.34,
           "stake_amount": 213.42
-        },
-        "Atlético Madrid": {
-          "bookmaker": "Codere (IT)",
-          "odds": 1.92,
-          "stake_pct": 52.8,
-          "stake_amount": 527.98
         }
       },
-      "num_bookmakers_checked": 15,
-      "fresh_bookmakers": 15,
-      "found_at": "2026-08-05T12:00:33.477594+00:00"
+      "num_bookmakers_checked": 16,
+      "fresh_bookmakers": 16,
+      "found_at": "2026-08-05T19:38:29.180021+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -130,32 +130,32 @@
       "match": "Fulham vs Chelsea",
       "commence": "2026-08-24T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.343,
-      "implied_probability_sum": 0.98657,
-      "guaranteed_profit": 13.43,
+      "margin_pct": 1.254,
+      "implied_probability_sum": 0.98746,
+      "guaranteed_profit": 12.54,
       "stakes": {
-        "Fulham": {
-          "bookmaker": "Betfair",
-          "odds": 3.5,
-          "stake_pct": 28.96,
-          "stake_amount": 289.6
-        },
-        "Draw": {
-          "bookmaker": "Betfair",
-          "odds": 3.9,
-          "stake_pct": 25.99,
-          "stake_amount": 259.9
-        },
         "Chelsea": {
           "bookmaker": "1xBet",
           "odds": 2.25,
-          "stake_pct": 45.05,
-          "stake_amount": 450.5
+          "stake_pct": 45.01,
+          "stake_amount": 450.09
+        },
+        "Fulham": {
+          "bookmaker": "Betfair",
+          "odds": 3.45,
+          "stake_pct": 29.35,
+          "stake_amount": 293.53
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.95,
+          "stake_pct": 25.64,
+          "stake_amount": 256.38
         }
       },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-08-05T12:00:33.469159+00:00"
+      "num_bookmakers_checked": 37,
+      "fresh_bookmakers": 37,
+      "found_at": "2026-08-05T19:38:29.172564+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -169,17 +169,17 @@
       "implied_probability_sum": 0.99078,
       "guaranteed_profit": 9.22,
       "stakes": {
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 4.22,
-          "stake_pct": 23.92,
-          "stake_amount": 239.17
-        },
         "Espanyol": {
           "bookmaker": "Tipico",
           "odds": 5.8,
           "stake_pct": 17.4,
           "stake_amount": 174.02
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 4.22,
+          "stake_pct": 23.92,
+          "stake_amount": 239.17
         },
         "Real Madrid": {
           "bookmaker": "1xBet",
@@ -188,33 +188,12 @@
           "stake_amount": 586.81
         }
       },
-      "num_bookmakers_checked": 16,
-      "fresh_bookmakers": 16,
-      "found_at": "2026-08-05T12:00:33.477422+00:00"
+      "num_bookmakers_checked": 17,
+      "fresh_bookmakers": 17,
+      "found_at": "2026-08-05T19:38:29.179867+00:00"
     }
   ],
   "value_bets": [
-    {
-      "type": "VALUE_BET",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
-      "market": "h2h",
-      "outcome": "Villarreal",
-      "bookmaker": "1xBet",
-      "odds": 4.75,
-      "fair_odds": 3.98,
-      "true_prob_pct": 25.13,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 19.35,
-      "kelly_stake_pct": 1.29,
-      "suggested_stake": 12.9,
-      "expected_value": 19.35,
-      "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.477645+00:00"
-    },
     {
       "type": "VALUE_BET",
       "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
@@ -234,7 +213,7 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.489076+00:00"
+      "found_at": "2026-08-05T19:38:29.189777+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -255,7 +234,28 @@
       "suggested_stake": 13.07,
       "expected_value": 18.82,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.489089+00:00"
+      "found_at": "2026-08-05T19:38:29.189788+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Villarreal",
+      "commence": "2026-08-23T15:00:00Z",
+      "market": "h2h",
+      "outcome": "Villarreal",
+      "bookmaker": "1xBet",
+      "odds": 4.75,
+      "fair_odds": 4.042,
+      "true_prob_pct": 24.74,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 17.52,
+      "kelly_stake_pct": 1.17,
+      "suggested_stake": 11.68,
+      "expected_value": 17.52,
+      "confidence": "ALTA",
+      "found_at": "2026-08-05T19:38:29.180078+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -276,7 +276,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.489069+00:00"
+      "found_at": "2026-08-05T19:38:29.189772+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -297,7 +297,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.489082+00:00"
+      "found_at": "2026-08-05T19:38:29.189782+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -318,7 +318,7 @@
       "suggested_stake": 11.6,
       "expected_value": 16.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.489098+00:00"
+      "found_at": "2026-08-05T19:38:29.189794+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -339,7 +339,7 @@
       "suggested_stake": 10.16,
       "expected_value": 15.45,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.488674+00:00"
+      "found_at": "2026-08-05T19:38:29.189484+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -360,49 +360,49 @@
       "suggested_stake": 9.5,
       "expected_value": 14.24,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.488688+00:00"
+      "found_at": "2026-08-05T19:38:29.189496+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
+      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Vegas Golden Knights vs Chicago Blackhawks",
+      "commence": "2026-09-30T02:40:00Z",
       "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.392,
-      "true_prob_pct": 22.77,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 13.83,
-      "kelly_stake_pct": 0.86,
-      "suggested_stake": 8.65,
-      "expected_value": 13.83,
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "Coolbet",
+      "odds": 4.4,
+      "fair_odds": 3.871,
+      "true_prob_pct": 25.83,
+      "implied_prob_pct": 22.73,
+      "edge_pct": 13.66,
+      "kelly_stake_pct": 1.0,
+      "suggested_stake": 10.04,
+      "expected_value": 13.66,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.477819+00:00"
+      "found_at": "2026-08-05T19:38:29.189760+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
+      "event_id": "82c96670ad269b3647066b5e5032e0fd",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Edmonton Oilers vs Vancouver Canucks",
+      "commence": "2026-09-30T02:10:00Z",
       "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 4.392,
-      "true_prob_pct": 22.77,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 13.83,
-      "kelly_stake_pct": 0.86,
-      "suggested_stake": 8.65,
-      "expected_value": 13.83,
+      "outcome": "Vancouver Canucks",
+      "bookmaker": "1xBet",
+      "odds": 4.71,
+      "fair_odds": 4.158,
+      "true_prob_pct": 24.05,
+      "implied_prob_pct": 21.23,
+      "edge_pct": 13.28,
+      "kelly_stake_pct": 0.89,
+      "suggested_stake": 8.95,
+      "expected_value": 13.28,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T12:00:33.477835+00:00"
+      "found_at": "2026-08-05T19:38:29.189473+00:00"
     }
   ]
 }
