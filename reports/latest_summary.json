@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-08-05 19:38 UTC",
-  "arbitrages_found": 10,
+  "timestamp": "2026-08-06 12:03 UTC",
+  "arbitrages_found": 7,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 9,
-      "vbs": 6
+      "arbs": 6,
+      "vbs": 1
     },
     "tennis": {
       "arbs": 0,
@@ -17,11 +17,11 @@
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 9
+      "vbs": 14
     }
   },
   "best_arb_margin": 2.315,
-  "best_value_edge": 18.82,
+  "best_value_edge": 18.43,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -50,42 +50,7 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-05T19:38:29.189572+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "4e67f40bc51c915154f04559a7ab692c",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Barcelona vs Athletic Bilbao",
-      "commence": "2026-08-27T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.413,
-      "implied_probability_sum": 0.98587,
-      "guaranteed_profit": 14.13,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 5.6,
-          "stake_pct": 18.11,
-          "stake_amount": 181.13
-        },
-        "Barcelona": {
-          "bookmaker": "1xBet",
-          "odds": 1.45,
-          "stake_pct": 69.95,
-          "stake_amount": 699.54
-        },
-        "Athletic Bilbao": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 8.5,
-          "stake_pct": 11.93,
-          "stake_amount": 119.33
-        }
-      },
-      "num_bookmakers_checked": 28,
-      "fresh_bookmakers": 28,
-      "found_at": "2026-08-05T19:38:29.181220+00:00"
+      "found_at": "2026-08-06T12:03:55.025945+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -95,67 +60,102 @@
       "match": "Atlético Madrid vs Villarreal",
       "commence": "2026-08-23T15:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.354,
-      "implied_probability_sum": 0.98646,
-      "guaranteed_profit": 13.54,
+      "margin_pct": 2.155,
+      "implied_probability_sum": 0.97845,
+      "guaranteed_profit": 21.55,
       "stakes": {
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 3.92,
-          "stake_pct": 25.86,
-          "stake_amount": 258.6
-        },
-        "Atlético Madrid": {
-          "bookmaker": "Betfair",
-          "odds": 1.92,
-          "stake_pct": 52.8,
-          "stake_amount": 527.98
+          "stake_pct": 26.07,
+          "stake_amount": 260.72
         },
         "Villarreal": {
           "bookmaker": "1xBet",
           "odds": 4.75,
-          "stake_pct": 21.34,
-          "stake_amount": 213.42
+          "stake_pct": 21.52,
+          "stake_amount": 215.16
+        },
+        "Atlético Madrid": {
+          "bookmaker": "Nordic Bet",
+          "odds": 1.95,
+          "stake_pct": 52.41,
+          "stake_amount": 524.12
         }
       },
-      "num_bookmakers_checked": 16,
-      "fresh_bookmakers": 16,
-      "found_at": "2026-08-05T19:38:29.180021+00:00"
+      "num_bookmakers_checked": 18,
+      "fresh_bookmakers": 18,
+      "found_at": "2026-08-06T12:03:55.014692+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "4e4a813bf4218cc527e6f8ef2351170d",
+      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
       "sport": "soccer",
       "league": "EPL",
-      "match": "Fulham vs Chelsea",
-      "commence": "2026-08-24T19:00:00Z",
+      "match": "Newcastle United vs Liverpool",
+      "commence": "2026-08-23T15:30:00Z",
       "market": "h2h",
-      "margin_pct": 1.254,
-      "implied_probability_sum": 0.98746,
-      "guaranteed_profit": 12.54,
+      "margin_pct": 1.701,
+      "implied_probability_sum": 0.98299,
+      "guaranteed_profit": 17.01,
       "stakes": {
-        "Chelsea": {
-          "bookmaker": "1xBet",
-          "odds": 2.25,
-          "stake_pct": 45.01,
-          "stake_amount": 450.09
-        },
-        "Fulham": {
-          "bookmaker": "Betfair",
-          "odds": 3.45,
-          "stake_pct": 29.35,
-          "stake_amount": 293.53
-        },
         "Draw": {
           "bookmaker": "Unibet (SE)",
-          "odds": 3.95,
-          "stake_pct": 25.64,
-          "stake_amount": 256.38
+          "odds": 4.1,
+          "stake_pct": 24.81,
+          "stake_amount": 248.12
+        },
+        "Newcastle United": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 3.65,
+          "stake_pct": 27.87,
+          "stake_amount": 278.71
+        },
+        "Liverpool": {
+          "bookmaker": "Coral",
+          "odds": 2.15,
+          "stake_pct": 47.32,
+          "stake_amount": 473.16
         }
       },
       "num_bookmakers_checked": 37,
       "fresh_bookmakers": 37,
-      "found_at": "2026-08-05T19:38:29.172564+00:00"
+      "found_at": "2026-08-06T12:03:55.005998+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "87c7c9bfd5e3072bded20c702f553c63",
+      "sport": "soccer",
+      "league": "EPL",
+      "match": "Manchester City vs Bournemouth",
+      "commence": "2026-08-23T13:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.034,
+      "implied_probability_sum": 0.98966,
+      "guaranteed_profit": 10.34,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.4,
+          "stake_pct": 18.71,
+          "stake_amount": 187.12
+        },
+        "Manchester City": {
+          "bookmaker": "1xBet",
+          "odds": 1.49,
+          "stake_pct": 67.82,
+          "stake_amount": 678.15
+        },
+        "Bournemouth": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 7.5,
+          "stake_pct": 13.47,
+          "stake_amount": 134.73
+        }
+      },
+      "num_bookmakers_checked": 37,
+      "fresh_bookmakers": 37,
+      "found_at": "2026-08-06T12:03:55.005559+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -169,17 +169,17 @@
       "implied_probability_sum": 0.99078,
       "guaranteed_profit": 9.22,
       "stakes": {
-        "Espanyol": {
-          "bookmaker": "Tipico",
-          "odds": 5.8,
-          "stake_pct": 17.4,
-          "stake_amount": 174.02
-        },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 4.22,
           "stake_pct": 23.92,
           "stake_amount": 239.17
+        },
+        "Espanyol": {
+          "bookmaker": "Tipico",
+          "odds": 5.8,
+          "stake_pct": 17.4,
+          "stake_amount": 174.02
         },
         "Real Madrid": {
           "bookmaker": "1xBet",
@@ -188,9 +188,9 @@
           "stake_amount": 586.81
         }
       },
-      "num_bookmakers_checked": 17,
-      "fresh_bookmakers": 17,
-      "found_at": "2026-08-05T19:38:29.179867+00:00"
+      "num_bookmakers_checked": 19,
+      "fresh_bookmakers": 19,
+      "found_at": "2026-08-06T12:03:55.014457+00:00"
     }
   ],
   "value_bets": [
@@ -205,15 +205,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Unibet (SE)",
       "odds": 4.6,
-      "fair_odds": 3.871,
-      "true_prob_pct": 25.83,
+      "fair_odds": 3.884,
+      "true_prob_pct": 25.75,
       "implied_prob_pct": 21.74,
-      "edge_pct": 18.82,
-      "kelly_stake_pct": 1.31,
-      "suggested_stake": 13.07,
-      "expected_value": 18.82,
+      "edge_pct": 18.43,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.8,
+      "expected_value": 18.43,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189777+00:00"
+      "found_at": "2026-08-06T12:03:55.026329+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -226,36 +226,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "LeoVegas (SE)",
       "odds": 4.6,
-      "fair_odds": 3.871,
-      "true_prob_pct": 25.83,
+      "fair_odds": 3.884,
+      "true_prob_pct": 25.75,
       "implied_prob_pct": 21.74,
-      "edge_pct": 18.82,
-      "kelly_stake_pct": 1.31,
-      "suggested_stake": 13.07,
-      "expected_value": 18.82,
+      "edge_pct": 18.43,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.8,
+      "expected_value": 18.43,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189788+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
-      "market": "h2h",
-      "outcome": "Villarreal",
-      "bookmaker": "1xBet",
-      "odds": 4.75,
-      "fair_odds": 4.042,
-      "true_prob_pct": 24.74,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 17.52,
-      "kelly_stake_pct": 1.17,
-      "suggested_stake": 11.68,
-      "expected_value": 17.52,
-      "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.180078+00:00"
+      "found_at": "2026-08-06T12:03:55.026343+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -268,15 +247,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Casumo",
       "odds": 4.5,
-      "fair_odds": 3.871,
-      "true_prob_pct": 25.83,
+      "fair_odds": 3.884,
+      "true_prob_pct": 25.75,
       "implied_prob_pct": 22.22,
-      "edge_pct": 16.24,
-      "kelly_stake_pct": 1.16,
-      "suggested_stake": 11.6,
-      "expected_value": 16.24,
+      "edge_pct": 15.86,
+      "kelly_stake_pct": 1.13,
+      "suggested_stake": 11.33,
+      "expected_value": 15.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189772+00:00"
+      "found_at": "2026-08-06T12:03:55.026319+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -289,15 +268,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Grosvenor",
       "odds": 4.5,
-      "fair_odds": 3.871,
-      "true_prob_pct": 25.83,
+      "fair_odds": 3.884,
+      "true_prob_pct": 25.75,
       "implied_prob_pct": 22.22,
-      "edge_pct": 16.24,
-      "kelly_stake_pct": 1.16,
-      "suggested_stake": 11.6,
-      "expected_value": 16.24,
+      "edge_pct": 15.86,
+      "kelly_stake_pct": 1.13,
+      "suggested_stake": 11.33,
+      "expected_value": 15.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189782+00:00"
+      "found_at": "2026-08-06T12:03:55.026336+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -310,15 +289,36 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Unibet (NL)",
       "odds": 4.5,
-      "fair_odds": 3.871,
-      "true_prob_pct": 25.83,
+      "fair_odds": 3.884,
+      "true_prob_pct": 25.75,
       "implied_prob_pct": 22.22,
-      "edge_pct": 16.24,
-      "kelly_stake_pct": 1.16,
-      "suggested_stake": 11.6,
-      "expected_value": 16.24,
+      "edge_pct": 15.86,
+      "kelly_stake_pct": 1.13,
+      "suggested_stake": 11.33,
+      "expected_value": 15.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189794+00:00"
+      "found_at": "2026-08-06T12:03:55.026353+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "82c96670ad269b3647066b5e5032e0fd",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Edmonton Oilers vs Vancouver Canucks",
+      "commence": "2026-09-30T02:10:00Z",
+      "market": "h2h",
+      "outcome": "Vancouver Canucks",
+      "bookmaker": "Unibet (UK)",
+      "odds": 4.8,
+      "fair_odds": 4.176,
+      "true_prob_pct": 23.95,
+      "implied_prob_pct": 20.83,
+      "edge_pct": 14.95,
+      "kelly_stake_pct": 0.98,
+      "suggested_stake": 9.84,
+      "expected_value": 14.95,
+      "confidence": "ALTA",
+      "found_at": "2026-08-06T12:03:55.025782+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -331,15 +331,15 @@
       "outcome": "Vancouver Canucks",
       "bookmaker": "Coolbet",
       "odds": 4.8,
-      "fair_odds": 4.158,
-      "true_prob_pct": 24.05,
+      "fair_odds": 4.176,
+      "true_prob_pct": 23.95,
       "implied_prob_pct": 20.83,
-      "edge_pct": 15.45,
-      "kelly_stake_pct": 1.02,
-      "suggested_stake": 10.16,
-      "expected_value": 15.45,
+      "edge_pct": 14.95,
+      "kelly_stake_pct": 0.98,
+      "suggested_stake": 9.84,
+      "expected_value": 14.95,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189484+00:00"
+      "found_at": "2026-08-06T12:03:55.025831+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -352,15 +352,15 @@
       "outcome": "Vancouver Canucks",
       "bookmaker": "PMU (FR)",
       "odds": 4.75,
-      "fair_odds": 4.158,
-      "true_prob_pct": 24.05,
+      "fair_odds": 4.176,
+      "true_prob_pct": 23.95,
       "implied_prob_pct": 21.05,
-      "edge_pct": 14.24,
-      "kelly_stake_pct": 0.95,
-      "suggested_stake": 9.5,
-      "expected_value": 14.24,
+      "edge_pct": 13.75,
+      "kelly_stake_pct": 0.92,
+      "suggested_stake": 9.17,
+      "expected_value": 13.75,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189496+00:00"
+      "found_at": "2026-08-06T12:03:55.025846+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -373,15 +373,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Coolbet",
       "odds": 4.4,
-      "fair_odds": 3.871,
-      "true_prob_pct": 25.83,
+      "fair_odds": 3.884,
+      "true_prob_pct": 25.75,
       "implied_prob_pct": 22.73,
-      "edge_pct": 13.66,
-      "kelly_stake_pct": 1.0,
-      "suggested_stake": 10.04,
-      "expected_value": 13.66,
+      "edge_pct": 13.28,
+      "kelly_stake_pct": 0.98,
+      "suggested_stake": 9.77,
+      "expected_value": 13.28,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189760+00:00"
+      "found_at": "2026-08-06T12:03:55.026305+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -394,15 +394,15 @@
       "outcome": "Vancouver Canucks",
       "bookmaker": "1xBet",
       "odds": 4.71,
-      "fair_odds": 4.158,
-      "true_prob_pct": 24.05,
+      "fair_odds": 4.176,
+      "true_prob_pct": 23.95,
       "implied_prob_pct": 21.23,
-      "edge_pct": 13.28,
-      "kelly_stake_pct": 0.89,
-      "suggested_stake": 8.95,
-      "expected_value": 13.28,
+      "edge_pct": 12.79,
+      "kelly_stake_pct": 0.86,
+      "suggested_stake": 8.62,
+      "expected_value": 12.79,
       "confidence": "ALTA",
-      "found_at": "2026-08-05T19:38:29.189473+00:00"
+      "found_at": "2026-08-06T12:03:55.025816+00:00"
     }
   ]
 }
