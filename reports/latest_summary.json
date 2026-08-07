@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07 00:04 UTC",
+  "timestamp": "2026-08-07 10:54 UTC",
   "arbitrages_found": 12,
   "value_bets_found": 15,
   "by_sport": {
@@ -50,7 +50,7 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-07T00:04:02.256941+00:00"
+      "found_at": "2026-08-07T10:54:18.201652+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -70,57 +70,22 @@
           "stake_pct": 21.52,
           "stake_amount": 215.16
         },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.92,
-          "stake_pct": 26.07,
-          "stake_amount": 260.72
-        },
         "Atlético Madrid": {
           "bookmaker": "Nordic Bet",
           "odds": 1.95,
           "stake_pct": 52.41,
           "stake_amount": 524.12
+        },
+        "Draw": {
+          "bookmaker": "1xBet",
+          "odds": 3.92,
+          "stake_pct": 26.07,
+          "stake_amount": 260.72
         }
       },
       "num_bookmakers_checked": 18,
       "fresh_bookmakers": 18,
-      "found_at": "2026-08-07T00:04:02.244560+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "600aeb3560814afc9a02bec5126b249d",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Marseille vs Strasbourg",
-      "commence": "2026-08-21T18:45:00Z",
-      "market": "h2h",
-      "margin_pct": 1.919,
-      "implied_probability_sum": 0.98081,
-      "guaranteed_profit": 19.19,
-      "stakes": {
-        "Marseille": {
-          "bookmaker": "1xBet",
-          "odds": 1.69,
-          "stake_pct": 60.33,
-          "stake_amount": 603.29
-        },
-        "Draw": {
-          "bookmaker": "LeoVegas (SE)",
-          "odds": 4.75,
-          "stake_pct": 21.46,
-          "stake_amount": 214.64
-        },
-        "Strasbourg": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 5.6,
-          "stake_pct": 18.21,
-          "stake_amount": 182.06
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-08-07T00:04:02.250915+00:00"
+      "found_at": "2026-08-07T10:54:18.189300+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -140,22 +105,57 @@
           "stake_pct": 27.87,
           "stake_amount": 278.71
         },
-        "Liverpool": {
-          "bookmaker": "Coral",
-          "odds": 2.15,
-          "stake_pct": 47.32,
-          "stake_amount": 473.16
-        },
         "Draw": {
           "bookmaker": "Unibet (SE)",
           "odds": 4.1,
           "stake_pct": 24.81,
           "stake_amount": 248.12
+        },
+        "Liverpool": {
+          "bookmaker": "Coral",
+          "odds": 2.15,
+          "stake_pct": 47.32,
+          "stake_amount": 473.16
         }
       },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-08-07T00:04:02.235064+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-08-07T10:54:18.179670+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "1835d30f4ac2e1f3462f0654e0ea984a",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "RC Lens vs Auxerre",
+      "commence": "2026-08-22T15:15:00Z",
+      "market": "h2h",
+      "margin_pct": 1.261,
+      "implied_probability_sum": 0.98739,
+      "guaranteed_profit": 12.61,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "LeoVegas (SE)",
+          "odds": 4.6,
+          "stake_pct": 22.02,
+          "stake_amount": 220.17
+        },
+        "Auxerre": {
+          "bookmaker": "Grosvenor",
+          "odds": 6.1,
+          "stake_pct": 16.6,
+          "stake_amount": 166.03
+        },
+        "RC Lens": {
+          "bookmaker": "1xBet",
+          "odds": 1.65,
+          "stake_pct": 61.38,
+          "stake_amount": 613.8
+        }
+      },
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-08-07T10:54:18.196123+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -165,32 +165,32 @@
       "match": "Brighton and Hove Albion vs Aston Villa",
       "commence": "2026-08-23T13:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.322,
-      "implied_probability_sum": 0.98678,
-      "guaranteed_profit": 13.22,
+      "margin_pct": 1.075,
+      "implied_probability_sum": 0.98925,
+      "guaranteed_profit": 10.75,
       "stakes": {
+        "Aston Villa": {
+          "bookmaker": "1xBet",
+          "odds": 3.1,
+          "stake_pct": 32.61,
+          "stake_amount": 326.09
+        },
         "Brighton and Hove Albion": {
           "bookmaker": "Smarkets",
           "odds": 2.5,
-          "stake_pct": 40.54,
-          "stake_amount": 405.36
+          "stake_pct": 40.43,
+          "stake_amount": 404.35
         },
         "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.8,
-          "stake_pct": 26.67,
-          "stake_amount": 266.68
-        },
-        "Aston Villa": {
-          "bookmaker": "1xBet",
-          "odds": 3.09,
-          "stake_pct": 32.8,
-          "stake_amount": 327.96
+          "bookmaker": "Betfair Sportsbook",
+          "odds": 3.75,
+          "stake_pct": 26.96,
+          "stake_amount": 269.57
         }
       },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-08-07T00:04:02.234074+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-08-07T10:54:18.178670+00:00"
     }
   ],
   "value_bets": [
@@ -213,7 +213,7 @@
       "suggested_stake": 12.8,
       "expected_value": 18.43,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.257331+00:00"
+      "found_at": "2026-08-07T10:54:18.201917+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -234,7 +234,28 @@
       "suggested_stake": 12.8,
       "expected_value": 18.43,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.257345+00:00"
+      "found_at": "2026-08-07T10:54:18.201932+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Atlético Madrid vs Villarreal",
+      "commence": "2026-08-23T15:00:00Z",
+      "market": "h2h",
+      "outcome": "Villarreal",
+      "bookmaker": "1xBet",
+      "odds": 4.75,
+      "fair_odds": 4.045,
+      "true_prob_pct": 24.72,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 17.43,
+      "kelly_stake_pct": 1.16,
+      "suggested_stake": 11.62,
+      "expected_value": 17.43,
+      "confidence": "ALTA",
+      "found_at": "2026-08-07T10:54:18.189348+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -247,15 +268,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 4.291,
-      "true_prob_pct": 23.3,
+      "fair_odds": 4.28,
+      "true_prob_pct": 23.37,
       "implied_prob_pct": 20.0,
-      "edge_pct": 16.52,
-      "kelly_stake_pct": 1.03,
-      "suggested_stake": 10.32,
-      "expected_value": 16.52,
+      "edge_pct": 16.83,
+      "kelly_stake_pct": 1.05,
+      "suggested_stake": 10.52,
+      "expected_value": 16.83,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.244811+00:00"
+      "found_at": "2026-08-07T10:54:18.189567+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -268,15 +289,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "Sky Bet",
       "odds": 5.0,
-      "fair_odds": 4.291,
-      "true_prob_pct": 23.3,
+      "fair_odds": 4.28,
+      "true_prob_pct": 23.37,
       "implied_prob_pct": 20.0,
-      "edge_pct": 16.52,
-      "kelly_stake_pct": 1.03,
-      "suggested_stake": 10.32,
-      "expected_value": 16.52,
+      "edge_pct": 16.83,
+      "kelly_stake_pct": 1.05,
+      "suggested_stake": 10.52,
+      "expected_value": 16.83,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.244828+00:00"
+      "found_at": "2026-08-07T10:54:18.189586+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -289,15 +310,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "William Hill",
       "odds": 5.0,
-      "fair_odds": 4.291,
-      "true_prob_pct": 23.3,
+      "fair_odds": 4.28,
+      "true_prob_pct": 23.37,
       "implied_prob_pct": 20.0,
-      "edge_pct": 16.52,
-      "kelly_stake_pct": 1.03,
-      "suggested_stake": 10.32,
-      "expected_value": 16.52,
+      "edge_pct": 16.83,
+      "kelly_stake_pct": 1.05,
+      "suggested_stake": 10.52,
+      "expected_value": 16.83,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.244851+00:00"
+      "found_at": "2026-08-07T10:54:18.189609+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -310,15 +331,15 @@
       "outcome": "Real Racing Club de Santander",
       "bookmaker": "BoyleSports",
       "odds": 5.0,
-      "fair_odds": 4.291,
-      "true_prob_pct": 23.3,
+      "fair_odds": 4.28,
+      "true_prob_pct": 23.37,
       "implied_prob_pct": 20.0,
-      "edge_pct": 16.52,
-      "kelly_stake_pct": 1.03,
-      "suggested_stake": 10.32,
-      "expected_value": 16.52,
+      "edge_pct": 16.83,
+      "kelly_stake_pct": 1.05,
+      "suggested_stake": 10.52,
+      "expected_value": 16.83,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.244862+00:00"
+      "found_at": "2026-08-07T10:54:18.189622+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -339,7 +360,7 @@
       "suggested_stake": 11.33,
       "expected_value": 15.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.257324+00:00"
+      "found_at": "2026-08-07T10:54:18.201910+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -360,7 +381,7 @@
       "suggested_stake": 11.33,
       "expected_value": 15.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.257338+00:00"
+      "found_at": "2026-08-07T10:54:18.201925+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -381,28 +402,7 @@
       "suggested_stake": 11.33,
       "expected_value": 15.86,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.257352+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b86f1854fe9f0915d4f9ee47f23a14bf",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "CA Osasuna vs Levante",
-      "commence": "2026-08-24T17:30:00Z",
-      "market": "h2h",
-      "outcome": "Levante",
-      "bookmaker": "Tipico",
-      "odds": 4.8,
-      "fair_odds": 4.149,
-      "true_prob_pct": 24.1,
-      "implied_prob_pct": 20.83,
-      "edge_pct": 15.68,
-      "kelly_stake_pct": 1.03,
-      "suggested_stake": 10.32,
-      "expected_value": 15.68,
-      "confidence": "ALTA",
-      "found_at": "2026-08-07T00:04:02.245266+00:00"
+      "found_at": "2026-08-07T10:54:18.201941+00:00"
     }
   ]
 }
