@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-09-01 14:36 UTC",
-  "arbitrages_found": 29,
+  "timestamp": "2026-09-01 20:44 UTC",
+  "arbitrages_found": 38,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 15,
-      "vbs": 3
+      "arbs": 22,
+      "vbs": 4
     },
     "tennis": {
-      "arbs": 13,
-      "vbs": 0
+      "arbs": 15,
+      "vbs": 5
     },
     "basketball": {
       "arbs": 0,
@@ -17,12 +17,70 @@
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 12
+      "vbs": 6
     }
   },
-  "best_arb_margin": 3.877,
-  "best_value_edge": 22.8,
+  "best_arb_margin": 9.981,
+  "best_value_edge": 24.32,
   "arbitrages": [
+    {
+      "type": "ARBITRAGE",
+      "event_id": "b82786bf6372f738c1ebf5e138b4c826",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Maria Sakkari vs Robin Montgomery",
+      "commence": "2026-09-01T18:42:44Z",
+      "market": "h2h",
+      "margin_pct": 9.981,
+      "implied_probability_sum": 0.90019,
+      "guaranteed_profit": 99.81,
+      "stakes": {
+        "Maria Sakkari": {
+          "bookmaker": "Pinnacle",
+          "odds": 1.29,
+          "stake_pct": 86.11,
+          "stake_amount": 861.14
+        },
+        "Robin Montgomery": {
+          "bookmaker": "Unibet (UK)",
+          "odds": 8.0,
+          "stake_pct": 13.89,
+          "stake_amount": 138.86
+        }
+      },
+      "num_bookmakers_checked": 33,
+      "fresh_bookmakers": 33,
+      "found_at": "2026-09-01T20:44:24.070724+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "9eb282e3794a612c7118e85d404d9d2e",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Camilo Ugo Carabelli vs Jan-Lennard Struff",
+      "commence": "2026-09-01T19:36:00Z",
+      "market": "h2h",
+      "margin_pct": 8.699,
+      "implied_probability_sum": 0.91301,
+      "guaranteed_profit": 86.99,
+      "stakes": {
+        "Jan-Lennard Struff": {
+          "bookmaker": "Pinnacle",
+          "odds": 1.23,
+          "stake_pct": 89.05,
+          "stake_amount": 890.47
+        },
+        "Camilo Ugo Carabelli": {
+          "bookmaker": "Matchbook",
+          "odds": 10.0,
+          "stake_pct": 10.95,
+          "stake_amount": 109.53
+        }
+      },
+      "num_bookmakers_checked": 33,
+      "fresh_bookmakers": 33,
+      "found_at": "2026-09-01T20:44:24.058670+00:00"
+    },
     {
       "type": "ARBITRAGE",
       "event_id": "82c96670ad269b3647066b5e5032e0fd",
@@ -50,138 +108,110 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-09-01T14:36:34.439711+00:00"
+      "found_at": "2026-09-01T20:44:24.089304+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "51cfb73e2295cccd6477ea280b5548cc",
+      "event_id": "241f7a714a5ec621d79f7034ccf0363f",
       "sport": "tennis",
       "league": "WTA US Open",
-      "match": "Nikola Bartunkova vs Mayar Sherif",
-      "commence": "2026-09-01T19:00:00Z",
+      "match": "Kaitlin Quevedo vs Elise Mertens",
+      "commence": "2026-09-01T20:24:52Z",
       "market": "h2h",
-      "margin_pct": 2.688,
-      "implied_probability_sum": 0.97312,
-      "guaranteed_profit": 26.88,
+      "margin_pct": 3.356,
+      "implied_probability_sum": 0.96644,
+      "guaranteed_profit": 33.56,
       "stakes": {
-        "Nikola Bartunkova": {
-          "bookmaker": "BetAnything",
-          "odds": 1.24,
-          "stake_pct": 82.87,
-          "stake_amount": 828.73
+        "Elise Mertens": {
+          "bookmaker": "Casumo",
+          "odds": 1.28,
+          "stake_pct": 80.84,
+          "stake_amount": 808.38
         },
-        "Mayar Sherif": {
-          "bookmaker": "Matchbook",
-          "odds": 6.0,
-          "stake_pct": 17.13,
-          "stake_amount": 171.27
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-09-01T14:36:34.424774+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "1484e27f774c67d124acae27e82e60fa",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Real Betis vs Real Madrid",
-      "commence": "2026-09-04T19:00:00Z",
-      "market": "h2h",
-      "margin_pct": 2.656,
-      "implied_probability_sum": 0.97344,
-      "guaranteed_profit": 26.56,
-      "stakes": {
-        "Real Betis": {
-          "bookmaker": "Smarkets",
-          "odds": 7.8,
-          "stake_pct": 13.17,
-          "stake_amount": 131.7
-        },
-        "Real Madrid": {
-          "bookmaker": "Betway",
-          "odds": 1.5,
-          "stake_pct": 68.49,
-          "stake_amount": 684.85
-        },
-        "Draw": {
-          "bookmaker": "Smarkets",
-          "odds": 5.6,
-          "stake_pct": 18.34,
-          "stake_amount": 183.44
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-09-01T14:36:34.367828+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "467fe6e71bc34a255dfb47e13b8fa34e",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "FSV Mainz 05 vs Eintracht Frankfurt",
-      "commence": "2026-09-12T13:30:00Z",
-      "market": "h2h",
-      "margin_pct": 2.223,
-      "implied_probability_sum": 0.97777,
-      "guaranteed_profit": 22.23,
-      "stakes": {
-        "Eintracht Frankfurt": {
-          "bookmaker": "1xBet",
-          "odds": 3.37,
-          "stake_pct": 30.35,
-          "stake_amount": 303.48
-        },
-        "FSV Mainz 05": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 2.32,
-          "stake_pct": 44.08,
-          "stake_amount": 440.83
-        },
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 4.0,
-          "stake_pct": 25.57,
-          "stake_amount": 255.68
-        }
-      },
-      "num_bookmakers_checked": 31,
-      "fresh_bookmakers": 31,
-      "found_at": "2026-09-01T14:36:34.381587+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "9b18cd94a82ed8620e1b759bdcc145b9",
-      "sport": "tennis",
-      "league": "WTA US Open",
-      "match": "Harriet Dart vs Marie Bouzkova",
-      "commence": "2026-09-02T15:00:00Z",
-      "market": "h2h",
-      "margin_pct": 2.033,
-      "implied_probability_sum": 0.97967,
-      "guaranteed_profit": 20.33,
-      "stakes": {
-        "Harriet Dart": {
+        "Kaitlin Quevedo": {
           "bookmaker": "Betfair",
-          "odds": 6.0,
-          "stake_pct": 17.01,
-          "stake_amount": 170.12
-        },
-        "Marie Bouzkova": {
-          "bookmaker": "GTbets",
-          "odds": 1.23,
-          "stake_pct": 82.99,
-          "stake_amount": 829.88
+          "odds": 5.4,
+          "stake_pct": 19.16,
+          "stake_amount": 191.62
         }
       },
-      "num_bookmakers_checked": 34,
-      "fresh_bookmakers": 34,
-      "found_at": "2026-09-01T14:36:34.429352+00:00"
+      "num_bookmakers_checked": 33,
+      "fresh_bookmakers": 33,
+      "found_at": "2026-09-01T20:44:24.071416+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "e8d0f37e3f47e39eecd449b8db5aa68a",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Arthur Fery vs Lorenzo Musetti",
+      "commence": "2026-09-01T20:24:00Z",
+      "market": "h2h",
+      "margin_pct": 2.661,
+      "implied_probability_sum": 0.97339,
+      "guaranteed_profit": 26.61,
+      "stakes": {
+        "Lorenzo Musetti": {
+          "bookmaker": "Coral",
+          "odds": 1.36,
+          "stake_pct": 75.54,
+          "stake_amount": 755.4
+        },
+        "Arthur Fery": {
+          "bookmaker": "Smarkets",
+          "odds": 4.2,
+          "stake_pct": 24.46,
+          "stake_amount": 244.6
+        }
+      },
+      "num_bookmakers_checked": 32,
+      "fresh_bookmakers": 32,
+      "found_at": "2026-09-01T20:44:24.059252+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Betfred (UK)",
+      "odds": 5.0,
+      "fair_odds": 4.022,
+      "true_prob_pct": 24.86,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 24.32,
+      "kelly_stake_pct": 1.52,
+      "suggested_stake": 15.2,
+      "expected_value": 24.32,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.020335+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b82786bf6372f738c1ebf5e138b4c826",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Maria Sakkari vs Robin Montgomery",
+      "commence": "2026-09-01T18:42:44Z",
+      "market": "spreads",
+      "outcome": "Robin Montgomery (0.5)",
+      "bookmaker": "Unibet (NL)",
+      "odds": 3.3,
+      "fair_odds": 2.655,
+      "true_prob_pct": 37.66,
+      "implied_prob_pct": 30.3,
+      "edge_pct": 24.27,
+      "kelly_stake_pct": 2.64,
+      "suggested_stake": 26.38,
+      "expected_value": 24.27,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.070877+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "095ea49c978f544d67fe23026a8e4907",
@@ -193,15 +223,141 @@
       "outcome": "Espanyol",
       "bookmaker": "1xBet",
       "odds": 4.51,
-      "fair_odds": 3.673,
-      "true_prob_pct": 27.23,
+      "fair_odds": 3.664,
+      "true_prob_pct": 27.29,
       "implied_prob_pct": 22.17,
-      "edge_pct": 22.8,
-      "kelly_stake_pct": 1.62,
-      "suggested_stake": 16.24,
-      "expected_value": 22.8,
+      "edge_pct": 23.07,
+      "kelly_stake_pct": 1.64,
+      "suggested_stake": 16.43,
+      "expected_value": 23.07,
       "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.374138+00:00"
+      "found_at": "2026-09-01T20:44:24.028617+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b82786bf6372f738c1ebf5e138b4c826",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Maria Sakkari vs Robin Montgomery",
+      "commence": "2026-09-01T18:42:44Z",
+      "market": "spreads",
+      "outcome": "Robin Montgomery (0.5)",
+      "bookmaker": "Grosvenor",
+      "odds": 3.25,
+      "fair_odds": 2.655,
+      "true_prob_pct": 37.66,
+      "implied_prob_pct": 30.77,
+      "edge_pct": 22.39,
+      "kelly_stake_pct": 2.49,
+      "suggested_stake": 24.88,
+      "expected_value": 22.39,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.070885+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b65efc024874b5f0d2b7b6aa74043b05",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Mattia Bellucci vs Zsombor Piros",
+      "commence": "2026-09-01T18:46:43Z",
+      "market": "spreads",
+      "outcome": "Zsombor Piros (10.5)",
+      "bookmaker": "Unibet (NL)",
+      "odds": 3.15,
+      "fair_odds": 2.609,
+      "true_prob_pct": 38.33,
+      "implied_prob_pct": 31.75,
+      "edge_pct": 20.73,
+      "kelly_stake_pct": 2.41,
+      "suggested_stake": 24.11,
+      "expected_value": 20.73,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.058423+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b65efc024874b5f0d2b7b6aa74043b05",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Mattia Bellucci vs Zsombor Piros",
+      "commence": "2026-09-01T18:46:43Z",
+      "market": "spreads",
+      "outcome": "Zsombor Piros (10.5)",
+      "bookmaker": "Casumo",
+      "odds": 3.15,
+      "fair_odds": 2.609,
+      "true_prob_pct": 38.33,
+      "implied_prob_pct": 31.75,
+      "edge_pct": 20.73,
+      "kelly_stake_pct": 2.41,
+      "suggested_stake": 24.11,
+      "expected_value": 20.73,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.058431+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b65efc024874b5f0d2b7b6aa74043b05",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Mattia Bellucci vs Zsombor Piros",
+      "commence": "2026-09-01T18:46:43Z",
+      "market": "spreads",
+      "outcome": "Zsombor Piros (10.5)",
+      "bookmaker": "Grosvenor",
+      "odds": 3.15,
+      "fair_odds": 2.609,
+      "true_prob_pct": 38.33,
+      "implied_prob_pct": 31.75,
+      "edge_pct": 20.73,
+      "kelly_stake_pct": 2.41,
+      "suggested_stake": 24.11,
+      "expected_value": 20.73,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.058437+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Paddy Power",
+      "odds": 4.75,
+      "fair_odds": 4.022,
+      "true_prob_pct": 24.86,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 18.1,
+      "kelly_stake_pct": 1.21,
+      "suggested_stake": 12.07,
+      "expected_value": 18.1,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.020345+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7f4f996975ec33c5c76a5101a285f34d",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Como vs Parma",
+      "commence": "2026-09-13T13:00:00Z",
+      "market": "h2h",
+      "outcome": "Draw",
+      "bookmaker": "Sky Bet",
+      "odds": 4.75,
+      "fair_odds": 4.022,
+      "true_prob_pct": 24.86,
+      "implied_prob_pct": 21.05,
+      "edge_pct": 18.1,
+      "kelly_stake_pct": 1.21,
+      "suggested_stake": 12.07,
+      "expected_value": 18.1,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T20:44:24.020353+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -222,175 +378,7 @@
       "suggested_stake": 12.13,
       "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.439977+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vegas Golden Knights vs Chicago Blackhawks",
-      "commence": "2026-09-30T02:40:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.6,
-      "fair_odds": 3.916,
-      "true_prob_pct": 25.53,
-      "implied_prob_pct": 21.74,
-      "edge_pct": 17.46,
-      "kelly_stake_pct": 1.21,
-      "suggested_stake": 12.13,
-      "expected_value": 17.46,
-      "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.439992+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8d556511643d0c038bff0b7cf4f2b64f",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Buffalo Sabres vs Chicago Blackhawks",
-      "commence": "2026-10-03T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "1xBet",
-      "odds": 3.9,
-      "fair_odds": 3.363,
-      "true_prob_pct": 29.73,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 15.96,
-      "kelly_stake_pct": 1.38,
-      "suggested_stake": 13.76,
-      "expected_value": 15.96,
-      "confidence": "MEDIA",
-      "found_at": "2026-09-01T14:36:34.441780+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vegas Golden Knights vs Chicago Blackhawks",
-      "commence": "2026-09-30T02:40:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "Casumo",
-      "odds": 4.5,
-      "fair_odds": 3.916,
-      "true_prob_pct": 25.53,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 14.91,
-      "kelly_stake_pct": 1.06,
-      "suggested_stake": 10.65,
-      "expected_value": 14.91,
-      "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.439964+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vegas Golden Knights vs Chicago Blackhawks",
-      "commence": "2026-09-30T02:40:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "Grosvenor",
-      "odds": 4.5,
-      "fair_odds": 3.916,
-      "true_prob_pct": 25.53,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 14.91,
-      "kelly_stake_pct": 1.06,
-      "suggested_stake": 10.65,
-      "expected_value": 14.91,
-      "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.439985+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vegas Golden Knights vs Chicago Blackhawks",
-      "commence": "2026-09-30T02:40:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.5,
-      "fair_odds": 3.916,
-      "true_prob_pct": 25.53,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 14.91,
-      "kelly_stake_pct": 1.06,
-      "suggested_stake": 10.65,
-      "expected_value": 14.91,
-      "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.439999+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "095ea49c978f544d67fe23026a8e4907",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "CA Osasuna vs Espanyol",
-      "commence": "2026-09-13T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.2,
-      "fair_odds": 3.673,
-      "true_prob_pct": 27.23,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 14.36,
-      "kelly_stake_pct": 1.12,
-      "suggested_stake": 11.22,
-      "expected_value": 14.36,
-      "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.374148+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "095ea49c978f544d67fe23026a8e4907",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "CA Osasuna vs Espanyol",
-      "commence": "2026-09-13T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "William Hill",
-      "odds": 4.2,
-      "fair_odds": 3.673,
-      "true_prob_pct": 27.23,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 14.36,
-      "kelly_stake_pct": 1.12,
-      "suggested_stake": 11.22,
-      "expected_value": 14.36,
-      "confidence": "ALTA",
-      "found_at": "2026-09-01T14:36:34.374184+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8d556511643d0c038bff0b7cf4f2b64f",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Buffalo Sabres vs Chicago Blackhawks",
-      "commence": "2026-10-03T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.84,
-      "fair_odds": 3.363,
-      "true_prob_pct": 29.73,
-      "implied_prob_pct": 26.04,
-      "edge_pct": 14.18,
-      "kelly_stake_pct": 1.25,
-      "suggested_stake": 12.48,
-      "expected_value": 14.18,
-      "confidence": "MEDIA",
-      "found_at": "2026-09-01T14:36:34.441787+00:00"
+      "found_at": "2026-09-01T20:44:24.089667+00:00"
     }
   ]
 }
