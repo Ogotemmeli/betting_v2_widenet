@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-08-07 10:54 UTC",
-  "arbitrages_found": 12,
+  "timestamp": "2026-09-01 14:36 UTC",
+  "arbitrages_found": 29,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 11,
-      "vbs": 8
+      "arbs": 15,
+      "vbs": 3
     },
     "tennis": {
-      "arbs": 0,
+      "arbs": 13,
       "vbs": 0
     },
     "basketball": {
@@ -17,11 +17,11 @@
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 7
+      "vbs": 12
     }
   },
-  "best_arb_margin": 2.315,
-  "best_value_edge": 18.43,
+  "best_arb_margin": 3.877,
+  "best_value_edge": 22.8,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
@@ -31,169 +31,178 @@
       "match": "Edmonton Oilers vs Vancouver Canucks",
       "commence": "2026-09-30T02:10:00Z",
       "market": "totals",
-      "margin_pct": 2.315,
-      "implied_probability_sum": 0.97685,
-      "guaranteed_profit": 23.15,
+      "margin_pct": 3.877,
+      "implied_probability_sum": 0.96123,
+      "guaranteed_profit": 38.77,
       "stakes": {
         "Under 6.5": {
           "bookmaker": "BetOnline.ag",
-          "odds": 1.93,
-          "stake_pct": 53.04,
-          "stake_amount": 530.41
+          "odds": 1.99,
+          "stake_pct": 52.28,
+          "stake_amount": 522.78
         },
         "Over 6.5": {
           "bookmaker": "1xBet",
           "odds": 2.18,
-          "stake_pct": 46.96,
-          "stake_amount": 469.59
+          "stake_pct": 47.72,
+          "stake_amount": 477.22
         }
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-08-07T10:54:18.201652+00:00"
+      "found_at": "2026-09-01T14:36:34.439711+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
+      "event_id": "51cfb73e2295cccd6477ea280b5548cc",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Nikola Bartunkova vs Mayar Sherif",
+      "commence": "2026-09-01T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.688,
+      "implied_probability_sum": 0.97312,
+      "guaranteed_profit": 26.88,
+      "stakes": {
+        "Nikola Bartunkova": {
+          "bookmaker": "BetAnything",
+          "odds": 1.24,
+          "stake_pct": 82.87,
+          "stake_amount": 828.73
+        },
+        "Mayar Sherif": {
+          "bookmaker": "Matchbook",
+          "odds": 6.0,
+          "stake_pct": 17.13,
+          "stake_amount": 171.27
+        }
+      },
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-09-01T14:36:34.424774+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "1484e27f774c67d124acae27e82e60fa",
       "sport": "soccer",
       "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
+      "match": "Real Betis vs Real Madrid",
+      "commence": "2026-09-04T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 2.155,
-      "implied_probability_sum": 0.97845,
-      "guaranteed_profit": 21.55,
+      "margin_pct": 2.656,
+      "implied_probability_sum": 0.97344,
+      "guaranteed_profit": 26.56,
       "stakes": {
-        "Villarreal": {
-          "bookmaker": "1xBet",
-          "odds": 4.75,
-          "stake_pct": 21.52,
-          "stake_amount": 215.16
-        },
-        "Atlético Madrid": {
-          "bookmaker": "Nordic Bet",
-          "odds": 1.95,
-          "stake_pct": 52.41,
-          "stake_amount": 524.12
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.92,
-          "stake_pct": 26.07,
-          "stake_amount": 260.72
-        }
-      },
-      "num_bookmakers_checked": 18,
-      "fresh_bookmakers": 18,
-      "found_at": "2026-08-07T10:54:18.189300+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "ea0bacc4c23f813c6af97ec9b306a850",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Newcastle United vs Liverpool",
-      "commence": "2026-08-23T15:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.701,
-      "implied_probability_sum": 0.98299,
-      "guaranteed_profit": 17.01,
-      "stakes": {
-        "Newcastle United": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 3.65,
-          "stake_pct": 27.87,
-          "stake_amount": 278.71
-        },
-        "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 4.1,
-          "stake_pct": 24.81,
-          "stake_amount": 248.12
-        },
-        "Liverpool": {
-          "bookmaker": "Coral",
-          "odds": 2.15,
-          "stake_pct": 47.32,
-          "stake_amount": 473.16
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-08-07T10:54:18.179670+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "1835d30f4ac2e1f3462f0654e0ea984a",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "RC Lens vs Auxerre",
-      "commence": "2026-08-22T15:15:00Z",
-      "market": "h2h",
-      "margin_pct": 1.261,
-      "implied_probability_sum": 0.98739,
-      "guaranteed_profit": 12.61,
-      "stakes": {
-        "Draw": {
-          "bookmaker": "LeoVegas (SE)",
-          "odds": 4.6,
-          "stake_pct": 22.02,
-          "stake_amount": 220.17
-        },
-        "Auxerre": {
-          "bookmaker": "Grosvenor",
-          "odds": 6.1,
-          "stake_pct": 16.6,
-          "stake_amount": 166.03
-        },
-        "RC Lens": {
-          "bookmaker": "1xBet",
-          "odds": 1.65,
-          "stake_pct": 61.38,
-          "stake_amount": 613.8
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-08-07T10:54:18.196123+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "f5086c74d4a767e3ad7ea69bd4a66b76",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Brighton and Hove Albion vs Aston Villa",
-      "commence": "2026-08-23T13:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.075,
-      "implied_probability_sum": 0.98925,
-      "guaranteed_profit": 10.75,
-      "stakes": {
-        "Aston Villa": {
-          "bookmaker": "1xBet",
-          "odds": 3.1,
-          "stake_pct": 32.61,
-          "stake_amount": 326.09
-        },
-        "Brighton and Hove Albion": {
+        "Real Betis": {
           "bookmaker": "Smarkets",
-          "odds": 2.5,
-          "stake_pct": 40.43,
-          "stake_amount": 404.35
+          "odds": 7.8,
+          "stake_pct": 13.17,
+          "stake_amount": 131.7
+        },
+        "Real Madrid": {
+          "bookmaker": "Betway",
+          "odds": 1.5,
+          "stake_pct": 68.49,
+          "stake_amount": 684.85
         },
         "Draw": {
-          "bookmaker": "Betfair Sportsbook",
-          "odds": 3.75,
-          "stake_pct": 26.96,
-          "stake_amount": 269.57
+          "bookmaker": "Smarkets",
+          "odds": 5.6,
+          "stake_pct": 18.34,
+          "stake_amount": 183.44
         }
       },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-08-07T10:54:18.178670+00:00"
+      "num_bookmakers_checked": 38,
+      "fresh_bookmakers": 38,
+      "found_at": "2026-09-01T14:36:34.367828+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "467fe6e71bc34a255dfb47e13b8fa34e",
+      "sport": "soccer",
+      "league": "Bundesliga - Germany",
+      "match": "FSV Mainz 05 vs Eintracht Frankfurt",
+      "commence": "2026-09-12T13:30:00Z",
+      "market": "h2h",
+      "margin_pct": 2.223,
+      "implied_probability_sum": 0.97777,
+      "guaranteed_profit": 22.23,
+      "stakes": {
+        "Eintracht Frankfurt": {
+          "bookmaker": "1xBet",
+          "odds": 3.37,
+          "stake_pct": 30.35,
+          "stake_amount": 303.48
+        },
+        "FSV Mainz 05": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 2.32,
+          "stake_pct": 44.08,
+          "stake_amount": 440.83
+        },
+        "Draw": {
+          "bookmaker": "Betfred (UK)",
+          "odds": 4.0,
+          "stake_pct": 25.57,
+          "stake_amount": 255.68
+        }
+      },
+      "num_bookmakers_checked": 31,
+      "fresh_bookmakers": 31,
+      "found_at": "2026-09-01T14:36:34.381587+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "9b18cd94a82ed8620e1b759bdcc145b9",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Harriet Dart vs Marie Bouzkova",
+      "commence": "2026-09-02T15:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.033,
+      "implied_probability_sum": 0.97967,
+      "guaranteed_profit": 20.33,
+      "stakes": {
+        "Harriet Dart": {
+          "bookmaker": "Betfair",
+          "odds": 6.0,
+          "stake_pct": 17.01,
+          "stake_amount": 170.12
+        },
+        "Marie Bouzkova": {
+          "bookmaker": "GTbets",
+          "odds": 1.23,
+          "stake_pct": 82.99,
+          "stake_amount": 829.88
+        }
+      },
+      "num_bookmakers_checked": 34,
+      "fresh_bookmakers": 34,
+      "found_at": "2026-09-01T14:36:34.429352+00:00"
     }
   ],
   "value_bets": [
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "1xBet",
+      "odds": 4.51,
+      "fair_odds": 3.673,
+      "true_prob_pct": 27.23,
+      "implied_prob_pct": 22.17,
+      "edge_pct": 22.8,
+      "kelly_stake_pct": 1.62,
+      "suggested_stake": 16.24,
+      "expected_value": 22.8,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T14:36:34.374138+00:00"
+    },
     {
       "type": "VALUE_BET",
       "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
@@ -205,15 +214,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Unibet (SE)",
       "odds": 4.6,
-      "fair_odds": 3.884,
-      "true_prob_pct": 25.75,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.53,
       "implied_prob_pct": 21.74,
-      "edge_pct": 18.43,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.8,
-      "expected_value": 18.43,
+      "edge_pct": 17.46,
+      "kelly_stake_pct": 1.21,
+      "suggested_stake": 12.13,
+      "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.201917+00:00"
+      "found_at": "2026-09-01T14:36:34.439977+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -226,120 +235,36 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "LeoVegas (SE)",
       "odds": 4.6,
-      "fair_odds": 3.884,
-      "true_prob_pct": 25.75,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.53,
       "implied_prob_pct": 21.74,
-      "edge_pct": 18.43,
-      "kelly_stake_pct": 1.28,
-      "suggested_stake": 12.8,
-      "expected_value": 18.43,
+      "edge_pct": 17.46,
+      "kelly_stake_pct": 1.21,
+      "suggested_stake": 12.13,
+      "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.201932+00:00"
+      "found_at": "2026-09-01T14:36:34.439992+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "4290b7b558285b2ec3a5ed42feca310d",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Atlético Madrid vs Villarreal",
-      "commence": "2026-08-23T15:00:00Z",
+      "event_id": "8d556511643d0c038bff0b7cf4f2b64f",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Chicago Blackhawks",
+      "commence": "2026-10-03T23:10:00Z",
       "market": "h2h",
-      "outcome": "Villarreal",
+      "outcome": "Chicago Blackhawks",
       "bookmaker": "1xBet",
-      "odds": 4.75,
-      "fair_odds": 4.045,
-      "true_prob_pct": 24.72,
-      "implied_prob_pct": 21.05,
-      "edge_pct": 17.43,
-      "kelly_stake_pct": 1.16,
-      "suggested_stake": 11.62,
-      "expected_value": 17.43,
-      "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.189348+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
-      "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "Betfred (UK)",
-      "odds": 5.0,
-      "fair_odds": 4.28,
-      "true_prob_pct": 23.37,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 16.83,
-      "kelly_stake_pct": 1.05,
-      "suggested_stake": 10.52,
-      "expected_value": 16.83,
-      "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.189567+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
-      "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "Sky Bet",
-      "odds": 5.0,
-      "fair_odds": 4.28,
-      "true_prob_pct": 23.37,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 16.83,
-      "kelly_stake_pct": 1.05,
-      "suggested_stake": 10.52,
-      "expected_value": 16.83,
-      "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.189586+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
-      "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "William Hill",
-      "odds": 5.0,
-      "fair_odds": 4.28,
-      "true_prob_pct": 23.37,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 16.83,
-      "kelly_stake_pct": 1.05,
-      "suggested_stake": 10.52,
-      "expected_value": 16.83,
-      "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.189609+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8ef1d272900aafd279fdb80f7d75e36e",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "Getafe vs Real Racing Club de Santander",
-      "commence": "2026-08-23T17:30:00Z",
-      "market": "h2h",
-      "outcome": "Real Racing Club de Santander",
-      "bookmaker": "BoyleSports",
-      "odds": 5.0,
-      "fair_odds": 4.28,
-      "true_prob_pct": 23.37,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 16.83,
-      "kelly_stake_pct": 1.05,
-      "suggested_stake": 10.52,
-      "expected_value": 16.83,
-      "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.189622+00:00"
+      "odds": 3.9,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 15.96,
+      "kelly_stake_pct": 1.38,
+      "suggested_stake": 13.76,
+      "expected_value": 15.96,
+      "confidence": "MEDIA",
+      "found_at": "2026-09-01T14:36:34.441780+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -352,15 +277,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Casumo",
       "odds": 4.5,
-      "fair_odds": 3.884,
-      "true_prob_pct": 25.75,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.53,
       "implied_prob_pct": 22.22,
-      "edge_pct": 15.86,
-      "kelly_stake_pct": 1.13,
-      "suggested_stake": 11.33,
-      "expected_value": 15.86,
+      "edge_pct": 14.91,
+      "kelly_stake_pct": 1.06,
+      "suggested_stake": 10.65,
+      "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.201910+00:00"
+      "found_at": "2026-09-01T14:36:34.439964+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -373,15 +298,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Grosvenor",
       "odds": 4.5,
-      "fair_odds": 3.884,
-      "true_prob_pct": 25.75,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.53,
       "implied_prob_pct": 22.22,
-      "edge_pct": 15.86,
-      "kelly_stake_pct": 1.13,
-      "suggested_stake": 11.33,
-      "expected_value": 15.86,
+      "edge_pct": 14.91,
+      "kelly_stake_pct": 1.06,
+      "suggested_stake": 10.65,
+      "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.201925+00:00"
+      "found_at": "2026-09-01T14:36:34.439985+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -394,15 +319,78 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Unibet (NL)",
       "odds": 4.5,
-      "fair_odds": 3.884,
-      "true_prob_pct": 25.75,
+      "fair_odds": 3.916,
+      "true_prob_pct": 25.53,
       "implied_prob_pct": 22.22,
-      "edge_pct": 15.86,
-      "kelly_stake_pct": 1.13,
-      "suggested_stake": 11.33,
-      "expected_value": 15.86,
+      "edge_pct": 14.91,
+      "kelly_stake_pct": 1.06,
+      "suggested_stake": 10.65,
+      "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-08-07T10:54:18.201941+00:00"
+      "found_at": "2026-09-01T14:36:34.439999+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Betfred (UK)",
+      "odds": 4.2,
+      "fair_odds": 3.673,
+      "true_prob_pct": 27.23,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 14.36,
+      "kelly_stake_pct": 1.12,
+      "suggested_stake": 11.22,
+      "expected_value": 14.36,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T14:36:34.374148+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "William Hill",
+      "odds": 4.2,
+      "fair_odds": 3.673,
+      "true_prob_pct": 27.23,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 14.36,
+      "kelly_stake_pct": 1.12,
+      "suggested_stake": 11.22,
+      "expected_value": 14.36,
+      "confidence": "ALTA",
+      "found_at": "2026-09-01T14:36:34.374184+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "8d556511643d0c038bff0b7cf4f2b64f",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Chicago Blackhawks",
+      "commence": "2026-10-03T23:10:00Z",
+      "market": "h2h",
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "Marathon Bet",
+      "odds": 3.84,
+      "fair_odds": 3.363,
+      "true_prob_pct": 29.73,
+      "implied_prob_pct": 26.04,
+      "edge_pct": 14.18,
+      "kelly_stake_pct": 1.25,
+      "suggested_stake": 12.48,
+      "expected_value": 14.18,
+      "confidence": "MEDIA",
+      "found_at": "2026-09-01T14:36:34.441787+00:00"
     }
   ]
 }
