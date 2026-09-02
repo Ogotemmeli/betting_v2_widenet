@@ -1,46 +1,35 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-09-01 20:44 UTC
+**Generato:** 2026-09-02 14:10 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 868 record da 12 leghe attive | API calls: 18
+**Dati:** 835 record da 12 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 22 | 4 | 2.65% arb |
-| Tennis | 15 | 5 | 9.98% arb |
+| Calcio | 19 | 2 | 1.85% arb |
+| Tennis | 14 | 0 | 5.31% arb |
 | Basket | 0 | 0 | — |
-| Hockey | 1 | 6 | 3.88% arb |
+| Hockey | 1 | 13 | 3.88% arb |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-### #1 — Maria Sakkari vs Robin Montgomery
+### #1 — Magda Linette vs Francesca Jones
 - **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T18:42:44Z
-- **Margine:** 9.98% (€99.81 su €1000)
-- **Book freschi:** 33
+- **Mercato:** h2h | **Inizio:** 2026-09-02T01:08:34Z
+- **Margine:** 5.31% (€53.14 su €1000)
+- **Book freschi:** 29
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Maria Sakkari | Pinnacle | 1.29 | 86.1% | €861.14 |
-| Robin Montgomery | Unibet (UK) | 8.00 | 13.9% | €138.86 |
+| Francesca Jones | Betfair | 1.38 | 76.5% | €765.31 |
+| Magda Linette | BoyleSports | 4.50 | 23.5% | €234.69 |
 
-### #2 — Camilo Ugo Carabelli vs Jan-Lennard Struff
-- **Sport:** Tennis | **Lega:** ATP US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T19:36:00Z
-- **Margine:** 8.70% (€86.99 su €1000)
-- **Book freschi:** 33
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Jan-Lennard Struff | Pinnacle | 1.23 | 89.0% | €890.47 |
-| Camilo Ugo Carabelli | Matchbook | 10.00 | 10.9% | €109.53 |
-
-### #3 — Edmonton Oilers vs Vancouver Canucks
+### #2 — Edmonton Oilers vs Vancouver Canucks
 - **Sport:** Hockey | **Lega:** NHL
 - **Mercato:** totals | **Inizio:** 2026-09-30T02:10:00Z
 - **Margine:** 3.88% (€38.77 su €1000)
@@ -51,75 +40,29 @@
 | Under 6.5 | BetOnline.ag | 1.99 | 52.3% | €522.78 |
 | Over 6.5 | 1xBet | 2.18 | 47.7% | €477.22 |
 
-### #4 — Kaitlin Quevedo vs Elise Mertens
+### #3 — Katie Boulter vs Karolina Muchova
 - **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T20:24:52Z
-- **Margine:** 3.36% (€33.56 su €1000)
-- **Book freschi:** 33
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Elise Mertens | Casumo | 1.28 | 80.8% | €808.38 |
-| Kaitlin Quevedo | Betfair | 5.40 | 19.2% | €191.62 |
-
-### #5 — Arthur Fery vs Lorenzo Musetti
-- **Sport:** Tennis | **Lega:** ATP US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T20:24:00Z
-- **Margine:** 2.66% (€26.61 su €1000)
-- **Book freschi:** 32
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Lorenzo Musetti | Coral | 1.36 | 75.5% | €755.40 |
-| Arthur Fery | Smarkets | 4.20 | 24.5% | €244.60 |
-
-### #6 — Real Betis vs Real Madrid
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-09-04T19:00:00Z
-- **Margine:** 2.65% (€26.52 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-09-02T18:10:00Z
+- **Margine:** 2.78% (€27.78 su €1000)
 - **Book freschi:** 38
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Real Madrid | Betway | 1.50 | 68.5% | €684.82 |
-| Real Betis | Betfair | 8.00 | 12.8% | €128.40 |
-| Draw | Betfair | 5.50 | 18.7% | €186.77 |
+| Karolina Muchova | GTbets | 1.20 | 85.7% | €857.14 |
+| Katie Boulter | Betfair | 7.20 | 14.3% | €142.86 |
 
-### #7 — Valencia vs Barcelona
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-09-06T14:15:00Z
-- **Margine:** 2.04% (€20.38 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Barcelona | Betway | 1.38 | 74.0% | €739.71 |
-| Valencia | Betfair | 10.50 | 9.7% | €97.22 |
-| Draw | Pinnacle | 6.26 | 16.3% | €163.07 |
-
-### #8 — Harriet Dart vs Marie Bouzkova
-- **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
-- **Margine:** 2.03% (€20.33 su €1000)
-- **Book freschi:** 34
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Marie Bouzkova | GTbets | 1.23 | 83.0% | €829.88 |
-| Harriet Dart | Matchbook | 6.00 | 17.0% | €170.12 |
-
-### #9 — Katie Boulter vs Karolina Muchova
-- **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
-- **Margine:** 1.96% (€19.61 su €1000)
+### #4 — Luciano Darderi vs Dalibor Svrcina
+- **Sport:** Tennis | **Lega:** ATP US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-03T15:00:00Z
+- **Margine:** 1.88% (€18.78 su €1000)
 - **Book freschi:** 35
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Katie Boulter | Betfair | 6.80 | 15.0% | €150.00 |
-| Karolina Muchova | GTbets | 1.20 | 85.0% | €850.00 |
+| Luciano Darderi | Matchbook | 1.74 | 58.6% | €585.71 |
+| Dalibor Svrcina | 1xBet | 2.46 | 41.4% | €414.29 |
 
-### #10 — FSV Mainz 05 vs Eintracht Frankfurt
+### #5 — FSV Mainz 05 vs Eintracht Frankfurt
 - **Sport:** Calcio | **Lega:** Bundesliga - Germany
 - **Mercato:** h2h | **Inizio:** 2026-09-12T13:30:00Z
 - **Margine:** 1.85% (€18.48 su €1000)
@@ -128,150 +71,185 @@
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
 | Eintracht Frankfurt | 1xBet | 3.37 | 30.2% | €302.32 |
-| Draw | Betfred (UK) | 4.00 | 25.5% | €254.71 |
 | FSV Mainz 05 | Unibet (NL) | 2.30 | 44.3% | €442.97 |
+| Draw | Betfred (UK) | 4.00 | 25.5% | €254.71 |
 
-### #11 — Mattia Bellucci vs Zsombor Piros
+### #6 — Taylor Fritz vs Mattia Bellucci
 - **Sport:** Tennis | **Lega:** ATP US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T18:46:43Z
-- **Margine:** 1.85% (€18.46 su €1000)
-- **Book freschi:** 11
+- **Mercato:** h2h | **Inizio:** 2026-09-03T15:00:00Z
+- **Margine:** 1.68% (€16.80 su €1000)
+- **Book freschi:** 32
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Zsombor Piros | Smarkets | 50.00 | 2.0% | €20.38 |
-| Mattia Bellucci | Pinnacle | 1.04 | 98.0% | €979.62 |
+| Mattia Bellucci | Matchbook | 8.80 | 11.6% | €115.58 |
+| Taylor Fritz | GTbets | 1.15 | 88.4% | €884.42 |
 
-### #12 — Bologna vs Sassuolo
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-09-06T16:00:00Z
-- **Margine:** 1.64% (€16.40 su €1000)
-- **Book freschi:** 42
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Bologna | 1xBet | 2.08 | 48.9% | €488.79 |
-| Draw | Unibet (NL) | 3.70 | 27.5% | €274.78 |
-| Sassuolo | Unibet (NL) | 4.30 | 23.6% | €236.44 |
-
-### #13 — PFC Levski Sofia vs Salzburg
-- **Sport:** Calcio | **Lega:** UEFA Europa League
-- **Mercato:** h2h | **Inizio:** 2026-09-17T16:45:00Z
-- **Margine:** 1.12% (€11.22 su €1000)
+### #7 — Union Berlin vs FC Schalke 04
+- **Sport:** Calcio | **Lega:** Bundesliga - Germany
+- **Mercato:** h2h | **Inizio:** 2026-09-11T18:30:00Z
+- **Margine:** 1.56% (€15.60 su €1000)
 - **Book freschi:** 31
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| PFC Levski Sofia | Unibet (SE) | 3.15 | 32.1% | €321.06 |
-| Salzburg | 1xBet | 2.45 | 41.3% | €412.79 |
-| Draw | Unibet (SE) | 3.80 | 26.6% | €266.14 |
+| FC Schalke 04 | Unibet (NL) | 3.60 | 28.2% | €282.18 |
+| Draw | Betfred (UK) | 4.00 | 25.4% | €253.96 |
+| Union Berlin | 1xBet | 2.19 | 46.4% | €463.86 |
 
-### #14 — CA Osasuna vs Espanyol
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-09-13T19:00:00Z
-- **Margine:** 1.07% (€10.74 su €1000)
-- **Book freschi:** 8
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| CA Osasuna | Betfair | 2.02 | 50.0% | €500.42 |
-| Espanyol | 1xBet | 4.51 | 22.4% | €224.14 |
-| Draw | 1xBet | 3.67 | 27.5% | €275.44 |
-
-### #15 — Brest vs Paris Saint Germain
+### #8 — Troyes vs Strasbourg
 - **Sport:** Calcio | **Lega:** Ligue 1 - France
-- **Mercato:** h2h | **Inizio:** 2026-09-13T18:45:00Z
-- **Margine:** 1.01% (€10.07 su €1000)
-- **Book freschi:** 28
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Brest | LeoVegas (SE) | 10.00 | 10.1% | €101.02 |
-| Draw | LeoVegas (SE) | 6.25 | 16.2% | €161.63 |
-| Paris Saint Germain | 1xBet | 1.37 | 73.7% | €737.35 |
-
-### #16 — RC Lens vs Lorient
-- **Sport:** Calcio | **Lega:** Ligue 1 - France
-- **Mercato:** h2h | **Inizio:** 2026-09-05T15:15:00Z
-- **Margine:** 0.90% (€8.99 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-09-06T13:00:00Z
+- **Margine:** 1.29% (€12.88 su €1000)
 - **Book freschi:** 41
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| RC Lens | 1xBet | 1.53 | 66.0% | €659.52 |
-| Lorient | LeoVegas (SE) | 7.50 | 13.4% | €134.54 |
-| Draw | Unibet (FR) | 4.90 | 20.6% | €205.93 |
+| Draw | 1xBet | 3.52 | 28.8% | €287.80 |
+| Troyes | Coolbet | 3.30 | 30.7% | €306.98 |
+| Strasbourg | Betfair Sportsbook | 2.50 | 40.5% | €405.22 |
 
-### #17 — Naomi Osaka vs Katerina Siniakova
-- **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
-- **Margine:** 0.85% (€8.55 su €1000)
-- **Book freschi:** 34
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Naomi Osaka | GTbets | 1.30 | 77.6% | €775.86 |
-| Katerina Siniakova | Matchbook | 4.50 | 22.4% | €224.14 |
-
-### #18 — Yulia Putintseva vs Belinda Bencic
-- **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** spreads | **Inizio:** 2026-09-01T18:48:48Z
-- **Margine:** 0.85% (€8.54 su €1000)
-- **Book freschi:** 7
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Belinda Bencic (-3.5) | Casumo | 2.48 | 40.7% | €406.70 |
-| Yulia Putintseva (3.5) | Coolbet | 1.70 | 59.3% | €593.30 |
-
-### #19 — Union Berlin vs FC Schalke 04
-- **Sport:** Calcio | **Lega:** Bundesliga - Germany
-- **Mercato:** h2h | **Inizio:** 2026-09-11T18:30:00Z
-- **Margine:** 0.77% (€7.66 su €1000)
-- **Book freschi:** 31
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| FC Schalke 04 | Unibet (NL) | 3.50 | 28.8% | €287.92 |
-| Draw | Betfred (UK) | 4.00 | 25.2% | €251.93 |
-| Union Berlin | 1xBet | 2.19 | 46.0% | €460.15 |
-
-### #20 — Real Racing Club de Santander vs Alavés
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-09-12T12:00:00Z
-- **Margine:** 0.75% (€7.53 su €1000)
-- **Book freschi:** 31
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Alavés | Nordic Bet | 3.05 | 33.0% | €330.36 |
-| Real Racing Club de Santander | 1xBet | 2.56 | 39.4% | €393.59 |
-| Draw | Betfair | 3.65 | 27.6% | €276.05 |
-
-### #21 — Rennes vs Marseille
+### #9 — Rennes vs Marseille
 - **Sport:** Calcio | **Lega:** Ligue 1 - France
 - **Mercato:** h2h | **Inizio:** 2026-09-11T18:45:00Z
-- **Margine:** 0.73% (€7.33 su €1000)
+- **Margine:** 1.26% (€12.61 su €1000)
 - **Book freschi:** 29
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Marseille | Unibet (SE) | 3.05 | 33.0% | €330.29 |
-| Draw | 1xBet | 4.03 | 25.0% | €249.97 |
-| Rennes | 1xBet | 2.40 | 42.0% | €419.74 |
+| Rennes | 1xBet | 2.40 | 42.2% | €421.99 |
+| Draw | 1xBet | 4.03 | 25.1% | €251.31 |
+| Marseille | Unibet (SE) | 3.10 | 32.7% | €326.70 |
 
-### #22 — Juan Manuel Cerundolo vs Arthur Gea
+### #10 — Gael Monfils vs Learner Tien
 - **Sport:** Tennis | **Lega:** ATP US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T20:16:04Z
-- **Margine:** 0.70% (€7.05 su €1000)
-- **Book freschi:** 33
+- **Mercato:** h2h | **Inizio:** 2026-09-03T15:00:00Z
+- **Margine:** 1.13% (€11.32 su €1000)
+- **Book freschi:** 32
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Juan Manuel Cerundolo | Smarkets | 3.35 | 30.1% | €300.63 |
-| Arthur Gea | Ladbrokes | 1.44 | 69.9% | €699.37 |
+| Learner Tien | GTbets | 1.25 | 80.9% | €809.16 |
+| Gael Monfils | Betfair | 5.30 | 19.1% | €190.84 |
 
-### #23 — Elche CF vs Real Sociedad
+### #11 — PFC Levski Sofia vs Salzburg
+- **Sport:** Calcio | **Lega:** UEFA Europa League
+- **Mercato:** h2h | **Inizio:** 2026-09-17T16:45:00Z
+- **Margine:** 1.12% (€11.17 su €1000)
+- **Book freschi:** 32
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| PFC Levski Sofia | Betsson | 3.10 | 32.6% | €326.23 |
+| Salzburg | 1xBet | 2.44 | 41.5% | €414.47 |
+| Draw | Unibet (SE) | 3.90 | 25.9% | €259.31 |
+
+### #12 — Alex Molcan vs Benjamin Bonzi
+- **Sport:** Tennis | **Lega:** ATP US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-01T22:29:00Z
+- **Margine:** 1.07% (€10.75 su €1000)
+- **Book freschi:** 29
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Benjamin Bonzi | BoyleSports | 1.50 | 67.4% | €673.91 |
+| Alex Molcan | Betfair | 3.10 | 32.6% | €326.09 |
+
+### #13 — Nottingham Forest vs Tottenham Hotspur
+- **Sport:** Calcio | **Lega:** EPL
+- **Mercato:** h2h | **Inizio:** 2026-09-05T14:00:00Z
+- **Margine:** 0.90% (€9.02 su €1000)
+- **Book freschi:** 43
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Nottingham Forest | Betfair | 2.56 | 39.4% | €394.18 |
+| Tottenham Hotspur | Unibet (NL) | 3.10 | 32.5% | €325.52 |
+| Draw | Betfair | 3.60 | 28.0% | €280.31 |
+
+### #14 — Rayo Vallecano vs Real Racing Club de Santander
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** h2h | **Inizio:** 2026-09-05T16:30:00Z
+- **Margine:** 0.88% (€8.82 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | Unibet (NL) | 3.65 | 27.6% | €276.41 |
+| Rayo Vallecano | 1xBet | 2.34 | 43.1% | €431.15 |
+| Real Racing Club de Santander | Betfair | 3.45 | 29.2% | €292.43 |
+
+### #15 — Daniel Merida Aguilar vs Andrey Rublev
+- **Sport:** Tennis | **Lega:** ATP US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
+- **Margine:** 0.87% (€8.70 su €1000)
+- **Book freschi:** 40
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Andrey Rublev | GTbets | 1.71 | 59.0% | €589.93 |
+| Daniel Merida Aguilar | Matchbook | 2.46 | 41.0% | €410.07 |
+
+### #16 — Brest vs Paris Saint Germain
+- **Sport:** Calcio | **Lega:** Ligue 1 - France
+- **Mercato:** h2h | **Inizio:** 2026-09-13T18:45:00Z
+- **Margine:** 0.86% (€8.56 su €1000)
+- **Book freschi:** 28
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Paris Saint Germain | 1xBet | 1.37 | 73.6% | €736.23 |
+| Draw | LeoVegas (SE) | 6.40 | 15.8% | €157.60 |
+| Brest | Grosvenor | 9.50 | 10.6% | €106.17 |
+
+### #17 — VfB Stuttgart vs 1. FC Köln
+- **Sport:** Calcio | **Lega:** Bundesliga - Germany
+- **Mercato:** h2h | **Inizio:** 2026-09-04T18:30:00Z
+- **Margine:** 0.83% (€8.32 su €1000)
+- **Book freschi:** 42
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| VfB Stuttgart | 1xBet | 1.59 | 63.4% | €634.21 |
+| 1. FC Köln | Unibet (SE) | 6.00 | 16.8% | €168.07 |
+| Draw | Betfair | 5.10 | 19.8% | €197.72 |
+
+### #18 — Real Betis vs Real Madrid
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** h2h | **Inizio:** 2026-09-04T19:00:00Z
+- **Margine:** 0.83% (€8.29 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Real Betis | Smarkets | 7.80 | 12.9% | €129.28 |
+| Real Madrid | 1xBet | 1.46 | 69.1% | €690.66 |
+| Draw | Betfair | 5.60 | 18.0% | €180.06 |
+
+### #19 — Karolina Pliskova vs Diana Shnaider
+- **Sport:** Tennis | **Lega:** WTA US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
+- **Margine:** 0.74% (€7.41 su €1000)
+- **Book freschi:** 40
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Karolina Pliskova | Betfair | 4.60 | 21.9% | €219.02 |
+| Diana Shnaider | 888sport | 1.29 | 78.1% | €780.98 |
+
+### #20 — CA Osasuna vs Espanyol
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** h2h | **Inizio:** 2026-09-13T19:00:00Z
+- **Margine:** 0.73% (€7.26 su €1000)
+- **Book freschi:** 8
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| CA Osasuna | Betfair | 2.02 | 49.9% | €498.67 |
+| Espanyol | 1xBet | 4.47 | 22.5% | €225.35 |
+| Draw | 1xBet | 3.65 | 27.6% | €275.98 |
+
+### #21 — Elche CF vs Real Sociedad
 - **Sport:** Calcio | **Lega:** La Liga - Spain
 - **Mercato:** totals | **Inizio:** 2026-09-07T19:30:00Z
 - **Margine:** 0.69% (€6.95 su €1000)
@@ -279,22 +257,34 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Under 2.5 | Matchbook | 2.06 | 48.9% | €488.83 |
 | Over 2.5 | 1xBet | 1.97 | 51.1% | €511.17 |
+| Under 2.5 | Matchbook | 2.06 | 48.9% | €488.83 |
 
-### #24 — Napoli vs Arsenal
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-09-09T19:00:00Z
-- **Margine:** 0.67% (€6.66 su €1000)
-- **Book freschi:** 35
+### #22 — Genoa vs Como
+- **Sport:** Calcio | **Lega:** Serie A - Italy
+- **Mercato:** h2h | **Inizio:** 2026-09-04T18:45:00Z
+- **Margine:** 0.69% (€6.88 su €1000)
+- **Book freschi:** 42
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Arsenal | Betfair | 1.92 | 52.4% | €524.33 |
-| Napoli | Unibet (SE) | 4.70 | 21.4% | €214.19 |
-| Draw | Unibet (SE) | 3.85 | 26.1% | €261.48 |
+| Draw | Betfred (UK) | 3.40 | 29.6% | €296.16 |
+| Genoa | Betfair | 5.70 | 17.7% | €176.65 |
+| Como | Unibet (SE) | 1.91 | 52.7% | €527.19 |
 
-### #25 — Hamburger SV vs FSV Mainz 05
+### #23 — Juventus vs AC Milan
+- **Sport:** Calcio | **Lega:** Serie A - Italy
+- **Mercato:** h2h | **Inizio:** 2026-09-06T18:45:00Z
+- **Margine:** 0.66% (€6.58 su €1000)
+- **Book freschi:** 42
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| AC Milan | Betfair | 3.95 | 25.5% | €254.84 |
+| Juventus | Betfair | 2.20 | 45.8% | €457.55 |
+| Draw | Unibet (NL) | 3.50 | 28.8% | €287.61 |
+
+### #24 — Hamburger SV vs FSV Mainz 05
 - **Sport:** Calcio | **Lega:** Bundesliga - Germany
 - **Mercato:** h2h | **Inizio:** 2026-09-06T13:30:00Z
 - **Margine:** 0.65% (€6.54 su €1000)
@@ -303,56 +293,22 @@
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
 | Hamburger SV | 1xBet | 3.06 | 32.9% | €328.95 |
-| Draw | Coolbet | 3.75 | 26.8% | €268.42 |
 | FSV Mainz 05 | Unibet (SE) | 2.50 | 40.3% | €402.63 |
+| Draw | Coolbet | 3.75 | 26.8% | €268.42 |
 
-### #26 — Alex Molcan vs Benjamin Bonzi
-- **Sport:** Tennis | **Lega:** ATP US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T21:25:00Z
-- **Margine:** 0.63% (€6.27 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Alex Molcan | Betfair | 2.94 | 34.2% | €342.28 |
-| Benjamin Bonzi | 888sport | 1.53 | 65.8% | €657.72 |
-
-### #27 — Club Brugge vs Aston Villa
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-09-08T16:45:00Z
-- **Margine:** 0.59% (€5.95 su €1000)
-- **Book freschi:** 36
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Aston Villa | 1xBet | 2.52 | 39.9% | €399.20 |
-| Club Brugge | Coolbet | 2.88 | 34.9% | €349.30 |
-| Draw | Betfair | 4.00 | 25.1% | €251.50 |
-
-### #28 — Espanyol vs Sevilla
+### #25 — Valencia vs Barcelona
 - **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-09-06T19:00:00Z
-- **Margine:** 0.59% (€5.94 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-09-06T14:15:00Z
+- **Margine:** 0.57% (€5.70 su €1000)
 - **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Espanyol | Betfair | 2.44 | 41.2% | €412.29 |
-| Draw | Betfair | 3.35 | 30.0% | €300.29 |
-| Sevilla | Unibet (SE) | 3.50 | 28.7% | €287.42 |
+| Barcelona | 1xBet | 1.33 | 75.6% | €756.19 |
+| Draw | Betfair | 6.60 | 15.2% | €152.38 |
+| Valencia | Smarkets | 11.00 | 9.1% | €91.43 |
 
-### #29 — Denis Shapovalov vs Luca Van Assche
-- **Sport:** Tennis | **Lega:** ATP US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
-- **Margine:** 0.58% (€5.84 su €1000)
-- **Book freschi:** 37
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Denis Shapovalov | Betfair | 1.77 | 56.8% | €568.29 |
-| Luca Van Assche | 1xBet | 2.33 | 43.2% | €431.71 |
-
-### #30 — Inter Milan vs Udinese
+### #26 — Inter Milan vs Udinese
 - **Sport:** Calcio | **Lega:** Serie A - Italy
 - **Mercato:** h2h | **Inizio:** 2026-09-14T18:45:00Z
 - **Margine:** 0.56% (€5.64 su €1000)
@@ -360,47 +316,22 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
+| Udinese | Betsson | 11.50 | 8.7% | €87.45 |
 | Draw | Tipico | 6.00 | 16.8% | €167.61 |
 | Inter Milan | 1xBet | 1.35 | 74.5% | €744.94 |
-| Udinese | Betsson | 11.50 | 8.7% | €87.45 |
 
-### #31 — Genoa vs Como
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-09-04T18:45:00Z
-- **Margine:** 0.56% (€5.61 su €1000)
-- **Book freschi:** 42
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Genoa | Betfair | 5.70 | 17.6% | €176.43 |
-| Como | Unibet (SE) | 1.89 | 53.2% | €532.08 |
-| Draw | Betfair | 3.45 | 29.1% | €291.49 |
-
-### #32 — Borussia Monchengladbach vs Elversberg
-- **Sport:** Calcio | **Lega:** Bundesliga - Germany
-- **Mercato:** h2h | **Inizio:** 2026-09-05T13:30:00Z
-- **Margine:** 0.55% (€5.53 su €1000)
-- **Book freschi:** 42
+### #27 — Jessica Bouzas Maneiro vs Elena Rybakina
+- **Sport:** Tennis | **Lega:** WTA US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-03T15:00:00Z
+- **Margine:** 0.55% (€5.48 su €1000)
+- **Book freschi:** 31
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Borussia Monchengladbach | Betfair | 1.89 | 53.2% | €532.04 |
-| Draw | Coolbet | 4.20 | 23.9% | €239.42 |
-| Elversberg | Betfair | 4.40 | 22.9% | €228.54 |
+| Elena Rybakina | GTbets | 1.18 | 85.2% | €852.13 |
+| Jessica Bouzas Maneiro | Betfair | 6.80 | 14.8% | €147.87 |
 
-### #33 — Cagliari vs Lecce
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-09-07T16:30:00Z
-- **Margine:** 0.53% (€5.31 su €1000)
-- **Book freschi:** 41
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Cagliari | Betway | 2.05 | 49.0% | €490.41 |
-| Lecce | Betfair | 4.70 | 21.4% | €213.90 |
-| Draw | 1xBet | 3.40 | 29.6% | €295.69 |
-
-### #34 — Manchester City vs Coventry City
+### #28 — Manchester City vs Coventry City
 - **Sport:** Calcio | **Lega:** EPL
 - **Mercato:** h2h | **Inizio:** 2026-09-05T14:00:00Z
 - **Margine:** 0.53% (€5.30 su €1000)
@@ -408,84 +339,105 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Coventry City | Betfair | 17.50 | 5.7% | €57.45 |
-| Draw | Tipico | 9.00 | 11.2% | €111.70 |
+| Draw | Smarkets | 9.00 | 11.2% | €111.70 |
+| Coventry City | 1xBet | 17.50 | 5.7% | €57.45 |
 | Manchester City | GTbets | 1.21 | 83.1% | €830.85 |
 
-### #35 — Marta Kostyuk vs Sloane Stephens
-- **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
-- **Margine:** 0.52% (€5.16 su €1000)
-- **Book freschi:** 34
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Sloane Stephens | Tipico | 8.50 | 11.8% | €118.26 |
-| Marta Kostyuk | GTbets | 1.14 | 88.2% | €881.74 |
-
-### #36 — Real Sociedad vs Celta Vigo
+### #29 — Espanyol vs Sevilla
 - **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-09-03T19:00:00Z
-- **Margine:** 0.50% (€5.04 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-09-06T19:00:00Z
+- **Margine:** 0.53% (€5.30 su €1000)
 - **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Real Sociedad | 1xBet | 2.04 | 49.3% | €492.68 |
-| Celta Vigo | Betfair | 4.20 | 23.9% | €239.30 |
-| Draw | Betfair | 3.75 | 26.8% | €268.02 |
+| Espanyol | 1xBet | 2.39 | 42.1% | €420.64 |
+| Draw | 1xBet | 3.35 | 30.0% | €300.10 |
+| Sevilla | Betfair | 3.60 | 27.9% | €279.26 |
 
-### #37 — Nikola Bartunkova vs Mayar Sherif
+### #30 — Oksana Selekhmeteva vs Kamilla Rakhimova
 - **Sport:** Tennis | **Lega:** WTA US Open
-- **Mercato:** h2h | **Inizio:** 2026-09-01T22:45:00Z
-- **Margine:** 0.49% (€4.89 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-09-02T18:40:00Z
+- **Margine:** 0.46% (€4.63 su €1000)
 - **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Nikola Bartunkova | GTbets | 1.22 | 82.4% | €823.70 |
-| Mayar Sherif | Matchbook | 5.70 | 17.6% | €176.30 |
+| Kamilla Rakhimova | GTbets | 1.60 | 62.8% | €627.91 |
+| Oksana Selekhmeteva | Betfair | 2.70 | 37.2% | €372.09 |
 
-### #38 — Karolina Pliskova vs Diana Shnaider
-- **Sport:** Tennis | **Lega:** WTA US Open
+### #31 — Jaume Munar vs Arthur Rinderknech
+- **Sport:** Tennis | **Lega:** ATP US Open
 - **Mercato:** h2h | **Inizio:** 2026-09-02T15:00:00Z
-- **Margine:** 0.41% (€4.08 su €1000)
-- **Book freschi:** 35
+- **Margine:** 0.44% (€4.37 su €1000)
+- **Book freschi:** 40
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Karolina Pliskova | Betfair | 4.30 | 23.4% | €233.51 |
-| Diana Shnaider | GTbets | 1.31 | 76.7% | €766.49 |
+| Jaume Munar | Betfair | 2.52 | 39.9% | €398.57 |
+| Arthur Rinderknech | Paddy Power | 1.67 | 60.1% | €601.43 |
+
+### #32 — Fabian Marozsan vs Michael Zheng
+- **Sport:** Tennis | **Lega:** ATP US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-02T16:40:00Z
+- **Margine:** 0.44% (€4.37 su €1000)
+- **Book freschi:** 40
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Michael Zheng | 888sport | 1.67 | 60.1% | €601.43 |
+| Fabian Marozsan | Betfair | 2.52 | 39.9% | €398.57 |
+
+### #33 — Lanlana Tararudee vs Linda Noskova
+- **Sport:** Tennis | **Lega:** WTA US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-03T00:40:00Z
+- **Margine:** 0.39% (€3.92 su €1000)
+- **Book freschi:** 37
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Linda Noskova | GTbets | 1.25 | 80.3% | €803.15 |
+| Lanlana Tararudee | Betfair | 5.10 | 19.7% | €196.85 |
+
+### #34 — Naomi Osaka vs Katerina Siniakova
+- **Sport:** Tennis | **Lega:** WTA US Open
+- **Mercato:** h2h | **Inizio:** 2026-09-03T15:00:00Z
+- **Margine:** 0.35% (€3.50 su €1000)
+- **Book freschi:** 32
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Katerina Siniakova | Matchbook | 4.40 | 22.8% | €228.07 |
+| Naomi Osaka | GTbets | 1.30 | 77.2% | €771.93 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Calcio | Como vs Parma | Draw | Betfred (UK) | 5.00 | 24.3% | 🟢 | €15 |
-| 2 | Tennis | Maria Sakkari vs Robin Mo | Robin Montgomer | Unibet (NL) | 3.30 | 24.3% | 🟢 | €26 |
-| 3 | Calcio | CA Osasuna vs Espanyol | Espanyol | 1xBet | 4.51 | 23.1% | 🟢 | €16 |
-| 4 | Tennis | Maria Sakkari vs Robin Mo | Robin Montgomer | Grosvenor | 3.25 | 22.4% | 🟢 | €25 |
-| 5 | Tennis | Mattia Bellucci vs Zsombo | Zsombor Piros ( | Unibet (NL) | 3.15 | 20.7% | 🟢 | €24 |
-| 6 | Tennis | Mattia Bellucci vs Zsombo | Zsombor Piros ( | Casumo | 3.15 | 20.7% | 🟢 | €24 |
-| 7 | Tennis | Mattia Bellucci vs Zsombo | Zsombor Piros ( | Grosvenor | 3.15 | 20.7% | 🟢 | €24 |
-| 8 | Calcio | Como vs Parma | Draw | Paddy Power | 4.75 | 18.1% | 🟢 | €12 |
-| 9 | Calcio | Como vs Parma | Draw | Sky Bet | 4.75 | 18.1% | 🟢 | €12 |
-| 10 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (SE) | 4.60 | 17.5% | 🟢 | €12 |
-| 11 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | LeoVegas (SE | 4.60 | 17.5% | 🟢 | €12 |
-| 12 | Hockey | Buffalo Sabres vs Chicago | Chicago Blackha | 1xBet | 3.90 | 16.0% | 🟡 | €14 |
-| 13 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Casumo | 4.50 | 14.9% | 🟢 | €11 |
-| 14 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Grosvenor | 4.50 | 14.9% | 🟢 | €11 |
-| 15 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (NL) | 4.50 | 14.9% | 🟢 | €11 |
+| 1 | Calcio | CA Osasuna vs Espanyol | Espanyol | 1xBet | 4.47 | 24.0% | 🟢 | €17 |
+| 2 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (SE) | 4.60 | 17.5% | 🟢 | €12 |
+| 3 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | LeoVegas (SE | 4.60 | 17.5% | 🟢 | €12 |
+| 4 | Calcio | CA Osasuna vs Espanyol | Espanyol | Betfred (UK) | 4.20 | 16.5% | 🟢 | €13 |
+| 5 | Hockey | Buffalo Sabres vs Chicago | Chicago Blackha | 1xBet | 3.90 | 16.0% | 🟡 | €14 |
+| 6 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Casumo | 4.50 | 14.9% | 🟢 | €11 |
+| 7 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Grosvenor | 4.50 | 14.9% | 🟢 | €11 |
+| 8 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Unibet (NL) | 4.50 | 14.9% | 🟢 | €11 |
+| 9 | Hockey | Buffalo Sabres vs Chicago | Chicago Blackha | Marathon Bet | 3.84 | 14.2% | 🟡 | €12 |
+| 10 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | Unibet (UK) | 4.80 | 13.9% | 🟢 | €9 |
+| 11 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | Coolbet | 4.80 | 13.9% | 🟢 | €9 |
+| 12 | Hockey | Edmonton Oilers vs Vancou | Vancouver Canuc | PMU (FR) | 4.75 | 12.8% | 🟢 | €9 |
+| 13 | Hockey | Utah Mammoth vs Chicago B | Chicago Blackha | 1xBet | 3.83 | 12.4% | 🟢 | €11 |
+| 14 | Hockey | Vegas Golden Knights vs C | Chicago Blackha | Coolbet | 4.40 | 12.3% | 🟢 | €9 |
+| 15 | Hockey | Winnipeg Jets vs Boston B | Winnipeg Jets | 1xBet | 2.53 | 11.9% | 🟡 | €19 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Tennis**: ████████████████░░░░░░░░░░░░░░░░░ 50% (€124)
-- **Hockey**: █████████░░░░░░░░░░░░░░░░░░░░░░░░ 28% (€70)
-- **Calcio**: ███████░░░░░░░░░░░░░░░░░░░░░░░░░░ 22% (€56)
+- **Hockey**: ███████████████████████████░░░░░░ 83% (€149)
+- **Calcio**: █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 17% (€30)
 
 ---
 ## ⚠️ Disclaimer
