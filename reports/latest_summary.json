@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-09-02 14:10 UTC",
-  "arbitrages_found": 34,
+  "timestamp": "2026-09-02 20:43 UTC",
+  "arbitrages_found": 31,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 19,
-      "vbs": 2
+      "arbs": 17,
+      "vbs": 5
     },
     "tennis": {
-      "arbs": 14,
+      "arbs": 13,
       "vbs": 0
     },
     "basketball": {
@@ -17,40 +17,69 @@
     },
     "hockey": {
       "arbs": 1,
-      "vbs": 13
+      "vbs": 10
     }
   },
-  "best_arb_margin": 5.314,
-  "best_value_edge": 23.96,
+  "best_arb_margin": 6.667,
+  "best_value_edge": 34.5,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "8fa0437a44d41f7261e9fd8899ed690c",
+      "event_id": "d688ac68b19d07167b4e5486bdaf97fd",
       "sport": "tennis",
-      "league": "WTA US Open",
-      "match": "Magda Linette vs Francesca Jones",
-      "commence": "2026-09-02T01:08:34Z",
+      "league": "ATP US Open",
+      "match": "Ben Shelton vs Hubert Hurkacz",
+      "commence": "2026-09-02T17:08:27Z",
       "market": "h2h",
-      "margin_pct": 5.314,
-      "implied_probability_sum": 0.94686,
-      "guaranteed_profit": 53.14,
+      "margin_pct": 6.667,
+      "implied_probability_sum": 0.93333,
+      "guaranteed_profit": 66.67,
       "stakes": {
-        "Francesca Jones": {
+        "Hubert Hurkacz": {
           "bookmaker": "Betfair",
-          "odds": 1.38,
-          "stake_pct": 76.53,
-          "stake_amount": 765.31
+          "odds": 10.0,
+          "stake_pct": 10.71,
+          "stake_amount": 107.14
         },
-        "Magda Linette": {
+        "Ben Shelton": {
           "bookmaker": "BoyleSports",
-          "odds": 4.5,
-          "stake_pct": 23.47,
-          "stake_amount": 234.69
+          "odds": 1.2,
+          "stake_pct": 89.29,
+          "stake_amount": 892.86
         }
       },
-      "num_bookmakers_checked": 29,
-      "fresh_bookmakers": 29,
-      "found_at": "2026-09-02T14:10:43.890135+00:00"
+      "num_bookmakers_checked": 30,
+      "fresh_bookmakers": 30,
+      "found_at": "2026-09-02T20:43:06.302844+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "9e30948c157623afa7bd240fddbd895b",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Emma Navarro vs Caty McNally",
+      "commence": "2026-09-02T17:18:50Z",
+      "market": "h2h",
+      "margin_pct": 6.522,
+      "implied_probability_sum": 0.93478,
+      "guaranteed_profit": 65.22,
+      "stakes": {
+        "Caty McNally": {
+          "bookmaker": "Ladbrokes",
+          "odds": 2.3,
+          "stake_pct": 46.51,
+          "stake_amount": 465.12
+        },
+        "Emma Navarro": {
+          "bookmaker": "BoyleSports",
+          "odds": 2.0,
+          "stake_pct": 53.49,
+          "stake_amount": 534.88
+        }
+      },
+      "num_bookmakers_checked": 28,
+      "fresh_bookmakers": 28,
+      "found_at": "2026-09-02T20:43:06.311597+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -79,100 +108,65 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-09-02T14:10:43.906896+00:00"
+      "found_at": "2026-09-02T20:43:06.326755+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "0cdf113c357d677fdc83eec7e9476bf5",
-      "sport": "tennis",
-      "league": "WTA US Open",
-      "match": "Katie Boulter vs Karolina Muchova",
-      "commence": "2026-09-02T18:10:00Z",
-      "market": "h2h",
-      "margin_pct": 2.778,
-      "implied_probability_sum": 0.97222,
-      "guaranteed_profit": 27.78,
-      "stakes": {
-        "Karolina Muchova": {
-          "bookmaker": "GTbets",
-          "odds": 1.2,
-          "stake_pct": 85.71,
-          "stake_amount": 857.14
-        },
-        "Katie Boulter": {
-          "bookmaker": "Betfair",
-          "odds": 7.2,
-          "stake_pct": 14.29,
-          "stake_amount": 142.86
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-09-02T14:10:43.894016+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "387e143b914f1924407c3911ae2eec86",
+      "event_id": "2a4e5a229fe1f9aff70b3cf2a0737694",
       "sport": "tennis",
       "league": "ATP US Open",
-      "match": "Luciano Darderi vs Dalibor Svrcina",
-      "commence": "2026-09-03T15:00:00Z",
+      "match": "Zachary Svajda vs Daniel Altmaier",
+      "commence": "2026-09-02T16:37:00Z",
       "market": "h2h",
-      "margin_pct": 1.878,
-      "implied_probability_sum": 0.98122,
-      "guaranteed_profit": 18.78,
+      "margin_pct": 3.333,
+      "implied_probability_sum": 0.96667,
+      "guaranteed_profit": 33.33,
       "stakes": {
-        "Luciano Darderi": {
-          "bookmaker": "Matchbook",
-          "odds": 1.74,
-          "stake_pct": 58.57,
-          "stake_amount": 585.71
+        "Daniel Altmaier": {
+          "bookmaker": "Winamax (DE)",
+          "odds": 6.0,
+          "stake_pct": 17.24,
+          "stake_amount": 172.41
         },
-        "Dalibor Svrcina": {
-          "bookmaker": "1xBet",
-          "odds": 2.46,
-          "stake_pct": 41.43,
-          "stake_amount": 414.29
+        "Zachary Svajda": {
+          "bookmaker": "888sport",
+          "odds": 1.25,
+          "stake_pct": 82.76,
+          "stake_amount": 827.59
         }
       },
-      "num_bookmakers_checked": 35,
-      "fresh_bookmakers": 35,
-      "found_at": "2026-09-02T14:10:43.887452+00:00"
+      "num_bookmakers_checked": 29,
+      "fresh_bookmakers": 29,
+      "found_at": "2026-09-02T20:43:06.302426+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "467fe6e71bc34a255dfb47e13b8fa34e",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "FSV Mainz 05 vs Eintracht Frankfurt",
-      "commence": "2026-09-12T13:30:00Z",
+      "event_id": "992f55148bdc2b5c93beb52f52673edc",
+      "sport": "tennis",
+      "league": "WTA US Open",
+      "match": "Oksana Selekhmeteva vs Kamilla Rakhimova",
+      "commence": "2026-09-02T18:49:10Z",
       "market": "h2h",
-      "margin_pct": 1.848,
-      "implied_probability_sum": 0.98152,
-      "guaranteed_profit": 18.48,
+      "margin_pct": 3.158,
+      "implied_probability_sum": 0.96842,
+      "guaranteed_profit": 31.58,
       "stakes": {
-        "Eintracht Frankfurt": {
-          "bookmaker": "1xBet",
-          "odds": 3.37,
-          "stake_pct": 30.23,
-          "stake_amount": 302.32
+        "Kamilla Rakhimova": {
+          "bookmaker": "BoyleSports",
+          "odds": 1.44,
+          "stake_pct": 71.71,
+          "stake_amount": 717.09
         },
-        "FSV Mainz 05": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 2.3,
-          "stake_pct": 44.3,
-          "stake_amount": 442.97
-        },
-        "Draw": {
-          "bookmaker": "Betfred (UK)",
-          "odds": 4.0,
-          "stake_pct": 25.47,
-          "stake_amount": 254.71
+        "Oksana Selekhmeteva": {
+          "bookmaker": "Matchbook",
+          "odds": 3.65,
+          "stake_pct": 28.29,
+          "stake_amount": 282.91
         }
       },
-      "num_bookmakers_checked": 31,
-      "fresh_bookmakers": 31,
-      "found_at": "2026-09-02T14:10:43.857099+00:00"
+      "num_bookmakers_checked": 27,
+      "fresh_bookmakers": 27,
+      "found_at": "2026-09-02T20:43:06.311869+00:00"
     }
   ],
   "value_bets": [
@@ -186,16 +180,100 @@
       "market": "h2h",
       "outcome": "Espanyol",
       "bookmaker": "1xBet",
-      "odds": 4.47,
-      "fair_odds": 3.606,
-      "true_prob_pct": 27.73,
-      "implied_prob_pct": 22.37,
-      "edge_pct": 23.96,
-      "kelly_stake_pct": 1.73,
-      "suggested_stake": 17.27,
-      "expected_value": 23.96,
+      "odds": 4.32,
+      "fair_odds": 3.212,
+      "true_prob_pct": 31.14,
+      "implied_prob_pct": 23.15,
+      "edge_pct": 34.5,
+      "kelly_stake_pct": 2.6,
+      "suggested_stake": 25.98,
+      "expected_value": 34.5,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.849981+00:00"
+      "found_at": "2026-09-02T20:43:06.272620+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Betfred (UK)",
+      "odds": 4.0,
+      "fair_odds": 3.212,
+      "true_prob_pct": 31.14,
+      "implied_prob_pct": 25.0,
+      "edge_pct": 24.54,
+      "kelly_stake_pct": 2.05,
+      "suggested_stake": 20.45,
+      "expected_value": 24.54,
+      "confidence": "ALTA",
+      "found_at": "2026-09-02T20:43:06.272631+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Sky Bet",
+      "odds": 3.9,
+      "fair_odds": 3.212,
+      "true_prob_pct": 31.14,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 21.43,
+      "kelly_stake_pct": 1.85,
+      "suggested_stake": 18.47,
+      "expected_value": 21.43,
+      "confidence": "ALTA",
+      "found_at": "2026-09-02T20:43:06.272658+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "William Hill",
+      "odds": 3.9,
+      "fair_odds": 3.212,
+      "true_prob_pct": 31.14,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 21.43,
+      "kelly_stake_pct": 1.85,
+      "suggested_stake": 18.47,
+      "expected_value": 21.43,
+      "confidence": "ALTA",
+      "found_at": "2026-09-02T20:43:06.272666+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "095ea49c978f544d67fe23026a8e4907",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "CA Osasuna vs Espanyol",
+      "commence": "2026-09-13T19:00:00Z",
+      "market": "h2h",
+      "outcome": "Espanyol",
+      "bookmaker": "Paddy Power",
+      "odds": 3.8,
+      "fair_odds": 3.212,
+      "true_prob_pct": 31.14,
+      "implied_prob_pct": 26.32,
+      "edge_pct": 18.31,
+      "kelly_stake_pct": 1.64,
+      "suggested_stake": 16.35,
+      "expected_value": 18.31,
+      "confidence": "ALTA",
+      "found_at": "2026-09-02T20:43:06.272639+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -216,7 +294,7 @@
       "suggested_stake": 12.13,
       "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.907250+00:00"
+      "found_at": "2026-09-02T20:43:06.327130+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -237,28 +315,7 @@
       "suggested_stake": 12.13,
       "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.907263+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "095ea49c978f544d67fe23026a8e4907",
-      "sport": "soccer",
-      "league": "La Liga - Spain",
-      "match": "CA Osasuna vs Espanyol",
-      "commence": "2026-09-13T19:00:00Z",
-      "market": "h2h",
-      "outcome": "Espanyol",
-      "bookmaker": "Betfred (UK)",
-      "odds": 4.2,
-      "fair_odds": 3.606,
-      "true_prob_pct": 27.73,
-      "implied_prob_pct": 23.81,
-      "edge_pct": 16.48,
-      "kelly_stake_pct": 1.29,
-      "suggested_stake": 12.87,
-      "expected_value": 16.48,
-      "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.849988+00:00"
+      "found_at": "2026-09-02T20:43:06.327148+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -279,7 +336,7 @@
       "suggested_stake": 13.76,
       "expected_value": 15.96,
       "confidence": "MEDIA",
-      "found_at": "2026-09-02T14:10:43.908936+00:00"
+      "found_at": "2026-09-02T20:43:06.328896+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -300,7 +357,7 @@
       "suggested_stake": 10.65,
       "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.907243+00:00"
+      "found_at": "2026-09-02T20:43:06.327123+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -321,70 +378,7 @@
       "suggested_stake": 10.65,
       "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.907256+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "deceabd9bfa9fdbfb352546844ecee9b",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vegas Golden Knights vs Chicago Blackhawks",
-      "commence": "2026-09-30T02:40:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.5,
-      "fair_odds": 3.916,
-      "true_prob_pct": 25.53,
-      "implied_prob_pct": 22.22,
-      "edge_pct": 14.91,
-      "kelly_stake_pct": 1.06,
-      "suggested_stake": 10.65,
-      "expected_value": 14.91,
-      "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.907270+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8d556511643d0c038bff0b7cf4f2b64f",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Buffalo Sabres vs Chicago Blackhawks",
-      "commence": "2026-10-03T23:10:00Z",
-      "market": "h2h",
-      "outcome": "Chicago Blackhawks",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.84,
-      "fair_odds": 3.363,
-      "true_prob_pct": 29.73,
-      "implied_prob_pct": 26.04,
-      "edge_pct": 14.18,
-      "kelly_stake_pct": 1.25,
-      "suggested_stake": 12.48,
-      "expected_value": 14.18,
-      "confidence": "MEDIA",
-      "found_at": "2026-09-02T14:10:43.908942+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "82c96670ad269b3647066b5e5032e0fd",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Vancouver Canucks",
-      "commence": "2026-09-30T02:10:00Z",
-      "market": "h2h",
-      "outcome": "Vancouver Canucks",
-      "bookmaker": "Unibet (UK)",
-      "odds": 4.8,
-      "fair_odds": 4.212,
-      "true_prob_pct": 23.74,
-      "implied_prob_pct": 20.83,
-      "edge_pct": 13.95,
-      "kelly_stake_pct": 0.92,
-      "suggested_stake": 9.18,
-      "expected_value": 13.95,
-      "confidence": "ALTA",
-      "found_at": "2026-09-02T14:10:43.906723+00:00"
+      "found_at": "2026-09-02T20:43:06.327141+00:00"
     }
   ]
 }
