@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-02 20:43 UTC",
-  "arbitrages_found": 31,
+  "timestamp": "2026-09-03 14:13 UTC",
+  "arbitrages_found": 32,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
@@ -8,7 +8,7 @@
       "vbs": 5
     },
     "tennis": {
-      "arbs": 13,
+      "arbs": 14,
       "vbs": 0
     },
     "basketball": {
@@ -20,67 +20,9 @@
       "vbs": 10
     }
   },
-  "best_arb_margin": 6.667,
-  "best_value_edge": 34.5,
+  "best_arb_margin": 3.877,
+  "best_value_edge": 34.22,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "d688ac68b19d07167b4e5486bdaf97fd",
-      "sport": "tennis",
-      "league": "ATP US Open",
-      "match": "Ben Shelton vs Hubert Hurkacz",
-      "commence": "2026-09-02T17:08:27Z",
-      "market": "h2h",
-      "margin_pct": 6.667,
-      "implied_probability_sum": 0.93333,
-      "guaranteed_profit": 66.67,
-      "stakes": {
-        "Hubert Hurkacz": {
-          "bookmaker": "Betfair",
-          "odds": 10.0,
-          "stake_pct": 10.71,
-          "stake_amount": 107.14
-        },
-        "Ben Shelton": {
-          "bookmaker": "BoyleSports",
-          "odds": 1.2,
-          "stake_pct": 89.29,
-          "stake_amount": 892.86
-        }
-      },
-      "num_bookmakers_checked": 30,
-      "fresh_bookmakers": 30,
-      "found_at": "2026-09-02T20:43:06.302844+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "9e30948c157623afa7bd240fddbd895b",
-      "sport": "tennis",
-      "league": "WTA US Open",
-      "match": "Emma Navarro vs Caty McNally",
-      "commence": "2026-09-02T17:18:50Z",
-      "market": "h2h",
-      "margin_pct": 6.522,
-      "implied_probability_sum": 0.93478,
-      "guaranteed_profit": 65.22,
-      "stakes": {
-        "Caty McNally": {
-          "bookmaker": "Ladbrokes",
-          "odds": 2.3,
-          "stake_pct": 46.51,
-          "stake_amount": 465.12
-        },
-        "Emma Navarro": {
-          "bookmaker": "BoyleSports",
-          "odds": 2.0,
-          "stake_pct": 53.49,
-          "stake_amount": 534.88
-        }
-      },
-      "num_bookmakers_checked": 28,
-      "fresh_bookmakers": 28,
-      "found_at": "2026-09-02T20:43:06.311597+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "82c96670ad269b3647066b5e5032e0fd",
@@ -108,65 +50,129 @@
       },
       "num_bookmakers_checked": 10,
       "fresh_bookmakers": 10,
-      "found_at": "2026-09-02T20:43:06.326755+00:00"
+      "found_at": "2026-09-03T14:13:49.661922+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "2a4e5a229fe1f9aff70b3cf2a0737694",
-      "sport": "tennis",
-      "league": "ATP US Open",
-      "match": "Zachary Svajda vs Daniel Altmaier",
-      "commence": "2026-09-02T16:37:00Z",
-      "market": "h2h",
-      "margin_pct": 3.333,
-      "implied_probability_sum": 0.96667,
-      "guaranteed_profit": 33.33,
-      "stakes": {
-        "Daniel Altmaier": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 6.0,
-          "stake_pct": 17.24,
-          "stake_amount": 172.41
-        },
-        "Zachary Svajda": {
-          "bookmaker": "888sport",
-          "odds": 1.25,
-          "stake_pct": 82.76,
-          "stake_amount": 827.59
-        }
-      },
-      "num_bookmakers_checked": 29,
-      "fresh_bookmakers": 29,
-      "found_at": "2026-09-02T20:43:06.302426+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "992f55148bdc2b5c93beb52f52673edc",
+      "event_id": "43d04f8cdfb8c36ecf5b5dcd333740aa",
       "sport": "tennis",
       "league": "WTA US Open",
-      "match": "Oksana Selekhmeteva vs Kamilla Rakhimova",
-      "commence": "2026-09-02T18:49:10Z",
+      "match": "Maria Sakkari vs Yuliia Starodubtseva",
+      "commence": "2026-09-03T18:20:00Z",
       "market": "h2h",
-      "margin_pct": 3.158,
-      "implied_probability_sum": 0.96842,
-      "guaranteed_profit": 31.58,
+      "margin_pct": 3.083,
+      "implied_probability_sum": 0.96917,
+      "guaranteed_profit": 30.83,
       "stakes": {
-        "Kamilla Rakhimova": {
+        "Maria Sakkari": {
           "bookmaker": "BoyleSports",
-          "odds": 1.44,
-          "stake_pct": 71.71,
-          "stake_amount": 717.09
+          "odds": 1.67,
+          "stake_pct": 61.78,
+          "stake_amount": 617.85
         },
-        "Oksana Selekhmeteva": {
+        "Yuliia Starodubtseva": {
           "bookmaker": "Matchbook",
-          "odds": 3.65,
-          "stake_pct": 28.29,
-          "stake_amount": 282.91
+          "odds": 2.7,
+          "stake_pct": 38.22,
+          "stake_amount": 382.15
         }
       },
-      "num_bookmakers_checked": 27,
-      "fresh_bookmakers": 27,
-      "found_at": "2026-09-02T20:43:06.311869+00:00"
+      "num_bookmakers_checked": 38,
+      "fresh_bookmakers": 38,
+      "found_at": "2026-09-03T14:13:49.650076+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "bfeab0a3d8931c7cdff0056c041ff97c",
+      "sport": "soccer",
+      "league": "UEFA Champions League",
+      "match": "Porto vs Manchester City",
+      "commence": "2026-09-08T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 2.225,
+      "implied_probability_sum": 0.97775,
+      "guaranteed_profit": 22.25,
+      "stakes": {
+        "Manchester City": {
+          "bookmaker": "Betfair",
+          "odds": 1.8,
+          "stake_pct": 56.82,
+          "stake_amount": 568.2
+        },
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 4.35,
+          "stake_pct": 23.51,
+          "stake_amount": 235.12
+        },
+        "Porto": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.2,
+          "stake_pct": 19.67,
+          "stake_amount": 196.68
+        }
+      },
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-09-03T14:13:49.625471+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "93f7500d41836f113c7cb2101d9408cd",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Gael Monfils vs Learner Tien",
+      "commence": "2026-09-03T23:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.818,
+      "implied_probability_sum": 0.98182,
+      "guaranteed_profit": 18.18,
+      "stakes": {
+        "Gael Monfils": {
+          "bookmaker": "Betfair",
+          "odds": 5.5,
+          "stake_pct": 18.52,
+          "stake_amount": 185.19
+        },
+        "Learner Tien": {
+          "bookmaker": "GTbets",
+          "odds": 1.25,
+          "stake_pct": 81.48,
+          "stake_amount": 814.81
+        }
+      },
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-09-03T14:13:49.642383+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "c883811c20c0f29b0ba37d31ed6adb44",
+      "sport": "tennis",
+      "league": "ATP US Open",
+      "match": "Jiri Lehecka vs Stefanos Tsitsipas",
+      "commence": "2026-09-04T15:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.732,
+      "implied_probability_sum": 0.98268,
+      "guaranteed_profit": 17.32,
+      "stakes": {
+        "Stefanos Tsitsipas": {
+          "bookmaker": "BoyleSports",
+          "odds": 3.0,
+          "stake_pct": 33.92,
+          "stake_amount": 339.21
+        },
+        "Jiri Lehecka": {
+          "bookmaker": "Betfair",
+          "odds": 1.54,
+          "stake_pct": 66.08,
+          "stake_amount": 660.79
+        }
+      },
+      "num_bookmakers_checked": 37,
+      "fresh_bookmakers": 37,
+      "found_at": "2026-09-03T14:13:49.645219+00:00"
     }
   ],
   "value_bets": [
@@ -180,16 +186,16 @@
       "market": "h2h",
       "outcome": "Espanyol",
       "bookmaker": "1xBet",
-      "odds": 4.32,
-      "fair_odds": 3.212,
+      "odds": 4.31,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
-      "implied_prob_pct": 23.15,
-      "edge_pct": 34.5,
-      "kelly_stake_pct": 2.6,
-      "suggested_stake": 25.98,
-      "expected_value": 34.5,
+      "implied_prob_pct": 23.2,
+      "edge_pct": 34.22,
+      "kelly_stake_pct": 2.58,
+      "suggested_stake": 25.85,
+      "expected_value": 34.22,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.272620+00:00"
+      "found_at": "2026-09-03T14:13:49.606606+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -202,15 +208,15 @@
       "outcome": "Espanyol",
       "bookmaker": "Betfred (UK)",
       "odds": 4.0,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 25.0,
-      "edge_pct": 24.54,
+      "edge_pct": 24.57,
       "kelly_stake_pct": 2.05,
-      "suggested_stake": 20.45,
-      "expected_value": 24.54,
+      "suggested_stake": 20.47,
+      "expected_value": 24.57,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.272631+00:00"
+      "found_at": "2026-09-03T14:13:49.606615+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -223,15 +229,15 @@
       "outcome": "Espanyol",
       "bookmaker": "Sky Bet",
       "odds": 3.9,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 25.64,
-      "edge_pct": 21.43,
+      "edge_pct": 21.45,
       "kelly_stake_pct": 1.85,
-      "suggested_stake": 18.47,
-      "expected_value": 21.43,
+      "suggested_stake": 18.49,
+      "expected_value": 21.45,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.272658+00:00"
+      "found_at": "2026-09-03T14:13:49.606629+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -244,15 +250,15 @@
       "outcome": "Espanyol",
       "bookmaker": "William Hill",
       "odds": 3.9,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 25.64,
-      "edge_pct": 21.43,
+      "edge_pct": 21.45,
       "kelly_stake_pct": 1.85,
-      "suggested_stake": 18.47,
-      "expected_value": 21.43,
+      "suggested_stake": 18.49,
+      "expected_value": 21.45,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.272666+00:00"
+      "found_at": "2026-09-03T14:13:49.606636+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -265,15 +271,15 @@
       "outcome": "Espanyol",
       "bookmaker": "Paddy Power",
       "odds": 3.8,
-      "fair_odds": 3.212,
+      "fair_odds": 3.211,
       "true_prob_pct": 31.14,
       "implied_prob_pct": 26.32,
-      "edge_pct": 18.31,
+      "edge_pct": 18.34,
       "kelly_stake_pct": 1.64,
-      "suggested_stake": 16.35,
-      "expected_value": 18.31,
+      "suggested_stake": 16.37,
+      "expected_value": 18.34,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.272639+00:00"
+      "found_at": "2026-09-03T14:13:49.606622+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -294,7 +300,7 @@
       "suggested_stake": 12.13,
       "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.327130+00:00"
+      "found_at": "2026-09-03T14:13:49.662189+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -315,7 +321,7 @@
       "suggested_stake": 12.13,
       "expected_value": 17.46,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.327148+00:00"
+      "found_at": "2026-09-03T14:13:49.662203+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -336,7 +342,7 @@
       "suggested_stake": 13.76,
       "expected_value": 15.96,
       "confidence": "MEDIA",
-      "found_at": "2026-09-02T20:43:06.328896+00:00"
+      "found_at": "2026-09-03T14:13:49.663975+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -357,7 +363,7 @@
       "suggested_stake": 10.65,
       "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.327123+00:00"
+      "found_at": "2026-09-03T14:13:49.662181+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -378,7 +384,7 @@
       "suggested_stake": 10.65,
       "expected_value": 14.91,
       "confidence": "ALTA",
-      "found_at": "2026-09-02T20:43:06.327141+00:00"
+      "found_at": "2026-09-03T14:13:49.662196+00:00"
     }
   ]
 }
