@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-01 16:55 UTC",
-  "arbitrages_found": 13,
+  "timestamp": "2026-10-01 22:27 UTC",
+  "arbitrages_found": 11,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 7,
+      "arbs": 6,
       "vbs": 0
     },
     "tennis": {
@@ -12,80 +12,80 @@
       "vbs": 0
     },
     "basketball": {
-      "arbs": 4,
-      "vbs": 8
-    },
-    "hockey": {
       "arbs": 2,
       "vbs": 7
+    },
+    "hockey": {
+      "arbs": 3,
+      "vbs": 8
     }
   },
-  "best_arb_margin": 6.244,
-  "best_value_edge": 49.33,
+  "best_arb_margin": 4.137,
+  "best_value_edge": 59.28,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "7583f2e5f52107921d6e38a7c1961dab",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Hapoel Tel Aviv vs Real Madrid",
-      "commence": "2026-10-01T16:00:00Z",
-      "market": "h2h",
-      "margin_pct": 6.244,
-      "implied_probability_sum": 0.93756,
-      "guaranteed_profit": 62.44,
+      "event_id": "bae72d1f63e132b366d199db2807c4df",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Vegas Golden Knights vs Anaheim Ducks",
+      "commence": "2026-10-03T02:10:00Z",
+      "market": "totals",
+      "margin_pct": 4.137,
+      "implied_probability_sum": 0.95863,
+      "guaranteed_profit": 41.37,
       "stakes": {
-        "Hapoel Tel Aviv": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.21,
-          "stake_pct": 88.15,
-          "stake_amount": 881.49
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.96,
+          "stake_pct": 53.22,
+          "stake_amount": 532.22
         },
-        "Real Madrid": {
-          "bookmaker": "Betfair",
-          "odds": 9.0,
-          "stake_pct": 11.85,
-          "stake_amount": 118.51
+        "Over 6.5": {
+          "bookmaker": "Casumo",
+          "odds": 2.23,
+          "stake_pct": 46.78,
+          "stake_amount": 467.78
         }
       },
-      "num_bookmakers_checked": 20,
-      "fresh_bookmakers": 20,
-      "found_at": "2026-10-01T16:55:39.158540+00:00"
+      "num_bookmakers_checked": 10,
+      "fresh_bookmakers": 10,
+      "found_at": "2026-10-01T22:27:33.704938+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "d4ef112438afa4c2cdbbfc9376a009c9",
+      "event_id": "ce94aca384a20f6af459366da6e1dd21",
       "sport": "soccer",
-      "league": "UEFA Champions League",
-      "match": "AS Roma vs Real Madrid",
-      "commence": "2026-10-14T19:00:00Z",
+      "league": "Serie A - Italy",
+      "match": "Monza vs Cagliari",
+      "commence": "2026-10-19T16:30:00Z",
       "market": "h2h",
-      "margin_pct": 2.064,
-      "implied_probability_sum": 0.97936,
-      "guaranteed_profit": 20.64,
+      "margin_pct": 2.212,
+      "implied_probability_sum": 0.97788,
+      "guaranteed_profit": 22.12,
       "stakes": {
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.65,
-          "stake_pct": 27.97,
-          "stake_amount": 279.75
+        "Cagliari": {
+          "bookmaker": "1xBet",
+          "odds": 3.9,
+          "stake_pct": 26.22,
+          "stake_amount": 262.21
         },
-        "Real Madrid": {
+        "Monza": {
           "bookmaker": "Betfair",
-          "odds": 2.14,
-          "stake_pct": 47.71,
-          "stake_amount": 477.14
+          "odds": 2.34,
+          "stake_pct": 43.7,
+          "stake_amount": 437.02
         },
         "Draw": {
-          "bookmaker": "Coolbet",
-          "odds": 4.2,
-          "stake_pct": 24.31,
-          "stake_amount": 243.11
+          "bookmaker": "Betfred (UK)",
+          "odds": 3.4,
+          "stake_pct": 30.08,
+          "stake_amount": 300.77
         }
       },
-      "num_bookmakers_checked": 34,
-      "fresh_bookmakers": 34,
-      "found_at": "2026-10-01T16:55:39.150865+00:00"
+      "num_bookmakers_checked": 29,
+      "fresh_bookmakers": 29,
+      "found_at": "2026-10-01T22:27:33.659675+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -99,6 +99,12 @@
       "implied_probability_sum": 0.98665,
       "guaranteed_profit": 13.35,
       "stakes": {
+        "Leeds United": {
+          "bookmaker": "Betfair",
+          "odds": 8.8,
+          "stake_pct": 11.52,
+          "stake_amount": 115.17
+        },
         "Arsenal": {
           "bookmaker": "1xBet",
           "odds": 1.44,
@@ -110,104 +116,98 @@
           "odds": 5.6,
           "stake_pct": 18.1,
           "stake_amount": 180.99
-        },
-        "Leeds United": {
-          "bookmaker": "Betfair",
-          "odds": 8.8,
-          "stake_pct": 11.52,
-          "stake_amount": 115.17
         }
       },
       "num_bookmakers_checked": 39,
       "fresh_bookmakers": 39,
-      "found_at": "2026-10-01T16:55:39.129398+00:00"
+      "found_at": "2026-10-01T22:27:33.645494+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "af2f084075391e55ba2a596e7846bb40",
+      "event_id": "d4ef112438afa4c2cdbbfc9376a009c9",
+      "sport": "soccer",
+      "league": "UEFA Champions League",
+      "match": "AS Roma vs Real Madrid",
+      "commence": "2026-10-14T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 1.243,
+      "implied_probability_sum": 0.98757,
+      "guaranteed_profit": 12.43,
+      "stakes": {
+        "Draw": {
+          "bookmaker": "Coolbet",
+          "odds": 4.2,
+          "stake_pct": 24.11,
+          "stake_amount": 241.09
+        },
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.6,
+          "stake_pct": 28.13,
+          "stake_amount": 281.27
+        },
+        "Real Madrid": {
+          "bookmaker": "Betfair",
+          "odds": 2.12,
+          "stake_pct": 47.76,
+          "stake_amount": 477.63
+        }
+      },
+      "num_bookmakers_checked": 34,
+      "fresh_bookmakers": 34,
+      "found_at": "2026-10-01T22:27:33.682096+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "6fff70f4bf196dba25060a5775a03b54",
       "sport": "basketball",
       "league": "NBA",
-      "match": "Houston Rockets vs Dallas Mavericks",
-      "commence": "2026-10-22T00:40:00Z",
+      "match": "Los Angeles Lakers vs Golden State Warriors",
+      "commence": "2026-10-22T02:10:00Z",
       "market": "h2h",
-      "margin_pct": 1.283,
-      "implied_probability_sum": 0.98717,
-      "guaranteed_profit": 12.83,
+      "margin_pct": 1.218,
+      "implied_probability_sum": 0.98782,
+      "guaranteed_profit": 12.18,
       "stakes": {
-        "Dallas Mavericks": {
+        "Golden State Warriors": {
           "bookmaker": "1xBet",
-          "odds": 4.25,
-          "stake_pct": 23.84,
-          "stake_amount": 238.35
+          "odds": 2.85,
+          "stake_pct": 35.52,
+          "stake_amount": 355.2
         },
-        "Houston Rockets": {
-          "bookmaker": "Ladbrokes",
-          "odds": 1.33,
-          "stake_pct": 76.16,
-          "stake_amount": 761.65
+        "Los Angeles Lakers": {
+          "bookmaker": "888sport",
+          "odds": 1.57,
+          "stake_pct": 64.48,
+          "stake_amount": 644.8
         }
       },
-      "num_bookmakers_checked": 21,
-      "fresh_bookmakers": 21,
-      "found_at": "2026-10-01T16:55:39.156901+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "c0f72699f32ec193b64fd54092fe268d",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Lazio vs Monza",
-      "commence": "2026-10-11T13:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.282,
-      "implied_probability_sum": 0.98718,
-      "guaranteed_profit": 12.82,
-      "stakes": {
-        "Monza": {
-          "bookmaker": "Betfair Sportsbook",
-          "odds": 6.5,
-          "stake_pct": 15.58,
-          "stake_amount": 155.84
-        },
-        "Draw": {
-          "bookmaker": "Winamax (DE)",
-          "odds": 4.2,
-          "stake_pct": 24.12,
-          "stake_amount": 241.19
-        },
-        "Lazio": {
-          "bookmaker": "1xBet",
-          "odds": 1.68,
-          "stake_pct": 60.3,
-          "stake_amount": 602.97
-        }
-      },
-      "num_bookmakers_checked": 37,
-      "fresh_bookmakers": 37,
-      "found_at": "2026-10-01T16:55:39.135081+00:00"
+      "num_bookmakers_checked": 24,
+      "fresh_bookmakers": 24,
+      "found_at": "2026-10-01T22:27:33.692808+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "9455bb53b8693ab0ec732e5f5ffe5c66",
+      "event_id": "c000fe209e7117aaa0dc0bf7c196d556",
       "sport": "basketball",
       "league": "Basketball Euroleague",
-      "match": "Real Madrid vs KK Partizan NIS",
-      "commence": "2026-10-08T18:45:00Z",
+      "match": "Olympiacos vs Anadolu Efes",
+      "commence": "2026-10-09T18:15:00Z",
       "market": "h2h",
-      "outcome": "KK Partizan NIS",
-      "bookmaker": "Coolbet",
+      "outcome": "Anadolu Efes",
+      "bookmaker": "Paddy Power",
       "odds": 4.5,
-      "fair_odds": 3.014,
-      "true_prob_pct": 33.18,
+      "fair_odds": 2.825,
+      "true_prob_pct": 35.4,
       "implied_prob_pct": 22.22,
-      "edge_pct": 49.33,
-      "kelly_stake_pct": 3.52,
-      "suggested_stake": 35.23,
-      "expected_value": 49.33,
+      "edge_pct": 59.28,
+      "kelly_stake_pct": 4.23,
+      "suggested_stake": 42.34,
+      "expected_value": 59.28,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160437+00:00"
+      "found_at": "2026-10-01T22:27:33.697659+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -218,17 +218,59 @@
       "commence": "2026-10-09T18:15:00Z",
       "market": "h2h",
       "outcome": "Anadolu Efes",
-      "bookmaker": "1xBet",
-      "odds": 4.33,
-      "fair_odds": 2.925,
-      "true_prob_pct": 34.19,
-      "implied_prob_pct": 23.09,
-      "edge_pct": 48.04,
-      "kelly_stake_pct": 3.61,
-      "suggested_stake": 36.07,
-      "expected_value": 48.04,
+      "bookmaker": "Unibet (UK)",
+      "odds": 4.5,
+      "fair_odds": 2.825,
+      "true_prob_pct": 35.4,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 59.28,
+      "kelly_stake_pct": 4.23,
+      "suggested_stake": 42.34,
+      "expected_value": 59.28,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160494+00:00"
+      "found_at": "2026-10-01T22:27:33.697666+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c000fe209e7117aaa0dc0bf7c196d556",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Olympiacos vs Anadolu Efes",
+      "commence": "2026-10-09T18:15:00Z",
+      "market": "h2h",
+      "outcome": "Anadolu Efes",
+      "bookmaker": "Winamax (DE)",
+      "odds": 4.3,
+      "fair_odds": 2.825,
+      "true_prob_pct": 35.4,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 52.2,
+      "kelly_stake_pct": 3.95,
+      "suggested_stake": 39.55,
+      "expected_value": 52.2,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T22:27:33.697679+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "9455bb53b8693ab0ec732e5f5ffe5c66",
+      "sport": "basketball",
+      "league": "Basketball Euroleague",
+      "match": "Real Madrid vs KK Partizan NIS",
+      "commence": "2026-10-08T18:45:00Z",
+      "market": "h2h",
+      "outcome": "KK Partizan NIS",
+      "bookmaker": "Paddy Power",
+      "odds": 4.5,
+      "fair_odds": 3.086,
+      "true_prob_pct": 32.4,
+      "implied_prob_pct": 22.22,
+      "edge_pct": 45.8,
+      "kelly_stake_pct": 3.27,
+      "suggested_stake": 32.71,
+      "expected_value": 45.8,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T22:27:33.697625+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -240,58 +282,16 @@
       "market": "h2h",
       "outcome": "KK Partizan NIS",
       "bookmaker": "Unibet (UK)",
-      "odds": 4.25,
-      "fair_odds": 3.014,
-      "true_prob_pct": 33.18,
-      "implied_prob_pct": 23.53,
-      "edge_pct": 41.03,
-      "kelly_stake_pct": 3.16,
-      "suggested_stake": 31.56,
-      "expected_value": 41.03,
+      "odds": 4.4,
+      "fair_odds": 3.086,
+      "true_prob_pct": 32.4,
+      "implied_prob_pct": 22.73,
+      "edge_pct": 42.56,
+      "kelly_stake_pct": 3.13,
+      "suggested_stake": 31.29,
+      "expected_value": 42.56,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160431+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "c000fe209e7117aaa0dc0bf7c196d556",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Olympiacos vs Anadolu Efes",
-      "commence": "2026-10-09T18:15:00Z",
-      "market": "h2h",
-      "outcome": "Anadolu Efes",
-      "bookmaker": "Coolbet",
-      "odds": 4.1,
-      "fair_odds": 2.925,
-      "true_prob_pct": 34.19,
-      "implied_prob_pct": 24.39,
-      "edge_pct": 40.18,
-      "kelly_stake_pct": 3.24,
-      "suggested_stake": 32.4,
-      "expected_value": 40.18,
-      "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160484+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "c000fe209e7117aaa0dc0bf7c196d556",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Olympiacos vs Anadolu Efes",
-      "commence": "2026-10-09T18:15:00Z",
-      "market": "h2h",
-      "outcome": "Anadolu Efes",
-      "bookmaker": "Unibet (UK)",
-      "odds": 3.9,
-      "fair_odds": 2.925,
-      "true_prob_pct": 34.19,
-      "implied_prob_pct": 25.64,
-      "edge_pct": 33.34,
-      "kelly_stake_pct": 2.87,
-      "suggested_stake": 28.74,
-      "expected_value": 33.34,
-      "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160489+00:00"
+      "found_at": "2026-10-01T22:27:33.697597+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -303,37 +303,16 @@
       "market": "h2h",
       "outcome": "KK Partizan NIS",
       "bookmaker": "Winamax (DE)",
-      "odds": 4.0,
-      "fair_odds": 3.014,
-      "true_prob_pct": 33.18,
-      "implied_prob_pct": 25.0,
-      "edge_pct": 32.73,
-      "kelly_stake_pct": 2.73,
-      "suggested_stake": 27.28,
-      "expected_value": 32.73,
+      "odds": 4.2,
+      "fair_odds": 3.086,
+      "true_prob_pct": 32.4,
+      "implied_prob_pct": 23.81,
+      "edge_pct": 36.08,
+      "kelly_stake_pct": 2.82,
+      "suggested_stake": 28.19,
+      "expected_value": 36.08,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160446+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "9455bb53b8693ab0ec732e5f5ffe5c66",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Real Madrid vs KK Partizan NIS",
-      "commence": "2026-10-08T18:45:00Z",
-      "market": "h2h",
-      "outcome": "KK Partizan NIS",
-      "bookmaker": "Paddy Power",
-      "odds": 4.0,
-      "fair_odds": 3.014,
-      "true_prob_pct": 33.18,
-      "implied_prob_pct": 25.0,
-      "edge_pct": 32.73,
-      "kelly_stake_pct": 2.73,
-      "suggested_stake": 27.28,
-      "expected_value": 32.73,
-      "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160452+00:00"
+      "found_at": "2026-10-01T22:27:33.697619+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -344,17 +323,17 @@
       "commence": "2026-10-09T18:15:00Z",
       "market": "h2h",
       "outcome": "Anadolu Efes",
-      "bookmaker": "Paddy Power",
-      "odds": 3.75,
-      "fair_odds": 2.925,
-      "true_prob_pct": 34.19,
-      "implied_prob_pct": 26.67,
-      "edge_pct": 28.21,
-      "kelly_stake_pct": 2.56,
-      "suggested_stake": 25.65,
-      "expected_value": 28.21,
+      "bookmaker": "Winamax (FR)",
+      "odds": 3.45,
+      "fair_odds": 2.825,
+      "true_prob_pct": 35.4,
+      "implied_prob_pct": 28.99,
+      "edge_pct": 22.12,
+      "kelly_stake_pct": 2.26,
+      "suggested_stake": 22.57,
+      "expected_value": 22.12,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.160477+00:00"
+      "found_at": "2026-10-01T22:27:33.697673+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -367,15 +346,15 @@
       "outcome": "Chicago Blackhawks",
       "bookmaker": "Unibet (SE)",
       "odds": 4.1,
-      "fair_odds": 3.418,
-      "true_prob_pct": 29.25,
+      "fair_odds": 3.407,
+      "true_prob_pct": 29.35,
       "implied_prob_pct": 24.39,
-      "edge_pct": 19.94,
-      "kelly_stake_pct": 1.61,
-      "suggested_stake": 16.08,
-      "expected_value": 19.94,
+      "edge_pct": 20.32,
+      "kelly_stake_pct": 1.64,
+      "suggested_stake": 16.39,
+      "expected_value": 20.32,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.162879+00:00"
+      "found_at": "2026-10-01T22:27:33.701349+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -386,17 +365,38 @@
       "commence": "2026-10-02T01:10:00Z",
       "market": "h2h",
       "outcome": "Chicago Blackhawks",
-      "bookmaker": "Casumo",
+      "bookmaker": "LeoVegas (SE)",
       "odds": 4.1,
-      "fair_odds": 3.418,
-      "true_prob_pct": 29.25,
+      "fair_odds": 3.407,
+      "true_prob_pct": 29.35,
       "implied_prob_pct": 24.39,
-      "edge_pct": 19.94,
-      "kelly_stake_pct": 1.61,
-      "suggested_stake": 16.08,
-      "expected_value": 19.94,
+      "edge_pct": 20.32,
+      "kelly_stake_pct": 1.64,
+      "suggested_stake": 16.39,
+      "expected_value": 20.32,
       "confidence": "ALTA",
-      "found_at": "2026-10-01T16:55:39.162884+00:00"
+      "found_at": "2026-10-01T22:27:33.701383+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "fd5a73a467bdf52881aac58d5fb71b58",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Vancouver Canucks vs Edmonton Oilers",
+      "commence": "2026-10-02T02:10:00Z",
+      "market": "h2h",
+      "outcome": "Vancouver Canucks",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.9,
+      "fair_odds": 3.313,
+      "true_prob_pct": 30.19,
+      "implied_prob_pct": 25.64,
+      "edge_pct": 17.73,
+      "kelly_stake_pct": 1.53,
+      "suggested_stake": 15.28,
+      "expected_value": 17.73,
+      "confidence": "ALTA",
+      "found_at": "2026-10-01T22:27:33.702004+00:00"
     }
   ]
 }
