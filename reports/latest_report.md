@@ -1,9 +1,9 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-10-01 22:27 UTC
+**Generato:** 2026-10-02 16:08 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 627 record da 10 leghe attive | API calls: 18
+**Dati:** 579 record da 10 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
@@ -12,24 +12,13 @@
 |-------|-----------|-----------|----------------|
 | Calcio | 6 | 0 | 2.21% arb |
 | Tennis | 0 | 0 | — |
-| Basket | 2 | 7 | 1.22% arb |
-| Hockey | 3 | 8 | 4.14% arb |
+| Basket | 0 | 9 | 45.8% edge |
+| Hockey | 0 | 6 | 14.9% edge |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-### #1 — Vegas Golden Knights vs Anaheim Ducks
-- **Sport:** Hockey | **Lega:** NHL
-- **Mercato:** totals | **Inizio:** 2026-10-03T02:10:00Z
-- **Margine:** 4.14% (€41.37 su €1000)
-- **Book freschi:** 10
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Under 6.5 | BetOnline.ag | 1.96 | 53.2% | €532.22 |
-| Over 6.5 | Casumo | 2.23 | 46.8% | €467.78 |
-
-### #2 — Monza vs Cagliari
+### #1 — Monza vs Cagliari
 - **Sport:** Calcio | **Lega:** Serie A - Italy
 - **Mercato:** h2h | **Inizio:** 2026-10-19T16:30:00Z
 - **Margine:** 2.21% (€22.12 su €1000)
@@ -37,68 +26,47 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Cagliari | 1xBet | 3.90 | 26.2% | €262.21 |
-| Monza | Betfair | 2.34 | 43.7% | €437.02 |
 | Draw | Betfred (UK) | 3.40 | 30.1% | €300.77 |
+| Monza | Betfair | 2.34 | 43.7% | €437.02 |
+| Cagliari | 1xBet | 3.90 | 26.2% | €262.21 |
 
-### #3 — Arsenal vs Leeds United
-- **Sport:** Calcio | **Lega:** EPL
-- **Mercato:** h2h | **Inizio:** 2026-10-10T11:30:00Z
-- **Margine:** 1.33% (€13.35 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Leeds United | Betfair | 8.80 | 11.5% | €115.17 |
-| Arsenal | 1xBet | 1.44 | 70.4% | €703.84 |
-| Draw | Betfair | 5.60 | 18.1% | €180.99 |
-
-### #4 — AS Roma vs Real Madrid
+### #2 — AS Roma vs Real Madrid
 - **Sport:** Calcio | **Lega:** UEFA Champions League
 - **Mercato:** h2h | **Inizio:** 2026-10-14T19:00:00Z
-- **Margine:** 1.24% (€12.43 su €1000)
+- **Margine:** 1.62% (€16.23 su €1000)
 - **Book freschi:** 34
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Coolbet | 4.20 | 24.1% | €241.09 |
-| AS Roma | Nordic Bet | 3.60 | 28.1% | €281.27 |
-| Real Madrid | Betfair | 2.12 | 47.8% | €477.63 |
+| Draw | Coolbet | 4.20 | 24.2% | €242.02 |
+| Real Madrid | Betfair | 2.12 | 48.0% | €479.48 |
+| AS Roma | Nordic Bet | 3.65 | 27.9% | €278.49 |
 
-### #5 — Los Angeles Lakers vs Golden State Warriors
-- **Sport:** Basket | **Lega:** NBA
-- **Mercato:** h2h | **Inizio:** 2026-10-22T02:10:00Z
-- **Margine:** 1.22% (€12.18 su €1000)
-- **Book freschi:** 24
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Golden State Warriors | 1xBet | 2.85 | 35.5% | €355.20 |
-| Los Angeles Lakers | 888sport | 1.57 | 64.5% | €644.80 |
-
-### #6 — Washington Wizards vs Milwaukee Bucks
-- **Sport:** Basket | **Lega:** NBA
-- **Mercato:** h2h | **Inizio:** 2026-10-21T23:10:00Z
-- **Margine:** 1.07% (€10.75 su €1000)
-- **Book freschi:** 21
+### #3 — Frosinone vs Sassuolo
+- **Sport:** Calcio | **Lega:** Serie A - Italy
+- **Mercato:** h2h | **Inizio:** 2026-10-16T18:45:00Z
+- **Margine:** 1.03% (€10.27 su €1000)
+- **Book freschi:** 29
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Washington Wizards | Unibet (UK) | 1.50 | 67.4% | €673.91 |
-| Milwaukee Bucks | 1xBet | 3.10 | 32.6% | €326.09 |
+| Draw | Betfair | 3.85 | 26.2% | €262.43 |
+| Sassuolo | 1xBet | 2.96 | 34.1% | €341.34 |
+| Frosinone | Unibet (SE) | 2.55 | 39.6% | €396.22 |
 
-### #7 — Vegas Golden Knights vs Anaheim Ducks
-- **Sport:** Hockey | **Lega:** NHL
-- **Mercato:** spreads | **Inizio:** 2026-10-03T02:10:00Z
-- **Margine:** 0.90% (€9.04 su €1000)
-- **Book freschi:** 10
+### #4 — Arsenal vs Leeds United
+- **Sport:** Calcio | **Lega:** EPL
+- **Mercato:** h2h | **Inizio:** 2026-10-10T11:30:00Z
+- **Margine:** 1.01% (€10.10 su €1000)
+- **Book freschi:** 39
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Vegas Golden Knights (-1.5) | Casumo | 2.55 | 39.6% | €395.73 |
-| Anaheim Ducks (1.5) | GTbets | 1.67 | 60.4% | €604.27 |
+| Draw | Betfair | 5.50 | 18.4% | €183.67 |
+| Arsenal | 1xBet | 1.44 | 70.2% | €701.53 |
+| Leeds United | Smarkets | 8.80 | 11.5% | €114.80 |
 
-### #8 — Real Madrid vs Sevilla
+### #5 — Real Madrid vs Sevilla
 - **Sport:** Calcio | **Lega:** La Liga - Spain
 - **Mercato:** h2h | **Inizio:** 2026-10-18T19:00:00Z
 - **Margine:** 0.85% (€8.55 su €1000)
@@ -110,7 +78,7 @@
 | Sevilla | Betfair | 12.00 | 8.4% | €84.05 |
 | Real Madrid | 1xBet | 1.30 | 77.6% | €775.86 |
 
-### #9 — Real Betis vs Barcelona
+### #6 — Real Betis vs Barcelona
 - **Sport:** Calcio | **Lega:** La Liga - Spain
 - **Mercato:** h2h | **Inizio:** 2026-10-17T16:30:00Z
 - **Margine:** 0.73% (€7.32 su €1000)
@@ -118,61 +86,38 @@
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Barcelona | 1xBet | 1.53 | 65.8% | €658.42 |
-| Real Betis | 1xBet | 5.80 | 17.4% | €173.69 |
 | Draw | Betfair | 6.00 | 16.8% | €167.90 |
-
-### #10 — Dallas Stars vs St Louis Blues
-- **Sport:** Hockey | **Lega:** NHL
-- **Mercato:** spreads | **Inizio:** 2026-10-03T01:10:00Z
-- **Margine:** 0.70% (€7.04 su €1000)
-- **Book freschi:** 10
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Dallas Stars (-1.5) | LeoVegas (SE) | 2.45 | 41.1% | €411.06 |
-| St Louis Blues (1.5) | GTbets | 1.71 | 58.9% | €588.94 |
-
-### #11 — Frosinone vs Sassuolo
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-10-16T18:45:00Z
-- **Margine:** 0.69% (€6.85 su €1000)
-- **Book freschi:** 29
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Sassuolo | 1xBet | 2.96 | 34.0% | €340.17 |
-| Frosinone | Unibet (SE) | 2.55 | 39.5% | €394.86 |
-| Draw | Betfair | 3.80 | 26.5% | €264.97 |
+| Real Betis | 1xBet | 5.80 | 17.4% | €173.69 |
+| Barcelona | 1xBet | 1.53 | 65.8% | €658.42 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Basket | Olympiacos vs Anadolu Efe | Anadolu Efes | Paddy Power | 4.50 | 59.3% | 🟢 | €42 |
-| 2 | Basket | Olympiacos vs Anadolu Efe | Anadolu Efes | Unibet (UK) | 4.50 | 59.3% | 🟢 | €42 |
-| 3 | Basket | Olympiacos vs Anadolu Efe | Anadolu Efes | Winamax (DE) | 4.30 | 52.2% | 🟢 | €40 |
-| 4 | Basket | Real Madrid vs KK Partiza | KK Partizan NIS | Paddy Power | 4.50 | 45.8% | 🟢 | €33 |
-| 5 | Basket | Real Madrid vs KK Partiza | KK Partizan NIS | Unibet (UK) | 4.40 | 42.6% | 🟢 | €31 |
-| 6 | Basket | Real Madrid vs KK Partiza | KK Partizan NIS | Winamax (DE) | 4.20 | 36.1% | 🟢 | €28 |
-| 7 | Basket | Olympiacos vs Anadolu Efe | Anadolu Efes | Winamax (FR) | 3.45 | 22.1% | 🟢 | €23 |
-| 8 | Hockey | Utah Mammoth vs Chicago B | Chicago Blackha | Unibet (SE) | 4.10 | 20.3% | 🟢 | €16 |
-| 9 | Hockey | Utah Mammoth vs Chicago B | Chicago Blackha | LeoVegas (SE | 4.10 | 20.3% | 🟢 | €16 |
-| 10 | Hockey | Vancouver Canucks vs Edmo | Vancouver Canuc | Unibet (SE) | 3.90 | 17.7% | 🟢 | €15 |
-| 11 | Hockey | Vancouver Canucks vs Edmo | Vancouver Canuc | LeoVegas (SE | 3.90 | 17.7% | 🟢 | €15 |
-| 12 | Hockey | Utah Mammoth vs Chicago B | Chicago Blackha | Casumo | 4.00 | 17.4% | 🟢 | €14 |
-| 13 | Hockey | Utah Mammoth vs Chicago B | Chicago Blackha | Unibet (NL) | 4.00 | 17.4% | 🟢 | €14 |
-| 14 | Hockey | Utah Mammoth vs Chicago B | Chicago Blackha | Grosvenor | 4.00 | 17.4% | 🟢 | €14 |
-| 15 | Hockey | New York Rangers vs Tampa | New York Ranger | LeoVegas (SE | 3.15 | 16.9% | 🟢 | €20 |
+| 1 | Basket | Real Madrid vs KK Partiza | KK Partizan NIS | Paddy Power | 4.50 | 45.8% | 🟢 | €33 |
+| 2 | Basket | Real Madrid vs KK Partiza | KK Partizan NIS | Unibet (UK) | 4.40 | 42.6% | 🟢 | €31 |
+| 3 | Basket | Olympiacos vs Anadolu Efe | Anadolu Efes | Paddy Power | 4.50 | 39.0% | 🟢 | €28 |
+| 4 | Basket | Real Madrid vs KK Partiza | KK Partizan NIS | Winamax (DE) | 4.20 | 36.1% | 🟢 | €28 |
+| 5 | Basket | Olympiacos vs Anadolu Efe | Anadolu Efes | Winamax (DE) | 4.40 | 35.9% | 🟢 | €26 |
+| 6 | Basket | FC Bayern München vs Virt | Virtus Segafred | 1xBet | 3.31 | 25.7% | 🟢 | €28 |
+| 7 | Basket | Dubai Basketball vs KK Cr | KK Crvena zvezd | 1xBet | 3.31 | 25.6% | 🟢 | €28 |
+| 8 | Basket | Paris Basketball vs ASVEL | ASVEL Lyon Vill | 1xBet | 3.12 | 21.9% | 🟢 | €26 |
+| 9 | Basket | Paris Basketball vs ASVEL | ASVEL Lyon Vill | Coolbet | 3.00 | 17.2% | 🟢 | €22 |
+| 10 | Hockey | Minnesota Wild vs Boston  | Boston Bruins | 1xBet | 3.43 | 14.9% | 🟢 | €15 |
+| 11 | Hockey | New York Islanders vs New | New Jersey Devi | 1xBet | 2.60 | 14.8% | 🟢 | €23 |
+| 12 | Hockey | Edmonton Oilers vs Seattl | Seattle Kraken | 1xBet | 4.04 | 13.7% | 🟢 | €11 |
+| 13 | Hockey | Vegas Golden Knights vs A | Anaheim Ducks | Unibet (SE) | 3.55 | 13.4% | 🟢 | €13 |
+| 14 | Hockey | Vegas Golden Knights vs A | Anaheim Ducks | LeoVegas (SE | 3.55 | 13.4% | 🟢 | €13 |
+| 15 | Hockey | Minnesota Wild vs Boston  | Boston Bruins | Marathon Bet | 3.38 | 13.2% | 🟢 | €14 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Basket**: █████████████████████░░░░░░░░░░░░ 65% (€239)
-- **Hockey**: ███████████░░░░░░░░░░░░░░░░░░░░░░ 35% (€126)
+- **Basket**: ████████████████████████░░░░░░░░░ 73% (€249)
+- **Hockey**: ████████░░░░░░░░░░░░░░░░░░░░░░░░░ 27% (€90)
 
 ---
 ## ⚠️ Disclaimer
