@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-10-02 21:57 UTC",
+  "timestamp": "2026-10-03 14:35 UTC",
   "arbitrages_found": 11,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 8,
+      "arbs": 9,
       "vbs": 0
     },
     "tennis": {
@@ -16,42 +16,13 @@
       "vbs": 7
     },
     "hockey": {
-      "arbs": 1,
+      "arbs": 0,
       "vbs": 8
     }
   },
-  "best_arb_margin": 2.732,
-  "best_value_edge": 39.02,
+  "best_arb_margin": 2.212,
+  "best_value_edge": 31.64,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "d8e6871b9b420af1492a655c1058244c",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Edmonton Oilers vs Seattle Kraken",
-      "commence": "2026-10-03T23:10:00Z",
-      "market": "totals",
-      "margin_pct": 2.732,
-      "implied_probability_sum": 0.97268,
-      "guaranteed_profit": 27.32,
-      "stakes": {
-        "Under 6.5": {
-          "bookmaker": "Pinnacle",
-          "odds": 1.93,
-          "stake_pct": 53.27,
-          "stake_amount": 532.69
-        },
-        "Over 6.5": {
-          "bookmaker": "1xBet",
-          "odds": 2.2,
-          "stake_pct": 46.73,
-          "stake_amount": 467.31
-        }
-      },
-      "num_bookmakers_checked": 13,
-      "fresh_bookmakers": 13,
-      "found_at": "2026-10-02T21:57:22.790030+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "ce94aca384a20f6af459366da6e1dd21",
@@ -83,9 +54,9 @@
           "stake_amount": 262.21
         }
       },
-      "num_bookmakers_checked": 29,
-      "fresh_bookmakers": 29,
-      "found_at": "2026-10-02T21:57:22.750213+00:00"
+      "num_bookmakers_checked": 28,
+      "fresh_bookmakers": 28,
+      "found_at": "2026-10-03T14:35:40.371080+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -114,7 +85,7 @@
       },
       "num_bookmakers_checked": 22,
       "fresh_bookmakers": 22,
-      "found_at": "2026-10-02T21:57:22.782023+00:00"
+      "found_at": "2026-10-03T14:35:40.398405+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -128,6 +99,12 @@
       "implied_probability_sum": 0.98377,
       "guaranteed_profit": 16.23,
       "stakes": {
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.65,
+          "stake_pct": 27.85,
+          "stake_amount": 278.49
+        },
         "Draw": {
           "bookmaker": "Coolbet",
           "odds": 4.2,
@@ -139,17 +116,11 @@
           "odds": 2.12,
           "stake_pct": 47.95,
           "stake_amount": 479.48
-        },
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.65,
-          "stake_pct": 27.85,
-          "stake_amount": 278.49
         }
       },
-      "num_bookmakers_checked": 35,
-      "fresh_bookmakers": 35,
-      "found_at": "2026-10-02T21:57:22.771672+00:00"
+      "num_bookmakers_checked": 34,
+      "fresh_bookmakers": 34,
+      "found_at": "2026-10-03T14:35:40.389610+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -163,22 +134,57 @@
       "implied_probability_sum": 0.98782,
       "guaranteed_profit": 12.18,
       "stakes": {
-        "Golden State Warriors": {
-          "bookmaker": "1xBet",
-          "odds": 2.85,
-          "stake_pct": 35.52,
-          "stake_amount": 355.2
-        },
         "Los Angeles Lakers": {
           "bookmaker": "888sport",
           "odds": 1.57,
           "stake_pct": 64.48,
           "stake_amount": 644.8
+        },
+        "Golden State Warriors": {
+          "bookmaker": "1xBet",
+          "odds": 2.85,
+          "stake_pct": 35.52,
+          "stake_amount": 355.2
         }
       },
-      "num_bookmakers_checked": 25,
-      "fresh_bookmakers": 25,
-      "found_at": "2026-10-02T21:57:22.782320+00:00"
+      "num_bookmakers_checked": 24,
+      "fresh_bookmakers": 24,
+      "found_at": "2026-10-03T14:35:40.398659+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "66a4f4201806b928c9007116727fdd61",
+      "sport": "soccer",
+      "league": "La Liga - Spain",
+      "match": "Real Racing Club de Santander vs Valencia",
+      "commence": "2026-10-11T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 0.982,
+      "implied_probability_sum": 0.99018,
+      "guaranteed_profit": 9.82,
+      "stakes": {
+        "Valencia": {
+          "bookmaker": "Betfair",
+          "odds": 3.4,
+          "stake_pct": 29.7,
+          "stake_amount": 297.04
+        },
+        "Real Racing Club de Santander": {
+          "bookmaker": "1xBet",
+          "odds": 2.31,
+          "stake_pct": 43.72,
+          "stake_amount": 437.2
+        },
+        "Draw": {
+          "bookmaker": "Winamax (DE)",
+          "odds": 3.8,
+          "stake_pct": 26.58,
+          "stake_amount": 265.77
+        }
+      },
+      "num_bookmakers_checked": 35,
+      "fresh_bookmakers": 35,
+      "found_at": "2026-10-03T14:35:40.373992+00:00"
     }
   ],
   "value_bets": [
@@ -193,15 +199,15 @@
       "outcome": "Anadolu Efes",
       "bookmaker": "Paddy Power",
       "odds": 4.5,
-      "fair_odds": 3.237,
-      "true_prob_pct": 30.89,
+      "fair_odds": 3.418,
+      "true_prob_pct": 29.25,
       "implied_prob_pct": 22.22,
-      "edge_pct": 39.02,
-      "kelly_stake_pct": 2.79,
-      "suggested_stake": 27.87,
-      "expected_value": 39.02,
+      "edge_pct": 31.64,
+      "kelly_stake_pct": 2.26,
+      "suggested_stake": 22.6,
+      "expected_value": 31.64,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.785283+00:00"
+      "found_at": "2026-10-03T14:35:40.401429+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -214,15 +220,15 @@
       "outcome": "Anadolu Efes",
       "bookmaker": "Winamax (DE)",
       "odds": 4.4,
-      "fair_odds": 3.237,
-      "true_prob_pct": 30.89,
+      "fair_odds": 3.418,
+      "true_prob_pct": 29.25,
       "implied_prob_pct": 22.73,
-      "edge_pct": 35.93,
-      "kelly_stake_pct": 2.64,
-      "suggested_stake": 26.42,
-      "expected_value": 35.93,
+      "edge_pct": 28.71,
+      "kelly_stake_pct": 2.11,
+      "suggested_stake": 21.11,
+      "expected_value": 28.71,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.785297+00:00"
+      "found_at": "2026-10-03T14:35:40.401440+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -235,15 +241,15 @@
       "outcome": "St Louis Blues",
       "bookmaker": "Unibet (SE)",
       "odds": 5.0,
-      "fair_odds": 3.898,
-      "true_prob_pct": 25.66,
+      "fair_odds": 4.067,
+      "true_prob_pct": 24.59,
       "implied_prob_pct": 20.0,
-      "edge_pct": 28.28,
-      "kelly_stake_pct": 1.77,
-      "suggested_stake": 17.68,
-      "expected_value": 28.28,
+      "edge_pct": 22.93,
+      "kelly_stake_pct": 1.43,
+      "suggested_stake": 14.33,
+      "expected_value": 22.93,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.792880+00:00"
+      "found_at": "2026-10-03T14:35:40.406738+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -256,15 +262,15 @@
       "outcome": "St Louis Blues",
       "bookmaker": "LeoVegas (SE)",
       "odds": 5.0,
-      "fair_odds": 3.898,
-      "true_prob_pct": 25.66,
+      "fair_odds": 4.067,
+      "true_prob_pct": 24.59,
       "implied_prob_pct": 20.0,
-      "edge_pct": 28.28,
-      "kelly_stake_pct": 1.77,
-      "suggested_stake": 17.68,
-      "expected_value": 28.28,
+      "edge_pct": 22.93,
+      "kelly_stake_pct": 1.43,
+      "suggested_stake": 14.33,
+      "expected_value": 22.93,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.792900+00:00"
+      "found_at": "2026-10-03T14:35:40.406756+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -277,15 +283,15 @@
       "outcome": "St Louis Blues",
       "bookmaker": "Grosvenor",
       "odds": 4.9,
-      "fair_odds": 3.898,
-      "true_prob_pct": 25.66,
+      "fair_odds": 4.067,
+      "true_prob_pct": 24.59,
       "implied_prob_pct": 20.41,
-      "edge_pct": 25.72,
-      "kelly_stake_pct": 1.65,
-      "suggested_stake": 16.48,
-      "expected_value": 25.72,
+      "edge_pct": 20.47,
+      "kelly_stake_pct": 1.31,
+      "suggested_stake": 13.12,
+      "expected_value": 20.47,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.792893+00:00"
+      "found_at": "2026-10-03T14:35:40.406749+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -298,15 +304,15 @@
       "outcome": "St Louis Blues",
       "bookmaker": "Unibet (NL)",
       "odds": 4.9,
-      "fair_odds": 3.898,
-      "true_prob_pct": 25.66,
+      "fair_odds": 4.067,
+      "true_prob_pct": 24.59,
       "implied_prob_pct": 20.41,
-      "edge_pct": 25.72,
-      "kelly_stake_pct": 1.65,
-      "suggested_stake": 16.48,
-      "expected_value": 25.72,
+      "edge_pct": 20.47,
+      "kelly_stake_pct": 1.31,
+      "suggested_stake": 13.12,
+      "expected_value": 20.47,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.792906+00:00"
+      "found_at": "2026-10-03T14:35:40.406762+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -319,15 +325,15 @@
       "outcome": "St Louis Blues",
       "bookmaker": "Casumo",
       "odds": 4.9,
-      "fair_odds": 3.898,
-      "true_prob_pct": 25.66,
+      "fair_odds": 4.067,
+      "true_prob_pct": 24.59,
       "implied_prob_pct": 20.41,
-      "edge_pct": 25.72,
-      "kelly_stake_pct": 1.65,
-      "suggested_stake": 16.48,
-      "expected_value": 25.72,
+      "edge_pct": 20.47,
+      "kelly_stake_pct": 1.31,
+      "suggested_stake": 13.12,
+      "expected_value": 20.47,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.792913+00:00"
+      "found_at": "2026-10-03T14:35:40.406767+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -340,15 +346,15 @@
       "outcome": "KK Crvena zvezda",
       "bookmaker": "1xBet",
       "odds": 3.31,
-      "fair_odds": 2.692,
-      "true_prob_pct": 37.14,
+      "fair_odds": 2.773,
+      "true_prob_pct": 36.06,
       "implied_prob_pct": 30.21,
-      "edge_pct": 22.94,
-      "kelly_stake_pct": 2.48,
-      "suggested_stake": 24.83,
-      "expected_value": 22.94,
+      "edge_pct": 19.36,
+      "kelly_stake_pct": 2.1,
+      "suggested_stake": 20.95,
+      "expected_value": 19.36,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.784941+00:00"
+      "found_at": "2026-10-03T14:35:40.400945+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -361,15 +367,15 @@
       "outcome": "Virtus Segafredo Bologna",
       "bookmaker": "1xBet",
       "odds": 3.31,
-      "fair_odds": 2.692,
-      "true_prob_pct": 37.14,
+      "fair_odds": 2.773,
+      "true_prob_pct": 36.06,
       "implied_prob_pct": 30.21,
-      "edge_pct": 22.94,
-      "kelly_stake_pct": 2.48,
-      "suggested_stake": 24.83,
-      "expected_value": 22.94,
+      "edge_pct": 19.36,
+      "kelly_stake_pct": 2.1,
+      "suggested_stake": 20.95,
+      "expected_value": 19.36,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.785069+00:00"
+      "found_at": "2026-10-03T14:35:40.401129+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -380,17 +386,17 @@
       "commence": "2026-10-04T01:10:00Z",
       "market": "h2h",
       "outcome": "St Louis Blues",
-      "bookmaker": "1xBet",
-      "odds": 4.67,
-      "fair_odds": 3.898,
-      "true_prob_pct": 25.66,
-      "implied_prob_pct": 21.41,
-      "edge_pct": 19.81,
-      "kelly_stake_pct": 1.35,
-      "suggested_stake": 13.5,
-      "expected_value": 19.81,
+      "bookmaker": "Unibet (UK)",
+      "odds": 4.8,
+      "fair_odds": 4.067,
+      "true_prob_pct": 24.59,
+      "implied_prob_pct": 20.83,
+      "edge_pct": 18.01,
+      "kelly_stake_pct": 1.18,
+      "suggested_stake": 11.85,
+      "expected_value": 18.01,
       "confidence": "ALTA",
-      "found_at": "2026-10-02T21:57:22.792814+00:00"
+      "found_at": "2026-10-03T14:35:40.406712+00:00"
     }
   ]
 }
