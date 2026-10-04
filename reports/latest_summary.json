@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-03 20:44 UTC",
+  "timestamp": "2026-10-04 15:11 UTC",
   "arbitrages_found": 12,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 9,
-      "vbs": 0
+      "arbs": 10,
+      "vbs": 6
     },
     "tennis": {
       "arbs": 0,
@@ -13,45 +13,16 @@
     },
     "basketball": {
       "arbs": 2,
-      "vbs": 4
+      "vbs": 3
     },
     "hockey": {
-      "arbs": 1,
-      "vbs": 11
+      "arbs": 0,
+      "vbs": 6
     }
   },
-  "best_arb_margin": 4.128,
-  "best_value_edge": 30.84,
+  "best_arb_margin": 2.212,
+  "best_value_edge": 17.82,
   "arbitrages": [
-    {
-      "type": "ARBITRAGE",
-      "event_id": "6cac1fc86136075a23655625562fd8dc",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Anaheim Ducks vs Florida Panthers",
-      "commence": "2026-10-05T00:10:00Z",
-      "market": "totals",
-      "margin_pct": 4.128,
-      "implied_probability_sum": 0.95872,
-      "guaranteed_profit": 41.28,
-      "stakes": {
-        "Under 6.5": {
-          "bookmaker": "GTbets",
-          "odds": 2.0,
-          "stake_pct": 52.15,
-          "stake_amount": 521.53
-        },
-        "Over 6.5": {
-          "bookmaker": "Grosvenor",
-          "odds": 2.18,
-          "stake_pct": 47.85,
-          "stake_amount": 478.47
-        }
-      },
-      "num_bookmakers_checked": 8,
-      "fresh_bookmakers": 8,
-      "found_at": "2026-10-03T20:44:49.659673+00:00"
-    },
     {
       "type": "ARBITRAGE",
       "event_id": "ce94aca384a20f6af459366da6e1dd21",
@@ -64,6 +35,12 @@
       "implied_probability_sum": 0.97788,
       "guaranteed_profit": 22.12,
       "stakes": {
+        "Monza": {
+          "bookmaker": "Betfair",
+          "odds": 2.34,
+          "stake_pct": 43.7,
+          "stake_amount": 437.02
+        },
         "Draw": {
           "bookmaker": "Betfred (UK)",
           "odds": 3.4,
@@ -75,17 +52,11 @@
           "odds": 3.9,
           "stake_pct": 26.22,
           "stake_amount": 262.21
-        },
-        "Monza": {
-          "bookmaker": "Betfair",
-          "odds": 2.34,
-          "stake_pct": 43.7,
-          "stake_amount": 437.02
         }
       },
       "num_bookmakers_checked": 29,
       "fresh_bookmakers": 29,
-      "found_at": "2026-10-03T20:44:49.609542+00:00"
+      "found_at": "2026-10-04T15:11:14.290933+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -99,22 +70,22 @@
       "implied_probability_sum": 0.98156,
       "guaranteed_profit": 18.44,
       "stakes": {
-        "Houston Rockets": {
-          "bookmaker": "Nordic Bet",
-          "odds": 1.34,
-          "stake_pct": 76.03,
-          "stake_amount": 760.29
-        },
         "Dallas Mavericks": {
           "bookmaker": "1xBet",
           "odds": 4.25,
           "stake_pct": 23.97,
           "stake_amount": 239.71
+        },
+        "Houston Rockets": {
+          "bookmaker": "Nordic Bet",
+          "odds": 1.34,
+          "stake_pct": 76.03,
+          "stake_amount": 760.29
         }
       },
       "num_bookmakers_checked": 22,
       "fresh_bookmakers": 22,
-      "found_at": "2026-10-03T20:44:49.645860+00:00"
+      "found_at": "2026-10-04T15:11:14.327434+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -124,32 +95,32 @@
       "match": "AS Roma vs Real Madrid",
       "commence": "2026-10-14T19:00:00Z",
       "market": "h2h",
-      "margin_pct": 1.623,
-      "implied_probability_sum": 0.98377,
-      "guaranteed_profit": 16.23,
+      "margin_pct": 1.798,
+      "implied_probability_sum": 0.98202,
+      "guaranteed_profit": 17.98,
       "stakes": {
         "Real Madrid": {
           "bookmaker": "Betfair",
-          "odds": 2.12,
-          "stake_pct": 47.95,
-          "stake_amount": 479.48
-        },
-        "AS Roma": {
-          "bookmaker": "Nordic Bet",
-          "odds": 3.65,
-          "stake_pct": 27.85,
-          "stake_amount": 278.49
+          "odds": 2.08,
+          "stake_pct": 48.96,
+          "stake_amount": 489.57
         },
         "Draw": {
           "bookmaker": "Coolbet",
           "odds": 4.2,
-          "stake_pct": 24.2,
-          "stake_amount": 242.02
+          "stake_pct": 24.25,
+          "stake_amount": 242.45
+        },
+        "AS Roma": {
+          "bookmaker": "Nordic Bet",
+          "odds": 3.8,
+          "stake_pct": 26.8,
+          "stake_amount": 267.98
         }
       },
       "num_bookmakers_checked": 35,
       "fresh_bookmakers": 35,
-      "found_at": "2026-10-03T20:44:49.634372+00:00"
+      "found_at": "2026-10-04T15:11:14.316075+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -163,22 +134,57 @@
       "implied_probability_sum": 0.98782,
       "guaranteed_profit": 12.18,
       "stakes": {
-        "Golden State Warriors": {
-          "bookmaker": "1xBet",
-          "odds": 2.85,
-          "stake_pct": 35.52,
-          "stake_amount": 355.2
-        },
         "Los Angeles Lakers": {
           "bookmaker": "888sport",
           "odds": 1.57,
           "stake_pct": 64.48,
           "stake_amount": 644.8
+        },
+        "Golden State Warriors": {
+          "bookmaker": "1xBet",
+          "odds": 2.85,
+          "stake_pct": 35.52,
+          "stake_amount": 355.2
         }
       },
       "num_bookmakers_checked": 25,
       "fresh_bookmakers": 25,
-      "found_at": "2026-10-03T20:44:49.646189+00:00"
+      "found_at": "2026-10-04T15:11:14.327776+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "93177465a42a0fb7802f1c8b06d6ee3a",
+      "sport": "soccer",
+      "league": "UEFA Champions League",
+      "match": "Arsenal vs Lille",
+      "commence": "2026-10-13T19:00:00Z",
+      "market": "h2h",
+      "margin_pct": 0.824,
+      "implied_probability_sum": 0.99176,
+      "guaranteed_profit": 8.24,
+      "stakes": {
+        "Lille": {
+          "bookmaker": "Marathon Bet",
+          "odds": 13.25,
+          "stake_pct": 7.61,
+          "stake_amount": 76.1
+        },
+        "Draw": {
+          "bookmaker": "Betfair",
+          "odds": 6.8,
+          "stake_pct": 14.83,
+          "stake_amount": 148.28
+        },
+        "Arsenal": {
+          "bookmaker": "1xBet",
+          "odds": 1.3,
+          "stake_pct": 77.56,
+          "stake_amount": 775.62
+        }
+      },
+      "num_bookmakers_checked": 36,
+      "fresh_bookmakers": 36,
+      "found_at": "2026-10-04T15:11:14.312345+00:00"
     }
   ],
   "value_bets": [
@@ -193,15 +199,36 @@
       "outcome": "Anadolu Efes",
       "bookmaker": "Paddy Power",
       "odds": 4.5,
-      "fair_odds": 3.439,
-      "true_prob_pct": 29.08,
+      "fair_odds": 3.819,
+      "true_prob_pct": 26.18,
       "implied_prob_pct": 22.22,
-      "edge_pct": 30.84,
-      "kelly_stake_pct": 2.2,
-      "suggested_stake": 22.03,
-      "expected_value": 30.84,
+      "edge_pct": 17.82,
+      "kelly_stake_pct": 1.27,
+      "suggested_stake": 12.73,
+      "expected_value": 17.82,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.649925+00:00"
+      "found_at": "2026-10-04T15:11:14.331584+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "af2f084075391e55ba2a596e7846bb40",
+      "sport": "basketball",
+      "league": "NBA",
+      "match": "Houston Rockets vs Dallas Mavericks",
+      "commence": "2026-10-22T00:40:00Z",
+      "market": "h2h",
+      "outcome": "Dallas Mavericks",
+      "bookmaker": "1xBet",
+      "odds": 4.25,
+      "fair_odds": 3.651,
+      "true_prob_pct": 27.39,
+      "implied_prob_pct": 23.53,
+      "edge_pct": 16.41,
+      "kelly_stake_pct": 1.26,
+      "suggested_stake": 12.62,
+      "expected_value": 16.41,
+      "confidence": "ALTA",
+      "found_at": "2026-10-04T15:11:14.327476+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -214,183 +241,162 @@
       "outcome": "Anadolu Efes",
       "bookmaker": "Winamax (DE)",
       "odds": 4.4,
-      "fair_odds": 3.439,
-      "true_prob_pct": 29.08,
+      "fair_odds": 3.819,
+      "true_prob_pct": 26.18,
       "implied_prob_pct": 22.73,
-      "edge_pct": 27.94,
-      "kelly_stake_pct": 2.05,
-      "suggested_stake": 20.54,
-      "expected_value": 27.94,
+      "edge_pct": 15.21,
+      "kelly_stake_pct": 1.12,
+      "suggested_stake": 11.18,
+      "expected_value": 15.21,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.649943+00:00"
+      "found_at": "2026-10-04T15:11:14.331593+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "065b68a0db1926f7e3bff7ebd93e7624",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Colorado Avalanche vs St Louis Blues",
-      "commence": "2026-10-04T01:10:00Z",
+      "event_id": "471f891b1f6516a864ad94c8eb649f5e",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Lyon vs Nice",
+      "commence": "2026-10-18T18:45:00Z",
       "market": "h2h",
-      "outcome": "St Louis Blues",
-      "bookmaker": "Unibet (SE)",
+      "outcome": "Nice",
+      "bookmaker": "Betfred (UK)",
       "odds": 5.0,
-      "fair_odds": 4.095,
-      "true_prob_pct": 24.42,
+      "fair_odds": 4.376,
+      "true_prob_pct": 22.85,
       "implied_prob_pct": 20.0,
-      "edge_pct": 22.1,
-      "kelly_stake_pct": 1.38,
-      "suggested_stake": 13.81,
-      "expected_value": 22.1,
+      "edge_pct": 14.26,
+      "kelly_stake_pct": 0.89,
+      "suggested_stake": 8.91,
+      "expected_value": 14.26,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.656800+00:00"
+      "found_at": "2026-10-04T15:11:14.311079+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "065b68a0db1926f7e3bff7ebd93e7624",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Colorado Avalanche vs St Louis Blues",
-      "commence": "2026-10-04T01:10:00Z",
+      "event_id": "471f891b1f6516a864ad94c8eb649f5e",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Lyon vs Nice",
+      "commence": "2026-10-18T18:45:00Z",
       "market": "h2h",
-      "outcome": "St Louis Blues",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 5.0,
-      "fair_odds": 4.095,
-      "true_prob_pct": 24.42,
-      "implied_prob_pct": 20.0,
-      "edge_pct": 22.1,
-      "kelly_stake_pct": 1.38,
-      "suggested_stake": 13.81,
-      "expected_value": 22.1,
-      "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.656825+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "065b68a0db1926f7e3bff7ebd93e7624",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Colorado Avalanche vs St Louis Blues",
-      "commence": "2026-10-04T01:10:00Z",
-      "market": "h2h",
-      "outcome": "St Louis Blues",
+      "outcome": "Nice",
       "bookmaker": "Grosvenor",
-      "odds": 4.9,
-      "fair_odds": 4.095,
-      "true_prob_pct": 24.42,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 19.66,
-      "kelly_stake_pct": 1.26,
-      "suggested_stake": 12.6,
-      "expected_value": 19.66,
+      "odds": 5.0,
+      "fair_odds": 4.376,
+      "true_prob_pct": 22.85,
+      "implied_prob_pct": 20.0,
+      "edge_pct": 14.26,
+      "kelly_stake_pct": 0.89,
+      "suggested_stake": 8.91,
+      "expected_value": 14.26,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.656818+00:00"
+      "found_at": "2026-10-04T15:11:14.311164+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "065b68a0db1926f7e3bff7ebd93e7624",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Colorado Avalanche vs St Louis Blues",
-      "commence": "2026-10-04T01:10:00Z",
+      "event_id": "b077aa049133c0358bcd643bfee48da3",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Troyes vs RC Lens",
+      "commence": "2026-10-17T18:45:00Z",
       "market": "h2h",
-      "outcome": "St Louis Blues",
-      "bookmaker": "Unibet (NL)",
-      "odds": 4.9,
-      "fair_odds": 4.095,
-      "true_prob_pct": 24.42,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 19.66,
-      "kelly_stake_pct": 1.26,
-      "suggested_stake": 12.6,
-      "expected_value": 19.66,
-      "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.656833+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "065b68a0db1926f7e3bff7ebd93e7624",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Colorado Avalanche vs St Louis Blues",
-      "commence": "2026-10-04T01:10:00Z",
-      "market": "h2h",
-      "outcome": "St Louis Blues",
-      "bookmaker": "Casumo",
-      "odds": 4.9,
-      "fair_odds": 4.095,
-      "true_prob_pct": 24.42,
-      "implied_prob_pct": 20.41,
-      "edge_pct": 19.66,
-      "kelly_stake_pct": 1.26,
-      "suggested_stake": 12.6,
-      "expected_value": 19.66,
-      "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.656840+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8f3354586afd82f29d465e8634c3d905",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vancouver Canucks vs Vegas Golden Knights",
-      "commence": "2026-10-05T01:10:00Z",
-      "market": "h2h",
-      "outcome": "Vancouver Canucks",
-      "bookmaker": "Unibet (SE)",
-      "odds": 4.25,
-      "fair_odds": 3.568,
-      "true_prob_pct": 28.03,
-      "implied_prob_pct": 23.53,
-      "edge_pct": 19.11,
-      "kelly_stake_pct": 1.47,
-      "suggested_stake": 14.7,
-      "expected_value": 19.11,
-      "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.660351+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "8f3354586afd82f29d465e8634c3d905",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Vancouver Canucks vs Vegas Golden Knights",
-      "commence": "2026-10-05T01:10:00Z",
-      "market": "h2h",
-      "outcome": "Vancouver Canucks",
-      "bookmaker": "LeoVegas (SE)",
-      "odds": 4.25,
-      "fair_odds": 3.568,
-      "true_prob_pct": 28.03,
-      "implied_prob_pct": 23.53,
-      "edge_pct": 19.11,
-      "kelly_stake_pct": 1.47,
-      "suggested_stake": 14.7,
-      "expected_value": 19.11,
-      "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.660365+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "82a9602dee45bcd6c373ad39c110c027",
-      "sport": "basketball",
-      "league": "Basketball Euroleague",
-      "match": "Dubai Basketball vs KK Crvena zvezda",
-      "commence": "2026-10-08T16:00:00Z",
-      "market": "h2h",
-      "outcome": "KK Crvena zvezda",
+      "outcome": "Troyes",
       "bookmaker": "1xBet",
-      "odds": 3.31,
-      "fair_odds": 2.804,
-      "true_prob_pct": 35.66,
-      "implied_prob_pct": 30.21,
-      "edge_pct": 18.03,
-      "kelly_stake_pct": 1.95,
-      "suggested_stake": 19.51,
-      "expected_value": 18.03,
+      "odds": 4.3,
+      "fair_odds": 3.832,
+      "true_prob_pct": 26.1,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 12.23,
+      "kelly_stake_pct": 0.93,
+      "suggested_stake": 9.26,
+      "expected_value": 12.23,
       "confidence": "ALTA",
-      "found_at": "2026-10-03T20:44:49.649228+00:00"
+      "found_at": "2026-10-04T15:11:14.309411+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "471f891b1f6516a864ad94c8eb649f5e",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Lyon vs Nice",
+      "commence": "2026-10-18T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Nice",
+      "bookmaker": "Pinnacle",
+      "odds": 4.91,
+      "fair_odds": 4.376,
+      "true_prob_pct": 22.85,
+      "implied_prob_pct": 20.37,
+      "edge_pct": 12.2,
+      "kelly_stake_pct": 0.78,
+      "suggested_stake": 7.8,
+      "expected_value": 12.2,
+      "confidence": "ALTA",
+      "found_at": "2026-10-04T15:11:14.311049+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "471f891b1f6516a864ad94c8eb649f5e",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Lyon vs Nice",
+      "commence": "2026-10-18T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Nice",
+      "bookmaker": "Nordic Bet",
+      "odds": 4.9,
+      "fair_odds": 4.376,
+      "true_prob_pct": 22.85,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 11.98,
+      "kelly_stake_pct": 0.77,
+      "suggested_stake": 7.68,
+      "expected_value": 11.98,
+      "confidence": "ALTA",
+      "found_at": "2026-10-04T15:11:14.311171+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "471f891b1f6516a864ad94c8eb649f5e",
+      "sport": "soccer",
+      "league": "Ligue 1 - France",
+      "match": "Lyon vs Nice",
+      "commence": "2026-10-18T18:45:00Z",
+      "market": "h2h",
+      "outcome": "Nice",
+      "bookmaker": "Betsson",
+      "odds": 4.9,
+      "fair_odds": 4.376,
+      "true_prob_pct": 22.85,
+      "implied_prob_pct": 20.41,
+      "edge_pct": 11.98,
+      "kelly_stake_pct": 0.77,
+      "suggested_stake": 7.68,
+      "expected_value": 11.98,
+      "confidence": "ALTA",
+      "found_at": "2026-10-04T15:11:14.311178+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "5393b504ffa70a2603259b2df414007f",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "New York Rangers vs Utah Mammoth",
+      "commence": "2026-10-04T22:10:00Z",
+      "market": "h2h",
+      "outcome": "New York Rangers",
+      "bookmaker": "1xBet",
+      "odds": 2.35,
+      "fair_odds": 2.103,
+      "true_prob_pct": 47.55,
+      "implied_prob_pct": 42.55,
+      "edge_pct": 11.74,
+      "kelly_stake_pct": 2.17,
+      "suggested_stake": 21.75,
+      "expected_value": 11.74,
+      "confidence": "ALTA",
+      "found_at": "2026-10-04T15:11:14.332758+00:00"
     }
   ]
 }
