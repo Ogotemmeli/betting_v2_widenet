@@ -1,359 +1,301 @@
 # 🏟️ Report Analisi Multi-Sport
-**Generato:** 2026-11-02 20:02 UTC
+**Generato:** 2026-11-03 17:37 UTC
 
 **Bankroll:** €1000 | **Sport:** Calcio, Tennis, Basket, Hockey
 
-**Dati:** 456 record da 10 leghe attive | API calls: 18
+**Dati:** 411 record da 10 leghe attive | API calls: 18
 
 ---
 ## 📊 Riepilogo per sport
 
 | Sport | Arbitraggi | Value bet | Miglior margine |
 |-------|-----------|-----------|----------------|
-| Calcio | 22 | 0 | 2.21% arb |
+| Calcio | 19 | 0 | 3.73% arb |
 | Tennis | 0 | 0 | — |
-| Basket | 1 | 2 | 1.17% arb |
-| Hockey | 3 | 13 | 4.97% arb |
+| Basket | 1 | 2 | 6.24% arb |
+| Hockey | 1 | 13 | 3.47% arb |
 
 ---
 ## 🎯 Arbitraggi (Sure Bet)
 
-### #1 — Vancouver Canucks vs Anaheim Ducks
-- **Sport:** Hockey | **Lega:** NHL
-- **Mercato:** totals | **Inizio:** 2026-11-04T02:10:00Z
-- **Margine:** 4.97% (€49.75 su €1000)
-- **Book freschi:** 14
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Under 6.5 | BetOnline.ag | 2.13 | 49.4% | €494.06 |
-| Over 6.5 | 1xBet | 2.08 | 50.6% | €505.94 |
-
-### #2 — Benfica vs Lech Poznań
-- **Sport:** Calcio | **Lega:** UEFA Europa League
-- **Mercato:** h2h | **Inizio:** 2026-11-05T20:00:00Z
-- **Margine:** 2.21% (€22.11 su €1000)
-- **Book freschi:** 36
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Lech Poznań | Betsson | 18.50 | 5.5% | €55.28 |
-| Benfica | 1xBet | 1.22 | 83.8% | €838.20 |
-| Draw | Smarkets | 9.60 | 10.7% | €106.52 |
-
-### #3 — Toronto Maple Leafs vs Utah Mammoth
-- **Sport:** Hockey | **Lega:** NHL
-- **Mercato:** totals | **Inizio:** 2026-11-04T00:10:00Z
-- **Margine:** 2.15% (€21.53 su €1000)
-- **Book freschi:** 14
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Under 6.5 | BetOnline.ag | 2.00 | 51.1% | €511.00 |
-| Over 6.5 | 1xBet | 2.09 | 48.9% | €489.00 |
-
-### #4 — Celtic vs Besiktas JK
-- **Sport:** Calcio | **Lega:** UEFA Europa League
-- **Mercato:** h2h | **Inizio:** 2026-11-05T20:00:00Z
-- **Margine:** 2.02% (€20.17 su €1000)
-- **Book freschi:** 35
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 4.10 | 24.9% | €248.92 |
-| Celtic | Smarkets | 3.30 | 30.9% | €309.27 |
-| Besiktas JK | 1xBet | 2.31 | 44.2% | €441.81 |
-
-### #5 — FSV Mainz 05 vs Bayern Munich
-- **Sport:** Calcio | **Lega:** Bundesliga - Germany
-- **Mercato:** h2h | **Inizio:** 2026-11-07T14:30:00Z
-- **Margine:** 1.48% (€14.84 su €1000)
-- **Book freschi:** 40
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 6.60 | 15.4% | €153.80 |
-| FSV Mainz 05 | 1xBet | 6.52 | 15.6% | €155.68 |
-| Bayern Munich | GTbets | 1.47 | 69.0% | €690.52 |
-
-### #6 — Pittsburgh Penguins vs Vegas Golden Knights
-- **Sport:** Hockey | **Lega:** NHL
-- **Mercato:** totals | **Inizio:** 2026-11-04T00:10:00Z
-- **Margine:** 1.46% (€14.56 su €1000)
-- **Book freschi:** 11
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Under 6.5 | 888sport | 2.00 | 50.7% | €507.39 |
-| Over 6.5 | 1xBet | 2.06 | 49.3% | €492.61 |
-
-### #7 — Auxerre vs Paris FC
-- **Sport:** Calcio | **Lega:** Ligue 1 - France
-- **Mercato:** h2h | **Inizio:** 2026-11-07T16:15:00Z
-- **Margine:** 1.44% (€14.38 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | Betfair | 4.20 | 24.2% | €241.57 |
-| Paris FC | 1xBet | 1.87 | 54.3% | €542.56 |
-| Auxerre | Betfair | 4.70 | 21.6% | €215.87 |
-
-### #8 — Bodø/Glimt vs Lille
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-11-03T20:00:00Z
-- **Margine:** 1.41% (€14.05 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Bodø/Glimt | 1xBet | 1.92 | 52.8% | €528.26 |
-| Lille | Smarkets | 4.30 | 23.6% | €235.87 |
-| Draw | Smarkets | 4.30 | 23.6% | €235.87 |
-
-### #9 — Valencia vs Real Madrid
-- **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-11-07T20:00:00Z
-- **Margine:** 1.35% (€13.48 su €1000)
-- **Book freschi:** 38
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 6.80 | 14.9% | €149.07 |
-| Real Madrid | 1xBet | 1.36 | 74.5% | €745.34 |
-| Valencia | Smarkets | 9.60 | 10.6% | €105.59 |
-
-### #10 — Atalanta BC vs Parma
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-11-02T19:45:00Z
-- **Margine:** 1.35% (€13.46 su €1000)
+### #1 — Detroit Pistons vs Philadelphia 76ers
+- **Sport:** Basket | **Lega:** NBA
+- **Mercato:** h2h | **Inizio:** 2026-11-05T00:10:00Z
+- **Margine:** 6.24% (€62.36 su €1000)
 - **Book freschi:** 34
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Parma | Smarkets | 10.50 | 9.7% | €96.54 |
-| Atalanta BC | Pinnacle | 1.38 | 73.5% | €734.52 |
-| Draw | Matchbook | 6.00 | 16.9% | €168.94 |
+| Philadelphia 76ers | Marathon Bet | 2.07 | 51.5% | €515.22 |
+| Detroit Pistons | Unibet (SE) | 2.20 | 48.5% | €484.78 |
 
-### #11 — Villarreal vs Paris Saint Germain
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-11-03T20:00:00Z
-- **Margine:** 1.21% (€12.12 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 5.00 | 20.2% | €202.45 |
-| Villarreal | Unibet (NL) | 5.50 | 18.4% | €184.05 |
-| Paris Saint Germain | GTbets | 1.65 | 61.4% | €613.50 |
-
-### #12 — Philadelphia 76ers vs Chicago Bulls
-- **Sport:** Basket | **Lega:** NBA
-- **Mercato:** h2h | **Inizio:** 2026-11-03T00:40:00Z
-- **Margine:** 1.17% (€11.73 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Chicago Bulls | Matchbook | 5.50 | 18.4% | €183.98 |
-| Philadelphia 76ers | 1xBet | 1.24 | 81.6% | €816.02 |
-
-### #13 — Newcastle United vs Everton
+### #2 — Bournemouth vs Nottingham Forest
 - **Sport:** Calcio | **Lega:** EPL
-- **Mercato:** h2h | **Inizio:** 2026-11-02T20:00:00Z
-- **Margine:** 1.14% (€11.42 su €1000)
-- **Book freschi:** 42
+- **Mercato:** h2h | **Inizio:** 2026-11-21T15:00:00Z
+- **Margine:** 3.73% (€37.35 su €1000)
+- **Book freschi:** 23
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Coolbet | 3.75 | 27.0% | €269.75 |
-| Newcastle United | Betfair | 2.24 | 45.2% | €451.59 |
-| Everton | BetOnline.ag | 3.63 | 27.9% | €278.67 |
+| Nottingham Forest | Betsson | 4.36 | 23.8% | €238.26 |
+| Bournemouth | Smarkets | 2.08 | 49.9% | €499.42 |
+| Draw | 1xBet | 3.96 | 26.2% | €262.32 |
 
-### #14 — Sevilla vs Alavés
+### #3 — Buffalo Sabres vs Ottawa Senators
+- **Sport:** Hockey | **Lega:** NHL
+- **Mercato:** totals | **Inizio:** 2026-11-05T00:40:00Z
+- **Margine:** 3.47% (€34.69 su €1000)
+- **Book freschi:** 7
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Under 6.5 | GTbets | 1.95 | 53.1% | €531.25 |
+| Over 6.5 | 1xBet | 2.21 | 46.9% | €468.75 |
+
+### #4 — Espanyol vs Deportivo La Coruña
 - **Sport:** Calcio | **Lega:** La Liga - Spain
-- **Mercato:** h2h | **Inizio:** 2026-11-06T20:00:00Z
-- **Margine:** 0.99% (€9.90 su €1000)
-- **Book freschi:** 37
+- **Mercato:** h2h | **Inizio:** 2026-11-07T15:15:00Z
+- **Margine:** 1.86% (€18.62 su €1000)
+- **Book freschi:** 35
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Pinnacle | 3.51 | 28.8% | €287.75 |
-| Sevilla | 1xBet | 2.05 | 49.3% | €492.68 |
-| Alavés | Smarkets | 4.60 | 22.0% | €219.57 |
+| Espanyol | Betfair | 2.44 | 41.8% | €417.61 |
+| Draw | Unibet (NL) | 3.55 | 28.7% | €287.03 |
+| Deportivo La Coruña | Unibet (NL) | 3.45 | 29.5% | €295.35 |
 
-### #15 — LASK vs ŠK Slovan Bratislava
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-11-03T20:00:00Z
-- **Margine:** 0.97% (€9.73 su €1000)
-- **Book freschi:** 37
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 5.80 | 17.4% | €174.11 |
-| LASK | GTbets | 1.45 | 69.6% | €696.43 |
-| ŠK Slovan Bratislava | Smarkets | 7.80 | 12.9% | €129.46 |
-
-### #16 — Barcelona vs Aston Villa
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-11-03T20:00:00Z
-- **Margine:** 0.89% (€8.88 su €1000)
-- **Book freschi:** 39
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Aston Villa | 1xBet | 11.40 | 8.8% | €88.51 |
-| Barcelona | GTbets | 1.29 | 78.2% | €782.14 |
-| Draw | Smarkets | 7.80 | 12.9% | €129.35 |
-
-### #17 — VfB Stuttgart vs Werder Bremen
-- **Sport:** Calcio | **Lega:** Bundesliga - Germany
-- **Mercato:** h2h | **Inizio:** 2026-11-07T17:30:00Z
-- **Margine:** 0.88% (€8.78 su €1000)
-- **Book freschi:** 40
-
-| Esito | Bookmaker | Quota | Stake % | Stake € |
-|-------|-----------|-------|---------|---------|
-| Draw | BetOnline.ag | 5.20 | 19.4% | €194.01 |
-| VfB Stuttgart | Smarkets | 1.60 | 63.0% | €630.54 |
-| Werder Bremen | Unibet (SE) | 5.75 | 17.6% | €175.45 |
-
-### #18 — AEK Athens vs Real Madrid
-- **Sport:** Calcio | **Lega:** UEFA Champions League
-- **Mercato:** h2h | **Inizio:** 2026-11-04T17:45:00Z
-- **Margine:** 0.83% (€8.28 su €1000)
+### #5 — Napoli vs Lazio
+- **Sport:** Calcio | **Lega:** Serie A - Italy
+- **Mercato:** h2h | **Inizio:** 2026-11-08T11:30:00Z
+- **Margine:** 1.80% (€18.01 su €1000)
 - **Book freschi:** 38
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 7.60 | 13.3% | €132.68 |
-| Real Madrid | 1xBet | 1.30 | 77.6% | €775.65 |
-| AEK Athens | Bet Victor | 11.00 | 9.2% | €91.67 |
+| Napoli | Matchbook | 2.32 | 43.9% | €438.94 |
+| Lazio | Unibet (NL) | 3.45 | 29.5% | €295.17 |
+| Draw | 1xBet | 3.83 | 26.6% | €265.89 |
 
-### #19 — Brest vs Lyon
+### #6 — Rennes vs Lille
 - **Sport:** Calcio | **Lega:** Ligue 1 - France
-- **Mercato:** h2h | **Inizio:** 2026-11-08T16:15:00Z
-- **Margine:** 0.79% (€7.89 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-11-08T14:00:00Z
+- **Margine:** 1.71% (€17.13 su €1000)
 - **Book freschi:** 38
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.80 | 26.5% | €265.25 |
-| Brest | 1xBet | 3.04 | 33.2% | €331.56 |
-| Lyon | LeoVegas (SE) | 2.50 | 40.3% | €403.18 |
+| Lille | LeoVegas (SE) | 3.65 | 27.9% | €278.75 |
+| Rennes | BetOnline.ag | 2.21 | 46.0% | €460.37 |
+| Draw | 1xBet | 3.90 | 26.1% | €260.88 |
 
-### #20 — Sparta Prague vs Bournemouth
-- **Sport:** Calcio | **Lega:** UEFA Europa League
-- **Mercato:** h2h | **Inizio:** 2026-11-05T17:45:00Z
-- **Margine:** 0.78% (€7.83 su €1000)
+### #7 — Valencia vs Real Madrid
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** h2h | **Inizio:** 2026-11-07T20:00:00Z
+- **Margine:** 1.24% (€12.38 su €1000)
 - **Book freschi:** 36
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Sparta Prague | Smarkets | 6.80 | 14.8% | €148.22 |
-| Bournemouth | 1xBet | 1.56 | 64.6% | €646.09 |
-| Draw | Matchbook | 4.90 | 20.6% | €205.69 |
+| Valencia | Betfred (UK) | 9.50 | 10.7% | €106.58 |
+| Real Madrid | 1xBet | 1.36 | 74.5% | €744.51 |
+| Draw | Smarkets | 6.80 | 14.9% | €148.90 |
 
-### #21 — Crystal Palace vs Liverpool
+### #8 — AC Milan vs Ferencváros TC
+- **Sport:** Calcio | **Lega:** UEFA Europa League
+- **Mercato:** h2h | **Inizio:** 2026-11-05T17:45:00Z
+- **Margine:** 1.15% (€11.53 su €1000)
+- **Book freschi:** 34
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| AC Milan | Smarkets | 1.38 | 73.3% | €733.09 |
+| Ferencváros TC | 1xBet | 10.60 | 9.5% | €95.44 |
+| Draw | Smarkets | 5.90 | 17.1% | €171.47 |
+
+### #9 — Fulham vs Newcastle United
 - **Sport:** Calcio | **Lega:** EPL
-- **Mercato:** h2h | **Inizio:** 2026-11-08T14:00:00Z
-- **Margine:** 0.78% (€7.80 su €1000)
+- **Mercato:** h2h | **Inizio:** 2026-11-07T15:00:00Z
+- **Margine:** 1.12% (€11.17 su €1000)
 - **Book freschi:** 41
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Smarkets | 4.50 | 22.4% | €223.97 |
-| Crystal Palace | Matchbook | 5.40 | 18.7% | €186.64 |
-| Liverpool | 1xBet | 1.71 | 58.9% | €589.39 |
+| Fulham | GTbets | 2.17 | 46.6% | €466.03 |
+| Newcastle United | Betfair | 3.70 | 27.3% | €273.32 |
+| Draw | 1xBet | 3.88 | 26.1% | €260.64 |
 
-### #22 — Fiorentina vs Juventus
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-11-08T19:45:00Z
-- **Margine:** 0.77% (€7.68 su €1000)
-- **Book freschi:** 39
+### #10 — Celta Vigo vs Union Saint-Gilloise
+- **Sport:** Calcio | **Lega:** UEFA Europa League
+- **Mercato:** h2h | **Inizio:** 2026-11-05T20:00:00Z
+- **Margine:** 1.01% (€10.08 su €1000)
+- **Book freschi:** 34
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.79 | 26.6% | €265.89 |
-| Juventus | Pinnacle | 2.09 | 48.2% | €482.17 |
-| Fiorentina | Unibet (SE) | 4.00 | 25.2% | €251.93 |
+| Union Saint-Gilloise | Unibet (NL) | 3.30 | 30.6% | €306.12 |
+| Draw | Unibet (NL) | 3.80 | 26.6% | €265.84 |
+| Celta Vigo | Betfair | 2.36 | 42.8% | €428.04 |
 
-### #23 — Borussia Dortmund vs Real Betis
+### #11 — RC Lens vs Como
 - **Sport:** Calcio | **Lega:** UEFA Champions League
 - **Mercato:** h2h | **Inizio:** 2026-11-04T20:00:00Z
-- **Margine:** 0.75% (€7.48 su €1000)
-- **Book freschi:** 38
+- **Margine:** 0.95% (€9.53 su €1000)
+- **Book freschi:** 37
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Borussia Dortmund | Betfair | 1.81 | 55.7% | €556.65 |
-| Real Betis | Unibet (SE) | 4.70 | 21.4% | €214.37 |
-| Draw | Betfair | 4.40 | 22.9% | €228.98 |
+| RC Lens | Smarkets | 3.30 | 30.6% | €305.95 |
+| Como | 1xBet | 2.27 | 44.5% | €444.77 |
+| Draw | Coolbet | 4.05 | 24.9% | €249.29 |
 
-### #24 — Cagliari vs Frosinone
-- **Sport:** Calcio | **Lega:** Serie A - Italy
-- **Mercato:** h2h | **Inizio:** 2026-11-07T14:00:00Z
-- **Margine:** 0.64% (€6.35 su €1000)
+### #12 — Crystal Palace vs Liverpool
+- **Sport:** Calcio | **Lega:** EPL
+- **Mercato:** h2h | **Inizio:** 2026-11-08T14:00:00Z
+- **Margine:** 0.93% (€9.28 su €1000)
 - **Book freschi:** 41
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | 1xBet | 3.83 | 26.3% | €262.76 |
-| Cagliari | Unibet (SE) | 2.85 | 35.3% | €353.12 |
-| Frosinone | Matchbook | 2.62 | 38.4% | €384.12 |
+| Crystal Palace | Smarkets | 5.90 | 17.1% | €171.08 |
+| Liverpool | 1xBet | 1.66 | 60.8% | €608.05 |
+| Draw | 1xBet | 4.57 | 22.1% | €220.87 |
 
-### #25 — CA Osasuna vs Athletic Bilbao
-- **Sport:** Calcio | **Lega:** La Liga - Spain
+### #13 — VfB Stuttgart vs Werder Bremen
+- **Sport:** Calcio | **Lega:** Bundesliga - Germany
 - **Mercato:** h2h | **Inizio:** 2026-11-07T17:30:00Z
-- **Margine:** 0.63% (€6.29 su €1000)
+- **Margine:** 0.93% (€9.27 su €1000)
 - **Book freschi:** 38
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| CA Osasuna | 1xBet | 3.52 | 28.6% | €285.89 |
-| Athletic Bilbao | Coolbet | 2.35 | 42.8% | €428.22 |
-| Draw | 1xBet | 3.52 | 28.6% | €285.89 |
+| VfB Stuttgart | Pinnacle | 1.61 | 62.7% | €626.93 |
+| Werder Bremen | Unibet (SE) | 5.75 | 17.6% | €175.54 |
+| Draw | BetOnline.ag | 5.11 | 19.8% | €197.53 |
 
-### #26 — Fenerbahce vs Liverpool
+### #14 — Lillestrom vs Viktoria Plzeň
+- **Sport:** Calcio | **Lega:** UEFA Europa League
+- **Mercato:** h2h | **Inizio:** 2026-11-05T17:45:00Z
+- **Margine:** 0.83% (€8.32 su €1000)
+- **Book freschi:** 34
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Viktoria Plzeň | Unibet (NL) | 2.33 | 43.3% | €432.78 |
+| Lillestrom | Betfair | 3.20 | 31.5% | €315.12 |
+| Draw | Betfair | 4.00 | 25.2% | €252.10 |
+
+### #15 — Sevilla vs Alavés
+- **Sport:** Calcio | **Lega:** La Liga - Spain
+- **Mercato:** h2h | **Inizio:** 2026-11-06T20:00:00Z
+- **Margine:** 0.83% (€8.28 su €1000)
+- **Book freschi:** 35
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Sevilla | 1xBet | 2.05 | 49.2% | €491.88 |
+| Alavés | Coolbet | 4.50 | 22.4% | €224.08 |
+| Draw | Betfair | 3.55 | 28.4% | €284.04 |
+
+### #16 — FSV Mainz 05 vs Bayern Munich
+- **Sport:** Calcio | **Lega:** Bundesliga - Germany
+- **Mercato:** h2h | **Inizio:** 2026-11-07T14:30:00Z
+- **Margine:** 0.75% (€7.47 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Draw | BetOnline.ag | 6.65 | 15.2% | €151.51 |
+| FSV Mainz 05 | Betfred (UK) | 7.00 | 14.4% | €143.93 |
+| Bayern Munich | 1xBet | 1.43 | 70.5% | €704.56 |
+
+### #17 — Bodø/Glimt vs Lille
+- **Sport:** Calcio | **Lega:** UEFA Champions League
+- **Mercato:** h2h | **Inizio:** 2026-11-03T20:00:00Z
+- **Margine:** 0.74% (€7.44 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Lille | Smarkets | 5.20 | 19.4% | €193.75 |
+| Bodø/Glimt | 1xBet | 1.73 | 58.2% | €582.36 |
+| Draw | Smarkets | 4.50 | 22.4% | €223.89 |
+
+### #18 — SC Paderborn vs Eintracht Frankfurt
+- **Sport:** Calcio | **Lega:** Bundesliga - Germany
+- **Mercato:** h2h | **Inizio:** 2026-11-07T14:30:00Z
+- **Margine:** 0.74% (€7.37 su €1000)
+- **Book freschi:** 38
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| SC Paderborn | Pinnacle | 3.15 | 32.0% | €319.82 |
+| Eintracht Frankfurt | Unibet (SE) | 2.30 | 43.8% | €438.01 |
+| Draw | 1xBet | 4.16 | 24.2% | €242.17 |
+
+### #19 — Ipswich Town vs Bournemouth
+- **Sport:** Calcio | **Lega:** EPL
+- **Mercato:** h2h | **Inizio:** 2026-11-08T14:00:00Z
+- **Margine:** 0.73% (€7.28 su €1000)
+- **Book freschi:** 41
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Ipswich Town | Betfair | 4.00 | 25.2% | €251.83 |
+| Bournemouth | Betfair | 2.04 | 49.4% | €493.79 |
+| Draw | 1xBet | 3.96 | 25.4% | €254.38 |
+
+### #20 — AEK Athens vs Real Madrid
 - **Sport:** Calcio | **Lega:** UEFA Champions League
 - **Mercato:** h2h | **Inizio:** 2026-11-04T17:45:00Z
-- **Margine:** 0.53% (€5.31 su €1000)
-- **Book freschi:** 38
+- **Margine:** 0.71% (€7.07 su €1000)
+- **Book freschi:** 37
 
 | Esito | Bookmaker | Quota | Stake % | Stake € |
 |-------|-----------|-------|---------|---------|
-| Draw | Betfair | 4.90 | 20.5% | €205.17 |
-| Fenerbahce | Betfair | 5.90 | 17.0% | €170.40 |
-| Liverpool | 1xBet | 1.61 | 62.4% | €624.43 |
+| AEK Athens | Unibet (NL) | 12.50 | 8.1% | €80.57 |
+| Real Madrid | GTbets | 1.29 | 78.1% | €780.71 |
+| Draw | Pinnacle | 7.26 | 13.9% | €138.72 |
+
+### #21 — Viking FK vs Sabah FK
+- **Sport:** Calcio | **Lega:** UEFA Champions League
+- **Mercato:** h2h | **Inizio:** 2026-11-04T20:00:00Z
+- **Margine:** 0.60% (€6.03 su €1000)
+- **Book freschi:** 37
+
+| Esito | Bookmaker | Quota | Stake % | Stake € |
+|-------|-----------|-------|---------|---------|
+| Viking FK | BetAnything | 1.48 | 68.0% | €679.77 |
+| Sabah FK | Betfred (UK) | 7.00 | 14.4% | €143.72 |
+| Draw | Betfair | 5.70 | 17.6% | €176.50 |
 
 ---
 ## 📈 Value Bet (con diversificazione)
 
 | # | Sport | Match | Esito | Book | Quota | Edge% | Conf | Stake |
 |---|-------|-------|-------|------|-------|-------|-----|-------|
-| 1 | Hockey | Vancouver Canucks vs Anah | Vancouver Canuc | LeoVegas (SE | 3.05 | 14.3% | 🟢 | €17 |
-| 2 | Hockey | Vancouver Canucks vs Anah | Vancouver Canuc | Unibet (SE) | 3.05 | 14.3% | 🟢 | €17 |
-| 3 | Hockey | Vancouver Canucks vs Anah | Vancouver Canuc | Unibet (NL) | 3.00 | 12.4% | 🟢 | €16 |
-| 4 | Hockey | Vancouver Canucks vs Anah | Vancouver Canuc | Casumo | 3.00 | 12.4% | 🟢 | €16 |
-| 5 | Hockey | Columbus Blue Jackets vs  | Colorado Avalan | Unibet (SE) | 2.35 | 12.1% | 🟢 | €22 |
-| 6 | Hockey | Columbus Blue Jackets vs  | Colorado Avalan | LeoVegas (SE | 2.35 | 12.1% | 🟢 | €22 |
-| 7 | Hockey | Florida Panthers vs Detro | Florida Panther | 1xBet | 1.98 | 11.3% | 🟢 | €29 |
-| 8 | Hockey | Philadelphia Flyers vs Mi | Philadelphia Fl | Unibet (UK) | 3.15 | 11.3% | 🟢 | €13 |
-| 9 | Hockey | Philadelphia Flyers vs Mi | Philadelphia Fl | Grosvenor | 3.15 | 11.3% | 🟢 | €13 |
-| 10 | Hockey | Pittsburgh Penguins vs Ve | Pittsburgh Peng | 1xBet | 2.54 | 11.1% | 🟢 | €18 |
-| 11 | Hockey | Vancouver Canucks vs Anah | Vancouver Canuc | 1xBet | 2.96 | 10.9% | 🟢 | €14 |
-| 12 | Hockey | San Jose Sharks vs Calgar | San Jose Sharks | 1xBet | 2.33 | 10.9% | 🟢 | €20 |
-| 13 | Hockey | San Jose Sharks vs Calgar | San Jose Sharks | LeoVegas (SE | 2.33 | 10.9% | 🟢 | €20 |
-| 14 | Basket | Minnesota Timberwolves vs | Minnesota Timbe | Coolbet | 2.42 | 10.3% | 🟢 | €18 |
-| 15 | Basket | Olympiacos vs KK Crvena z | KK Crvena zvezd | Ladbrokes | 3.20 | 9.3% | 🟢 | €11 |
+| 1 | Basket | Houston Rockets vs Minnes | Minnesota Timbe | 1xBet | 4.13 | 19.4% | 🟢 | €16 |
+| 2 | Basket | Houston Rockets vs Minnes | Minnesota Timbe | Marathon Bet | 4.10 | 18.6% | 🟢 | €15 |
+| 3 | Hockey | Florida Panthers vs Chica | Chicago Blackha | Marathon Bet | 4.25 | 17.4% | 🟢 | €13 |
+| 4 | Hockey | Los Angeles Kings vs San  | Los Angeles Kin | 1xBet | 2.24 | 15.2% | 🟢 | €31 |
+| 5 | Hockey | Buffalo Sabres vs Ottawa  | Buffalo Sabres | 1xBet | 2.29 | 14.0% | 🟢 | €27 |
+| 6 | Hockey | Los Angeles Kings vs San  | Los Angeles Kin | Marathon Bet | 2.21 | 13.7% | 🟢 | €28 |
+| 7 | Hockey | Buffalo Sabres vs Ottawa  | Buffalo Sabres | Marathon Bet | 2.26 | 12.5% | 🟢 | €25 |
+| 8 | Hockey | Pittsburgh Penguins vs Ve | Vegas Golden Kn | 1xBet | 2.57 | 12.1% | 🟢 | €19 |
+| 9 | Hockey | New Jersey Devils vs Edmo | Edmonton Oilers | Coolbet | 3.05 | 12.0% | 🟢 | €15 |
+| 10 | Hockey | Toronto Maple Leafs vs Ut | Toronto Maple L | 1xBet | 2.78 | 11.8% | 🟢 | €17 |
+| 11 | Hockey | Toronto Maple Leafs vs Ut | Toronto Maple L | Marathon Bet | 2.78 | 11.8% | 🟢 | €17 |
+| 12 | Hockey | Vancouver Canucks vs Anah | Vancouver Canuc | Coolbet | 3.05 | 11.3% | 🟢 | €14 |
+| 13 | Hockey | Pittsburgh Penguins vs Ve | Vegas Golden Kn | Marathon Bet | 2.55 | 11.2% | 🟢 | €18 |
+| 14 | Hockey | Pittsburgh Penguins vs Ve | Vegas Golden Kn | LeoVegas (SE | 2.55 | 11.2% | 🟢 | €18 |
+| 15 | Hockey | Tampa Bay Lightning vs De | Detroit Red Win | Unibet (UK) | 4.20 | 10.9% | 🟢 | €9 |
 
 _Top 15 su 15 (filtrate per correlazione e limiti)._
 
 ---
 ## 🔄 Diversificazione portafoglio
 
-- **Hockey**: █████████████████████████████░░░░ 89% (€239)
-- **Basket**: ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11% (€29)
+- **Hockey**: █████████████████████████████░░░░ 89% (€250)
+- **Basket**: ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11% (€31)
 
 ---
 ## ⚠️ Disclaimer
