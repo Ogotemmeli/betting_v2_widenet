@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-03 17:37 UTC",
-  "arbitrages_found": 21,
+  "timestamp": "2026-11-03 22:59 UTC",
+  "arbitrages_found": 19,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 19,
+      "arbs": 18,
       "vbs": 0
     },
     "tennis": {
@@ -12,7 +12,7 @@
       "vbs": 0
     },
     "basketball": {
-      "arbs": 1,
+      "arbs": 0,
       "vbs": 2
     },
     "hockey": {
@@ -20,37 +20,37 @@
       "vbs": 13
     }
   },
-  "best_arb_margin": 6.236,
-  "best_value_edge": 19.44,
+  "best_arb_margin": 6.002,
+  "best_value_edge": 17.95,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "91df86557819598ca270ba35410cfcfa",
-      "sport": "basketball",
-      "league": "NBA",
-      "match": "Detroit Pistons vs Philadelphia 76ers",
-      "commence": "2026-11-05T00:10:00Z",
-      "market": "h2h",
-      "margin_pct": 6.236,
-      "implied_probability_sum": 0.93764,
-      "guaranteed_profit": 62.36,
+      "event_id": "1a1782b9fde64acd952ea9fd3aff7d83",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Buffalo Sabres vs Ottawa Senators",
+      "commence": "2026-11-05T00:40:00Z",
+      "market": "totals",
+      "margin_pct": 6.002,
+      "implied_probability_sum": 0.93998,
+      "guaranteed_profit": 60.02,
       "stakes": {
-        "Philadelphia 76ers": {
-          "bookmaker": "Marathon Bet",
-          "odds": 2.07,
-          "stake_pct": 51.52,
-          "stake_amount": 515.22
-        },
-        "Detroit Pistons": {
-          "bookmaker": "Unibet (SE)",
+        "Over 6.5": {
+          "bookmaker": "Virgin Bet",
           "odds": 2.2,
-          "stake_pct": 48.48,
-          "stake_amount": 484.78
+          "stake_pct": 48.36,
+          "stake_amount": 483.57
+        },
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 2.06,
+          "stake_pct": 51.64,
+          "stake_amount": 516.43
         }
       },
-      "num_bookmakers_checked": 34,
-      "fresh_bookmakers": 34,
-      "found_at": "2026-11-03T17:37:21.698968+00:00"
+      "num_bookmakers_checked": 16,
+      "fresh_bookmakers": 16,
+      "found_at": "2026-11-03T22:59:56.051589+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -60,61 +60,102 @@
       "match": "Bournemouth vs Nottingham Forest",
       "commence": "2026-11-21T15:00:00Z",
       "market": "h2h",
-      "margin_pct": 3.735,
-      "implied_probability_sum": 0.96265,
-      "guaranteed_profit": 37.35,
+      "margin_pct": 3.522,
+      "implied_probability_sum": 0.96478,
+      "guaranteed_profit": 35.22,
       "stakes": {
         "Nottingham Forest": {
-          "bookmaker": "Betsson",
-          "odds": 4.36,
-          "stake_pct": 23.83,
-          "stake_amount": 238.26
+          "bookmaker": "1xBet",
+          "odds": 4.32,
+          "stake_pct": 23.99,
+          "stake_amount": 239.93
         },
         "Bournemouth": {
           "bookmaker": "Smarkets",
           "odds": 2.08,
-          "stake_pct": 49.94,
-          "stake_amount": 499.42
+          "stake_pct": 49.83,
+          "stake_amount": 498.32
         },
         "Draw": {
           "bookmaker": "1xBet",
           "odds": 3.96,
-          "stake_pct": 26.23,
-          "stake_amount": 262.32
+          "stake_pct": 26.17,
+          "stake_amount": 261.74
         }
       },
       "num_bookmakers_checked": 23,
       "fresh_bookmakers": 23,
-      "found_at": "2026-11-03T17:37:21.671234+00:00"
+      "found_at": "2026-11-03T22:59:56.002431+00:00"
     },
     {
       "type": "ARBITRAGE",
-      "event_id": "1a1782b9fde64acd952ea9fd3aff7d83",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Buffalo Sabres vs Ottawa Senators",
-      "commence": "2026-11-05T00:40:00Z",
-      "market": "totals",
-      "margin_pct": 3.469,
-      "implied_probability_sum": 0.96531,
-      "guaranteed_profit": 34.69,
+      "event_id": "23bf8ea47358ef82f65aa7398a2b3921",
+      "sport": "soccer",
+      "league": "Serie A - Italy",
+      "match": "Napoli vs Lazio",
+      "commence": "2026-11-08T11:30:00Z",
+      "market": "h2h",
+      "margin_pct": 2.17,
+      "implied_probability_sum": 0.9783,
+      "guaranteed_profit": 21.7,
       "stakes": {
-        "Under 6.5": {
-          "bookmaker": "GTbets",
-          "odds": 1.95,
-          "stake_pct": 53.12,
-          "stake_amount": 531.25
-        },
-        "Over 6.5": {
+        "Draw": {
           "bookmaker": "1xBet",
-          "odds": 2.21,
-          "stake_pct": 46.87,
-          "stake_amount": 468.75
+          "odds": 3.83,
+          "stake_pct": 26.69,
+          "stake_amount": 266.89
+        },
+        "Napoli": {
+          "bookmaker": "Smarkets",
+          "odds": 2.34,
+          "stake_pct": 43.68,
+          "stake_amount": 436.83
+        },
+        "Lazio": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.45,
+          "stake_pct": 29.63,
+          "stake_amount": 296.28
         }
       },
-      "num_bookmakers_checked": 7,
-      "fresh_bookmakers": 7,
-      "found_at": "2026-11-03T17:37:21.708947+00:00"
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-11-03T22:59:56.006880+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "cb7170b1b0e68a09be62b7a0fcb8d268",
+      "sport": "soccer",
+      "league": "UEFA Europa League",
+      "match": "AC Milan vs Ferencváros TC",
+      "commence": "2026-11-05T17:45:00Z",
+      "market": "h2h",
+      "margin_pct": 2.129,
+      "implied_probability_sum": 0.97871,
+      "guaranteed_profit": 21.29,
+      "stakes": {
+        "AC Milan": {
+          "bookmaker": "Betfair",
+          "odds": 1.41,
+          "stake_pct": 72.46,
+          "stake_amount": 724.65
+        },
+        "Draw": {
+          "bookmaker": "Winamax (DE)",
+          "odds": 5.9,
+          "stake_pct": 17.32,
+          "stake_amount": 173.18
+        },
+        "Ferencváros TC": {
+          "bookmaker": "Nordic Bet",
+          "odds": 10.0,
+          "stake_pct": 10.22,
+          "stake_amount": 102.18
+        }
+      },
+      "num_bookmakers_checked": 34,
+      "fresh_bookmakers": 34,
+      "found_at": "2026-11-03T22:59:56.029043+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -128,11 +169,11 @@
       "implied_probability_sum": 0.98138,
       "guaranteed_profit": 18.62,
       "stakes": {
-        "Espanyol": {
-          "bookmaker": "Betfair",
-          "odds": 2.44,
-          "stake_pct": 41.76,
-          "stake_amount": 417.61
+        "Deportivo La Coruña": {
+          "bookmaker": "Unibet (NL)",
+          "odds": 3.45,
+          "stake_pct": 29.54,
+          "stake_amount": 295.35
         },
         "Draw": {
           "bookmaker": "Unibet (NL)",
@@ -140,95 +181,39 @@
           "stake_pct": 28.7,
           "stake_amount": 287.03
         },
-        "Deportivo La Coruña": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 3.45,
-          "stake_pct": 29.54,
-          "stake_amount": 295.35
+        "Espanyol": {
+          "bookmaker": "Betfair",
+          "odds": 2.44,
+          "stake_pct": 41.76,
+          "stake_amount": 417.61
         }
       },
       "num_bookmakers_checked": 35,
       "fresh_bookmakers": 35,
-      "found_at": "2026-11-03T17:37:21.677199+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "23bf8ea47358ef82f65aa7398a2b3921",
-      "sport": "soccer",
-      "league": "Serie A - Italy",
-      "match": "Napoli vs Lazio",
-      "commence": "2026-11-08T11:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.801,
-      "implied_probability_sum": 0.98199,
-      "guaranteed_profit": 18.01,
-      "stakes": {
-        "Napoli": {
-          "bookmaker": "Matchbook",
-          "odds": 2.32,
-          "stake_pct": 43.89,
-          "stake_amount": 438.94
-        },
-        "Lazio": {
-          "bookmaker": "Unibet (NL)",
-          "odds": 3.45,
-          "stake_pct": 29.52,
-          "stake_amount": 295.17
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.83,
-          "stake_pct": 26.59,
-          "stake_amount": 265.89
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-11-03T17:37:21.674537+00:00"
+      "found_at": "2026-11-03T22:59:56.010377+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "b2557f74f4d7675ed3b76a4a064e0bc9",
-      "sport": "basketball",
-      "league": "NBA",
-      "match": "Houston Rockets vs Minnesota Timberwolves",
-      "commence": "2026-11-05T01:40:00Z",
+      "event_id": "bc22bdc8d7cca6b3695672a8ebf84456",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Florida Panthers vs Chicago Blackhawks",
+      "commence": "2026-11-05T00:40:00Z",
       "market": "h2h",
-      "outcome": "Minnesota Timberwolves",
-      "bookmaker": "1xBet",
-      "odds": 4.13,
-      "fair_odds": 3.458,
-      "true_prob_pct": 28.92,
-      "implied_prob_pct": 24.21,
-      "edge_pct": 19.44,
-      "kelly_stake_pct": 1.55,
-      "suggested_stake": 15.53,
-      "expected_value": 19.44,
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 4.3,
+      "fair_odds": 3.646,
+      "true_prob_pct": 27.43,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 17.95,
+      "kelly_stake_pct": 1.36,
+      "suggested_stake": 13.6,
+      "expected_value": 17.95,
       "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.700040+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b2557f74f4d7675ed3b76a4a064e0bc9",
-      "sport": "basketball",
-      "league": "NBA",
-      "match": "Houston Rockets vs Minnesota Timberwolves",
-      "commence": "2026-11-05T01:40:00Z",
-      "market": "h2h",
-      "outcome": "Minnesota Timberwolves",
-      "bookmaker": "Marathon Bet",
-      "odds": 4.1,
-      "fair_odds": 3.458,
-      "true_prob_pct": 28.92,
-      "implied_prob_pct": 24.39,
-      "edge_pct": 18.57,
-      "kelly_stake_pct": 1.5,
-      "suggested_stake": 14.98,
-      "expected_value": 18.57,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.700148+00:00"
+      "found_at": "2026-11-03T22:59:56.052104+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -239,17 +224,143 @@
       "commence": "2026-11-05T00:40:00Z",
       "market": "h2h",
       "outcome": "Chicago Blackhawks",
-      "bookmaker": "Marathon Bet",
+      "bookmaker": "Unibet (SE)",
+      "odds": 4.3,
+      "fair_odds": 3.646,
+      "true_prob_pct": 27.43,
+      "implied_prob_pct": 23.26,
+      "edge_pct": 17.95,
+      "kelly_stake_pct": 1.36,
+      "suggested_stake": 13.6,
+      "expected_value": 17.95,
+      "confidence": "ALTA",
+      "found_at": "2026-11-03T22:59:56.052119+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bc22bdc8d7cca6b3695672a8ebf84456",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Florida Panthers vs Chicago Blackhawks",
+      "commence": "2026-11-05T00:40:00Z",
+      "market": "h2h",
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "Unibet (NL)",
       "odds": 4.25,
-      "fair_odds": 3.621,
-      "true_prob_pct": 27.62,
+      "fair_odds": 3.646,
+      "true_prob_pct": 27.43,
       "implied_prob_pct": 23.53,
-      "edge_pct": 17.37,
+      "edge_pct": 16.58,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.75,
+      "expected_value": 16.58,
+      "confidence": "ALTA",
+      "found_at": "2026-11-03T22:59:56.052111+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bc22bdc8d7cca6b3695672a8ebf84456",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Florida Panthers vs Chicago Blackhawks",
+      "commence": "2026-11-05T00:40:00Z",
+      "market": "h2h",
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "Casumo",
+      "odds": 4.25,
+      "fair_odds": 3.646,
+      "true_prob_pct": 27.43,
+      "implied_prob_pct": 23.53,
+      "edge_pct": 16.58,
+      "kelly_stake_pct": 1.28,
+      "suggested_stake": 12.75,
+      "expected_value": 16.58,
+      "confidence": "ALTA",
+      "found_at": "2026-11-03T22:59:56.052126+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "7cc07a9c5a886203f238a3fe0b83dfd1",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Seattle Kraken vs Calgary Flames",
+      "commence": "2026-11-05T03:10:00Z",
+      "market": "h2h",
+      "outcome": "Calgary Flames",
+      "bookmaker": "1xBet",
+      "odds": 2.97,
+      "fair_odds": 2.585,
+      "true_prob_pct": 38.69,
+      "implied_prob_pct": 33.67,
+      "edge_pct": 14.91,
+      "kelly_stake_pct": 1.89,
+      "suggested_stake": 18.92,
+      "expected_value": 14.91,
+      "confidence": "ALTA",
+      "found_at": "2026-11-03T22:59:56.052538+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b2557f74f4d7675ed3b76a4a064e0bc9",
+      "sport": "basketball",
+      "league": "NBA",
+      "match": "Houston Rockets vs Minnesota Timberwolves",
+      "commence": "2026-11-05T01:30:00Z",
+      "market": "h2h",
+      "outcome": "Minnesota Timberwolves",
+      "bookmaker": "1xBet",
+      "odds": 3.72,
+      "fair_odds": 3.248,
+      "true_prob_pct": 30.79,
+      "implied_prob_pct": 26.88,
+      "edge_pct": 14.55,
       "kelly_stake_pct": 1.34,
-      "suggested_stake": 13.36,
-      "expected_value": 17.37,
+      "suggested_stake": 13.37,
+      "expected_value": 14.55,
       "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.709064+00:00"
+      "found_at": "2026-11-03T22:59:56.038647+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "b2557f74f4d7675ed3b76a4a064e0bc9",
+      "sport": "basketball",
+      "league": "NBA",
+      "match": "Houston Rockets vs Minnesota Timberwolves",
+      "commence": "2026-11-05T01:30:00Z",
+      "market": "h2h",
+      "outcome": "Minnesota Timberwolves",
+      "bookmaker": "Marathon Bet",
+      "odds": 3.72,
+      "fair_odds": 3.248,
+      "true_prob_pct": 30.79,
+      "implied_prob_pct": 26.88,
+      "edge_pct": 14.55,
+      "kelly_stake_pct": 1.34,
+      "suggested_stake": 13.37,
+      "expected_value": 14.55,
+      "confidence": "ALTA",
+      "found_at": "2026-11-03T22:59:56.038903+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "bc22bdc8d7cca6b3695672a8ebf84456",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Florida Panthers vs Chicago Blackhawks",
+      "commence": "2026-11-05T00:40:00Z",
+      "market": "h2h",
+      "outcome": "Chicago Blackhawks",
+      "bookmaker": "1xBet",
+      "odds": 4.17,
+      "fair_odds": 3.646,
+      "true_prob_pct": 27.43,
+      "implied_prob_pct": 23.98,
+      "edge_pct": 14.38,
+      "kelly_stake_pct": 1.13,
+      "suggested_stake": 11.34,
+      "expected_value": 14.38,
+      "confidence": "ALTA",
+      "found_at": "2026-11-03T22:59:56.052025+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -259,144 +370,39 @@
       "match": "Los Angeles Kings vs San Jose Sharks",
       "commence": "2026-11-05T03:10:00Z",
       "market": "h2h",
-      "outcome": "Los Angeles Kings",
+      "outcome": "San Jose Sharks",
       "bookmaker": "1xBet",
-      "odds": 2.24,
-      "fair_odds": 1.944,
-      "true_prob_pct": 51.44,
-      "implied_prob_pct": 44.64,
-      "edge_pct": 15.22,
-      "kelly_stake_pct": 3.07,
-      "suggested_stake": 30.69,
-      "expected_value": 15.22,
+      "odds": 3.12,
+      "fair_odds": 2.728,
+      "true_prob_pct": 36.65,
+      "implied_prob_pct": 32.05,
+      "edge_pct": 14.35,
+      "kelly_stake_pct": 1.69,
+      "suggested_stake": 16.92,
+      "expected_value": 14.35,
       "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.709508+00:00"
+      "found_at": "2026-11-03T22:59:56.053073+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "1a1782b9fde64acd952ea9fd3aff7d83",
+      "event_id": "7cc07a9c5a886203f238a3fe0b83dfd1",
       "sport": "hockey",
       "league": "NHL",
-      "match": "Buffalo Sabres vs Ottawa Senators",
-      "commence": "2026-11-05T00:40:00Z",
-      "market": "h2h",
-      "outcome": "Buffalo Sabres",
-      "bookmaker": "1xBet",
-      "odds": 2.29,
-      "fair_odds": 2.009,
-      "true_prob_pct": 49.78,
-      "implied_prob_pct": 43.67,
-      "edge_pct": 13.99,
-      "kelly_stake_pct": 2.71,
-      "suggested_stake": 27.12,
-      "expected_value": 13.99,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.708877+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "a3c2f39dce2dbf9e8cb78acce24cd379",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Los Angeles Kings vs San Jose Sharks",
+      "match": "Seattle Kraken vs Calgary Flames",
       "commence": "2026-11-05T03:10:00Z",
       "market": "h2h",
-      "outcome": "Los Angeles Kings",
-      "bookmaker": "Marathon Bet",
-      "odds": 2.21,
-      "fair_odds": 1.944,
-      "true_prob_pct": 51.44,
-      "implied_prob_pct": 45.25,
-      "edge_pct": 13.68,
-      "kelly_stake_pct": 2.83,
-      "suggested_stake": 28.27,
-      "expected_value": 13.68,
+      "outcome": "Calgary Flames",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 2.95,
+      "fair_odds": 2.585,
+      "true_prob_pct": 38.69,
+      "implied_prob_pct": 33.9,
+      "edge_pct": 14.14,
+      "kelly_stake_pct": 1.81,
+      "suggested_stake": 18.12,
+      "expected_value": 14.14,
       "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.709515+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "1a1782b9fde64acd952ea9fd3aff7d83",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Buffalo Sabres vs Ottawa Senators",
-      "commence": "2026-11-05T00:40:00Z",
-      "market": "h2h",
-      "outcome": "Buffalo Sabres",
-      "bookmaker": "Marathon Bet",
-      "odds": 2.26,
-      "fair_odds": 2.009,
-      "true_prob_pct": 49.78,
-      "implied_prob_pct": 44.25,
-      "edge_pct": 12.5,
-      "kelly_stake_pct": 2.48,
-      "suggested_stake": 24.8,
-      "expected_value": 12.5,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.708884+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "ed17e925b2de887dcf682915348560d5",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Pittsburgh Penguins vs Vegas Golden Knights",
-      "commence": "2026-11-04T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Vegas Golden Knights",
-      "bookmaker": "1xBet",
-      "odds": 2.57,
-      "fair_odds": 2.293,
-      "true_prob_pct": 43.62,
-      "implied_prob_pct": 38.91,
-      "edge_pct": 12.1,
-      "kelly_stake_pct": 1.93,
-      "suggested_stake": 19.27,
-      "expected_value": 12.1,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.706438+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "71d674d1a6ac60893018bd115d42d624",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "New Jersey Devils vs Edmonton Oilers",
-      "commence": "2026-11-04T00:40:00Z",
-      "market": "h2h",
-      "outcome": "Edmonton Oilers",
-      "bookmaker": "Coolbet",
-      "odds": 3.05,
-      "fair_odds": 2.724,
-      "true_prob_pct": 36.71,
-      "implied_prob_pct": 32.79,
-      "edge_pct": 11.96,
-      "kelly_stake_pct": 1.46,
-      "suggested_stake": 14.59,
-      "expected_value": 11.96,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.707591+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "ec0cd2ebb977023698a5f16ca4de0e6c",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Toronto Maple Leafs vs Utah Mammoth",
-      "commence": "2026-11-04T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Toronto Maple Leafs",
-      "bookmaker": "1xBet",
-      "odds": 2.78,
-      "fair_odds": 2.486,
-      "true_prob_pct": 40.23,
-      "implied_prob_pct": 35.97,
-      "edge_pct": 11.84,
-      "kelly_stake_pct": 1.66,
-      "suggested_stake": 16.63,
-      "expected_value": 11.84,
-      "confidence": "ALTA",
-      "found_at": "2026-11-03T17:37:21.706979+00:00"
+      "found_at": "2026-11-03T22:59:56.052616+00:00"
     }
   ]
 }
