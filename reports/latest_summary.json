@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-11-04 17:49 UTC",
+  "timestamp": "2026-11-04 23:22 UTC",
   "arbitrages_found": 28,
   "value_bets_found": 15,
   "by_sport": {
     "soccer": {
-      "arbs": 25,
+      "arbs": 22,
       "vbs": 0
     },
     "tennis": {
@@ -12,51 +12,132 @@
       "vbs": 0
     },
     "basketball": {
-      "arbs": 3,
-      "vbs": 2
+      "arbs": 2,
+      "vbs": 1
     },
     "hockey": {
-      "arbs": 0,
-      "vbs": 13
+      "arbs": 4,
+      "vbs": 14
     }
   },
-  "best_arb_margin": 2.761,
-  "best_value_edge": 18.5,
+  "best_arb_margin": 4.794,
+  "best_value_edge": 19.03,
   "arbitrages": [
     {
       "type": "ARBITRAGE",
-      "event_id": "cf68da11fa604c13fc9ef3219fad0314",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Bournemouth vs Nottingham Forest",
-      "commence": "2026-11-21T15:00:00Z",
-      "market": "h2h",
-      "margin_pct": 2.761,
-      "implied_probability_sum": 0.97239,
-      "guaranteed_profit": 27.61,
+      "event_id": "cb757b1c9cf684423578700bb6aef492",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Montréal Canadiens vs Utah Mammoth",
+      "commence": "2026-11-06T00:10:00Z",
+      "market": "totals",
+      "margin_pct": 4.794,
+      "implied_probability_sum": 0.95206,
+      "guaranteed_profit": 47.94,
       "stakes": {
-        "Nottingham Forest": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 4.3,
-          "stake_pct": 23.92,
-          "stake_amount": 239.16
+        "Over 6.5": {
+          "bookmaker": "Casumo",
+          "odds": 2.25,
+          "stake_pct": 46.68,
+          "stake_amount": 466.82
         },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 3.86,
-          "stake_pct": 26.64,
-          "stake_amount": 266.42
-        },
-        "Bournemouth": {
-          "bookmaker": "Smarkets",
-          "odds": 2.08,
-          "stake_pct": 49.44,
-          "stake_amount": 494.42
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.97,
+          "stake_pct": 53.32,
+          "stake_amount": 533.18
         }
       },
-      "num_bookmakers_checked": 24,
-      "fresh_bookmakers": 24,
-      "found_at": "2026-11-04T17:49:59.185130+00:00"
+      "num_bookmakers_checked": 16,
+      "fresh_bookmakers": 16,
+      "found_at": "2026-11-04T23:22:36.825183+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "9e57c39752bfbc587ce341650fcd5a19",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Pittsburgh Penguins vs Boston Bruins",
+      "commence": "2026-11-06T00:10:00Z",
+      "market": "totals",
+      "margin_pct": 4.137,
+      "implied_probability_sum": 0.95863,
+      "guaranteed_profit": 41.37,
+      "stakes": {
+        "Over 6.5": {
+          "bookmaker": "Casumo",
+          "odds": 2.23,
+          "stake_pct": 46.78,
+          "stake_amount": 467.78
+        },
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.96,
+          "stake_pct": 53.22,
+          "stake_amount": 532.22
+        }
+      },
+      "num_bookmakers_checked": 16,
+      "fresh_bookmakers": 16,
+      "found_at": "2026-11-04T23:22:36.823788+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "d3d91c40111aca301d41c9cdb9d64608",
+      "sport": "basketball",
+      "league": "NBA",
+      "match": "Phoenix Suns vs Portland Trail Blazers",
+      "commence": "2026-11-05T02:00:00Z",
+      "market": "h2h",
+      "margin_pct": 3.502,
+      "implied_probability_sum": 0.96498,
+      "guaranteed_profit": 35.02,
+      "stakes": {
+        "Phoenix Suns": {
+          "bookmaker": "Betfair",
+          "odds": 2.34,
+          "stake_pct": 44.29,
+          "stake_amount": 442.86
+        },
+        "Portland Trail Blazers": {
+          "bookmaker": "LiveScore Bet",
+          "odds": 1.86,
+          "stake_pct": 55.71,
+          "stake_amount": 557.14
+        }
+      },
+      "num_bookmakers_checked": 39,
+      "fresh_bookmakers": 39,
+      "found_at": "2026-11-04T23:22:36.819418+00:00"
+    },
+    {
+      "type": "ARBITRAGE",
+      "event_id": "446de9651d2d2948326d970e9f858a33",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Nashville Predators",
+      "commence": "2026-11-06T02:40:00Z",
+      "market": "totals",
+      "margin_pct": 2.364,
+      "implied_probability_sum": 0.97636,
+      "guaranteed_profit": 23.64,
+      "stakes": {
+        "Over 6.5": {
+          "bookmaker": "1xBet",
+          "odds": 2.25,
+          "stake_pct": 45.52,
+          "stake_amount": 455.21
+        },
+        "Under 6.5": {
+          "bookmaker": "BetOnline.ag",
+          "odds": 1.88,
+          "stake_pct": 54.48,
+          "stake_amount": 544.79
+        }
+      },
+      "num_bookmakers_checked": 16,
+      "fresh_bookmakers": 16,
+      "found_at": "2026-11-04T23:22:36.826660+00:00"
     },
     {
       "type": "ARBITRAGE",
@@ -70,6 +151,12 @@
       "implied_probability_sum": 0.98182,
       "guaranteed_profit": 18.18,
       "stakes": {
+        "Draw": {
+          "bookmaker": "Unibet (SE)",
+          "odds": 5.5,
+          "stake_pct": 18.52,
+          "stake_amount": 185.19
+        },
         "Paris Saint Germain": {
           "bookmaker": "1xBet",
           "odds": 1.5,
@@ -81,271 +168,55 @@
           "odds": 7.5,
           "stake_pct": 13.58,
           "stake_amount": 135.8
-        },
-        "Draw": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 5.5,
-          "stake_pct": 18.52,
-          "stake_amount": 185.19
         }
       },
       "num_bookmakers_checked": 22,
       "fresh_bookmakers": 22,
-      "found_at": "2026-11-04T17:49:59.210582+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "e67ee3a6f93bb90b8aefcf3dd204477c",
-      "sport": "soccer",
-      "league": "EPL",
-      "match": "Tottenham Hotspur vs Ipswich Town",
-      "commence": "2026-11-21T15:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.741,
-      "implied_probability_sum": 0.98259,
-      "guaranteed_profit": 17.41,
-      "stakes": {
-        "Ipswich Town": {
-          "bookmaker": "Betsson",
-          "odds": 6.7,
-          "stake_pct": 15.19,
-          "stake_amount": 151.9
-        },
-        "Tottenham Hotspur": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 1.6,
-          "stake_pct": 63.61,
-          "stake_amount": 636.08
-        },
-        "Draw": {
-          "bookmaker": "Tipico",
-          "odds": 4.8,
-          "stake_pct": 21.2,
-          "stake_amount": 212.03
-        }
-      },
-      "num_bookmakers_checked": 24,
-      "fresh_bookmakers": 24,
-      "found_at": "2026-11-04T17:49:59.185934+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "716d6e3f3e91c47a6efaa2e93d570533",
-      "sport": "soccer",
-      "league": "Bundesliga - Germany",
-      "match": "VfB Stuttgart vs Werder Bremen",
-      "commence": "2026-11-07T17:30:00Z",
-      "market": "h2h",
-      "margin_pct": 1.717,
-      "implied_probability_sum": 0.98283,
-      "guaranteed_profit": 17.17,
-      "stakes": {
-        "VfB Stuttgart": {
-          "bookmaker": "Betfair",
-          "odds": 1.69,
-          "stake_pct": 60.21,
-          "stake_amount": 602.05
-        },
-        "Werder Bremen": {
-          "bookmaker": "Unibet (SE)",
-          "odds": 5.2,
-          "stake_pct": 19.57,
-          "stake_amount": 195.67
-        },
-        "Draw": {
-          "bookmaker": "1xBet",
-          "odds": 5.03,
-          "stake_pct": 20.23,
-          "stake_amount": 202.28
-        }
-      },
-      "num_bookmakers_checked": 39,
-      "fresh_bookmakers": 39,
-      "found_at": "2026-11-04T17:49:59.202679+00:00"
-    },
-    {
-      "type": "ARBITRAGE",
-      "event_id": "4288fbe018e6e6fb223e389bcf3e57dd",
-      "sport": "soccer",
-      "league": "Ligue 1 - France",
-      "match": "Rennes vs Lille",
-      "commence": "2026-11-08T14:00:00Z",
-      "market": "h2h",
-      "margin_pct": 1.582,
-      "implied_probability_sum": 0.98418,
-      "guaranteed_profit": 15.82,
-      "stakes": {
-        "Lille": {
-          "bookmaker": "LeoVegas (SE)",
-          "odds": 3.55,
-          "stake_pct": 28.62,
-          "stake_amount": 286.22
-        },
-        "Rennes": {
-          "bookmaker": "BetOnline.ag",
-          "odds": 2.21,
-          "stake_pct": 45.98,
-          "stake_amount": 459.76
-        },
-        "Draw": {
-          "bookmaker": "LeoVegas (SE)",
-          "odds": 4.0,
-          "stake_pct": 25.4,
-          "stake_amount": 254.02
-        }
-      },
-      "num_bookmakers_checked": 38,
-      "fresh_bookmakers": 38,
-      "found_at": "2026-11-04T17:49:59.207558+00:00"
+      "found_at": "2026-11-04T23:22:36.812340+00:00"
     }
   ],
   "value_bets": [
     {
       "type": "VALUE_BET",
-      "event_id": "c672f144ecbb937d3b15b483847129d2",
+      "event_id": "5d5b6a0f376a8d9bd4f5e46891e6c6d8",
       "sport": "hockey",
       "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-11-06T01:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "1xBet",
-      "odds": 3.75,
-      "fair_odds": 3.165,
-      "true_prob_pct": 31.6,
-      "implied_prob_pct": 26.67,
-      "edge_pct": 18.5,
-      "kelly_stake_pct": 1.68,
-      "suggested_stake": 16.81,
-      "expected_value": 18.5,
-      "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.239244+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b945b7133224c704b734e04becd109f0",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "New York Rangers vs Philadelphia Flyers",
+      "match": "Winnipeg Jets vs Vancouver Canucks",
       "commence": "2026-11-06T00:10:00Z",
       "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "1xBet",
-      "odds": 3.27,
-      "fair_odds": 2.762,
-      "true_prob_pct": 36.2,
-      "implied_prob_pct": 30.58,
-      "edge_pct": 18.37,
-      "kelly_stake_pct": 2.02,
-      "suggested_stake": 20.23,
-      "expected_value": 18.37,
+      "outcome": "Vancouver Canucks",
+      "bookmaker": "Casumo",
+      "odds": 4.0,
+      "fair_odds": 3.36,
+      "true_prob_pct": 29.76,
+      "implied_prob_pct": 25.0,
+      "edge_pct": 19.03,
+      "kelly_stake_pct": 1.59,
+      "suggested_stake": 15.86,
+      "expected_value": 19.03,
       "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.238714+00:00"
+      "found_at": "2026-11-04T23:22:36.825977+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "c672f144ecbb937d3b15b483847129d2",
+      "event_id": "5d5b6a0f376a8d9bd4f5e46891e6c6d8",
       "sport": "hockey",
       "league": "NHL",
-      "match": "Edmonton Oilers vs Anaheim Ducks",
-      "commence": "2026-11-06T01:10:00Z",
-      "market": "h2h",
-      "outcome": "Anaheim Ducks",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.7,
-      "fair_odds": 3.165,
-      "true_prob_pct": 31.6,
-      "implied_prob_pct": 27.03,
-      "edge_pct": 16.92,
-      "kelly_stake_pct": 1.57,
-      "suggested_stake": 15.66,
-      "expected_value": 16.92,
-      "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.239251+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "b945b7133224c704b734e04becd109f0",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "New York Rangers vs Philadelphia Flyers",
+      "match": "Winnipeg Jets vs Vancouver Canucks",
       "commence": "2026-11-06T00:10:00Z",
       "market": "h2h",
-      "outcome": "Philadelphia Flyers",
-      "bookmaker": "Marathon Bet",
-      "odds": 3.22,
-      "fair_odds": 2.762,
-      "true_prob_pct": 36.2,
-      "implied_prob_pct": 31.06,
-      "edge_pct": 16.56,
-      "kelly_stake_pct": 1.87,
-      "suggested_stake": 18.65,
-      "expected_value": 16.56,
+      "outcome": "Vancouver Canucks",
+      "bookmaker": "Unibet (NL)",
+      "odds": 4.0,
+      "fair_odds": 3.36,
+      "true_prob_pct": 29.76,
+      "implied_prob_pct": 25.0,
+      "edge_pct": 19.03,
+      "kelly_stake_pct": 1.59,
+      "suggested_stake": 15.86,
+      "expected_value": 19.03,
       "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.238721+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "cb757b1c9cf684423578700bb6aef492",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Montréal Canadiens vs Utah Mammoth",
-      "commence": "2026-11-06T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Utah Mammoth",
-      "bookmaker": "1xBet",
-      "odds": 2.56,
-      "fair_odds": 2.222,
-      "true_prob_pct": 45.0,
-      "implied_prob_pct": 39.06,
-      "edge_pct": 15.2,
-      "kelly_stake_pct": 2.44,
-      "suggested_stake": 24.35,
-      "expected_value": 15.2,
-      "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.238257+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "eefdb55d84dd6a95ef53b76d3935f3c9",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "New Jersey Devils vs St Louis Blues",
-      "commence": "2026-11-06T00:10:00Z",
-      "market": "h2h",
-      "outcome": "St Louis Blues",
-      "bookmaker": "1xBet",
-      "odds": 3.39,
-      "fair_odds": 2.972,
-      "true_prob_pct": 33.65,
-      "implied_prob_pct": 29.5,
-      "edge_pct": 14.08,
-      "kelly_stake_pct": 1.47,
-      "suggested_stake": 14.73,
-      "expected_value": 14.08,
-      "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.238504+00:00"
-    },
-    {
-      "type": "VALUE_BET",
-      "event_id": "cb757b1c9cf684423578700bb6aef492",
-      "sport": "hockey",
-      "league": "NHL",
-      "match": "Montréal Canadiens vs Utah Mammoth",
-      "commence": "2026-11-06T00:10:00Z",
-      "market": "h2h",
-      "outcome": "Utah Mammoth",
-      "bookmaker": "Marathon Bet",
-      "odds": 2.52,
-      "fair_odds": 2.222,
-      "true_prob_pct": 45.0,
-      "implied_prob_pct": 39.68,
-      "edge_pct": 13.4,
-      "kelly_stake_pct": 2.2,
-      "suggested_stake": 22.03,
-      "expected_value": 13.4,
-      "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.238265+00:00"
+      "found_at": "2026-11-04T23:22:36.825981+00:00"
     },
     {
       "type": "VALUE_BET",
@@ -355,60 +226,165 @@
       "match": "New York Islanders vs Carolina Hurricanes",
       "commence": "2026-11-06T00:10:00Z",
       "market": "h2h",
-      "outcome": "Carolina Hurricanes",
-      "bookmaker": "1xBet",
-      "odds": 2.16,
-      "fair_odds": 1.909,
-      "true_prob_pct": 52.39,
-      "implied_prob_pct": 46.3,
-      "edge_pct": 13.16,
-      "kelly_stake_pct": 2.84,
-      "suggested_stake": 28.37,
-      "expected_value": 13.16,
+      "outcome": "New York Islanders",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.45,
+      "fair_odds": 2.909,
+      "true_prob_pct": 34.37,
+      "implied_prob_pct": 28.99,
+      "edge_pct": 18.59,
+      "kelly_stake_pct": 1.9,
+      "suggested_stake": 18.97,
+      "expected_value": 18.59,
       "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.237289+00:00"
+      "found_at": "2026-11-04T23:22:36.823988+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "f05e184ffd9a6192d19ceee27d51a9de",
+      "event_id": "18dd8ea86db020028f8d1c130b99d616",
       "sport": "hockey",
       "league": "NHL",
-      "match": "Columbus Blue Jackets vs Dallas Stars",
+      "match": "New York Islanders vs Carolina Hurricanes",
       "commence": "2026-11-06T00:10:00Z",
       "market": "h2h",
-      "outcome": "Dallas Stars",
-      "bookmaker": "1xBet",
-      "odds": 2.37,
-      "fair_odds": 2.096,
-      "true_prob_pct": 47.71,
-      "implied_prob_pct": 42.19,
-      "edge_pct": 13.08,
-      "kelly_stake_pct": 2.39,
-      "suggested_stake": 23.86,
-      "expected_value": 13.08,
+      "outcome": "New York Islanders",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.45,
+      "fair_odds": 2.909,
+      "true_prob_pct": 34.37,
+      "implied_prob_pct": 28.99,
+      "edge_pct": 18.59,
+      "kelly_stake_pct": 1.9,
+      "suggested_stake": 18.97,
+      "expected_value": 18.59,
       "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.237723+00:00"
+      "found_at": "2026-11-04T23:22:36.823992+00:00"
     },
     {
       "type": "VALUE_BET",
-      "event_id": "eefdb55d84dd6a95ef53b76d3935f3c9",
+      "event_id": "c672f144ecbb937d3b15b483847129d2",
       "sport": "hockey",
       "league": "NHL",
-      "match": "New Jersey Devils vs St Louis Blues",
+      "match": "Edmonton Oilers vs Anaheim Ducks",
+      "commence": "2026-11-06T01:10:00Z",
+      "market": "h2h",
+      "outcome": "Anaheim Ducks",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.55,
+      "fair_odds": 3.021,
+      "true_prob_pct": 33.1,
+      "implied_prob_pct": 28.17,
+      "edge_pct": 17.51,
+      "kelly_stake_pct": 1.72,
+      "suggested_stake": 17.17,
+      "expected_value": 17.51,
+      "confidence": "ALTA",
+      "found_at": "2026-11-04T23:22:36.826313+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "c672f144ecbb937d3b15b483847129d2",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Edmonton Oilers vs Anaheim Ducks",
+      "commence": "2026-11-06T01:10:00Z",
+      "market": "h2h",
+      "outcome": "Anaheim Ducks",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.55,
+      "fair_odds": 3.021,
+      "true_prob_pct": 33.1,
+      "implied_prob_pct": 28.17,
+      "edge_pct": 17.51,
+      "kelly_stake_pct": 1.72,
+      "suggested_stake": 17.17,
+      "expected_value": 17.51,
+      "confidence": "ALTA",
+      "found_at": "2026-11-04T23:22:36.826317+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "446de9651d2d2948326d970e9f858a33",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Nashville Predators",
+      "commence": "2026-11-06T02:40:00Z",
+      "market": "h2h",
+      "outcome": "Nashville Predators",
+      "bookmaker": "LeoVegas (SE)",
+      "odds": 3.85,
+      "fair_odds": 3.293,
+      "true_prob_pct": 30.37,
+      "implied_prob_pct": 25.97,
+      "edge_pct": 16.91,
+      "kelly_stake_pct": 1.48,
+      "suggested_stake": 14.83,
+      "expected_value": 16.91,
+      "confidence": "ALTA",
+      "found_at": "2026-11-04T23:22:36.826542+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "446de9651d2d2948326d970e9f858a33",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "Colorado Avalanche vs Nashville Predators",
+      "commence": "2026-11-06T02:40:00Z",
+      "market": "h2h",
+      "outcome": "Nashville Predators",
+      "bookmaker": "Unibet (SE)",
+      "odds": 3.85,
+      "fair_odds": 3.293,
+      "true_prob_pct": 30.37,
+      "implied_prob_pct": 25.97,
+      "edge_pct": 16.91,
+      "kelly_stake_pct": 1.48,
+      "suggested_stake": 14.83,
+      "expected_value": 16.91,
+      "confidence": "ALTA",
+      "found_at": "2026-11-04T23:22:36.826546+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "18dd8ea86db020028f8d1c130b99d616",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "New York Islanders vs Carolina Hurricanes",
       "commence": "2026-11-06T00:10:00Z",
       "market": "h2h",
-      "outcome": "St Louis Blues",
-      "bookmaker": "Unibet (UK)",
-      "odds": 3.35,
-      "fair_odds": 2.972,
-      "true_prob_pct": 33.65,
-      "implied_prob_pct": 29.85,
-      "edge_pct": 12.73,
-      "kelly_stake_pct": 1.35,
-      "suggested_stake": 13.55,
-      "expected_value": 12.73,
+      "outcome": "New York Islanders",
+      "bookmaker": "Unibet (NL)",
+      "odds": 3.4,
+      "fair_odds": 2.909,
+      "true_prob_pct": 34.37,
+      "implied_prob_pct": 29.41,
+      "edge_pct": 16.87,
+      "kelly_stake_pct": 1.76,
+      "suggested_stake": 17.57,
+      "expected_value": 16.87,
       "confidence": "ALTA",
-      "found_at": "2026-11-04T17:49:59.238519+00:00"
+      "found_at": "2026-11-04T23:22:36.824002+00:00"
+    },
+    {
+      "type": "VALUE_BET",
+      "event_id": "18dd8ea86db020028f8d1c130b99d616",
+      "sport": "hockey",
+      "league": "NHL",
+      "match": "New York Islanders vs Carolina Hurricanes",
+      "commence": "2026-11-06T00:10:00Z",
+      "market": "h2h",
+      "outcome": "New York Islanders",
+      "bookmaker": "Casumo",
+      "odds": 3.4,
+      "fair_odds": 2.909,
+      "true_prob_pct": 34.37,
+      "implied_prob_pct": 29.41,
+      "edge_pct": 16.87,
+      "kelly_stake_pct": 1.76,
+      "suggested_stake": 17.57,
+      "expected_value": 16.87,
+      "confidence": "ALTA",
+      "found_at": "2026-11-04T23:22:36.824006+00:00"
     }
   ]
 }
